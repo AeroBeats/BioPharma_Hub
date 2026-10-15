@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-15T15:33:28.497947+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-15T16:09:26.107254+00:00",
+  "count": 88,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,10 +46,17 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Medicine"
+  ],
   "translations": {
+    "Belgian startup revives Galapagos CAR-T research": "比利时初创公司重启Galapagos CAR-T研究",
+    "STAT+: Former FDA commissioners Califf, Gottlieb, Sharpless lay into current HHS leadership": "STAT + ：前FDA专员Califf、Gottlieb、Sharpless进入当前的HHS领导层",
+    "Illumina Combines Multiomics Informatics Applications in New BioInsight Platform": "Illumina在新的BioInsight平台中结合了多组学信息学应用",
+    "STAT+: Verastem’s KRAS inhibitor shows promise in pancreatic cancer": "STAT + ： Verastem的KRAS抑制剂在胰腺癌中显示出希望",
     "AstraZeneca does AI deal with insitro; inVIOs' Phase 1 success in solid tumors": "阿斯利康使用人工智能处理原生肿瘤； inVIOs在实体肿瘤中取得1期成功",
     "After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope — and a path forward": "在诊断出黑色素瘤后， mRNA癌症疫苗带来了患者的希望和前进的道路",
+    "FDA ‘reset’ continues with new plan for reviewing rare disease drugs": "FDA “重置”继续审查罕见病药物的新计划",
     "NorthStar's China CRO deal; Lonza details midterm guidance": "NorthStar的中国CRO交易； Lonza详细的中期指引",
     "Osivax pivots to combo approach after flu jab fails in Phase 2b": "在2b期流感刺戳失败后， Osivax转向组合方法",
     "San Francisco's pulse on health AI": "旧金山的人工智能健康脉搏",
@@ -102,14 +109,57 @@
     "STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine": "STAT + ：赛诺菲避免罚款，因为欧盟接受了结束对贬低竞争对手疫苗的反垄断调查的提议",
     "Scientists reveal why some workout recovery tricks can backfire": "科学家揭示了为什么一些锻炼恢复技巧会适得其反",
     "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats": "康奈尔大学的科学家在两只异常长腿的猫身上发现了罕见的人类遗传疾病",
-    "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability": "新研究考察了GLP-1对与刑事司法系统、就业、住房稳定性互动的影响",
-    "The secret to easier exercise as an adult may start in childhood": "成年后更容易锻炼的秘诀可能始于童年",
-    "Arrowhead’s brain-targeting RNA drug lowers Alzheimer’s protein in early study": "Arrowhead的脑靶向RNA药物在早期研究中降低了阿尔茨海默氏症的蛋白质",
-    "Zealand inks up to $1.3B deal for AI-designed obesity treatments": "新西兰签署高达13亿美元的人工智能设计肥胖治疗协议",
-    "Scientists may have overlooked a hidden Alzheimer's culprit for decades": "几十年来，科学家们可能忽视了隐藏的阿尔茨海默氏症罪魁祸首",
-    "GSK could cut more than 1,200 jobs in Belgium": "葛兰素史克可能在比利时裁员1200多人"
+    "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability": "新研究考察了GLP-1对与刑事司法系统、就业、住房稳定性互动的影响"
   },
   "items": [
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "研发",
+      "title": "Belgian startup revives Galapagos CAR-T research",
+      "titleZh": "比利时初创公司重启Galapagos CAR-T研究",
+      "link": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
+      "summary": "Armed Cell Therapeutics, chaired by former Galapagos CEO Paul Stoffels, has assumed control of cell therapies the company&nbsp;&mdash; now known as Lakefront Biotherapeutics &mdash;&nbsp;divested in a strategic overhaul.",
+      "publishedAt": "2026-10-15T15:55:00+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Former FDA commissioners Califf, Gottlieb, Sharpless lay into current HHS leadership",
+      "titleZh": "STAT + ：前FDA专员Califf、Gottlieb、Sharpless进入当前的HHS领导层",
+      "link": "https://www.statnews.com/2026/10/15/health-policy-news-fda-califf-gottlieb-sharpless-criticize-hhs-leadership/?utm_campaign=rss",
+      "summary": "Former FDA commissioners Rob Califf (Obama and Biden administrations), Scott Gottlieb, and Ned Sharpless (both from the first Trump administration) criticized the officials who ran the agency during a massive&#8230;",
+      "publishedAt": "2026-10-15T15:50:58+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Illumina Combines Multiomics Informatics Applications in New BioInsight Platform",
+      "titleZh": "Illumina在新的BioInsight平台中结合了多组学信息学应用",
+      "link": "https://www.genengnews.com/topics/omics/illumina-combines-multiomics-informatics-applications-in-new-bioinsight-platform/",
+      "summary": "Illumina is bringing its software, AI, and data offerings together in the new BioInsight platform, designed to help scientists analyze genomic and multiomic datasets. It will be showcased at ASHG in Montreal. The post Illumina Combines Multiomics Informatics Applications in New BioInsight Platform a",
+      "publishedAt": "2026-10-15T15:47:21+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Verastem’s KRAS inhibitor shows promise in pancreatic cancer",
+      "titleZh": "STAT + ： Verastem的KRAS抑制剂在胰腺癌中显示出希望",
+      "link": "https://www.statnews.com/2026/10/15/biotech-news-verastem-kras-inhibitor-shows-promise-in-pancreatic-cancer/?utm_campaign=rss",
+      "summary": "Verastem Oncology reports encouraging early results for its KRAS G12D inhibitor, which it’s studying in more than 200 patients with advanced solid tumors like metastatic pancreatic ductal adenocarcinoma and non-small&#8230;",
+      "publishedAt": "2026-10-15T15:43:15+00:00"
+    },
     {
       "id": "endpoints-0",
       "source": "Endpoints News",
@@ -123,7 +173,7 @@
       "publishedAt": "2026-10-15T15:30:42+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -133,6 +183,18 @@
       "link": "https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/?utm_campaign=rss",
       "summary": "A schoolteacher diagnosed with melanoma provides an inside look at what it was like to be treated with a cancer vaccine developed by Merck and Moderna.",
       "publishedAt": "2026-10-15T15:25:08+00:00"
+    },
+    {
+      "id": "biopharma-dive-1",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA ‘reset’ continues with new plan for reviewing rare disease drugs",
+      "titleZh": "FDA “重置”继续审查罕见病药物的新计划",
+      "link": "https://www.biopharmadive.com/news/fda-rare-disease-framework-initiative-drug-development/833080/",
+      "summary": "A revamped regulatory framework may give investors less of a &ldquo;guessing game&rdquo; as they weigh chances for drug approvals, one analyst said.",
+      "publishedAt": "2026-10-15T15:23:00+00:00"
     },
     {
       "id": "endpoints-1",
@@ -183,7 +245,7 @@
       "publishedAt": "2026-10-15T13:55:06+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +257,7 @@
       "publishedAt": "2026-10-15T13:31:56+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +293,7 @@
       "publishedAt": "2026-10-15T12:52:05+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -255,7 +317,7 @@
       "publishedAt": "2026-10-15T12:26:16+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +365,7 @@
       "publishedAt": "2026-10-15T10:33:24+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +389,7 @@
       "publishedAt": "2026-10-15T10:05:24+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +401,7 @@
       "publishedAt": "2026-10-15T08:30:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +413,7 @@
       "publishedAt": "2026-10-15T08:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +485,7 @@
       "publishedAt": "2026-10-15T00:28:19+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -435,7 +497,7 @@
       "publishedAt": "2026-10-15T00:08:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +509,7 @@
       "publishedAt": "2026-10-15T00:01:24+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +521,7 @@
       "publishedAt": "2026-10-14T23:23:20+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +545,7 @@
       "publishedAt": "2026-10-14T22:03:26+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +581,7 @@
       "publishedAt": "2026-10-14T18:20:47+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +593,7 @@
       "publishedAt": "2026-10-14T18:16:08+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -543,7 +605,7 @@
       "publishedAt": "2026-10-14T18:00:48+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -555,7 +617,7 @@
       "publishedAt": "2026-10-14T16:43:36+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -567,7 +629,7 @@
       "publishedAt": "2026-10-14T16:00:29+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -579,7 +641,7 @@
       "publishedAt": "2026-10-14T16:00:27+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -591,7 +653,7 @@
       "publishedAt": "2026-10-14T16:00:04+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -603,7 +665,7 @@
       "publishedAt": "2026-10-14T16:00:01+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -627,7 +689,7 @@
       "publishedAt": "2026-10-14T15:52:24+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -639,7 +701,7 @@
       "publishedAt": "2026-10-14T15:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -663,7 +725,7 @@
       "publishedAt": "2026-10-14T14:24:20+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -675,7 +737,7 @@
       "publishedAt": "2026-10-14T14:12:14+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -687,7 +749,7 @@
       "publishedAt": "2026-10-14T13:31:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -699,7 +761,7 @@
       "publishedAt": "2026-10-14T13:26:39+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -723,7 +785,7 @@
       "publishedAt": "2026-10-14T12:30:21+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -759,7 +821,7 @@
       "publishedAt": "2026-10-14T11:56:22+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -777,7 +839,7 @@
       "lang": "en",
       "category": "研发",
       "title": "The secret to easier exercise as an adult may start in childhood",
-      "titleZh": "成年后更容易锻炼的秘诀可能始于童年",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm",
       "summary": "Exercise during childhood could have a surprising lifelong benefit, potentially making physical activity less exhausting in adulthood. In a study involving guinea fowl, researchers discovered that birds accustomed to carrying weights while growing up could carry those weights as adults without using",
       "publishedAt": "2026-10-14T11:36:23+00:00"
@@ -789,7 +851,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Arrowhead’s brain-targeting RNA drug lowers Alzheimer’s protein in early study",
-      "titleZh": "Arrowhead的脑靶向RNA药物在早期研究中降低了阿尔茨海默氏症的蛋白质",
+      "titleZh": "",
       "link": "https://endpoints.news/arrowheads-brain-targeting-rna-drug-lowers-alzheimers-protein-in-early-study/",
       "summary": "Arrowhead Pharmaceuticals has shown that a genetic medicine administered as a subcutaneous injection can seemingly travel into the brain and lower levels of tau, a protein implicated in Alzheimer’s disease. The company found that the ...",
       "publishedAt": "2026-10-14T11:30:27+00:00"
@@ -801,7 +863,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Zealand inks up to $1.3B deal for AI-designed obesity treatments",
-      "titleZh": "新西兰签署高达13亿美元的人工智能设计肥胖治疗协议",
+      "titleZh": "",
       "link": "https://endpoints.news/zealand-inks-up-to-1-3b-deal-for-ai-designed-obesity-treatments/",
       "summary": "Zealand Pharma said Tuesday it will develop new protein-based treatments for obesity and other metabolic diseases with the help of Generate Biomedicines’ AI technology. The Danish drugmaker is spending $30 million upfront for two initial ...",
       "publishedAt": "2026-10-14T11:21:47+00:00"
@@ -813,7 +875,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
-      "titleZh": "几十年来，科学家们可能忽视了隐藏的阿尔茨海默氏症罪魁祸首",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
       "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are drawing attention to a largely overlooked peptide called P3 th",
       "publishedAt": "2026-10-14T11:06:19+00:00"
@@ -825,7 +887,7 @@
       "lang": "en",
       "category": "审批",
       "title": "GSK could cut more than 1,200 jobs in Belgium",
-      "titleZh": "葛兰素史克可能在比利时裁员1200多人",
+      "titleZh": "",
       "link": "https://endpoints.news/gsk-could-cut-more-than-1200-jobs-in-belgium/",
       "summary": "GSK will make up to 1,217 workers redundant from its sites in Belgium as part of the cost-cutting initiative CEO Luke Miels announced in July. “The proposed changes announced in Belgium today ...",
       "publishedAt": "2026-10-14T10:41:26+00:00"
@@ -841,30 +903,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015800.htm",
       "summary": "Scientists have discovered a protein that may help harmful aging cells hide from the immune system, allowing them to accumulate and fuel age-related health problems. Blocking the protein in mice reduced these cells and inflammation while improving blood sugar regulation and strength, offering a prom",
       "publishedAt": "2026-10-14T10:17:58+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss",
-      "summary": "Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine.",
-      "publishedAt": "2026-10-14T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: How states can resist the potential Trump vaccine shortages",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
-      "summary": "“States can serve as a last line of defense against the Trump administration’s anti-vaccine policy,” writes Joel Dodge.",
-      "publishedAt": "2026-10-14T08:30:00+00:00"
     },
     {
       "id": "science-daily-health-5",
@@ -891,7 +929,7 @@
       "publishedAt": "2026-10-14T01:41:55+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -903,7 +941,7 @@
       "publishedAt": "2026-10-13T21:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -939,7 +977,7 @@
       "publishedAt": "2026-10-13T18:51:04+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -951,7 +989,7 @@
       "publishedAt": "2026-10-13T18:01:26+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -963,19 +1001,7 @@
       "publishedAt": "2026-10-13T17:49:47+00:00"
     },
     {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "The Top 10 Questions Shaping the Future of Optogenetic Biomanufacturing",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/bioprocessing/the-top-10-questions-shaping-the-future-of-optogenetic-biomanufacturing/",
-      "summary": "This article explores the ten most important questions facing optogenetic biomanufacturing as it moves from proof‑of‑concept demonstrations toward mainstream adoption in modern bioprocessing. The post The Top 10 Questions Shaping the Future of Optogenetic Biomanufacturing appeared first on GEN - Gen",
-      "publishedAt": "2026-10-13T16:58:57+00:00"
-    },
-    {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -985,18 +1011,6 @@
       "link": "https://www.biopharmadive.com/news/biontech-mrna-immunotherapy-hpv16-head-neck-cancer/832854/",
       "summary": "An early data check showed the shot didn&rsquo;t delay tumor progression in a form of head and neck cancer, though BioNTech is holding out hope it might eventually extend survival.",
       "publishedAt": "2026-10-13T16:24:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-8",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "市场",
-      "title": "Roche extends China deal streak with $1B pact for RNAi obesity drug",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/roche-rona-china-deal-rnai-obesity-drug-alk7/832845/",
-      "summary": "An alliance with Rona Therapeutics adds to a particularly active stretch for Roche and makes the company the latest to bet on medicines that can lower levels of &ldquo;visceral&rdquo; fat.",
-      "publishedAt": "2026-10-13T15:49:00+00:00"
     },
     {
       "id": "science-daily-health-17",
@@ -1057,18 +1071,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
       "summary": "Scientists have created a new coating for mitochondria that preserves their ability to produce energy, potentially opening the door to new treatments for diseases involving these tiny cellular powerhouses. The technology could one day help transfer healthy mitochondria into damaged cells, although i",
       "publishedAt": "2026-10-13T01:33:58+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "研发",
-      "title": "First Tracks climbs on ‘impressive’ celiac study data",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
-      "summary": "Initial study findings strengthened some analysts&rsquo; belief that First Tracks&rsquo; drug, one of a few in development aimed at the protein CD122, might have &ldquo;pipeline-in-a-product&rdquo; potential.&nbsp;",
-      "publishedAt": "2026-10-12T21:26:00+00:00"
     },
     {
       "id": "nature-biotech-0",
@@ -1163,102 +1165,6 @@
       "title": "RevMed’s pancreatic cancer drug first",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03363-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-0",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Optogenetic therapy shows early promise for treating retinitis pigmentosa",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00051-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-1",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Hidden race disparities in cancer treatment toxicity",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00050-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-2",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Editorial Expression of Concern: Thyroid hormone inhibits lung fibrosis in mice by improving epithelial mitochondrial function",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04733-8",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-3",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "技术",
-      "title": "Making AI work in healthcare",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04726-7",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-4",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Personalized neoantigen-targeting cancer vaccines in ovarian cancer: a phase 1 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04717-8",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-5",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Talazoparib plus enzalutamide in high-volume metastatic hormone-naive prostate cancer: a randomized phase 2 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04671-5",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Characterizing the onset and progression of cancer cachexia using routine clinical data",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04720-z",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Autologous and broadly neutralizing antibodies drive ART-free HIV control",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04714-x",
       "summary": "",
       "publishedAt": ""
     }
