@@ -1,0 +1,51 @@
+name: Update news data
+
+# Regenerates web/data/news.json (RSS fetch + Chinese title translation) and
+# commits it back, so the static frontend always has fresh news without a server.
+on:
+  schedule:
+    - cron: "5 * * * *" # hourly, at minute 5 (off the top-of-hour rush)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/fetch_news.py"
+      - ".github/workflows/update-news.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch and translate news
+        run: python scripts/fetch_news.py
+        env:
+          # Optional: add a MYMEMORY_EMAIL repository secret to raise the daily
+          # translation quota. The script works without it.
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/data/news.json web/data/translations.json
+          if git diff --cached --quiet; then
+            echo "No news changes to commit."
+          else
+            git commit -m "chore: update news data [skip ci]"
+            git push
+          fi
