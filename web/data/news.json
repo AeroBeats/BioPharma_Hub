@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-15T16:09:26.107254+00:00",
+  "updatedAt": "2026-10-15T16:32:35.666050+00:00",
   "count": 88,
   "sources": [
     {
@@ -47,7 +47,7 @@
     }
   ],
   "failedSources": [
-    "Nature Medicine"
+    "Nature Biotechnology"
   ],
   "translations": {
     "Belgian startup revives Galapagos CAR-T research": "比利时初创公司重启Galapagos CAR-T研究",
@@ -1073,98 +1073,98 @@
       "publishedAt": "2026-10-13T01:33:58+00:00"
     },
     {
-      "id": "nature-biotech-0",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
+      "id": "nature-medicine-0",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Optogenetic therapy shows early promise for treating retinitis pigmentosa",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00051-1",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Hidden race disparities in cancer treatment toxicity",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00050-2",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Editorial Expression of Concern: Thyroid hormone inhibits lung fibrosis in mice by improving epithelial mitochondrial function",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04733-8",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-3",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
       "lang": "en",
       "category": "技术",
-      "title": "Structural variant detection across sequencing technologies",
+      "title": "Making AI work in healthcare",
       "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03332-9",
+      "link": "https://www.nature.com/articles/s41591-026-04726-7",
       "summary": "",
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-1",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
+      "id": "nature-medicine-4",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
-      "title": "Proteomic aging clocks go to trial",
+      "title": "Personalized neoantigen-targeting cancer vaccines in ovarian cancer: a phase 1 trial",
       "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03361-4",
+      "link": "https://www.nature.com/articles/s41591-026-04717-8",
       "summary": "",
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-2",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "In vivo engineering of CAR natural killer cells for immunotherapy using ligand-directed lipid nanoparticles",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03310-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-3",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
+      "id": "nature-medicine-5",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
-      "title": "Engrafting human cortical organoids",
+      "title": "Talazoparib plus enzalutamide in high-volume metastatic hormone-naive prostate cancer: a randomized phase 2 trial",
       "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03355-2",
+      "link": "https://www.nature.com/articles/s41591-026-04671-5",
       "summary": "",
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-4",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
+      "id": "nature-medicine-6",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
-      "title": "Genome editing",
+      "title": "Characterizing the onset and progression of cancer cachexia using routine clinical data",
       "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03324-9",
+      "link": "https://www.nature.com/articles/s41591-026-04720-z",
       "summary": "",
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-5",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Tracing the origins of CRISPR–Cas",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03353-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-6",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "审批",
-      "title": "FDA nod for rare neurology drug",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03349-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
+      "id": "nature-medicine-7",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
-      "title": "RevMed’s pancreatic cancer drug first",
+      "title": "Autologous and broadly neutralizing antibodies drive ART-free HIV control",
       "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03363-2",
+      "link": "https://www.nature.com/articles/s41591-026-04714-x",
       "summary": "",
       "publishedAt": ""
     }
