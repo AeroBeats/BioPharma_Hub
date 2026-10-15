@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-15T20:18:03.017447+00:00",
+  "updatedAt": "2026-10-15T23:39:43.488092+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,8 @@
   ],
   "failedSources": [],
   "translations": {
+    "Proteomics Reveals Ovarian Remodeling Decades After Menopause": "蛋白质组学揭示绝经后几十年的卵巢重塑",
+    "Trump administration advances plan for peptide drugs favored by RFK Jr.": "特朗普政府推进了RFK Jr.青睐的肽类药物计划",
     "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success": "在最初的癌症疫苗成功后，默克和Moderna有“很多探索要做”",
     "CDC page supporting Covid vaccines for pregnancy went dark": "美国疾病控制与预防中心（ CDC ）支持妊娠新冠疫苗的页面变暗",
     "The Trump administration is doubling down on health care fraud investigations": "特朗普政府正在加倍开展医疗保健欺诈调查",
@@ -100,18 +102,40 @@
     "Cell Therapy Manufacturing Takes Shape Across Asia-Pacific": "细胞疗法制造在整个亚太地区成形",
     "For Biocatalysis, Solvents Are a Key Bioprocessing Parameter": "对于生物催化，溶剂是关键的生物加工参数",
     "Turning Process Understanding Into Control of Lipid Nanoparticles": "将过程理解转化为脂质纳米颗粒的控制",
-    "Contracting Expansion: A Path to Better CAR T-Cell Therapy Production": "收缩扩张：更好的CAR T细胞疗法生产之路",
     "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit": "实验性Arrowhead RNAi药物暗示阿尔茨海默氏症的益处",
     "Verastem makes its stand as a RevMed competitor in pancreatic cancer": "Verastem成为RevMed在胰腺癌领域的竞争对手",
     "Verastem cancer drug shows early promise in small study": "Verastem抗癌药物在小型研究中显示出早期前景",
     "CVS to pay $315M to settle opioid prescribing allegations": "CVS支付3.15亿美元以解决阿片类药物处方指控",
     "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump": "Ultragenyx第二次出售PRV ； Biomea的口服GLP-1数据导致库存暴跌",
-    "STAT+: FDA adcomm members’ ties to industry under scrutiny": "STAT + ： FDA广告通讯成员与受审查行业的关系",
-    "J&J earnings set ‘negative tone’; Shkreli vs. the FTC": "强生盈利设定“负面基调” ； Shkreli vs. FTC"
+    "STAT+: FDA adcomm members’ ties to industry under scrutiny": "STAT + ： FDA广告通讯成员与受审查行业的关系"
   },
   "items": [
     {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Proteomics Reveals Ovarian Remodeling Decades After Menopause",
+      "titleZh": "蛋白质组学揭示绝经后几十年的卵巢重塑",
+      "link": "https://www.genengnews.com/topics/omics/proteomics-reveals-ovarian-remodeling-decades-after-menopause/",
+      "summary": "5,812 protein groups were quantified in postmenopausal ovaries, uncovering molecular shifts associated with inflammation, immunity, and extracellular matrix remodeling. The post Proteomics Reveals Ovarian Remodeling Decades After Menopause appeared first on GEN - Genetic Engineering and Biotechnolog",
+      "publishedAt": "2026-10-15T22:16:35+00:00"
+    },
+    {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
+      "titleZh": "特朗普政府推进了RFK Jr.青睐的肽类药物计划",
+      "link": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
+      "summary": "U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections favored by health secretary Robert F. Kennedy&#8230;",
+      "publishedAt": "2026-10-15T20:46:09+00:00"
+    },
+    {
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +159,7 @@
       "publishedAt": "2026-10-15T19:05:35+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +171,7 @@
       "publishedAt": "2026-10-15T18:09:18+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -171,7 +195,7 @@
       "publishedAt": "2026-10-15T17:26:18+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +207,7 @@
       "publishedAt": "2026-10-15T17:19:50+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -207,7 +231,7 @@
       "publishedAt": "2026-10-15T15:55:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +243,7 @@
       "publishedAt": "2026-10-15T15:50:58+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -231,7 +255,7 @@
       "publishedAt": "2026-10-15T15:47:21+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +279,7 @@
       "publishedAt": "2026-10-15T15:30:42+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +351,7 @@
       "publishedAt": "2026-10-15T13:55:06+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +363,7 @@
       "publishedAt": "2026-10-15T13:31:56+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +399,7 @@
       "publishedAt": "2026-10-15T12:52:05+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -399,7 +423,7 @@
       "publishedAt": "2026-10-15T12:26:16+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +471,7 @@
       "publishedAt": "2026-10-15T10:33:24+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +495,7 @@
       "publishedAt": "2026-10-15T10:05:24+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +507,7 @@
       "publishedAt": "2026-10-15T08:30:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +519,7 @@
       "publishedAt": "2026-10-15T08:30:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +603,7 @@
       "publishedAt": "2026-10-15T00:08:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +615,7 @@
       "publishedAt": "2026-10-15T00:01:24+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +627,7 @@
       "publishedAt": "2026-10-14T23:23:20+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +651,7 @@
       "publishedAt": "2026-10-14T22:03:26+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -663,7 +687,7 @@
       "publishedAt": "2026-10-14T18:20:47+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -675,7 +699,7 @@
       "publishedAt": "2026-10-14T18:16:08+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -687,7 +711,7 @@
       "publishedAt": "2026-10-14T18:00:48+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -699,7 +723,7 @@
       "publishedAt": "2026-10-14T16:43:36+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -711,7 +735,7 @@
       "publishedAt": "2026-10-14T16:00:29+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -723,7 +747,7 @@
       "publishedAt": "2026-10-14T16:00:27+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -733,18 +757,6 @@
       "link": "https://www.genengnews.com/topics/bioprocessing/turning-process-understanding-into-control-of-lipid-nanoparticles/",
       "summary": "Splitting lipid nanoparticle manufacturing into multiple mixing steps can help better control the size, shape, and stability of particles, with the aim of improving product quality during commercial-scale production. The post Turning Process Understanding Into Control of Lipid Nanoparticles appeared",
       "publishedAt": "2026-10-14T16:00:04+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Contracting Expansion: A Path to Better CAR T-Cell Therapy Production",
-      "titleZh": "收缩扩张：更好的CAR T细胞疗法生产之路",
-      "link": "https://www.genengnews.com/topics/bioprocessing/contracting-expansion-a-path-to-better-car-t-cell-therapy-production/",
-      "summary": "Shorter cell expansion steps could significantly accelerate CAR T-cell therapy production processes, according to researchers, who cite microfluidic culture systems, real-time PAT tools, and AI-enabled predictive models as key enablers of this new rapid manufacturing paradigm. The post Contracting E",
-      "publishedAt": "2026-10-14T16:00:01+00:00"
     },
     {
       "id": "biopharma-dive-3",
@@ -807,7 +819,7 @@
       "publishedAt": "2026-10-14T14:24:20+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -825,22 +837,10 @@
       "lang": "en",
       "category": "审批",
       "title": "J&J earnings set ‘negative tone’; Shkreli vs. the FTC",
-      "titleZh": "强生盈利设定“负面基调” ； Shkreli vs. FTC",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/jnj-earnings-gilead-vir-shkreli-ftc-syndax-pfizer/832879/",
       "summary": "A 6% sell-off in J&amp;J shares was viewed by one analyst as emblematic of broader market volatility. Elsewhere, Gilead is collaborating with Vir and a biotech&rsquo;s bid for a product expansion fell short.",
       "publishedAt": "2026-10-14T13:31:00+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Pharmalittle: We’re reading about Sanofi settling an EU antitrust probe, ‘pharma bro’ Shkreli, and more",
-      "titleZh": "",
-      "link": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/?utm_campaign=rss",
-      "summary": "The FTC asked a U.S. court to hold Martin Shkreli in contempt for “flagrantly” violating a court order banning him from working in the pharma industry",
-      "publishedAt": "2026-10-14T13:26:39+00:00"
     },
     {
       "id": "endpoints-16",
