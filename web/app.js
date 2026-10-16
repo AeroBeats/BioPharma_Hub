@@ -1,5 +1,11 @@
 import { TEMPLATES, getTemplate } from "./templates.js";
 
+// ── Backend config ─────────────────────────────────
+// Absolute URL of the deployed AI backend (Cloudflare Worker). Leave "" to use
+// the same-origin Qoder Functions endpoint. Fill in the *.workers.dev URL after
+// deploying worker/worker.js, e.g. "https://biopharma-ai.<user>.workers.dev".
+const AI_ENDPOINT = "";
+
 // ── Utilities ─────────────────────────────────
 const $ = (sel, el = document) => el.querySelector(sel);
 const $$ = (sel, el = document) => [...el.querySelectorAll(sel)];
@@ -518,7 +524,8 @@ async function callAI() {
   renderAIBody();
 
   try {
-    const res = await fetch("/functions/v1/app/protocol/enhance", {
+    const endpoint = (AI_ENDPOINT ? AI_ENDPOINT.replace(/\/+$/, "") : "") + "/protocol/enhance";
+    const res = await fetch(AI_ENDPOINT ? endpoint : "/functions/v1/app/protocol/enhance", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
