@@ -46,6 +46,9 @@ jobs:
           if git diff --cached --quiet; then
             echo "No news changes to commit."
           else
-            git commit -m "chore: update news data [skip ci]"
+            # No [skip ci]: this data commit must re-trigger deploy-pages so the
+            # live site picks up fresh news. update-news won't loop because its
+            # push trigger is path-limited to scripts/ and this workflow file.
+            git commit -m "chore: update news data"
             git push
           fi
