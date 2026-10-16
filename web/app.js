@@ -521,13 +521,25 @@ async function callAI() {
     const res = await fetch("/functions/v1/app/protocol/enhance", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ protocolText: protocolText.slice(0, 8000), goal: `${tpl.name}实验`, instruction }),
+      body: JSON.stringify({
+        topic: `${tpl.name}实验`,
+        draft: (protocolText + "\n\n用户补充要求：" + instruction).slice(0, 8000),
+      }),
     });
-    const data = await res.json();
-    if (!res.ok || !data.ok) {
-      protoState.aiError = data.message || data.error || `请求失败 (HTTP ${res.status})`;
+    const ctype = res.headers.get("content-type") || "";
+    if (!ctype.includes("application/json")) {
+      // Static hosting (GitHub Pages) answers with an HTML 404 — no backend here.
+      protoState.aiError =
+        "AI 优化依赖后端接口，当前静态托管（GitHub Pages）不提供该服务。模板生成的 Protocol 仍可正常使用、打印与导出。";
     } else {
-      protoState.aiResult = data.content || "（AI 未返回内容）";
+      const data = await res.json();
+      if (!res.ok || !data.ok) {
+        protoState.aiError = data.message || data.error || `请求失败 (HTTP ${res.status})`;
+      } else if (data.ai === false) {
+        protoState.aiError = data.note || "AI 服务暂不可用。";
+      } else {
+        protoState.aiResult = data.text || data.content || "（AI 未返回内容）";
+      }
     }
   } catch (e) {
     protoState.aiError = `网络错误：${e.message}`;
