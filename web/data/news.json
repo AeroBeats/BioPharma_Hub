@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-16T14:46:53.054067+00:00",
-  "count": 88,
+  "updatedAt": "2026-10-16T18:45:57.983625+00:00",
+  "count": 96,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,10 +46,18 @@
       "category": "技术"
     }
   ],
-  "failedSources": [
-    "Nature Medicine"
-  ],
+  "failedSources": [],
   "translations": {
+    "Designing the Ecosystem for CGT Success": "为CGT的成功设计生态系统",
+    "Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breast Development": "暴露于常见的干扰内分泌的化学物质可能会改变乳房的正常发育",
+    "ASHG 2026 Awards Honor Achievements in Research, Education, and More": "ASHG 2026表彰在研究、教育等方面的荣誉成就",
+    "Iambic CEO on taking an AI drug company public": "Iambic首席执行官谈人工智能制药公司上市",
+    "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking": "问答：赛诺菲新任人工智能、研发失败率和交易制定研究主管",
+    "Hospitals’ next lucrative bet — longevity clinics": "医院的下一个有利可图的赌注—长寿诊所",
+    "Novartis scraps Fabhalta study in lupus nephritis": "诺华废弃Fabhalta在狼疮性肾炎中的研究",
+    "China pursues export ban on some biotech platforms": "中国对部分生物技术平台实施出口禁令",
+    "FDA considers interim access for compounded peptides; Enspryng's label expansion": "FDA考虑复合肽的中期准入； Enspryng的标签扩展",
+    "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs": "CHMP认可礼来的GLP-1药丸和其他三种新药",
     "Lilly interested in ibogaine investments, its neuro leader says": "礼来对ibogaine投资感兴趣，其神经领导者说",
     "STAT+: Up and down the ladder: The latest comings and goings": "STAT + ：上下阶梯：最新动态",
     "STAT+: Pharmalittle: We’re reading about an HHS peptide push, Trump’s pharma stock holdings, and more": "STAT + ： Pharmalittle ：我们正在阅读有关HHS多肽推送、特朗普制药股等信息",
@@ -99,21 +107,131 @@
     "Kenya reports second Ebola case": "肯尼亚报告第二例埃博拉病例",
     "Scientists discover a surprising danger in smaller cancer cells": "科学家在较小的癌细胞中发现了令人惊讶的危险",
     "Vanda’s social anxiety drug flunks Phase 3 trial in female patients": "Vanda的社交焦虑药物在女性患者中失败了3期临床试验",
-    "Paul Stoffels to bring Galapagos’ cell therapies back to life": "Paul Stoffels让加拉帕戈斯的细胞疗法重获生机",
-    "STAT+: On Wall Street, there’s trouble stirring for biotech": "STAT + ：在华尔街，生物技术搅拌困难重重",
-    "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain": "罕见研究揭示阿尔茨海默氏症患者大脑内的惊人鸿沟",
-    "Forty percent of high school students report binge eating in new CDC survey": "在疾病预防控制中心的新调查中， 40%的高中生报告暴饮暴食",
-    "Updated: Iambic rises after $150M IPO for AI-driven cancer pipeline": "更新： Iambic在人工智能驱动的癌症管道首次公开募股$ 1.5亿后上涨",
-    "OMass Therapeutics collects $310M to chase Neurocrine, Vertex in genetic adrenal disorder": "OMass Therapeutics筹集了3.1亿美元用于追踪治疗遗传性肾上腺疾病的Neurocrine和Vertex",
-    "Strokes have nearly doubled among younger adults, and scientists aren't sure why": "中风在年轻人中几乎翻了一番，科学家们不确定为什么",
-    "Ozempic and Wegovy linked to rare risk of sudden vision loss": "Ozempic和Wegovy与突发性视力丧失的罕见风险有关",
-    "A 47-year study reveals the age when your body starts losing strength": "一项为期47年的研究揭示了您的身体开始失去力量的年龄",
-    "Iambic, an AI drug discovery specialist, banks $150M in an IPO": "人工智能药物发现专家Iambic在首次公开募股中投资$ 1.5亿",
-    "Cancer is rising in younger adults, and scientists can't fully explain why": "癌症在年轻成年人中上升，科学家们无法完全解释为什么"
+    "Paul Stoffels to bring Galapagos’ cell therapies back to life": "Paul Stoffels让加拉帕戈斯的细胞疗法重获生机"
   },
   "items": [
     {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "Designing the Ecosystem for CGT Success",
+      "titleZh": "为CGT的成功设计生态系统",
+      "link": "https://www.genengnews.com/resources/ebooks/designing-the-ecosystem-for-cgt-success/",
+      "summary": "This proceedings eBook, developed in partnership with GEN and Cincinnati Children’s Hospital Applied Gene and Cell Therapy Center, captures perspectives and lessons from The Cell Summit ’26 and extends the conversation beyond the meeting itself. The post Designing the Ecosystem for CGT Success appea",
+      "publishedAt": "2026-10-16T17:21:49+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breast Development",
+      "titleZh": "暴露于常见的干扰内分泌的化学物质可能会改变乳房的正常发育",
+      "link": "https://www.genengnews.com/topics/cancer/exposure-to-common-endocrine-disrupting-chemicals-may-alter-normal-breast-development/",
+      "summary": "A study in human breast organoids has found that exposure to some common endocrine-disrupting chemicals may lead to molecular changes in breast tissue that could influence susceptibility to breast cancer later in life. The post Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breas",
+      "publishedAt": "2026-10-16T16:58:46+00:00"
+    },
+    {
+      "id": "gen-2",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "ASHG 2026 Awards Honor Achievements in Research, Education, and More",
+      "titleZh": "ASHG 2026表彰在研究、教育等方面的荣誉成就",
+      "link": "https://www.genengnews.com/topics/omics/ashg-2026-awards-honor-achievements-in-research-education-and-more/",
+      "summary": "ASHG will honor seven recipients with its 2026 Professional Awards, recognizing outstanding contributions to human genetics and genomics research, education, mentorship, and public service at ceremonies this week. The post ASHG 2026 Awards Honor Achievements in Research, Education, and More appeared",
+      "publishedAt": "2026-10-16T16:27:48+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "Iambic CEO on taking an AI drug company public",
+      "titleZh": "Iambic首席执行官谈人工智能制药公司上市",
+      "link": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
+      "summary": "Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI&rsquo;s role in drug development evolving.",
+      "publishedAt": "2026-10-16T16:10:00+00:00"
+    },
+    {
       "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking",
+      "titleZh": "问答：赛诺菲新任人工智能、研发失败率和交易制定研究主管",
+      "link": "https://endpoints.news/qa-sanofis-new-research-chief-on-ai-rd-failure-rates-and-dealmaking/",
+      "summary": "Paulo Fontoura took over as Sanofi’s global head of R&amp;D in September after 16 years at Roche and a recent stint at AI drug discovery startup Xaira Therapeutics. Ahead of Sanofi’s Oct. 30 earnings, Endpoints ...",
+      "publishedAt": "2026-10-16T16:02:00+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Hospitals’ next lucrative bet — longevity clinics",
+      "titleZh": "医院的下一个有利可图的赌注—长寿诊所",
+      "link": "https://www.statnews.com/2026/10/16/readout-loud-podcast-hospitals-longevity-clinics-northwestern/?utm_campaign=rss",
+      "summary": "On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the booming industry of longevity health.",
+      "publishedAt": "2026-10-16T15:34:31+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "Novartis scraps Fabhalta study in lupus nephritis",
+      "titleZh": "诺华废弃Fabhalta在狼疮性肾炎中的研究",
+      "link": "https://endpoints.news/novartis-scraps-fabhalta-study-in-lupus-nephritis/",
+      "summary": "Novartis terminated a mid-stage trial of Fabhalta in lupus nephritis, citing “strategic considerations,” according to a federal clinical trials database. Fabhalta, also known as iptacopan, is a key part of Novartis' portfolio. It delivered $505 ...",
+      "publishedAt": "2026-10-16T15:32:24+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "China pursues export ban on some biotech platforms",
+      "titleZh": "中国对部分生物技术平台实施出口禁令",
+      "link": "https://endpoints.news/china-pursues-export-ban-on-some-biotech-platforms/",
+      "summary": "The Chinese Ministry of Commerce is clamping down on the kinds of deals domestic companies can make, but the free-flowing licensing of drugs appears to be intact. Government officials are looking at",
+      "publishedAt": "2026-10-16T15:28:01+00:00"
+    },
+    {
+      "id": "endpoints-3",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA considers interim access for compounded peptides; Enspryng's label expansion",
+      "titleZh": "FDA考虑复合肽的中期准入； Enspryng的标签扩展",
+      "link": "https://endpoints.news/fda-considers-interim-access-for-compounded-peptides-enspryngs-label-expansion/",
+      "summary": "Plus news about Microbiotica, Cyrano Therapeutics and Opus Genetics. HHS and FDA submit peptide policy for review: An “interim access policy for compounding using certain peptides” is awaiting regulatory review at the White House Office ...",
+      "publishedAt": "2026-10-16T15:23:34+00:00"
+    },
+    {
+      "id": "endpoints-4",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs",
+      "titleZh": "CHMP认可礼来的GLP-1药丸和其他三种新药",
+      "link": "https://endpoints.news/chmp-endorses-eli-lillys-glp-1-pill-and-three-other-new-drugs/",
+      "summary": "Eli Lilly secured EU regulatory backing for its oral GLP-1 pill orforglipron on Friday as it looks to catch up with competitor Novo’s Wegovy pill. The European Medicines Agency’s human medicines committee (CHMP)",
+      "publishedAt": "2026-10-16T14:55:55+00:00"
+    },
+    {
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -125,7 +243,7 @@
       "publishedAt": "2026-10-16T14:04:29+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -137,7 +255,7 @@
       "publishedAt": "2026-10-16T14:00:13+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -149,7 +267,7 @@
       "publishedAt": "2026-10-16T13:49:21+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -161,7 +279,7 @@
       "publishedAt": "2026-10-16T13:38:22+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -173,7 +291,7 @@
       "publishedAt": "2026-10-16T13:15:00+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -197,7 +315,7 @@
       "publishedAt": "2026-10-16T12:46:50+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -221,7 +339,7 @@
       "publishedAt": "2026-10-16T11:55:35+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -233,7 +351,7 @@
       "publishedAt": "2026-10-16T11:00:08+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -245,7 +363,7 @@
       "publishedAt": "2026-10-16T10:33:00+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -257,7 +375,7 @@
       "publishedAt": "2026-10-16T10:30:34+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -269,7 +387,7 @@
       "publishedAt": "2026-10-16T10:30:00+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -277,11 +395,11 @@
       "title": "City Therapeutics lands $200M IPO as it builds an Alnylam 2.0 in RNAi field",
       "titleZh": "City Therapeutics首次公开募股2亿美元，在RNAi领域打造Alnylam 2.0",
       "link": "https://endpoints.news/city-therapeutics-lands-200m-ipo-as-it-builds-an-alnylam-2-0-in-rnai-field/",
-      "summary": "City Therapeutics will be the 26th biotech to complete an initial public offering in 2026 when it begins trading Friday morning, adding to a boisterous rebound in industry listings. The Kendall Square-based drug developer priced ...",
+      "summary": "City Therapeutics became the 26th biotech to complete an initial public offering in 2026 when it began trading Friday morning, adding to a boisterous rebound in industry listings. The Kendall Square-based drug developer priced its ...",
       "publishedAt": "2026-10-16T10:17:21+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -293,7 +411,7 @@
       "publishedAt": "2026-10-16T08:30:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -305,7 +423,7 @@
       "publishedAt": "2026-10-16T08:30:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -317,7 +435,7 @@
       "publishedAt": "2026-10-16T08:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -353,7 +471,7 @@
       "publishedAt": "2026-10-16T00:41:45+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -365,7 +483,7 @@
       "publishedAt": "2026-10-15T22:16:35+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -377,7 +495,7 @@
       "publishedAt": "2026-10-15T20:46:09+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -389,7 +507,7 @@
       "publishedAt": "2026-10-15T19:58:35+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -401,7 +519,7 @@
       "publishedAt": "2026-10-15T19:05:35+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -413,7 +531,7 @@
       "publishedAt": "2026-10-15T18:09:18+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -425,7 +543,7 @@
       "publishedAt": "2026-10-15T17:58:56+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -437,7 +555,7 @@
       "publishedAt": "2026-10-15T17:26:18+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -449,7 +567,7 @@
       "publishedAt": "2026-10-15T17:19:50+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -461,7 +579,7 @@
       "publishedAt": "2026-10-15T17:07:16+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -473,7 +591,7 @@
       "publishedAt": "2026-10-15T15:55:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -485,7 +603,7 @@
       "publishedAt": "2026-10-15T15:50:58+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -497,7 +615,7 @@
       "publishedAt": "2026-10-15T15:47:21+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -509,7 +627,7 @@
       "publishedAt": "2026-10-15T15:43:15+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -521,7 +639,7 @@
       "publishedAt": "2026-10-15T15:30:42+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -533,7 +651,7 @@
       "publishedAt": "2026-10-15T15:25:08+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -545,7 +663,7 @@
       "publishedAt": "2026-10-15T15:23:00+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -557,7 +675,7 @@
       "publishedAt": "2026-10-15T15:21:38+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -569,7 +687,7 @@
       "publishedAt": "2026-10-15T14:33:55+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -581,7 +699,7 @@
       "publishedAt": "2026-10-15T14:21:39+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -593,7 +711,7 @@
       "publishedAt": "2026-10-15T13:55:06+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -605,7 +723,7 @@
       "publishedAt": "2026-10-15T13:31:56+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -617,7 +735,7 @@
       "publishedAt": "2026-10-15T13:14:37+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -641,7 +759,7 @@
       "publishedAt": "2026-10-15T12:52:05+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -665,7 +783,7 @@
       "publishedAt": "2026-10-15T12:26:16+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -689,7 +807,7 @@
       "publishedAt": "2026-10-15T11:27:40+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -701,7 +819,7 @@
       "publishedAt": "2026-10-15T11:00:53+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -713,13 +831,13 @@
       "publishedAt": "2026-10-15T10:33:24+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "市场",
       "title": "STAT+: On Wall Street, there’s trouble stirring for biotech",
-      "titleZh": "STAT + ：在华尔街，生物技术搅拌困难重重",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss",
       "summary": "On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface.",
       "publishedAt": "2026-10-15T10:30:00+00:00"
@@ -731,46 +849,10 @@
       "lang": "en",
       "category": "审批",
       "title": "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain",
-      "titleZh": "罕见研究揭示阿尔茨海默氏症患者大脑内的惊人鸿沟",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015814.htm",
       "summary": "A rare examination of an Alzheimer’s patient’s brain revealed that regions cleared of amyloid plaques had remarkably little of the harmful tau buildup associated with memory loss, while neighboring areas showed extensive damage. The discovery suggests that removing amyloid may have lasting protectiv",
       "publishedAt": "2026-10-15T10:05:24+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Forty percent of high school students report binge eating in new CDC survey",
-      "titleZh": "在疾病预防控制中心的新调查中， 40%的高中生报告暴饮暴食",
-      "link": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss",
-      "summary": "About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people.",
-      "publishedAt": "2026-10-15T08:30:00+00:00"
-    },
-    {
-      "id": "endpoints-15",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Updated: Iambic rises after $150M IPO for AI-driven cancer pipeline",
-      "titleZh": "更新： Iambic在人工智能驱动的癌症管道首次公开募股$ 1.5亿后上涨",
-      "link": "https://endpoints.news/iambic-snags-150m-ipo-for-ai-driven-cancer-pipeline/",
-      "summary": "Nvidia-backed Iambic Therapeutics rose on its first day of trading after pricing its $150 million initial public offering Wednesday night. The cancer-focused biotech's stock {$IAM} gained about 13% to $18 as ...",
-      "publishedAt": "2026-10-15T08:01:53+00:00"
-    },
-    {
-      "id": "endpoints-16",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "OMass Therapeutics collects $310M to chase Neurocrine, Vertex in genetic adrenal disorder",
-      "titleZh": "OMass Therapeutics筹集了3.1亿美元用于追踪治疗遗传性肾上腺疾病的Neurocrine和Vertex",
-      "link": "https://endpoints.news/omass-therapeutics-collects-310m-to-chase-neurocrine-vertex-in-genetic-adrenal-disorder/",
-      "summary": "An Oxford-based drug developer has raised one of the largest private financings for a UK biotech in recent years as it seeks to follow in the footsteps of Neurocrine and Vertex-acquired Crinetics in an endocrinology ...",
-      "publishedAt": "2026-10-15T06:00:59+00:00"
     },
     {
       "id": "science-daily-health-7",
@@ -779,7 +861,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Strokes have nearly doubled among younger adults, and scientists aren't sure why",
-      "titleZh": "中风在年轻人中几乎翻了一番，科学家们不确定为什么",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261014015459.htm",
       "summary": "Strokes are becoming alarmingly common among younger adults, with rates nearly doubling among people ages 20 to 54 over nearly three decades. Researchers found that blocked blood vessels in the brain accounted for much of the increase, while high blood pressure, diabetes, and substance use also beca",
       "publishedAt": "2026-10-15T05:28:14+00:00"
@@ -791,7 +873,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
-      "titleZh": "Ozempic和Wegovy与突发性视力丧失的罕见风险有关",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261014015521.htm",
       "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains very low, Rutgers researchers say the findings warrant attention as millions of peop",
       "publishedAt": "2026-10-15T04:14:55+00:00"
@@ -803,19 +885,19 @@
       "lang": "en",
       "category": "研发",
       "title": "A 47-year study reveals the age when your body starts losing strength",
-      "titleZh": "一项为期47年的研究揭示了您的身体开始失去力量的年龄",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261014000912.htm",
       "summary": "A 47-year study has uncovered a surprising turning point in physical aging: fitness and strength begin declining around age 35, even among people who exercise regularly. Researchers found that this decline accelerates as people get older, but starting to exercise in adulthood can still improve physi",
       "publishedAt": "2026-10-15T00:28:19+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "审批",
       "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
-      "titleZh": "人工智能药物发现专家Iambic在首次公开募股中投资$ 1.5亿",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
       "summary": "Part of a wave of young biotechs employing AI to accelerate research, the company claimed in regulatory filings that its approach has the potential to &ldquo;disrupt legacy drug discovery paradigms.&rdquo;",
       "publishedAt": "2026-10-15T00:08:00+00:00"
@@ -827,37 +909,13 @@
       "lang": "en",
       "category": "研发",
       "title": "Cancer is rising in younger adults, and scientists can't fully explain why",
-      "titleZh": "癌症在年轻成年人中上升，科学家们无法完全解释为什么",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015837.htm",
       "summary": "A major study found that several cancers are rising faster among younger adults in England, even as smoking, diet, and other established risk factors have generally improved. Excess weight explains only part of the increase, leaving scientists searching for other possible causes, including changes i",
       "publishedAt": "2026-10-14T22:03:26+00:00"
     },
     {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Sanofi's new R&D chief: Western pharma should rethink China's drug pipeline role",
-      "titleZh": "",
-      "link": "https://endpoints.news/sanofis-new-rd-chief-western-pharma-should-rethink-chinas-drug-pipeline-role/",
-      "summary": "Sanofi's new R&amp;D chief said on Wednesday that Western drugmakers cannot ignore China's accelerating innovation and need to consider how the country’s emergence as a global biopharma powerhouse should change their approach to sourcing new ...",
-      "publishedAt": "2026-10-14T19:06:14+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "New FDA framework tilts toward consistency over flexibility",
-      "titleZh": "",
-      "link": "https://endpoints.news/new-fda-framework-tilts-toward-consistency-over-flexibility/",
-      "summary": "Then-acting FDA leaders said over the summer that regulatory flexibility wasn't the standard they were striving for when the agency gauges rare disease drugs. Now, a more consistent system for assessing",
-      "publishedAt": "2026-10-14T18:20:47+00:00"
-    },
-    {
-      "id": "gen-5",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -869,7 +927,7 @@
       "publishedAt": "2026-10-14T18:00:48+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -881,43 +939,7 @@
       "publishedAt": "2026-10-14T16:43:36+00:00"
     },
     {
-      "id": "gen-7",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "审批",
-      "title": "Cell Therapy Manufacturing Takes Shape Across Asia-Pacific",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/bioprocessing/cell-therapy-manufacturing-takes-shape-across-asia-pacific/",
-      "summary": "Cell and gene therapy is accelerating across Asia-Pacific, but manufacturing remains fragmented. Strategic automation, adaptable bioprocessing platforms, stronger supply chains, and workforce development could help therapies scale across diverse markets. The post Cell Therapy Manufacturing Takes Sha",
-      "publishedAt": "2026-10-14T16:00:29+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "For Biocatalysis, Solvents Are a Key Bioprocessing Parameter",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/bioprocessing/for-biocatalysis-solvents-are-a-key-bioprocessing-parameter/",
-      "summary": "Deep eutectic solvents can modulate multiple biocatalysis process parameters, thus minimizing or eliminating the need for bioengineering in certain enzymes while enhancing productivity and product quality. The post For Biocatalysis, Solvents Are a Key Bioprocessing Parameter appeared first on GEN - ",
-      "publishedAt": "2026-10-14T16:00:27+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Turning Process Understanding Into Control of Lipid Nanoparticles",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/bioprocessing/turning-process-understanding-into-control-of-lipid-nanoparticles/",
-      "summary": "Splitting lipid nanoparticle manufacturing into multiple mixing steps can help better control the size, shape, and stability of particles, with the aim of improving product quality during commercial-scale production. The post Turning Process Understanding Into Control of Lipid Nanoparticles appeared",
-      "publishedAt": "2026-10-14T16:00:04+00:00"
-    },
-    {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -929,19 +951,7 @@
       "publishedAt": "2026-10-14T15:54:00+00:00"
     },
     {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Verastem makes its stand as a RevMed competitor in pancreatic cancer",
-      "titleZh": "",
-      "link": "https://endpoints.news/verastem-makes-its-stand-as-a-revmed-competitor-in-pancreatic-cancer/",
-      "summary": "Verastem Oncology had a big Wednesday morning: It announced new data amid a tense competition for the next-wave KRAS agents, as well as a $250 million raise and the departure of its CEO. The Massachusetts ...",
-      "publishedAt": "2026-10-14T15:52:24+00:00"
-    },
-    {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -953,7 +963,7 @@
       "publishedAt": "2026-10-14T15:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -963,18 +973,6 @@
       "link": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
       "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and &ldquo;strongly disagreed&rdquo; with the case&rsquo;s claims.",
       "publishedAt": "2026-10-14T14:45:52+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "J&J earnings set ‘negative tone’; Shkreli vs. the FTC",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/jnj-earnings-gilead-vir-shkreli-ftc-syndax-pfizer/832879/",
-      "summary": "A 6% sell-off in J&amp;J shares was viewed by one analyst as emblematic of broader market volatility. Elsewhere, Gilead is collaborating with Vir and a biotech&rsquo;s bid for a product expansion fell short.",
-      "publishedAt": "2026-10-14T13:31:00+00:00"
     },
     {
       "id": "science-daily-health-15",
@@ -1165,6 +1163,102 @@
       "title": "RevMed’s pancreatic cancer drug first",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03363-2",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-0",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Only time will tell",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04699-7",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "A reality check for autoimmune CAR T cells",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00052-0",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "技术",
+      "title": "Conversational brain AI for adaptive epilepsy care",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04719-6",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-3",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "EGFR-targeted antibody−toxin conjugate in recurrent glioma: a phase 1 trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04715-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-4",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04687-x",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-5",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Optogenetic therapy shows early promise for treating retinitis pigmentosa",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00051-1",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-6",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Hidden race disparities in cancer treatment toxicity",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00050-2",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-7",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Editorial Expression of Concern: Thyroid hormone inhibits lung fibrosis in mice by improving epithelial mitochondrial function",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04733-8",
       "summary": "",
       "publishedAt": ""
     }
