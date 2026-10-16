@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-16T04:22:38.720300+00:00",
+  "updatedAt": "2026-10-16T09:42:05.162485+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,10 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall": "STAT + ：强迫性行为还是嫉妒的前任？陪审团权衡明星科学家大卫·萨巴蒂尼（ David Sabatini ）垮台的决斗账户",
+    "STAT+: In DOGE’s aftermath, federal health workers bristle at new performance reviews": "STAT + ：在DOGE的后果中，联邦卫生工作者对新的绩效评估感到愤怒",
+    "Opinion: Is Milton Friedman to blame for America’s health care woes?": "意见：米尔顿·弗里德曼是美国医疗保健困境的罪魁祸首吗？",
+    "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong": "意见：我以为我知道病人为什么停止服药，我错了",
     "Proteomics Reveals Ovarian Remodeling Decades After Menopause": "蛋白质组学揭示绝经后几十年的卵巢重塑",
     "Trump administration advances plan for peptide drugs favored by RFK Jr.": "特朗普政府推进了RFK Jr.青睐的肽类药物计划",
     "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success": "在最初的癌症疫苗成功后，默克和Moderna有“很多探索要做”",
@@ -91,12 +95,9 @@
     "Iambic, an AI drug discovery specialist, banks $150M in an IPO": "人工智能药物发现专家Iambic在首次公开募股中投资$ 1.5亿",
     "Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast’": "Compass Pathways首席执行官：迷幻药公司将“在我们走得快之前走得慢”",
     "Former FDA officials blast DOGE as ‘one of the biggest disasters in American history’": "前FDA官员将DOGE称为“美国历史上最大的灾难之一”",
-    "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university": "随着白宫将重点转向人工智能和技术，美国科学领袖捍卫美国大学的角色",
     "Cancer is rising in younger adults, and scientists can't fully explain why": "癌症在年轻成年人中上升，科学家们无法完全解释为什么",
-    "STAT+: Trump administration delays new rule that could restrict imported medicines from Canada and overseas": "STAT + ：特朗普政府推迟可能限制从加拿大和海外进口药品的新规定",
     "Sanofi's new R&D chief: Western pharma should rethink China's drug pipeline role": "赛诺菲新任研发主管：西药应重新思考中国药品管道角色",
     "New FDA framework tilts toward consistency over flexibility": "新的FDA框架倾向于一致性而非灵活性",
-    "How consumer tech company Whoop is building for Medicare patients": "消费者科技公司Whoop如何为Medicare患者提供服务",
     "Alzheimer’s Small-Molecule Therapy Shows Promise in Mice and Early Human Trial": "阿尔茨海默氏症小分子疗法在小鼠和早期人体试验中显示出希望",
     "Preterm Birth for Some Women Linked to Specific Autoantibodies": "某些与特定自身抗体相关的妇女的早产",
     "Cell Therapy Manufacturing Takes Shape Across Asia-Pacific": "细胞疗法制造在整个亚太地区成形",
@@ -106,10 +107,57 @@
     "Verastem makes its stand as a RevMed competitor in pancreatic cancer": "Verastem成为RevMed在胰腺癌领域的竞争对手",
     "Verastem cancer drug shows early promise in small study": "Verastem抗癌药物在小型研究中显示出早期前景",
     "CVS to pay $315M to settle opioid prescribing allegations": "CVS支付3.15亿美元以解决阿片类药物处方指控",
-    "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump": "Ultragenyx第二次出售PRV ； Biomea的口服GLP-1数据导致库存暴跌",
-    "STAT+: FDA adcomm members’ ties to industry under scrutiny": "STAT + ： FDA广告通讯成员与受审查行业的关系"
+    "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump": "Ultragenyx第二次出售PRV ； Biomea的口服GLP-1数据导致库存暴跌"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall",
+      "titleZh": "STAT + ：强迫性行为还是嫉妒的前任？陪审团权衡明星科学家大卫·萨巴蒂尼（ David Sabatini ）垮台的决斗账户",
+      "link": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss",
+      "summary": "Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?",
+      "publishedAt": "2026-10-16T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: In DOGE’s aftermath, federal health workers bristle at new performance reviews",
+      "titleZh": "STAT + ：在DOGE的后果中，联邦卫生工作者对新的绩效评估感到愤怒",
+      "link": "https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/?utm_campaign=rss",
+      "summary": "Changes to the annual performance review process are the latest flashpoint in tensions between federal workers across the Department of Health and Human Services and the Trump administration, federal employees&#8230;",
+      "publishedAt": "2026-10-16T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "Opinion: Is Milton Friedman to blame for America’s health care woes?",
+      "titleZh": "意见：米尔顿·弗里德曼是美国医疗保健困境的罪魁祸首吗？",
+      "link": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss",
+      "summary": "Health policy experts John McDonough and Stuart Butler debate where the U.S. medical system went wrong — and how to fix it.",
+      "publishedAt": "2026-10-16T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong",
+      "titleZh": "意见：我以为我知道病人为什么停止服药，我错了",
+      "link": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss",
+      "summary": "Patients can understand that medication is necessary and still struggle with what taking it means.",
+      "publishedAt": "2026-10-16T08:30:00+00:00"
+    },
     {
       "id": "gen-0",
       "source": "GEN",
@@ -123,7 +171,7 @@
       "publishedAt": "2026-10-15T22:16:35+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +183,7 @@
       "publishedAt": "2026-10-15T20:46:09+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +207,7 @@
       "publishedAt": "2026-10-15T19:05:35+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +243,7 @@
       "publishedAt": "2026-10-15T17:26:18+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +279,7 @@
       "publishedAt": "2026-10-15T15:55:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +303,7 @@
       "publishedAt": "2026-10-15T15:47:21+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +327,7 @@
       "publishedAt": "2026-10-15T15:30:42+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +399,7 @@
       "publishedAt": "2026-10-15T13:55:06+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +411,7 @@
       "publishedAt": "2026-10-15T13:31:56+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +471,7 @@
       "publishedAt": "2026-10-15T12:26:16+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +519,7 @@
       "publishedAt": "2026-10-15T10:33:24+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +543,7 @@
       "publishedAt": "2026-10-15T10:05:24+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +555,7 @@
       "publishedAt": "2026-10-15T08:30:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +567,7 @@
       "publishedAt": "2026-10-15T08:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +651,7 @@
       "publishedAt": "2026-10-15T00:08:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -615,7 +663,7 @@
       "publishedAt": "2026-10-15T00:01:24+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -625,18 +673,6 @@
       "link": "https://www.statnews.com/2026/10/14/former-fda-commissioners-say-recruit-defend-support-agency-workforce/?utm_campaign=rss",
       "summary": "Three former FDA chiefs criticized the DOGE cuts to the agency, saying they robbed the FDA of institutional knowledge that will take years to restore.",
       "publishedAt": "2026-10-14T23:23:20+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
-      "titleZh": "随着白宫将重点转向人工智能和技术，美国科学领袖捍卫美国大学的角色",
-      "link": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss",
-      "summary": "White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say",
-      "publishedAt": "2026-10-14T22:13:33+00:00"
     },
     {
       "id": "science-daily-health-7",
@@ -649,18 +685,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015837.htm",
       "summary": "A major study found that several cancers are rising faster among younger adults in England, even as smoking, diet, and other established risk factors have generally improved. Excess weight explains only part of the increase, leaving scientists searching for other possible causes, including changes i",
       "publishedAt": "2026-10-14T22:03:26+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: Trump administration delays new rule that could restrict imported medicines from Canada and overseas",
-      "titleZh": "STAT + ：特朗普政府推迟可能限制从加拿大和海外进口药品的新规定",
-      "link": "https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/?utm_campaign=rss",
-      "summary": "The Trump administration is delaying by 90 days a federal rule that could prevent Americans from obtaining prescription drugs from licensed international pharmacies.",
-      "publishedAt": "2026-10-14T20:16:59+00:00"
     },
     {
       "id": "endpoints-12",
@@ -685,18 +709,6 @@
       "link": "https://endpoints.news/new-fda-framework-tilts-toward-consistency-over-flexibility/",
       "summary": "Then-acting FDA leaders said over the summer that regulatory flexibility wasn't the standard they were striving for when the agency gauges rare disease drugs. Now, a more consistent system for assessing",
       "publishedAt": "2026-10-14T18:20:47+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "How consumer tech company Whoop is building for Medicare patients",
-      "titleZh": "消费者科技公司Whoop如何为Medicare患者提供服务",
-      "link": "https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss",
-      "summary": "Whoop's chief medical officer, said the company's work with Medicare is an opportunity to prove its ability to improve health at the population level.",
-      "publishedAt": "2026-10-14T18:16:08+00:00"
     },
     {
       "id": "gen-5",
@@ -817,18 +829,6 @@
       "link": "https://endpoints.news/ultragenyxs-second-prv-sale-biomeas-oral-glp-1-data-leads-to-stock-slump/",
       "summary": "Plus news about United Therapeutics, Liquidia, Sanofi, Pharming, Skyhook Bio and Altay Therapeutics. Ultragenyx Pharmaceutical sells second PRV this month: The commercial-stage rare disease drugmaker sold its second priority review voucher for",
       "publishedAt": "2026-10-14T14:24:20+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: FDA adcomm members’ ties to industry under scrutiny",
-      "titleZh": "STAT + ： FDA广告通讯成员与受审查行业的关系",
-      "link": "https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss",
-      "summary": "New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group&#8230;",
-      "publishedAt": "2026-10-14T14:12:14+00:00"
     },
     {
       "id": "biopharma-dive-6",
