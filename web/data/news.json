@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-16T18:45:57.983625+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-16T22:02:48.116502+00:00",
+  "count": 88,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,8 +46,12 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Biotechnology"
+  ],
   "translations": {
+    "ADC Developmentfrom Concept to Clinic": "从概念到诊所的ADC开发",
+    "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science": "Danaher、英伟达将实验室仪器和人工智能相结合，推进自主科学",
     "Designing the Ecosystem for CGT Success": "为CGT的成功设计生态系统",
     "Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breast Development": "暴露于常见的干扰内分泌的化学物质可能会改变乳房的正常发育",
     "ASHG 2026 Awards Honor Achievements in Research, Education, and More": "ASHG 2026表彰在研究、教育等方面的荣誉成就",
@@ -105,13 +109,35 @@
     "Thirty Million Compartments: Testing Single-Molecule PCR’s Potential": "三千万个单元：测试单分子PCR的潜力",
     "Eating late at night linked to up to 30% higher risk of liver disease": "深夜进食与肝病风险增加高达30 ％",
     "Kenya reports second Ebola case": "肯尼亚报告第二例埃博拉病例",
-    "Scientists discover a surprising danger in smaller cancer cells": "科学家在较小的癌细胞中发现了令人惊讶的危险",
-    "Vanda’s social anxiety drug flunks Phase 3 trial in female patients": "Vanda的社交焦虑药物在女性患者中失败了3期临床试验",
-    "Paul Stoffels to bring Galapagos’ cell therapies back to life": "Paul Stoffels让加拉帕戈斯的细胞疗法重获生机"
+    "Scientists discover a surprising danger in smaller cancer cells": "科学家在较小的癌细胞中发现了令人惊讶的危险"
   },
   "items": [
     {
       "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "ADC Developmentfrom Concept to Clinic",
+      "titleZh": "从概念到诊所的ADC开发",
+      "link": "https://www.genengnews.com/resources/ebooks/adc-developmentfrom-concept-to-clinic/",
+      "summary": "This eBook brings insight on integrated end-to-end solutions for precision engineered therapeutics. The post ADC Developmentfrom Concept to Clinic appeared first on GEN - Genetic Engineering and Biotechnology News.",
+      "publishedAt": "2026-10-16T20:36:42+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science",
+      "titleZh": "Danaher、英伟达将实验室仪器和人工智能相结合，推进自主科学",
+      "link": "https://www.genengnews.com/topics/artificial-intelligence/danaher-nvidia-combine-lab-instrumentation-and-ai-to-advance-autonomous-science/",
+      "summary": "Danaher and Nvidia are collaborating to advance autonomous science, combining lab instrumentation, automation, and software with accelerated computing and AI so that experiments inform models and models help design better experiments. The post Danaher, Nvidia Combine Lab Instrumentation and AI to Ad",
+      "publishedAt": "2026-10-16T20:13:04+00:00"
+    },
+    {
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -123,7 +149,7 @@
       "publishedAt": "2026-10-16T17:21:49+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -135,7 +161,7 @@
       "publishedAt": "2026-10-16T16:58:46+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -471,7 +497,7 @@
       "publishedAt": "2026-10-16T00:41:45+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -531,7 +557,7 @@
       "publishedAt": "2026-10-15T18:09:18+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -567,7 +593,7 @@
       "publishedAt": "2026-10-15T17:19:50+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -603,7 +629,7 @@
       "publishedAt": "2026-10-15T15:50:58+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -759,7 +785,7 @@
       "publishedAt": "2026-10-15T12:52:05+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -813,7 +839,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Vanda’s social anxiety drug flunks Phase 3 trial in female patients",
-      "titleZh": "Vanda的社交焦虑药物在女性患者中失败了3期临床试验",
+      "titleZh": "",
       "link": "https://endpoints.news/vandas-social-anxiety-drug-flunks-phase-3-trial-in-female-patients/",
       "summary": "Vanda Pharmaceuticals said Wednesday it is putting its social anxiety disorder program on hold following a late-stage trial failure. The biotech’s drug, called VQW-765, missed the primary endpoint in a Phase ...",
       "publishedAt": "2026-10-15T11:00:53+00:00"
@@ -825,7 +851,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Paul Stoffels to bring Galapagos’ cell therapies back to life",
-      "titleZh": "Paul Stoffels让加拉帕戈斯的细胞疗法重获生机",
+      "titleZh": "",
       "link": "https://endpoints.news/paul-stoffels-to-bring-galapagos-cell-therapies-back-to-life/",
       "summary": "Paul Stoffels isn’t giving up on the cell therapy plans he had at Galapagos, the Belgian drug developer that he tried turning around as CEO before abruptly departing last year. A new biotech called Armed ...",
       "publishedAt": "2026-10-15T10:33:24+00:00"
@@ -913,30 +939,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015837.htm",
       "summary": "A major study found that several cancers are rising faster among younger adults in England, even as smoking, diet, and other established risk factors have generally improved. Excess weight explains only part of the increase, leaving scientists searching for other possible causes, including changes i",
       "publishedAt": "2026-10-14T22:03:26+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Alzheimer’s Small-Molecule Therapy Shows Promise in Mice and Early Human Trial",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/drug-discovery/alzheimers-small-molecule-therapy-shows-promise-in-mice-and-early-human-trial/",
-      "summary": "A small-molecule therapy, VG-3927, targeting microglial TREM2 signaling showed neuroprotective effects in preclinical studies for Alzheimer's disease and was well tolerated in a Phase I trial. The post Alzheimer’s Small-Molecule Therapy Shows Promise in Mice and Early Human Trial appeared first on G",
-      "publishedAt": "2026-10-14T18:00:48+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Preterm Birth for Some Women Linked to Specific Autoantibodies",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/translational-medicine/preterm-birth-for-some-women-linked-to-specific-autoantibodies/",
-      "summary": "By analyzing maternal sera from term and preterm pregnancies, in combination with studies in live mice and in human placental tissues, researchers identified antibodies that play a role in triggering early labor. The post Preterm Birth for Some Women Linked to Specific Autoantibodies appeared first ",
-      "publishedAt": "2026-10-14T16:43:36+00:00"
     },
     {
       "id": "biopharma-dive-7",
@@ -1069,102 +1071,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261012185023.htm",
       "summary": "Your daily routine could have a bigger impact on your ability to handle stress than you realize. A Binghamton University study of approximately 400 college students found that eating breakfast regularly, exercising, sleeping well, and taking fish oil were associated with greater psychological flexib",
       "publishedAt": "2026-10-13T09:19:27+00:00"
-    },
-    {
-      "id": "nature-biotech-0",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Structural variant detection across sequencing technologies",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03332-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-1",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Proteomic aging clocks go to trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03361-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-2",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "In vivo engineering of CAR natural killer cells for immunotherapy using ligand-directed lipid nanoparticles",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03310-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-3",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Engrafting human cortical organoids",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03355-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-4",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genome editing",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03324-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-5",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Tracing the origins of CRISPR–Cas",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03353-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-6",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "审批",
-      "title": "FDA nod for rare neurology drug",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03349-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "RevMed’s pancreatic cancer drug first",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03363-2",
-      "summary": "",
-      "publishedAt": ""
     },
     {
       "id": "nature-medicine-0",
