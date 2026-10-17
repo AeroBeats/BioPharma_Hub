@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-17T10:33:29.458332+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-17T14:10:34.819740+00:00",
+  "count": 88,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,10 +46,16 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Medicine"
+  ],
   "translations": {
+    "New drug reverses severe fatty liver disease by repairing the gut": "新药通过修复肠道来逆转重度脂肪肝",
+    "Brain cells meant to protect us may be fueling cognitive decline": "旨在保护我们的脑细胞可能正在加剧认知能力下降",
     "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more": "搜索“阿尔茨海默氏症的他汀类药物” ； Arrowhead注射剂降低tau ；以及更多",
+    "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain": "科学家发现深度睡眠如何锻炼肌肉、燃烧脂肪和增强大脑",
     "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded": "STAT + ：陪审团裁决有利于被罢免的剑桥科学家David Sabatini ，赔偿金为600万$",
+    "Stanford’s new microscope reveals living cells like never before": "斯坦福大学的新显微镜揭示了前所未有的活细胞",
     "ADC Developmentfrom Concept to Clinic": "从概念到诊所的ADC开发",
     "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science": "Danaher、英伟达将实验室仪器和人工智能相结合，推进自主科学",
     "Designing the Ecosystem for CGT Success": "为CGT的成功设计生态系统",
@@ -103,13 +109,33 @@
     "San Francisco's pulse on health AI": "旧金山的人工智能健康脉搏",
     "OrbiMed raises $3B in new life sciences funds, including $1B+ for Asia": "OrbiMed筹集了$ 3B的新生命科学基金，包括亚洲的$ 10B +",
     "STAT+: Pharmalittle: We’re reading about former FDA head calling DOGE a ‘disaster,’ an AstraZeneca AI deal, and more": "STAT + ： Pharmalittle ：我们正在阅读有关FDA前负责人将DOGE称为“灾难”、阿斯利康人工智能交易等的报道",
-    "STAT+: ‘AI sandboxes’ are all the rage. Advocates scramble to control their future": "STAT + ： “AI沙盒”风靡一时。倡导者争先恐后地控制自己的未来",
-    "AI will force doctors to focus on clinical reasoning, experts say": "专家说，人工智能将迫使医生专注于临床推理",
-    "Mysterious brain activity under anesthesia challenges what we know about consciousness": "麻醉下的神秘大脑活动挑战了我们对意识的了解",
-    "Thirty Million Compartments: Testing Single-Molecule PCR’s Potential": "三千万个单元：测试单分子PCR的潜力",
-    "Eating late at night linked to up to 30% higher risk of liver disease": "深夜进食与肝病风险增加高达30 ％"
+    "STAT+: ‘AI sandboxes’ are all the rage. Advocates scramble to control their future": "STAT + ： “AI沙盒”风靡一时。倡导者争先恐后地控制自己的未来"
   },
   "items": [
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "New drug reverses severe fatty liver disease by repairing the gut",
+      "titleZh": "新药通过修复肠道来逆转重度脂肪肝",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
+      "summary": "Scientists have discovered that a potential new drug can reverse severe fatty liver disease in animal models by restoring gut health and blocking harmful substances from reaching the liver. The breakthrough could pave the way for new treatments for liver disease and potentially other serious conditi",
+      "publishedAt": "2026-10-17T13:45:06+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "Brain cells meant to protect us may be fueling cognitive decline",
+      "titleZh": "旨在保护我们的脑细胞可能正在加剧认知能力下降",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
+      "summary": "Scientists have uncovered a surprising cause of age-related cognitive decline involving brain cells previously thought to be entirely beneficial. As these cells become dysfunctional, they can produce abnormal amounts of myelin, disrupting nerve fibers and potentially contributing to worsening memory",
+      "publishedAt": "2026-10-17T12:44:22+00:00"
+    },
     {
       "id": "endpoints-0",
       "source": "Endpoints News",
@@ -123,6 +149,18 @@
       "publishedAt": "2026-10-17T10:00:16+00:00"
     },
     {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+      "titleZh": "科学家发现深度睡眠如何锻炼肌肉、燃烧脂肪和增强大脑",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+      "summary": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatmen",
+      "publishedAt": "2026-10-17T05:14:50+00:00"
+    },
+    {
       "id": "stat-news-0",
       "source": "STAT News",
       "sourceId": "stat-news",
@@ -133,6 +171,18 @@
       "link": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
       "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab.",
       "publishedAt": "2026-10-17T02:38:35+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Stanford’s new microscope reveals living cells like never before",
+      "titleZh": "斯坦福大学的新显微镜揭示了前所未有的活细胞",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073231.htm",
+      "summary": "Stanford scientists have developed a revolutionary microscope that reveals the hidden inner workings of living cells in real time, without the fluorescent labels that can interfere with observations. The breakthrough could provide new insights into cancer, infectious diseases, and how drugs interact",
+      "publishedAt": "2026-10-17T01:06:05+00:00"
     },
     {
       "id": "gen-0",
@@ -351,7 +401,7 @@
       "publishedAt": "2026-10-16T13:00:31+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -375,7 +425,7 @@
       "publishedAt": "2026-10-16T12:34:03+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -495,7 +545,7 @@
       "publishedAt": "2026-10-16T08:30:00+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -507,7 +557,7 @@
       "publishedAt": "2026-10-16T04:51:38+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -789,19 +839,19 @@
       "lang": "en",
       "category": "技术",
       "title": "AI will force doctors to focus on clinical reasoning, experts say",
-      "titleZh": "专家说，人工智能将迫使医生专注于临床推理",
+      "titleZh": "",
       "link": "https://endpoints.news/ai-will-force-doctors-to-focus-on-clinical-reasoning-experts-say/",
       "summary": "The growing use of AI tools is changing the skills doctors need to practice medicine, experts said during a panel at an Endpoints News event on Wednesday. Doctors no longer need to memorize as many ...",
       "publishedAt": "2026-10-15T13:00:35+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
-      "titleZh": "麻醉下的神秘大脑活动挑战了我们对意识的了解",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
       "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain",
       "publishedAt": "2026-10-15T12:52:05+00:00"
@@ -813,19 +863,19 @@
       "lang": "en",
       "category": "研发",
       "title": "Thirty Million Compartments: Testing Single-Molecule PCR’s Potential",
-      "titleZh": "三千万个单元：测试单分子PCR的潜力",
+      "titleZh": "",
       "link": "https://www.genengnews.com/sponsored/thirty-million-compartments-testing-single-molecule-pcrs-potential/",
       "summary": "Countable Labs has named Fred Hutchinson its first certified service provider, currently serving researchers across the Seattle region. And the company is continuing to build its list of service providers. The post Thirty Million Compartments: Testing Single-Molecule PCR’s Potential appeared first o",
       "publishedAt": "2026-10-15T12:48:55+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Eating late at night linked to up to 30% higher risk of liver disease",
-      "titleZh": "深夜进食与肝病风险增加高达30 ％",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261014015503.htm",
       "summary": "Eating late at night could be putting your liver at risk, according to a large study led by Oregon Health & Science University. Researchers analyzed data from nearly 200,000 people and found that those who regularly ate after dinner or around bedtime had a 20% to 30% higher risk of liver disease, in",
       "publishedAt": "2026-10-15T12:26:16+00:00"
@@ -843,7 +893,7 @@
       "publishedAt": "2026-10-15T11:55:17+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -867,7 +917,7 @@
       "publishedAt": "2026-10-15T11:00:53+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -879,7 +929,7 @@
       "publishedAt": "2026-10-15T10:05:24+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,7 +941,7 @@
       "publishedAt": "2026-10-15T05:28:14+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -903,7 +953,7 @@
       "publishedAt": "2026-10-15T04:14:55+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,7 +977,7 @@
       "publishedAt": "2026-10-15T00:08:00+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,7 +1025,7 @@
       "publishedAt": "2026-10-14T14:45:52+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,19 +1037,7 @@
       "publishedAt": "2026-10-14T12:04:20+00:00"
     },
     {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
-      "summary": "Two unusually long-legged cats have helped scientists uncover the first genetically confirmed cases of Marfan syndrome in domestic felines. Researchers at Cornell University discovered that the brothers carried two altered copies of a gene linked to the rare connective tissue disorder, which can aff",
-      "publishedAt": "2026-10-14T11:56:22+00:00"
-    },
-    {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1011,7 +1049,7 @@
       "publishedAt": "2026-10-14T11:36:23+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1023,19 +1061,7 @@
       "publishedAt": "2026-10-14T11:06:19+00:00"
     },
     {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "Scientists discover how harmful “zombie cells” hide from the immune system",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015800.htm",
-      "summary": "Scientists have discovered a protein that may help harmful aging cells hide from the immune system, allowing them to accumulate and fuel age-related health problems. Blocking the protein in mice reduced these cells and inflammation while improving blood sugar regulation and strength, offering a prom",
-      "publishedAt": "2026-10-14T10:17:58+00:00"
-    },
-    {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1045,30 +1071,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261013234801.htm",
       "summary": "A promising new treatment for knee arthritis uses tiny, dissolvable particles to block abnormal blood vessels, easing inflammation and pain without joint replacement surgery. In a study of 194 patients, 80% experienced clinically meaningful pain relief lasting at least 12 months.",
       "publishedAt": "2026-10-14T04:39:11+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "AI can act exactly like a human, but we still don't think it's conscious",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
-      "summary": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both behave identically. Researchers found that participants considered even the most responsive AI less conscious than the least responsive human. Yet when asked about \"",
-      "publishedAt": "2026-10-14T01:41:55+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "The secret to handling stress better may start at breakfast",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185023.htm",
-      "summary": "Your daily routine could have a bigger impact on your ability to handle stress than you realize. A Binghamton University study of approximately 400 college students found that eating breakfast regularly, exercising, sleeping well, and taking fish oil were associated with greater psychological flexib",
-      "publishedAt": "2026-10-13T09:19:27+00:00"
     },
     {
       "id": "nature-biotech-0",
@@ -1163,102 +1165,6 @@
       "title": "RevMed’s pancreatic cancer drug first",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03363-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-0",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Only time will tell",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04699-7",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-1",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "A reality check for autoimmune CAR T cells",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00052-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-2",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "技术",
-      "title": "Conversational brain AI for adaptive epilepsy care",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04719-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-3",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "EGFR-targeted antibody−toxin conjugate in recurrent glioma: a phase 1 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04715-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-4",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04687-x",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-5",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Optogenetic therapy shows early promise for treating retinitis pigmentosa",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00051-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Hidden race disparities in cancer treatment toxicity",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00050-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Editorial Expression of Concern: Thyroid hormone inhibits lung fibrosis in mice by improving epithelial mitochondrial function",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04733-8",
       "summary": "",
       "publishedAt": ""
     }
