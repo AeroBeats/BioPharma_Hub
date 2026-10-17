@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-17T00:25:16.308601+00:00",
-  "count": 88,
+  "updatedAt": "2026-10-17T03:14:31.682592+00:00",
+  "count": 96,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,10 +46,9 @@
       "category": "技术"
     }
   ],
-  "failedSources": [
-    "Nature Medicine"
-  ],
+  "failedSources": [],
   "translations": {
+    "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded": "STAT + ：陪审团裁决有利于被罢免的剑桥科学家David Sabatini ，赔偿金为600万$",
     "ADC Developmentfrom Concept to Clinic": "从概念到诊所的ADC开发",
     "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science": "Danaher、英伟达将实验室仪器和人工智能相结合，推进自主科学",
     "Designing the Ecosystem for CGT Success": "为CGT的成功设计生态系统",
@@ -108,10 +107,21 @@
     "Mysterious brain activity under anesthesia challenges what we know about consciousness": "麻醉下的神秘大脑活动挑战了我们对意识的了解",
     "Thirty Million Compartments: Testing Single-Molecule PCR’s Potential": "三千万个单元：测试单分子PCR的潜力",
     "Eating late at night linked to up to 30% higher risk of liver disease": "深夜进食与肝病风险增加高达30 ％",
-    "Kenya reports second Ebola case": "肯尼亚报告第二例埃博拉病例",
-    "Scientists discover a surprising danger in smaller cancer cells": "科学家在较小的癌细胞中发现了令人惊讶的危险"
+    "Kenya reports second Ebola case": "肯尼亚报告第二例埃博拉病例"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
+      "titleZh": "STAT + ：陪审团裁决有利于被罢免的剑桥科学家David Sabatini ，赔偿金为600万$",
+      "link": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
+      "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab.",
+      "publishedAt": "2026-10-17T02:38:35+00:00"
+    },
     {
       "id": "gen-0",
       "source": "GEN",
@@ -197,7 +207,7 @@
       "publishedAt": "2026-10-16T16:02:00+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -269,7 +279,7 @@
       "publishedAt": "2026-10-16T14:04:29+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -281,7 +291,7 @@
       "publishedAt": "2026-10-16T14:00:13+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -293,7 +303,7 @@
       "publishedAt": "2026-10-16T13:49:21+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -341,7 +351,7 @@
       "publishedAt": "2026-10-16T12:46:50+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -425,7 +435,7 @@
       "publishedAt": "2026-10-16T10:17:21+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -437,7 +447,7 @@
       "publishedAt": "2026-10-16T08:30:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -449,7 +459,7 @@
       "publishedAt": "2026-10-16T08:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -461,7 +471,7 @@
       "publishedAt": "2026-10-16T08:30:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -509,7 +519,7 @@
       "publishedAt": "2026-10-15T22:16:35+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -521,7 +531,7 @@
       "publishedAt": "2026-10-15T20:46:09+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -545,7 +555,7 @@
       "publishedAt": "2026-10-15T19:05:35+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -581,7 +591,7 @@
       "publishedAt": "2026-10-15T17:26:18+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -617,7 +627,7 @@
       "publishedAt": "2026-10-15T15:55:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -641,7 +651,7 @@
       "publishedAt": "2026-10-15T15:47:21+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -665,7 +675,7 @@
       "publishedAt": "2026-10-15T15:30:42+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -737,7 +747,7 @@
       "publishedAt": "2026-10-15T13:55:06+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -749,7 +759,7 @@
       "publishedAt": "2026-10-15T13:31:56+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -809,7 +819,7 @@
       "publishedAt": "2026-10-15T12:26:16+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -827,7 +837,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Scientists discover a surprising danger in smaller cancer cells",
-      "titleZh": "科学家在较小的癌细胞中发现了令人惊讶的危险",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015835.htm",
       "summary": "Scientists have discovered that unusually small cancer cells carrying extra chromosomes can be far more aggressive than larger ones, growing faster, spreading more readily, and resisting common treatments. The surprising finding could help explain why some tumors are especially dangerous and provide",
       "publishedAt": "2026-10-15T11:27:40+00:00"
@@ -855,18 +865,6 @@
       "link": "https://endpoints.news/paul-stoffels-to-bring-galapagos-cell-therapies-back-to-life/",
       "summary": "Paul Stoffels isn’t giving up on the cell therapy plans he had at Galapagos, the Belgian drug developer that he tried turning around as CEO before abruptly departing last year. A new biotech called Armed ...",
       "publishedAt": "2026-10-15T10:33:24+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: On Wall Street, there’s trouble stirring for biotech",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss",
-      "summary": "On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface.",
-      "publishedAt": "2026-10-15T10:30:00+00:00"
     },
     {
       "id": "science-daily-health-13",
@@ -1165,6 +1163,102 @@
       "title": "RevMed’s pancreatic cancer drug first",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03363-2",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-0",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Only time will tell",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04699-7",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "A reality check for autoimmune CAR T cells",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00052-0",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "技术",
+      "title": "Conversational brain AI for adaptive epilepsy care",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04719-6",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-3",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "EGFR-targeted antibody−toxin conjugate in recurrent glioma: a phase 1 trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04715-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-4",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04687-x",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-5",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Optogenetic therapy shows early promise for treating retinitis pigmentosa",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00051-1",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-6",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Hidden race disparities in cancer treatment toxicity",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00050-2",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-7",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Editorial Expression of Concern: Thyroid hormone inhibits lung fibrosis in mice by improving epithelial mitochondrial function",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04733-8",
       "summary": "",
       "publishedAt": ""
     }
