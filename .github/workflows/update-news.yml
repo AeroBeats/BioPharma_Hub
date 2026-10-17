@@ -50,5 +50,7 @@ jobs:
             # live site picks up fresh news. update-news won't loop because its
             # push trigger is path-limited to scripts/ and this workflow file.
             git commit -m "chore: update news data"
-            git push
+            # Push with PAT so the commit triggers other workflows (deploy-pages).
+            # GitHub blocks GITHUB_TOKEN pushes from triggering workflows.
+            git push https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/${{ github.repository }} HEAD:main
           fi
