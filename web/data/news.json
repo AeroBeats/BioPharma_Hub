@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-17T14:10:34.819740+00:00",
-  "count": 88,
+  "updatedAt": "2026-10-17T17:51:04.469065+00:00",
+  "count": 96,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,9 +46,7 @@
       "category": "技术"
     }
   ],
-  "failedSources": [
-    "Nature Medicine"
-  ],
+  "failedSources": [],
   "translations": {
     "New drug reverses severe fatty liver disease by repairing the gut": "新药通过修复肠道来逆转重度脂肪肝",
     "Brain cells meant to protect us may be fueling cognitive decline": "旨在保护我们的脑细胞可能正在加剧认知能力下降",
@@ -1165,6 +1163,102 @@
       "title": "RevMed’s pancreatic cancer drug first",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03363-2",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-0",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Only time will tell",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04699-7",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "A reality check for autoimmune CAR T cells",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00052-0",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "技术",
+      "title": "Conversational brain AI for adaptive epilepsy care",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04719-6",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-3",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "EGFR-targeted antibody−toxin conjugate in recurrent glioma: a phase 1 trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04715-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-4",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04687-x",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-5",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Optogenetic therapy shows early promise for treating retinitis pigmentosa",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00051-1",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-6",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Hidden race disparities in cancer treatment toxicity",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00050-2",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-7",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Editorial Expression of Concern: Thyroid hormone inhibits lung fibrosis in mice by improving epithelial mitochondrial function",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04733-8",
       "summary": "",
       "publishedAt": ""
     }
