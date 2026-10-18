@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-18T13:42:52.827742+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-18T14:31:39.449451+00:00",
+  "count": 80,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,8 +46,19 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Biotechnology",
+    "Nature Medicine"
+  ],
   "translations": {
+    "Scientists discover a natural compound that could protect the brain from too much salt": "科学家发现了一种天然化合物，可以保护大脑免受过多盐的侵害",
+    "Eating blueberries every day may have a surprising effect on your mood": "每天吃蓝莓可能会对您的情绪产生惊人的影响",
+    "Scientists link a strange sugar in red meat to a 63% higher diabetes risk": "科学家将红肉中的奇怪糖与糖尿病风险增加63 ％联系起来",
+    "Magic mushroom ingredient takes the fight out of aggressive fish": "神奇的蘑菇成分让侵略性鱼类战无不胜",
+    "Scientists uncover 3 key brain pathways linked to lasting depression relief": "科学家发现与持久缓解抑郁症相关的3个关键大脑通路",
+    "Scientists discover that male and female skin play by different rules": "科学家发现，男性和女性的皮肤按照不同的规则发挥作用",
+    "Scientists tested 39 sweeteners and uncovered surprising gut effects": "科学家测试了39种甜味剂，发现了令人惊讶的肠道效应",
+    "Scientists find a youth protein that helps aging brain cells act young again": "科学家发现一种帮助衰老的脑细胞再次年轻的青春蛋白质",
     "New drug reverses severe fatty liver disease by repairing the gut": "新药通过修复肠道来逆转重度脂肪肝",
     "Brain cells meant to protect us may be fueling cognitive decline": "旨在保护我们的脑细胞可能正在加剧认知能力下降",
     "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more": "搜索“阿尔茨海默氏症的他汀类药物” ； Arrowhead注射剂降低tau ；以及更多",
@@ -99,19 +110,107 @@
     "STAT+: Former FDA commissioners Califf, Gottlieb, Sharpless lay into current HHS leadership": "STAT + ：前FDA专员Califf、Gottlieb、Sharpless进入当前的HHS领导层",
     "Illumina Combines Multiomics Informatics Applications in New BioInsight Platform": "Illumina在新的BioInsight平台中结合了多组学信息学应用",
     "STAT+: Verastem’s KRAS inhibitor shows promise in pancreatic cancer": "STAT + ： Verastem的KRAS抑制剂在胰腺癌中显示出希望",
-    "AstraZeneca does AI deal with insitro; inVIOs' Phase 1 success in solid tumors": "阿斯利康使用人工智能处理原生肿瘤； inVIOs在实体肿瘤中取得1期成功",
-    "After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope — and a path forward": "在诊断出黑色素瘤后， mRNA癌症疫苗带来了患者的希望和前进的道路",
-    "FDA ‘reset’ continues with new plan for reviewing rare disease drugs": "FDA “重置”继续审查罕见病药物的新计划",
-    "NorthStar's China CRO deal; Lonza details midterm guidance": "NorthStar的中国CRO交易； Lonza详细的中期指引",
-    "Osivax pivots to combo approach after flu jab fails in Phase 2b": "在2b期流感刺戳失败后， Osivax转向组合方法",
-    "San Francisco's pulse on health AI": "旧金山的人工智能健康脉搏",
-    "OrbiMed raises $3B in new life sciences funds, including $1B+ for Asia": "OrbiMed筹集了$ 3B的新生命科学基金，包括亚洲的$ 10B +",
-    "STAT+: Pharmalittle: We’re reading about former FDA head calling DOGE a ‘disaster,’ an AstraZeneca AI deal, and more": "STAT + ： Pharmalittle ：我们正在阅读有关FDA前负责人将DOGE称为“灾难”、阿斯利康人工智能交易等的报道",
-    "STAT+: ‘AI sandboxes’ are all the rage. Advocates scramble to control their future": "STAT + ： “AI沙盒”风靡一时。倡导者争先恐后地控制自己的未来"
+    "AstraZeneca does AI deal with insitro; inVIOs' Phase 1 success in solid tumors": "阿斯利康使用人工智能处理原生肿瘤； inVIOs在实体肿瘤中取得1期成功"
   },
   "items": [
     {
       "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover a natural compound that could protect the brain from too much salt",
+      "titleZh": "科学家发现了一种天然化合物，可以保护大脑免受过多盐的侵害",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
+      "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had low",
+      "publishedAt": "2026-10-18T13:46:34+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Eating blueberries every day may have a surprising effect on your mood",
+      "titleZh": "每天吃蓝莓可能会对您的情绪产生惊人的影响",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
+      "summary": "Eating blueberries every day could have surprising effects on mood, according to a small study that found greater reductions in depressive symptoms among older adults who consumed the fruit for three months. Researchers also detected changes in gut microbial enzymes, suggesting a possible gut-brain ",
+      "publishedAt": "2026-10-18T13:22:24+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists link a strange sugar in red meat to a 63% higher diabetes risk",
+      "titleZh": "科学家将红肉中的奇怪糖与糖尿病风险增加63 ％联系起来",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230031.htm",
+      "summary": "A study of nearly 90,000 adults found that people consuming the most of a little-known sugar found in red meat had a 63% higher risk of developing type 2 diabetes. Scientists suspect the sugar may trigger chronic inflammation, potentially revealing a hidden connection between red meat and diabetes t",
+      "publishedAt": "2026-10-18T13:09:01+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
+      "titleZh": "神奇的蘑菇成分让侵略性鱼类战无不胜",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
+      "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish without disrupting their normal social interactions. The finding",
+      "publishedAt": "2026-10-18T12:52:13+00:00"
+    },
+    {
+      "id": "science-daily-health-4",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists uncover 3 key brain pathways linked to lasting depression relief",
+      "titleZh": "科学家发现与持久缓解抑郁症相关的3个关键大脑通路",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230021.htm",
+      "summary": "Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to improve after two years shared a striking pattern: insufficient stimulation of a cruc",
+      "publishedAt": "2026-10-18T12:19:08+00:00"
+    },
+    {
+      "id": "science-daily-health-5",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Scientists discover that male and female skin play by different rules",
+      "titleZh": "科学家发现，男性和女性的皮肤按照不同的规则发挥作用",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230020.htm",
+      "summary": "Scientists have uncovered a surprising difference in how male and female skin repairs and renews itself. By tracking individual skin stem cells in living mice for five months, researchers discovered that female cells work together in a highly coordinated way, while male cells operate more independen",
+      "publishedAt": "2026-10-18T10:52:51+00:00"
+    },
+    {
+      "id": "science-daily-health-7",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists tested 39 sweeteners and uncovered surprising gut effects",
+      "titleZh": "科学家测试了39种甜味剂，发现了令人惊讶的肠道效应",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016081103.htm",
+      "summary": "Scientists have discovered that many common sweeteners can interfere with gut bacteria, with some combinations involving medications producing surprisingly strong effects. One sweetener mixed with a widely prescribed antidepressant reduced beneficial bacteria and microbial diversity in laboratory ex",
+      "publishedAt": "2026-10-18T03:55:59+00:00"
+    },
+    {
+      "id": "science-daily-health-9",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists find a youth protein that helps aging brain cells act young again",
+      "titleZh": "科学家发现一种帮助衰老的脑细胞再次年轻的青春蛋白质",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070646.htm",
+      "summary": "Scientists have discovered that a protein linked to youth helps protect the brain’s immune cells from age-related decline. Restoring the protein in older mice improved the cells’ ability to clear debris and reduced signs of inflammation, raising hopes for future treatments targeting brain aging and ",
+      "publishedAt": "2026-10-18T03:27:40+00:00"
+    },
+    {
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -123,7 +222,7 @@
       "publishedAt": "2026-10-17T13:45:06+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -147,7 +246,7 @@
       "publishedAt": "2026-10-17T10:00:16+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -171,7 +270,7 @@
       "publishedAt": "2026-10-17T02:38:35+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -399,7 +498,7 @@
       "publishedAt": "2026-10-16T13:00:31+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -423,7 +522,7 @@
       "publishedAt": "2026-10-16T12:34:03+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -543,7 +642,7 @@
       "publishedAt": "2026-10-16T08:30:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -555,7 +654,7 @@
       "publishedAt": "2026-10-16T04:51:38+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -741,7 +840,7 @@
       "lang": "en",
       "category": "研发",
       "title": "After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope — and a path forward",
-      "titleZh": "在诊断出黑色素瘤后， mRNA癌症疫苗带来了患者的希望和前进的道路",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/?utm_campaign=rss",
       "summary": "A schoolteacher diagnosed with melanoma provides an inside look at what it was like to be treated with a cancer vaccine developed by Merck and Moderna.",
       "publishedAt": "2026-10-15T15:25:08+00:00"
@@ -753,7 +852,7 @@
       "lang": "en",
       "category": "审批",
       "title": "FDA ‘reset’ continues with new plan for reviewing rare disease drugs",
-      "titleZh": "FDA “重置”继续审查罕见病药物的新计划",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/fda-rare-disease-framework-initiative-drug-development/833080/",
       "summary": "A revamped regulatory framework may give investors less of a &ldquo;guessing game&rdquo; as they weigh chances for drug approvals, one analyst said.",
       "publishedAt": "2026-10-15T15:23:00+00:00"
@@ -765,7 +864,7 @@
       "lang": "en",
       "category": "市场",
       "title": "NorthStar's China CRO deal; Lonza details midterm guidance",
-      "titleZh": "NorthStar的中国CRO交易； Lonza详细的中期指引",
+      "titleZh": "",
       "link": "https://endpoints.news/northstars-china-cro-deal-lonza-details-midterm-guidance/",
       "summary": "Plus more about Triastek, Scinai and HydRegen. NorthStar inks deal with Chinese CRO: Radioisotope maker NorthStar Medical Technologies has secured a partnership with Beijing-based contract research organization Quarkmed. Quarkmed will act ...",
       "publishedAt": "2026-10-15T15:21:38+00:00"
@@ -777,7 +876,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Osivax pivots to combo approach after flu jab fails in Phase 2b",
-      "titleZh": "在2b期流感刺戳失败后， Osivax转向组合方法",
+      "titleZh": "",
       "link": "https://endpoints.news/osivax-pivots-to-combo-approach-after-flu-jab-fails-in-phase-2b/",
       "summary": "Osivax’s lead flu vaccine has flopped in a mid-stage trial. But the French biotech still holds out hope for the program, and plans to combine it with existing flu shots. The Phase 2b trial aimed ...",
       "publishedAt": "2026-10-15T14:33:55+00:00"
@@ -789,7 +888,7 @@
       "lang": "en",
       "category": "技术",
       "title": "San Francisco's pulse on health AI",
-      "titleZh": "旧金山的人工智能健康脉搏",
+      "titleZh": "",
       "link": "https://endpoints.news/san-franciscos-pulse-on-health-ai/",
       "summary": "I flew to San Francisco yesterday to take part in Rock Health’s annual summit. It’s been about half a year since I last visited, so the event served as a good gut check of where ...",
       "publishedAt": "2026-10-15T14:21:39+00:00"
@@ -801,7 +900,7 @@
       "lang": "en",
       "category": "市场",
       "title": "OrbiMed raises $3B in new life sciences funds, including $1B+ for Asia",
-      "titleZh": "OrbiMed筹集了$ 3B的新生命科学基金，包括亚洲的$ 10B +",
+      "titleZh": "",
       "link": "https://endpoints.news/orbimed-raises-3b-in-new-life-sciences-funds-including-1b-for-asia/",
       "summary": "OrbiMed, one of the biggest life science investors in the world, has raised $3 billion across two new funds. OrbiMed’s 10th private equity fund in its flagship series put together “over $1.9 billion” to invest ...",
       "publishedAt": "2026-10-15T13:55:06+00:00"
@@ -813,7 +912,7 @@
       "lang": "en",
       "category": "审批",
       "title": "STAT+: Pharmalittle: We’re reading about former FDA head calling DOGE a ‘disaster,’ an AstraZeneca AI deal, and more",
-      "titleZh": "STAT + ： Pharmalittle ：我们正在阅读有关FDA前负责人将DOGE称为“灾难”、阿斯利康人工智能交易等的报道",
+      "titleZh": "",
       "link": "https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss",
       "summary": "Three former FDA chiefs lit into the Trump administration, criticizing the now former FDA officials who oversaw a massive staff exodus",
       "publishedAt": "2026-10-15T13:31:56+00:00"
@@ -825,7 +924,7 @@
       "lang": "en",
       "category": "审批",
       "title": "STAT+: ‘AI sandboxes’ are all the rage. Advocates scramble to control their future",
-      "titleZh": "STAT + ： “AI沙盒”风靡一时。倡导者争先恐后地控制自己的未来",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/?utm_campaign=rss",
       "summary": "In this edition of STAT's Health Tech newsletter: The groups vying to shape regulations that'd govern state AI sandboxes, and more.",
       "publishedAt": "2026-10-15T13:14:37+00:00"
@@ -843,7 +942,7 @@
       "publishedAt": "2026-10-15T13:00:35+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -867,7 +966,7 @@
       "publishedAt": "2026-10-15T12:48:55+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,18 +990,6 @@
       "publishedAt": "2026-10-15T11:55:17+00:00"
     },
     {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover a surprising danger in smaller cancer cells",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015835.htm",
-      "summary": "Scientists have discovered that unusually small cancer cells carrying extra chromosomes can be far more aggressive than larger ones, growing faster, spreading more readily, and resisting common treatments. The surprising finding could help explain why some tumors are especially dangerous and provide",
-      "publishedAt": "2026-10-15T11:27:40+00:00"
-    },
-    {
       "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
@@ -915,19 +1002,7 @@
       "publishedAt": "2026-10-15T11:00:53+00:00"
     },
     {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015814.htm",
-      "summary": "A rare examination of an Alzheimer’s patient’s brain revealed that regions cleared of amyloid plaques had remarkably little of the harmful tau buildup associated with memory loss, while neighboring areas showed extensive damage. The discovery suggests that removing amyloid may have lasting protectiv",
-      "publishedAt": "2026-10-15T10:05:24+00:00"
-    },
-    {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -939,7 +1014,7 @@
       "publishedAt": "2026-10-15T05:28:14+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -949,18 +1024,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261014015521.htm",
       "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains very low, Rutgers researchers say the findings warrant attention as millions of peop",
       "publishedAt": "2026-10-15T04:14:55+00:00"
-    },
-    {
-      "id": "science-daily-health-12",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "A 47-year study reveals the age when your body starts losing strength",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261014000912.htm",
-      "summary": "A 47-year study has uncovered a surprising turning point in physical aging: fitness and strength begin declining around age 35, even among people who exercise regularly. Researchers found that this decline accelerates as people get older, but starting to exercise in adulthood can still improve physi",
-      "publishedAt": "2026-10-15T00:28:19+00:00"
     },
     {
       "id": "biopharma-dive-6",
@@ -973,18 +1036,6 @@
       "link": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
       "summary": "Part of a wave of young biotechs employing AI to accelerate research, the company claimed in regulatory filings that its approach has the potential to &ldquo;disrupt legacy drug discovery paradigms.&rdquo;",
       "publishedAt": "2026-10-15T00:08:00+00:00"
-    },
-    {
-      "id": "science-daily-health-15",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Cancer is rising in younger adults, and scientists can't fully explain why",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015837.htm",
-      "summary": "A major study found that several cancers are rising faster among younger adults in England, even as smoking, diet, and other established risk factors have generally improved. Excess weight explains only part of the increase, leaving scientists searching for other possible causes, including changes i",
-      "publishedAt": "2026-10-14T22:03:26+00:00"
     },
     {
       "id": "biopharma-dive-7",
@@ -1021,246 +1072,6 @@
       "link": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
       "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and &ldquo;strongly disagreed&rdquo; with the case&rsquo;s claims.",
       "publishedAt": "2026-10-14T14:45:52+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "Scientists reveal why some workout recovery tricks can backfire",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
-      "summary": "Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains. Scientists say the most effective recovery methods are far simpler and cheaper: getti",
-      "publishedAt": "2026-10-14T12:04:20+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "The secret to easier exercise as an adult may start in childhood",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm",
-      "summary": "Exercise during childhood could have a surprising lifelong benefit, potentially making physical activity less exhausting in adulthood. In a study involving guinea fowl, researchers discovered that birds accustomed to carrying weights while growing up could carry those weights as adults without using",
-      "publishedAt": "2026-10-14T11:36:23+00:00"
-    },
-    {
-      "id": "science-daily-health-14",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
-      "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are drawing attention to a largely overlooked peptide called P3 th",
-      "publishedAt": "2026-10-14T11:06:19+00:00"
-    },
-    {
-      "id": "science-daily-health-13",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "New knee arthritis treatment delivers lasting pain relief without surgery",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013234801.htm",
-      "summary": "A promising new treatment for knee arthritis uses tiny, dissolvable particles to block abnormal blood vessels, easing inflammation and pain without joint replacement surgery. In a study of 194 patients, 80% experienced clinically meaningful pain relief lasting at least 12 months.",
-      "publishedAt": "2026-10-14T04:39:11+00:00"
-    },
-    {
-      "id": "nature-biotech-0",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Structural variant detection across sequencing technologies",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03332-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-1",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Proteomic aging clocks go to trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03361-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-2",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "In vivo engineering of CAR natural killer cells for immunotherapy using ligand-directed lipid nanoparticles",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03310-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-3",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Engrafting human cortical organoids",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03355-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-4",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genome editing",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03324-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-5",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Tracing the origins of CRISPR–Cas",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03353-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-6",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "审批",
-      "title": "FDA nod for rare neurology drug",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03349-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "RevMed’s pancreatic cancer drug first",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03363-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-0",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Only time will tell",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04699-7",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-1",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "A reality check for autoimmune CAR T cells",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00052-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-2",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "技术",
-      "title": "Conversational brain AI for adaptive epilepsy care",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04719-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-3",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "EGFR-targeted antibody−toxin conjugate in recurrent glioma: a phase 1 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04715-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-4",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04687-x",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-5",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Optogenetic therapy shows early promise for treating retinitis pigmentosa",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00051-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Hidden race disparities in cancer treatment toxicity",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00050-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Editorial Expression of Concern: Thyroid hormone inhibits lung fibrosis in mice by improving epithelial mitochondrial function",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04733-8",
-      "summary": "",
-      "publishedAt": ""
     }
   ]
 }
