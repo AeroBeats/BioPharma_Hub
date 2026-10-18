@@ -93,6 +93,8 @@ python scripts/fetch_news.py
   2. 用 `PERSONAL_TOKEN` 提交 `web/data/news.json` 和 `translations.json`
   3. 通过 workflow_dispatch API 显式触发 `deploy-pages.yml`
 
+  > **注意**: GitHub Actions 的 scheduled workflows 在高峰时段可能延迟数小时执行，这是 GitHub 平台的已知限制。如需立即更新，可手动触发 workflow_dispatch（Actions → Update news data → Run workflow）。
+
 - **deploy-pages.yml**: 监听 `push` 到 `main` 分支 + `workflow_dispatch`
   1. 构建静态资源 (直接打包 `web/` 目录)
   2. 上传为 Pages artifact

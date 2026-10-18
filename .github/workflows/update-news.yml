@@ -4,7 +4,7 @@ name: Update news data
 # commits it back, so the static frontend always has fresh news without a server.
 on:
   schedule:
-    - cron: "5 * * * *" # hourly, at minute 5 (off the top-of-hour rush)
+    - cron: "5 * * * *" # hourly at minute 5 (GitHub may delay during peak hours)
   workflow_dispatch:
   push:
     branches: [main]
