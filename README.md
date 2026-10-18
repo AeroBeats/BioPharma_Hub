@@ -91,20 +91,20 @@ python scripts/fetch_news.py
 - **update-news.yml**: 每小时执行一次 (`cron: "5 * * * *"`)
   1. 运行 `scripts/fetch_news.py` 抓取 RSS 并翻译
   2. 用 `PERSONAL_TOKEN` 提交 `web/data/news.json` 和 `translations.json`
-  3. 该提交会触发 `deploy-pages.yml`
+  3. 通过 workflow_dispatch API 显式触发 `deploy-pages.yml`
 
-- **deploy-pages.yml**: 监听 `push` 到 `main` 分支
+- **deploy-pages.yml**: 监听 `push` 到 `main` 分支 + `workflow_dispatch`
   1. 构建静态资源 (直接打包 `web/` 目录)
   2. 上传为 Pages artifact
   3. 部署到 GitHub Pages
 
-> **为什么需要 PAT?** GitHub 故意阻止由 `GITHUB_TOKEN` 创建的提交触发其他工作流，以避免无限循环。使用 PAT 推送的提交会被视为普通用户操作，从而正常触发部署。
+> **为什么需要 PAT?** GitHub 故意阻止由 `GITHUB_TOKEN` 创建的提交触发其他工作流，以避免无限循环。使用 PAT 推送的提交会被视为普通用户操作。但即使使用 PAT，GitHub **仍然可能阻止** workflow 创建的提交触发其他 push 监听的工作流，所以 update-news 最后会显式调用 workflow_dispatch API 来确保 deploy-pages 一定运行。
 
 ### 常见问题
 
 **Q: 网页内容没更新，但 repo 里 data 已更新**
 - 检查 Actions 标签页，确认 `deploy-pages` 工作流是否成功运行
-- 如果看到 `[skip ci]` 在提交信息中，该提交会跳过所有工作流（已修复，不再添加此标记）
+- update-news 现在会显式调用 workflow_dispatch API 触发部署，如果仍失败，可能是 PERSONAL_TOKEN 权限不足或过期，需要重新生成
 
 **Q: Push 被拒绝 "non-fast-forward"**
 - 远程有 github-actions[bot] 的新闻提交，先拉取再推送:
