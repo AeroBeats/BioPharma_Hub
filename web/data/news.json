@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-18T14:31:39.449451+00:00",
+  "updatedAt": "2026-10-18T18:02:39.022096+00:00",
   "count": 80,
   "sources": [
     {
@@ -51,6 +51,7 @@
     "Nature Medicine"
   ],
   "translations": {
+    "Diasome’s HDV-Insulin for T1D Finalizing Phase III Plans After Promising Data": "Diasome用于T1D的HDV-胰岛素在有希望的数据后最终确定III期计划",
     "Scientists discover a natural compound that could protect the brain from too much salt": "科学家发现了一种天然化合物，可以保护大脑免受过多盐的侵害",
     "Eating blueberries every day may have a surprising effect on your mood": "每天吃蓝莓可能会对您的情绪产生惊人的影响",
     "Scientists link a strange sugar in red meat to a 63% higher diabetes risk": "科学家将红肉中的奇怪糖与糖尿病风险增加63 ％联系起来",
@@ -109,10 +110,21 @@
     "Belgian startup revives Galapagos CAR-T research": "比利时初创公司重启Galapagos CAR-T研究",
     "STAT+: Former FDA commissioners Califf, Gottlieb, Sharpless lay into current HHS leadership": "STAT + ：前FDA专员Califf、Gottlieb、Sharpless进入当前的HHS领导层",
     "Illumina Combines Multiomics Informatics Applications in New BioInsight Platform": "Illumina在新的BioInsight平台中结合了多组学信息学应用",
-    "STAT+: Verastem’s KRAS inhibitor shows promise in pancreatic cancer": "STAT + ： Verastem的KRAS抑制剂在胰腺癌中显示出希望",
-    "AstraZeneca does AI deal with insitro; inVIOs' Phase 1 success in solid tumors": "阿斯利康使用人工智能处理原生肿瘤； inVIOs在实体肿瘤中取得1期成功"
+    "STAT+: Verastem’s KRAS inhibitor shows promise in pancreatic cancer": "STAT + ： Verastem的KRAS抑制剂在胰腺癌中显示出希望"
   },
   "items": [
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Diasome’s HDV-Insulin for T1D Finalizing Phase III Plans After Promising Data",
+      "titleZh": "Diasome用于T1D的HDV-胰岛素在有希望的数据后最终确定III期计划",
+      "link": "https://www.genengnews.com/topics/translational-medicine/diasomes-hdv-insulin-for-t1d-finalizing-phase-iii-plans-after-promising-data/",
+      "summary": "HDV is intended to address the difficulty of insulin, GLP-1, or other molecules traveling to the liver when injected subcutaneously, due to the large number of receptors in peripheral tissue such as fat cells and muscle cells. The post Diasome’s HDV-Insulin for T1D Finalizing Phase III Plans After P",
+      "publishedAt": "2026-10-18T17:47:57+00:00"
+    },
     {
       "id": "science-daily-health-1",
       "source": "ScienceDaily Health",
@@ -282,7 +294,7 @@
       "publishedAt": "2026-10-17T01:06:05+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -294,7 +306,7 @@
       "publishedAt": "2026-10-16T20:36:42+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -306,7 +318,7 @@
       "publishedAt": "2026-10-16T20:13:04+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -318,7 +330,7 @@
       "publishedAt": "2026-10-16T17:21:49+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -330,7 +342,7 @@
       "publishedAt": "2026-10-16T16:58:46+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -666,7 +678,7 @@
       "publishedAt": "2026-10-16T00:41:45+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -726,7 +738,7 @@
       "publishedAt": "2026-10-15T18:09:18+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -762,7 +774,7 @@
       "publishedAt": "2026-10-15T17:19:50+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -798,7 +810,7 @@
       "publishedAt": "2026-10-15T15:50:58+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -828,7 +840,7 @@
       "lang": "en",
       "category": "市场",
       "title": "AstraZeneca does AI deal with insitro; inVIOs' Phase 1 success in solid tumors",
-      "titleZh": "阿斯利康使用人工智能处理原生肿瘤； inVIOs在实体肿瘤中取得1期成功",
+      "titleZh": "",
       "link": "https://endpoints.news/astrazeneca-does-ai-deal-with-insitro-invios-phase-1-success-in-solid-tumors/",
       "summary": "Plus news about ImmunityBio, Modus Therapeutics and Hyperway Pharmaceutical. AstraZeneca strikes AI drug discovery deal with insitro: The pharma giant will pay the California-based company $40 million upfront. In return, insitro's ...",
       "publishedAt": "2026-10-15T15:30:42+00:00"
@@ -952,18 +964,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
       "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain",
       "publishedAt": "2026-10-15T12:52:05+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Thirty Million Compartments: Testing Single-Molecule PCR’s Potential",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/sponsored/thirty-million-compartments-testing-single-molecule-pcrs-potential/",
-      "summary": "Countable Labs has named Fred Hutchinson its first certified service provider, currently serving researchers across the Seattle region. And the company is continuing to build its list of service providers. The post Thirty Million Compartments: Testing Single-Molecule PCR’s Potential appeared first o",
-      "publishedAt": "2026-10-15T12:48:55+00:00"
     },
     {
       "id": "science-daily-health-18",
