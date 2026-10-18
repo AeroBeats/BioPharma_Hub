@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-17T23:03:41.860419+00:00",
-  "count": 80,
+  "updatedAt": "2026-10-18T00:59:40.846559+00:00",
+  "count": 88,
   "sources": [
     {
       "id": "nature-biotech",
@@ -47,7 +47,6 @@
     }
   ],
   "failedSources": [
-    "Nature Biotechnology",
     "Nature Medicine"
   ],
   "translations": {
@@ -1072,6 +1071,102 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261013234801.htm",
       "summary": "A promising new treatment for knee arthritis uses tiny, dissolvable particles to block abnormal blood vessels, easing inflammation and pain without joint replacement surgery. In a study of 194 patients, 80% experienced clinically meaningful pain relief lasting at least 12 months.",
       "publishedAt": "2026-10-14T04:39:11+00:00"
+    },
+    {
+      "id": "nature-biotech-0",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Structural variant detection across sequencing technologies",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03332-9",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-1",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Proteomic aging clocks go to trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03361-4",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-2",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "In vivo engineering of CAR natural killer cells for immunotherapy using ligand-directed lipid nanoparticles",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03310-1",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-3",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Engrafting human cortical organoids",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03355-2",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-4",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Genome editing",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03324-9",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-5",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Tracing the origins of CRISPR–Cas",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03353-4",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-6",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA nod for rare neurology drug",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03349-0",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-7",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "RevMed’s pancreatic cancer drug first",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03363-2",
+      "summary": "",
+      "publishedAt": ""
     }
   ]
 }
