@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-18T18:02:39.022096+00:00",
-  "count": 80,
+  "updatedAt": "2026-10-18T20:35:49.522192+00:00",
+  "count": 88,
   "sources": [
     {
       "id": "nature-biotech",
@@ -47,10 +47,10 @@
     }
   ],
   "failedSources": [
-    "Nature Biotechnology",
     "Nature Medicine"
   ],
   "translations": {
+    "StockWatch: Liquidia Rebounds After Settling Legal Wrangle with United Therapeutics": "StockWatch ： Liquidia在与United Therapeutics解决法律纠纷后反弹",
     "Diasome’s HDV-Insulin for T1D Finalizing Phase III Plans After Promising Data": "Diasome用于T1D的HDV-胰岛素在有希望的数据后最终确定III期计划",
     "Scientists discover a natural compound that could protect the brain from too much salt": "科学家发现了一种天然化合物，可以保护大脑免受过多盐的侵害",
     "Eating blueberries every day may have a surprising effect on your mood": "每天吃蓝莓可能会对您的情绪产生惊人的影响",
@@ -109,12 +109,23 @@
     "How Alzheimer’s Risk Gene APOE4 Disrupts Myelination": "阿尔茨海默氏症风险基因APOE4如何破坏髓鞘形成",
     "Belgian startup revives Galapagos CAR-T research": "比利时初创公司重启Galapagos CAR-T研究",
     "STAT+: Former FDA commissioners Califf, Gottlieb, Sharpless lay into current HHS leadership": "STAT + ：前FDA专员Califf、Gottlieb、Sharpless进入当前的HHS领导层",
-    "Illumina Combines Multiomics Informatics Applications in New BioInsight Platform": "Illumina在新的BioInsight平台中结合了多组学信息学应用",
     "STAT+: Verastem’s KRAS inhibitor shows promise in pancreatic cancer": "STAT + ： Verastem的KRAS抑制剂在胰腺癌中显示出希望"
   },
   "items": [
     {
       "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "StockWatch: Liquidia Rebounds After Settling Legal Wrangle with United Therapeutics",
+      "titleZh": "StockWatch ： Liquidia在与United Therapeutics解决法律纠纷后反弹",
+      "link": "https://www.genengnews.com/topics/drug-discovery/stockwatch-liquidia-rebounds-after-settling-legal-wrangle-with-united-therapeutics/",
+      "summary": "Two weeks after its stock lost more than half its value following a setback in a seven-year legal wrangle, Liquidia shares finally began bouncing back thanks to a settlement with United Therapeutics that drew mixed conclusions from four analysts about which company won out long-term. The post StockW",
+      "publishedAt": "2026-10-18T18:33:31+00:00"
+    },
+    {
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -294,7 +305,7 @@
       "publishedAt": "2026-10-17T01:06:05+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -306,7 +317,7 @@
       "publishedAt": "2026-10-16T20:36:42+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -318,7 +329,7 @@
       "publishedAt": "2026-10-16T20:13:04+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -330,7 +341,7 @@
       "publishedAt": "2026-10-16T17:21:49+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -342,7 +353,7 @@
       "publishedAt": "2026-10-16T16:58:46+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -678,7 +689,7 @@
       "publishedAt": "2026-10-16T00:41:45+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -738,7 +749,7 @@
       "publishedAt": "2026-10-15T18:09:18+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -774,7 +785,7 @@
       "publishedAt": "2026-10-15T17:19:50+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -808,18 +819,6 @@
       "link": "https://www.statnews.com/2026/10/15/health-policy-news-fda-califf-gottlieb-sharpless-criticize-hhs-leadership/?utm_campaign=rss",
       "summary": "Former FDA commissioners Rob Califf (Obama and Biden administrations), Scott Gottlieb, and Ned Sharpless (both from the first Trump administration) criticized the officials who ran the agency during a massive&#8230;",
       "publishedAt": "2026-10-15T15:50:58+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Illumina Combines Multiomics Informatics Applications in New BioInsight Platform",
-      "titleZh": "Illumina在新的BioInsight平台中结合了多组学信息学应用",
-      "link": "https://www.genengnews.com/topics/omics/illumina-combines-multiomics-informatics-applications-in-new-bioinsight-platform/",
-      "summary": "Illumina is bringing its software, AI, and data offerings together in the new BioInsight platform, designed to help scientists analyze genomic and multiomic datasets. It will be showcased at ASHG in Montreal. The post Illumina Combines Multiomics Informatics Applications in New BioInsight Platform a",
-      "publishedAt": "2026-10-15T15:47:21+00:00"
     },
     {
       "id": "stat-news-15",
@@ -1072,6 +1071,102 @@
       "link": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
       "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and &ldquo;strongly disagreed&rdquo; with the case&rsquo;s claims.",
       "publishedAt": "2026-10-14T14:45:52+00:00"
+    },
+    {
+      "id": "nature-biotech-0",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Structural variant detection across sequencing technologies",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03332-9",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-1",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Proteomic aging clocks go to trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03361-4",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-2",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "In vivo engineering of CAR natural killer cells for immunotherapy using ligand-directed lipid nanoparticles",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03310-1",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-3",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Engrafting human cortical organoids",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03355-2",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-4",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Genome editing",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03324-9",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-5",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Tracing the origins of CRISPR–Cas",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03353-4",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-6",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA nod for rare neurology drug",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03349-0",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-7",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "RevMed’s pancreatic cancer drug first",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03363-2",
+      "summary": "",
+      "publishedAt": ""
     }
   ]
 }
