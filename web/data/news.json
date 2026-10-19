@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-19T15:32:06.167265+00:00",
+  "updatedAt": "2026-10-19T21:00:33.034086+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,12 +48,23 @@
   ],
   "failedSources": [],
   "translations": {
+    "Former MIT professor David Sabatini awarded $6M in defamation case": "前麻省理工学院教授David Sabatini在诽谤案中获得600万美元$",
+    "Antheia gets $80M conditional DOD loan to onshore to the US": "Antheia在美国获得8000万美元有条件国防部贷款",
+    "Landmark UK Biobank, IMU Immune Profiling Initiative Taps Ultima and Waters": "具有里程碑意义的英国生物库， IMU免疫分析计划利用Ultima和Waters",
+    "Trump orders creation of NIH division, task force on women’s health": "特朗普下令成立NIH部门，即妇女健康工作组",
+    "Psychological Stress Triggers Arthritis Flares in Mice via IL-6-Dependent Pathway": "心理压力通过IL-6依赖性途径触发小鼠关节炎发作",
+    "Opinion: I was a Theranos whistleblower. In ‘You Can See Everything,’ Elizabeth Holmes is still lying": "意见：我是Theranos的举报人。伊丽莎白·福尔摩斯（ Elizabeth Holmes ）在《你可以看到一切》（ You Can See Everything",
+    "#ESMO26 regular abstracts featuring Zai Lab, GSK, Merck and more": "# ESMO26常规摘要，包括Zai Lab、GSK、Merck等",
+    "Disc’s once-spurned rare disease drug to get a second chance at approval": "DISC曾经被拒绝的罕见疾病药物获得第二次批准的机会",
+    "STAT+: The umpires getting rich off surprise medical bills, and MLB job lock": "STAT + ：裁判因意外的医疗账单和MLB工作锁定而致富",
     "Gilead’s pill posts stronger colitis remission rates than Entyvio": "吉利德的药丸比Entyvio有更高的结肠炎缓解率",
     "EyePoint's Phase 3 failure; Lilly's China drug delivery deal": "EyePoint的3期失败；礼来的中国药品配送协议",
     "STAT+: China moves to restrict foreign biotech acquisitions": "STAT + ：中国采取行动限制外国生物技术收购",
+    "Merck KGaA bets on RNAi with $1.3B Silence buyout": "默克集团斥资13亿美元收购Silence，押注RNAi技术",
     "Merck KGaA to buy Silence Therapeutics and its siRNA pipeline for $1.3B": "默克KGaA以13亿美元收购Silence Therapeutics及其siRNA管道",
     "Two former Republican lawmakers say the GOP’s vaccine position is a liability": "两位前共和党议员表示，共和党的疫苗立场是一种负担",
     "STAT+: Pharmalittle: We’re reading about Roche investments in Germany, a Gilead bowel disease drug, and more": "STAT + ： Pharmalittle ：我们正在阅读罗氏在德国的投资、吉利德肠病药物等",
+    "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study": "罗氏与Hansoh签署了150亿美元的ADC协议； Veradermics在另一项秃顶研究中得分",
     "Sanofi taps new startup ScionxBio for long-acting RNA": "赛诺菲利用新创公司ScionxBio开发长效RNA",
     "Why some people escape Alzheimer’s despite carrying a high-risk gene": "为什么有些人尽管携带高风险基因仍能逃脱阿尔茨海默氏症",
     "AbbVie’s Skyrizi combo beats Skyrizi alone in mid-stage Crohn’s trial": "艾伯维的Skyrizi组合在中期克罗恩审判中击败了Skyrizi",
@@ -94,24 +105,121 @@
     "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain": "科学家发现深度睡眠如何锻炼肌肉、燃烧脂肪和增强大脑",
     "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded": "STAT + ：陪审团裁决有利于被罢免的剑桥科学家David Sabatini ，赔偿金为600万$",
     "Stanford’s new microscope reveals living cells like never before": "斯坦福大学的新显微镜揭示了前所未有的活细胞",
-    "ADC Developmentfrom Concept to Clinic": "从概念到诊所的ADC开发",
+    "ADC Development from Concept to Clinic": "从概念到诊所的ADC开发",
     "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science": "Danaher、英伟达将实验室仪器和人工智能相结合，推进自主科学",
-    "Designing the Ecosystem for CGT Success": "为CGT的成功设计生态系统",
-    "Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breast Development": "暴露于常见的干扰内分泌的化学物质可能会改变乳房的正常发育",
-    "ASHG 2026 Awards Honor Achievements in Research, Education, and More": "ASHG 2026表彰在研究、教育等方面的荣誉成就",
-    "Iambic CEO on taking an AI drug company public": "Iambic首席执行官谈人工智能制药公司上市",
-    "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking": "问答：赛诺菲新任人工智能、研发失败率和交易制定研究主管",
-    "Hospitals’ next lucrative bet — longevity clinics": "医院的下一个有利可图的赌注—长寿诊所",
-    "Novartis scraps Fabhalta study in lupus nephritis": "诺华废弃Fabhalta在狼疮性肾炎中的研究",
-    "China pursues export ban on some biotech platforms": "中国对部分生物技术平台实施出口禁令",
-    "FDA considers interim access for compounded peptides; Enspryng's label expansion": "FDA考虑复合肽的中期准入； Enspryng的标签扩展",
-    "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs": "CHMP认可礼来的GLP-1药丸和其他三种新药",
-    "Lilly interested in ibogaine investments, its neuro leader says": "礼来对ibogaine投资感兴趣，其神经领导者说",
-    "STAT+: Up and down the ladder: The latest comings and goings": "STAT + ：上下阶梯：最新动态"
+    "Designing the Ecosystem for CGT Success": "为CGT的成功设计生态系统"
   },
   "items": [
     {
       "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Former MIT professor David Sabatini awarded $6M in defamation case",
+      "titleZh": "前麻省理工学院教授David Sabatini在诽谤案中获得600万美元$",
+      "link": "https://endpoints.news/former-mit-professor-david-sabatini-awarded-6m-in-defamation-case/",
+      "summary": "A Massachusetts jury awarded $6 million in damages to prominent biologist David Sabatini, years after sexual harassment allegations led to his ouster from MIT. Roughly five years ago, Sabatini brought the",
+      "publishedAt": "2026-10-19T19:17:01+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "Antheia gets $80M conditional DOD loan to onshore to the US",
+      "titleZh": "Antheia在美国获得8000万美元有条件国防部贷款",
+      "link": "https://endpoints.news/antheia-gets-80m-conditional-dod-loan-to-onshore-to-the-us/",
+      "summary": "Biosynthesis manufacturer Antheia has won a conditional loan of $80 million from the US Department of Defense to help boost the domestic production of generic drugs. \"Over time, we aim to manufacture Antheia's full pipeline ...",
+      "publishedAt": "2026-10-19T19:01:09+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "审批",
+      "title": "Landmark UK Biobank, IMU Immune Profiling Initiative Taps Ultima and Waters",
+      "titleZh": "具有里程碑意义的英国生物库， IMU免疫分析计划利用Ultima和Waters",
+      "link": "https://www.genengnews.com/topics/omics/landmark-uk-biobank-imu-immune-profiling-initiative-taps-ultima-and-waters/",
+      "summary": "IMU Biosciences and UK Biobank will profile 80,000 blood samples using technologies from Waters and Ultima Genomics, creating a high-resolution immune dataset to advance AI-driven biomedical research and disease prediction. The post Landmark UK Biobank, IMU Immune Profiling Initiative Taps Ultima an",
+      "publishedAt": "2026-10-19T18:38:05+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "Trump orders creation of NIH division, task force on women’s health",
+      "titleZh": "特朗普下令成立NIH部门，即妇女健康工作组",
+      "link": "https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/?utm_campaign=rss",
+      "summary": "Melania Trump said a new research and policy initiative will set “a new standard for women’s health.”",
+      "publishedAt": "2026-10-19T17:42:45+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Psychological Stress Triggers Arthritis Flares in Mice via IL-6-Dependent Pathway",
+      "titleZh": "心理压力通过IL-6依赖性途径触发小鼠关节炎发作",
+      "link": "https://www.genengnews.com/topics/translational-medicine/psychological-stress-triggers-arthritis-flares-in-mice-via-il-6-dependent-pathway/",
+      "summary": "A study in mice offers up a biological explanation for how psychological stress can contribute to arthritis flares, and identifies a stress-responsive pathway that could be explored as a potential therapeutic target. The post Psychological Stress Triggers Arthritis Flares in Mice via IL-6-Dependent ",
+      "publishedAt": "2026-10-19T17:38:13+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: I was a Theranos whistleblower. In ‘You Can See Everything,’ Elizabeth Holmes is still lying",
+      "titleZh": "意见：我是Theranos的举报人。伊丽莎白·福尔摩斯（ Elizabeth Holmes ）在《你可以看到一切》（ You Can See Everything",
+      "link": "https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/?utm_campaign=rss",
+      "summary": "A more accurate name would be “You Can See Everything That We Chose To Point The Camera At,”Theranos whistleblower Tyler Shultz writes.",
+      "publishedAt": "2026-10-19T17:27:04+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "#ESMO26 regular abstracts featuring Zai Lab, GSK, Merck and more",
+      "titleZh": "# ESMO26常规摘要，包括Zai Lab、GSK、Merck等",
+      "link": "https://endpoints.news/esmo26-regular-abstracts-featuring-zai-lab-gsk-merck-and-more/",
+      "summary": "The last time the ESMO congress was in Madrid, a presentation on first-line data in bladder cancer drew a rapturous standing ovation. Contenders that might draw the same reception include hotly anticipated ...",
+      "publishedAt": "2026-10-19T17:03:24+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "Disc’s once-spurned rare disease drug to get a second chance at approval",
+      "titleZh": "DISC曾经被拒绝的罕见疾病药物获得第二次批准的机会",
+      "link": "https://www.biopharmadive.com/news/Disc-bitopertin-apollo-erythropoietic-protoporphyria-study-results/833327/",
+      "summary": "Months after the FDA rejected its treatment for a rare light-sensitivity disease, the biotech claimed success in a Phase 3 trial and now plans to re-engage regulators.",
+      "publishedAt": "2026-10-19T16:27:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: The umpires getting rich off surprise medical bills, and MLB job lock",
+      "titleZh": "STAT + ：裁判因意外的医疗账单和MLB工作锁定而致富",
+      "link": "https://www.statnews.com/2026/10/19/no-surprises-act-arbitrators-getting-rich-jake-bauers-health-insurance/?utm_campaign=rss",
+      "summary": "We dig into trust, prices, and a bit of baseball in this week's Health Care Inc. newsletter.",
+      "publishedAt": "2026-10-19T15:43:35+00:00"
+    },
+    {
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -123,7 +231,7 @@
       "publishedAt": "2026-10-19T15:05:39+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -135,7 +243,7 @@
       "publishedAt": "2026-10-19T15:01:30+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +255,19 @@
       "publishedAt": "2026-10-19T14:58:31+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "biopharma-dive-1",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
+      "titleZh": "默克集团斥资13亿美元收购Silence，押注RNAi技术",
+      "link": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
+      "summary": "The acquisition gives the German company a promising blood disorder medicine that passed a Phase 2 test and could threaten a Takeda drug.",
+      "publishedAt": "2026-10-19T13:59:52+00:00"
+    },
+    {
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -159,7 +279,7 @@
       "publishedAt": "2026-10-19T13:57:45+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -171,7 +291,7 @@
       "publishedAt": "2026-10-19T13:39:28+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +303,19 @@
       "publishedAt": "2026-10-19T13:23:58+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "biopharma-dive-2",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study",
+      "titleZh": "罗氏与Hansoh签署了150亿美元的ADC协议； Veradermics在另一项秃顶研究中得分",
+      "link": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
+      "summary": "Roche is paying Hansoh $400 million up front in a broad deal involving several ADCs. Elsewhere, another top investor formed a China-focused fund and Ultragenyx sold a second review voucher.",
+      "publishedAt": "2026-10-19T13:14:00+00:00"
+    },
+    {
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +339,7 @@
       "publishedAt": "2026-10-19T12:57:02+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +375,7 @@
       "publishedAt": "2026-10-19T11:23:26+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +387,7 @@
       "publishedAt": "2026-10-19T11:08:33+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +399,7 @@
       "publishedAt": "2026-10-19T11:00:36+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -279,7 +411,7 @@
       "publishedAt": "2026-10-19T11:00:09+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -315,7 +447,7 @@
       "publishedAt": "2026-10-19T09:19:45+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -327,7 +459,7 @@
       "publishedAt": "2026-10-19T09:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -339,7 +471,7 @@
       "publishedAt": "2026-10-19T09:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -351,7 +483,7 @@
       "publishedAt": "2026-10-19T09:00:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +495,7 @@
       "publishedAt": "2026-10-19T08:35:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +507,7 @@
       "publishedAt": "2026-10-19T08:30:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +519,7 @@
       "publishedAt": "2026-10-19T08:30:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +531,7 @@
       "publishedAt": "2026-10-19T08:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +543,7 @@
       "publishedAt": "2026-10-19T08:30:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +555,7 @@
       "publishedAt": "2026-10-19T08:30:00+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -447,7 +579,7 @@
       "publishedAt": "2026-10-19T02:35:09+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +603,7 @@
       "publishedAt": "2026-10-19T00:32:07+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -483,7 +615,7 @@
       "publishedAt": "2026-10-18T18:33:31+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -615,7 +747,7 @@
       "publishedAt": "2026-10-17T12:44:22+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,7 +771,7 @@
       "publishedAt": "2026-10-17T05:14:50+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -663,19 +795,19 @@
       "publishedAt": "2026-10-17T01:06:05+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "技术",
-      "title": "ADC Developmentfrom Concept to Clinic",
+      "title": "ADC Development from Concept to Clinic",
       "titleZh": "从概念到诊所的ADC开发",
       "link": "https://www.genengnews.com/resources/ebooks/adc-developmentfrom-concept-to-clinic/",
-      "summary": "This eBook brings insight on integrated end-to-end solutions for precision engineered therapeutics. The post ADC Developmentfrom Concept to Clinic appeared first on GEN - Genetic Engineering and Biotechnology News.",
+      "summary": "This eBook brings insight on integrated end-to-end solutions for precision engineered therapeutics. The post ADC Development from Concept to Clinic appeared first on GEN - Genetic Engineering and Biotechnology News.",
       "publishedAt": "2026-10-16T20:36:42+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -687,7 +819,7 @@
       "publishedAt": "2026-10-16T20:13:04+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -699,139 +831,139 @@
       "publishedAt": "2026-10-16T17:21:49+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "研发",
       "title": "Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breast Development",
-      "titleZh": "暴露于常见的干扰内分泌的化学物质可能会改变乳房的正常发育",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/cancer/exposure-to-common-endocrine-disrupting-chemicals-may-alter-normal-breast-development/",
       "summary": "A study in human breast organoids has found that exposure to some common endocrine-disrupting chemicals may lead to molecular changes in breast tissue that could influence susceptibility to breast cancer later in life. The post Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breas",
       "publishedAt": "2026-10-16T16:58:46+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "研发",
       "title": "ASHG 2026 Awards Honor Achievements in Research, Education, and More",
-      "titleZh": "ASHG 2026表彰在研究、教育等方面的荣誉成就",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/omics/ashg-2026-awards-honor-achievements-in-research-education-and-more/",
       "summary": "ASHG will honor seven recipients with its 2026 Professional Awards, recognizing outstanding contributions to human genetics and genomics research, education, mentorship, and public service at ceremonies this week. The post ASHG 2026 Awards Honor Achievements in Research, Education, and More appeared",
       "publishedAt": "2026-10-16T16:27:48+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "市场",
       "title": "Iambic CEO on taking an AI drug company public",
-      "titleZh": "Iambic首席执行官谈人工智能制药公司上市",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
       "summary": "Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI&rsquo;s role in drug development evolving.",
       "publishedAt": "2026-10-16T16:10:00+00:00"
-    },
-    {
-      "id": "endpoints-11",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking",
-      "titleZh": "问答：赛诺菲新任人工智能、研发失败率和交易制定研究主管",
-      "link": "https://endpoints.news/qa-sanofis-new-research-chief-on-ai-rd-failure-rates-and-dealmaking/",
-      "summary": "Paulo Fontoura took over as Sanofi’s global head of R&amp;D in September after 16 years at Roche and a recent stint at AI drug discovery startup Xaira Therapeutics. Ahead of Sanofi’s Oct. 30 earnings, Endpoints ...",
-      "publishedAt": "2026-10-16T16:02:00+00:00"
-    },
-    {
-      "id": "stat-news-11",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Hospitals’ next lucrative bet — longevity clinics",
-      "titleZh": "医院的下一个有利可图的赌注—长寿诊所",
-      "link": "https://www.statnews.com/2026/10/16/readout-loud-podcast-hospitals-longevity-clinics-northwestern/?utm_campaign=rss",
-      "summary": "On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the booming industry of longevity health.",
-      "publishedAt": "2026-10-16T15:34:31+00:00"
-    },
-    {
-      "id": "endpoints-12",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Novartis scraps Fabhalta study in lupus nephritis",
-      "titleZh": "诺华废弃Fabhalta在狼疮性肾炎中的研究",
-      "link": "https://endpoints.news/novartis-scraps-fabhalta-study-in-lupus-nephritis/",
-      "summary": "Novartis terminated a mid-stage trial of Fabhalta in lupus nephritis, citing “strategic considerations,” according to a federal clinical trials database. Fabhalta, also known as iptacopan, is a key part of Novartis' portfolio. It delivered $505 ...",
-      "publishedAt": "2026-10-16T15:32:24+00:00"
-    },
-    {
-      "id": "endpoints-13",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "China pursues export ban on some biotech platforms",
-      "titleZh": "中国对部分生物技术平台实施出口禁令",
-      "link": "https://endpoints.news/china-pursues-export-ban-on-some-biotech-platforms/",
-      "summary": "The Chinese Ministry of Commerce is clamping down on the kinds of deals domestic companies can make, but the free-flowing licensing of drugs appears to be intact. Government officials are looking at",
-      "publishedAt": "2026-10-16T15:28:01+00:00"
     },
     {
       "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
-      "category": "审批",
-      "title": "FDA considers interim access for compounded peptides; Enspryng's label expansion",
-      "titleZh": "FDA考虑复合肽的中期准入； Enspryng的标签扩展",
-      "link": "https://endpoints.news/fda-considers-interim-access-for-compounded-peptides-enspryngs-label-expansion/",
-      "summary": "Plus news about Microbiotica, Cyrano Therapeutics and Opus Genetics. HHS and FDA submit peptide policy for review: An “interim access policy for compounding using certain peptides” is awaiting regulatory review at the White House Office ...",
-      "publishedAt": "2026-10-16T15:23:34+00:00"
+      "category": "市场",
+      "title": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking",
+      "titleZh": "",
+      "link": "https://endpoints.news/qa-sanofis-new-research-chief-on-ai-rd-failure-rates-and-dealmaking/",
+      "summary": "Paulo Fontoura took over as Sanofi’s global head of R&amp;D in September after 16 years at Roche and a recent stint at AI drug discovery startup Xaira Therapeutics. Ahead of Sanofi’s Oct. 30 earnings, Endpoints ...",
+      "publishedAt": "2026-10-16T16:02:00+00:00"
+    },
+    {
+      "id": "stat-news-14",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Hospitals’ next lucrative bet — longevity clinics",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/10/16/readout-loud-podcast-hospitals-longevity-clinics-northwestern/?utm_campaign=rss",
+      "summary": "On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the booming industry of longevity health.",
+      "publishedAt": "2026-10-16T15:34:31+00:00"
     },
     {
       "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
-      "category": "审批",
-      "title": "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs",
-      "titleZh": "CHMP认可礼来的GLP-1药丸和其他三种新药",
-      "link": "https://endpoints.news/chmp-endorses-eli-lillys-glp-1-pill-and-three-other-new-drugs/",
-      "summary": "Eli Lilly secured EU regulatory backing for its oral GLP-1 pill orforglipron on Friday as it looks to catch up with competitor Novo’s Wegovy pill. The European Medicines Agency’s human medicines committee (CHMP)",
-      "publishedAt": "2026-10-16T14:55:55+00:00"
+      "category": "研发",
+      "title": "Novartis scraps Fabhalta study in lupus nephritis",
+      "titleZh": "",
+      "link": "https://endpoints.news/novartis-scraps-fabhalta-study-in-lupus-nephritis/",
+      "summary": "Novartis terminated a mid-stage trial of Fabhalta in lupus nephritis, citing “strategic considerations,” according to a federal clinical trials database. Fabhalta, also known as iptacopan, is a key part of Novartis' portfolio. It delivered $505 ...",
+      "publishedAt": "2026-10-16T15:32:24+00:00"
     },
     {
       "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
+      "category": "市场",
+      "title": "China pursues export ban on some biotech platforms",
+      "titleZh": "",
+      "link": "https://endpoints.news/china-pursues-export-ban-on-some-biotech-platforms/",
+      "summary": "The Chinese Ministry of Commerce is clamping down on the kinds of deals domestic companies can make, but the free-flowing licensing of drugs appears to be intact. Government officials are looking at",
+      "publishedAt": "2026-10-16T15:28:01+00:00"
+    },
+    {
+      "id": "endpoints-17",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA considers interim access for compounded peptides; Enspryng's label expansion",
+      "titleZh": "",
+      "link": "https://endpoints.news/fda-considers-interim-access-for-compounded-peptides-enspryngs-label-expansion/",
+      "summary": "Plus news about Microbiotica, Cyrano Therapeutics and Opus Genetics. HHS and FDA submit peptide policy for review: An “interim access policy for compounding using certain peptides” is awaiting regulatory review at the White House Office ...",
+      "publishedAt": "2026-10-16T15:23:34+00:00"
+    },
+    {
+      "id": "endpoints-18",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs",
+      "titleZh": "",
+      "link": "https://endpoints.news/chmp-endorses-eli-lillys-glp-1-pill-and-three-other-new-drugs/",
+      "summary": "Eli Lilly secured EU regulatory backing for its oral GLP-1 pill orforglipron on Friday as it looks to catch up with competitor Novo’s Wegovy pill. The European Medicines Agency’s human medicines committee (CHMP)",
+      "publishedAt": "2026-10-16T14:55:55+00:00"
+    },
+    {
+      "id": "endpoints-19",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
       "category": "审批",
       "title": "Lilly interested in ibogaine investments, its neuro leader says",
-      "titleZh": "礼来对ibogaine投资感兴趣，其神经领导者说",
+      "titleZh": "",
       "link": "https://endpoints.news/lilly-interested-in-ibogaine-investments-its-neuro-leader-says/",
       "summary": "Eli Lilly is interested in R&amp;D efforts to “improve the profile of ibogaine,” the pharma giant’s neuroscience president said at a psychedelics conference Thursday. Carole Ho, who joined the company last year from Denali Therapeutics ...",
       "publishedAt": "2026-10-16T14:04:29+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
       "title": "STAT+: Up and down the ladder: The latest comings and goings",
-      "titleZh": "STAT + ：上下阶梯：最新动态",
+      "titleZh": "",
       "link": "https://www.statnews.com/pharmalot/2026/10/16/up-down-ladder-jobs-pharma-biotech-gilead-bausch-sanofi/?utm_campaign=rss",
       "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
       "publishedAt": "2026-10-16T14:00:13+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -843,7 +975,7 @@
       "publishedAt": "2026-10-16T13:49:21+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -855,7 +987,7 @@
       "publishedAt": "2026-10-16T13:38:22+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -867,19 +999,7 @@
       "publishedAt": "2026-10-16T13:15:00+00:00"
     },
     {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "技术",
-      "title": "Here's how many clinicians are using AI to answer their medical questions",
-      "titleZh": "",
-      "link": "https://endpoints.news/heres-how-many-clinicians-are-using-ai-to-answer-their-medical-questions/",
-      "summary": "New research illustrates the rapid rise of clinicians’ use of AI to answer medical questions despite little evidence of how it affects decision-making or patient outcomes. Researchers studied usage data from OpenEvidence, an AI search ...",
-      "publishedAt": "2026-10-16T13:00:31+00:00"
-    },
-    {
-      "id": "stat-news-15",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -891,19 +1011,7 @@
       "publishedAt": "2026-10-16T12:34:03+00:00"
     },
     {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Ex-Genentech scientist joins Ira Mellman at Medici; Intellia poaches CMO from Scholar Rock",
-      "titleZh": "",
-      "link": "https://endpoints.news/ex-genentech-scientist-joins-ira-mellman-at-medici-intellia-poaches-cmo-from-scholar-rock/",
-      "summary": "→ More former Genentech leaders are finding a new home. Lélia Delamarre posted on LinkedIn that she’s leading R&amp;D at ARCH-backed cancer biotech Medici Therapeutics, one of this year’s",
-      "publishedAt": "2026-10-16T11:00:08+00:00"
-    },
-    {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -915,19 +1023,7 @@
       "publishedAt": "2026-10-16T10:33:00+00:00"
     },
     {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Estuary debuts with $103M to develop kidney disease gene therapies",
-      "titleZh": "",
-      "link": "https://endpoints.news/estuary-debuts-with-103m-to-develop-kidney-disease-gene-therapies/",
-      "summary": "Estuary Biotherapeutics raised the curtain on Friday with $103 million to support the advancement of two preclinical gene therapy candidates for the most common type of inherited kidney disease. The company’s cash comes from a ...",
-      "publishedAt": "2026-10-16T10:30:34+00:00"
-    },
-    {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -939,7 +1035,7 @@
       "publishedAt": "2026-10-16T10:30:00+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -948,42 +1044,6 @@
       "titleZh": "",
       "link": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss",
       "summary": "Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?",
-      "publishedAt": "2026-10-16T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: In DOGE’s aftermath, federal health workers bristle at new performance reviews",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/?utm_campaign=rss",
-      "summary": "Changes to the annual performance review process are the latest flashpoint in tensions between federal workers across the Department of Health and Human Services and the Trump administration, federal employees&#8230;",
-      "publishedAt": "2026-10-16T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "Opinion: Is Milton Friedman to blame for America’s health care woes?",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss",
-      "summary": "Health policy experts John McDonough and Stuart Butler debate where the U.S. medical system went wrong — and how to fix it.",
-      "publishedAt": "2026-10-16T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss",
-      "summary": "Patients can understand that medication is necessary and still struggle with what taking it means.",
       "publishedAt": "2026-10-16T08:30:00+00:00"
     },
     {
@@ -999,7 +1059,7 @@
       "publishedAt": "2026-10-16T04:51:38+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1009,66 +1069,6 @@
       "link": "https://www.genengnews.com/topics/omics/proteomics-reveals-ovarian-remodeling-decades-after-menopause/",
       "summary": "5,812 protein groups were quantified in postmenopausal ovaries, uncovering molecular shifts associated with inflammation, immunity, and extracellular matrix remodeling. The post Proteomics Reveals Ovarian Remodeling Decades After Menopause appeared first on GEN - Genetic Engineering and Biotechnolog",
       "publishedAt": "2026-10-15T22:16:35+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "审批",
-      "title": "Newly Identified Microexons Offer Clues to Autism Spectrum Disorder’s Genetic Roots",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/omics/newly-identified-microexons-offer-clues-to-autism-spectrum-disorders-genetic-roots/",
-      "summary": "Hundreds of newly identified microexons seem to matter for autism and other neurological conditions, according to a Nature study. A machine learning model of their regulatory code also pinpoints variants predicted to disrupt their splicing in autistic individuals. The post Newly Identified Microexon",
-      "publishedAt": "2026-10-15T17:58:56+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "How Alzheimer’s Risk Gene APOE4 Disrupts Myelination",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/translational-medicine/how-alzheimers-risk-gene-apoe4-disrupts-myelination/",
-      "summary": "Study linked the APOE4 gene with suppression of Wnt signaling in the oligodendrocyte cells that provide neurons with their fatty myelin insulation, and also demonstrated a potential approach to preventing disruption of myelination. The post How Alzheimer&#8217;s Risk Gene &lt;i&gt;APOE4&lt;/i&gt; Di",
-      "publishedAt": "2026-10-15T17:07:16+00:00"
-    },
-    {
-      "id": "biopharma-dive-7",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "研发",
-      "title": "Belgian startup revives Galapagos CAR-T research",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
-      "summary": "Armed Cell Therapeutics, chaired by former Galapagos CEO Paul Stoffels, has assumed control of cell therapies the company&nbsp;&mdash; now known as Lakefront Biotherapeutics &mdash;&nbsp;divested in a strategic overhaul.",
-      "publishedAt": "2026-10-15T15:55:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-8",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "FDA ‘reset’ continues with new plan for reviewing rare disease drugs",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/fda-rare-disease-framework-initiative-drug-development/833080/",
-      "summary": "A revamped regulatory framework may give investors less of a &ldquo;guessing game&rdquo; as they weigh chances for drug approvals, one analyst said.",
-      "publishedAt": "2026-10-15T15:23:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
-      "summary": "Part of a wave of young biotechs employing AI to accelerate research, the company claimed in regulatory filings that its approach has the potential to &ldquo;disrupt legacy drug discovery paradigms.&rdquo;",
-      "publishedAt": "2026-10-15T00:08:00+00:00"
     },
     {
       "id": "nature-biotech-0",
