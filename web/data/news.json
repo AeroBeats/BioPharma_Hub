@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-20T16:53:38.923529+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-20T20:31:08.330324+00:00",
+  "count": 80,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,8 +46,16 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Biotechnology",
+    "Nature Medicine"
+  ],
   "translations": {
+    "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation": "STAT + ：州监管机构采取行动从养老院连锁店扣押许可证，这是波士顿环球报调查的重点",
+    "Roche, Hansoh Launch Up-to-$15B+ Cancer ADC Collaboration": "罗氏、汉索推出高达150亿$ +癌症ADC合作",
+    "Takara Bio USA, SPT Labtech Team Up to Automate NGS Library Prep Workflows": "Takara Bio USA与SPT Labtech合作实现NGS库准备工作流程自动化",
+    "Immune Pathway Contributing to Radiation Therapy-Related Lung Damage Identified in Mice": "在小鼠中鉴定出导致放射治疗相关肺损伤的免疫途径",
+    "New ICER report suggests drug launch prices are outpacing their worth": "新的ICER报告显示，药品上市价格正在超过其价值",
     "STAT+: A bipartisan group of lawmakers urges the FDA to close a peptide loophole": "STAT + ：一群两党立法者敦促FDA堵住肽漏洞",
     "STAT+: Roche continues to look to China for new drugs": "STAT + ：罗氏继续在中国寻找新药",
     "Rapport’s epilepsy drug finds surprising success in bipolar trial": "融洽的癫痫药物在躁郁症试验中取得了惊人的成功",
@@ -102,16 +110,71 @@
     "Veradermics' oral Rogaine wins again at growing hair in late-stage trial": "Veradermics的口服Rogaine在晚期试验中生长头发再次获胜",
     "Scientists win 2026 Nobel Prize for controlling brain cells with light": "科学家因用光控制脑细胞而获得2026年诺贝尔奖",
     "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques": "“令人兴奋”的阿尔茨海默氏症突破：两个小时的睡眠恢复而不清除脑斑块",
-    "From strategy to scale: How Saudi Arabia is building a biotech ecosystem": "从战略到规模：沙特阿拉伯如何构建生物技术生态系统",
-    "Extractables in single-use systems used in ADC manufacturing": "ADC制造中使用的一次性系统中的可提取物",
-    "How early should you engage a CDMO?": "您应该多早与CDMO接触？",
-    "STAT+: Gilead’s IBD drug eliminated symptoms for patients, mid-stage study finds": "STAT + ：中期研究发现，吉利德的IBD药物消除了患者的症状",
-    "STAT+: Top immunology association divided over $8.4-billion California ballot measure to fund the field, emails show": "STAT + ：电子邮件显示，顶级免疫学协会在加利福尼亚州以84亿$的投票措施来资助该领域",
-    "STAT+: Does Isomorphic Labs have what it takes to revolutionize drugmaking?": "STAT + ： Isomorphic Labs是否具备彻底改变制药业所需的能力？"
+    "From strategy to scale: How Saudi Arabia is building a biotech ecosystem": "从战略到规模：沙特阿拉伯如何构建生物技术生态系统"
   },
   "items": [
     {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation",
+      "titleZh": "STAT + ：州监管机构采取行动从养老院连锁店扣押许可证，这是波士顿环球报调查的重点",
+      "link": "https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/?utm_campaign=rss",
+      "summary": "A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care.",
+      "publishedAt": "2026-10-20T20:14:29+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Roche, Hansoh Launch Up-to-$15B+ Cancer ADC Collaboration",
+      "titleZh": "罗氏、汉索推出高达150亿$ +癌症ADC合作",
+      "link": "https://www.genengnews.com/topics/cancer/roche-hansoh-launch-up-to-15b-cancer-adc-collaboration/",
+      "summary": "The companies' strategic collaboration will consist of two preclinical Hansoh ADC programs and “multiple” ADC programs based on Roche-identified targets, to be developed through Hansoh’s ADC technology platform. The post Roche, Hansoh Launch Up-to-$15B+ Cancer ADC Collaboration appeared first on GEN",
+      "publishedAt": "2026-10-20T19:38:20+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "Takara Bio USA, SPT Labtech Team Up to Automate NGS Library Prep Workflows",
+      "titleZh": "Takara Bio USA与SPT Labtech合作实现NGS库准备工作流程自动化",
+      "link": "https://www.genengnews.com/topics/omics/takara-bio-usa-spt-labtech-team-up-to-automate-ngs-library-prep-workflows/",
+      "summary": "The partners are targeting NGS core labs with a combined offering that automates next-generation sequencing library prep workflows using kits from Takara Bio and SPT Labtech’s firefly instrument. They are starting with RNA-seq with plans to expand. The post Takara Bio USA, SPT Labtech Team Up to Aut",
+      "publishedAt": "2026-10-20T19:23:00+00:00"
+    },
+    {
+      "id": "gen-2",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Immune Pathway Contributing to Radiation Therapy-Related Lung Damage Identified in Mice",
+      "titleZh": "在小鼠中鉴定出导致放射治疗相关肺损伤的免疫途径",
+      "link": "https://www.genengnews.com/topics/cancer/immune-pathway-contributing-to-radiation-therapy-related-lung-damage-identified-in-mice/",
+      "summary": "Working with a mouse model of radiation-induced lung injury, researchers uncovered an immune pathway that may contribute to radiation-related lung damage and, suggest their results may point to a potential preventive strategy. The post Immune Pathway Contributing to Radiation Therapy-Related Lung Da",
+      "publishedAt": "2026-10-20T18:13:20+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "New ICER report suggests drug launch prices are outpacing their worth",
+      "titleZh": "新的ICER报告显示，药品上市价格正在超过其价值",
+      "link": "https://endpoints.news/new-icer-report-suggests-drug-launch-prices-are-outpacing-their-worth/",
+      "summary": "The median list price of drugs at launch rose 24% from 2022 to 2025, and the net prices of those drugs rose even higher, according to a new report from the Institute for Clinical and ...",
+      "publishedAt": "2026-10-20T17:57:40+00:00"
+    },
+    {
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -123,7 +186,7 @@
       "publishedAt": "2026-10-20T16:47:02+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +222,7 @@
       "publishedAt": "2026-10-20T15:55:00+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -171,7 +234,7 @@
       "publishedAt": "2026-10-20T15:41:10+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +246,7 @@
       "publishedAt": "2026-10-20T15:15:18+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +258,7 @@
       "publishedAt": "2026-10-20T14:55:11+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -207,7 +270,7 @@
       "publishedAt": "2026-10-20T14:40:13+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +282,7 @@
       "publishedAt": "2026-10-20T14:02:16+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +306,7 @@
       "publishedAt": "2026-10-20T13:00:56+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +318,7 @@
       "publishedAt": "2026-10-20T12:55:52+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +342,7 @@
       "publishedAt": "2026-10-20T12:07:49+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -315,7 +378,7 @@
       "publishedAt": "2026-10-20T11:31:22+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -327,7 +390,7 @@
       "publishedAt": "2026-10-20T11:14:39+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -339,7 +402,7 @@
       "publishedAt": "2026-10-20T11:12:39+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +426,7 @@
       "publishedAt": "2026-10-20T09:52:35+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +438,7 @@
       "publishedAt": "2026-10-20T08:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +474,7 @@
       "publishedAt": "2026-10-20T00:49:11+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -423,7 +486,7 @@
       "publishedAt": "2026-10-19T22:35:31+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +498,7 @@
       "publishedAt": "2026-10-19T19:17:01+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -447,7 +510,7 @@
       "publishedAt": "2026-10-19T19:01:09+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -459,7 +522,7 @@
       "publishedAt": "2026-10-19T18:38:05+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +534,7 @@
       "publishedAt": "2026-10-19T17:42:45+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -483,7 +546,7 @@
       "publishedAt": "2026-10-19T17:38:13+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +558,7 @@
       "publishedAt": "2026-10-19T17:27:04+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -519,7 +582,7 @@
       "publishedAt": "2026-10-19T16:27:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +594,7 @@
       "publishedAt": "2026-10-19T15:43:35+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -543,7 +606,7 @@
       "publishedAt": "2026-10-19T15:05:39+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -555,7 +618,7 @@
       "publishedAt": "2026-10-19T15:01:30+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +642,7 @@
       "publishedAt": "2026-10-19T13:59:52+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -591,7 +654,7 @@
       "publishedAt": "2026-10-19T13:57:45+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +666,7 @@
       "publishedAt": "2026-10-19T13:39:28+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +690,7 @@
       "publishedAt": "2026-10-19T13:14:00+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +714,7 @@
       "publishedAt": "2026-10-19T12:57:02+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +750,7 @@
       "publishedAt": "2026-10-19T11:23:26+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,7 +762,7 @@
       "publishedAt": "2026-10-19T11:08:33+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -711,7 +774,7 @@
       "publishedAt": "2026-10-19T11:00:36+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -723,7 +786,7 @@
       "publishedAt": "2026-10-19T11:00:09+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -777,7 +840,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Extractables in single-use systems used in ADC manufacturing",
-      "titleZh": "ADC制造中使用的一次性系统中的可提取物",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/spons/extractables-in-single-use-systems-used-in-adc-manufacturing/833218/",
       "summary": "Explore extractables data supporting single-use systems in ADC manufacturing.",
       "publishedAt": "2026-10-19T09:00:00+00:00"
@@ -789,22 +852,10 @@
       "lang": "en",
       "category": "审批",
       "title": "How early should you engage a CDMO?",
-      "titleZh": "您应该多早与CDMO接触？",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/spons/how-early-should-you-engage-a-cdmo/832693/",
       "summary": "Discover which CMC activities can move forward early, and which decisions need to remain flexible.",
       "publishedAt": "2026-10-19T09:00:00+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Gilead’s IBD drug eliminated symptoms for patients, mid-stage study finds",
-      "titleZh": "STAT + ：中期研究发现，吉利德的IBD药物消除了患者的症状",
-      "link": "https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/?utm_campaign=rss",
-      "summary": "An oral treatment from Gilead Sciences eliminated the symptoms experienced by patients with a type of inflammatory bowel disease, according to mid-stage study results reported Monday.",
-      "publishedAt": "2026-10-19T08:35:00+00:00"
     },
     {
       "id": "stat-news-17",
@@ -812,22 +863,22 @@
       "sourceId": "stat-news",
       "lang": "en",
       "category": "审批",
-      "title": "STAT+: Top immunology association divided over $8.4-billion California ballot measure to fund the field, emails show",
-      "titleZh": "STAT + ：电子邮件显示，顶级免疫学协会在加利福尼亚州以84亿$的投票措施来资助该领域",
-      "link": "https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/?utm_campaign=rss",
-      "summary": "Internal emails obtained by STAT show that the American Association of Immunologists is sharply divided over California's Proposition 38, even though it would provide $8.4 billion in taxpayer dollars for&#8230;",
-      "publishedAt": "2026-10-19T08:30:00+00:00"
+      "title": "STAT+: Gilead’s IBD drug eliminated symptoms for patients, mid-stage study finds",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/?utm_campaign=rss",
+      "summary": "An oral treatment from Gilead Sciences eliminated the symptoms experienced by patients with a type of inflammatory bowel disease, according to mid-stage study results reported Monday.",
+      "publishedAt": "2026-10-19T08:35:00+00:00"
     },
     {
       "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
-      "titleZh": "STAT + ： Isomorphic Labs是否具备彻底改变制药业所需的能力？",
-      "link": "https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/?utm_campaign=rss",
-      "summary": "Isomorphic Labs wants to turn its technology into an engine for new medicines. The question now is whether — and how — it can deliver on that promise.",
+      "category": "审批",
+      "title": "STAT+: Top immunology association divided over $8.4-billion California ballot measure to fund the field, emails show",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/?utm_campaign=rss",
+      "summary": "Internal emails obtained by STAT show that the American Association of Immunologists is sharply divided over California's Proposition 38, even though it would provide $8.4 billion in taxpayer dollars for&#8230;",
       "publishedAt": "2026-10-19T08:30:00+00:00"
     },
     {
@@ -836,14 +887,14 @@
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
-      "title": "Opinion: My mother killed herself. I wish assisted suicide had been an option",
+      "title": "STAT+: Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
       "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/?utm_campaign=rss",
-      "summary": "“Sometimes mental illness is terminal,” Torie Bosch writes in a personal essay about medical aid in dying for psychiatric reasons.",
+      "link": "https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/?utm_campaign=rss",
+      "summary": "Isomorphic Labs wants to turn its technology into an engine for new medicines. The question now is whether — and how — it can deliver on that promise.",
       "publishedAt": "2026-10-19T08:30:00+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -867,7 +918,7 @@
       "publishedAt": "2026-10-19T00:32:07+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -879,7 +930,7 @@
       "publishedAt": "2026-10-18T18:33:31+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -975,7 +1026,7 @@
       "publishedAt": "2026-10-18T03:55:59+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -999,7 +1050,7 @@
       "publishedAt": "2026-10-17T05:14:50+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1009,42 +1060,6 @@
       "link": "https://www.genengnews.com/resources/ebooks/adc-developmentfrom-concept-to-clinic/",
       "summary": "This eBook brings insight on integrated end-to-end solutions for precision engineered therapeutics. The post ADC Development from Concept to Clinic appeared first on GEN - Genetic Engineering and Biotechnology News.",
       "publishedAt": "2026-10-16T20:36:42+00:00"
-    },
-    {
-      "id": "gen-7",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/artificial-intelligence/danaher-nvidia-combine-lab-instrumentation-and-ai-to-advance-autonomous-science/",
-      "summary": "Danaher and Nvidia are collaborating to advance autonomous science, combining lab instrumentation, automation, and software with accelerated computing and AI so that experiments inform models and models help design better experiments. The post Danaher, Nvidia Combine Lab Instrumentation and AI to Ad",
-      "publishedAt": "2026-10-16T20:13:04+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "市场",
-      "title": "Designing the Ecosystem for CGT Success",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/resources/ebooks/designing-the-ecosystem-for-cgt-success/",
-      "summary": "This proceedings eBook, developed in partnership with GEN and Cincinnati Children’s Hospital Applied Gene and Cell Therapy Center, captures perspectives and lessons from The Cell Summit ’26 and extends the conversation beyond the meeting itself. The post Designing the Ecosystem for CGT Success appea",
-      "publishedAt": "2026-10-16T17:21:49+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breast Development",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/cancer/exposure-to-common-endocrine-disrupting-chemicals-may-alter-normal-breast-development/",
-      "summary": "A study in human breast organoids has found that exposure to some common endocrine-disrupting chemicals may lead to molecular changes in breast tissue that could influence susceptibility to breast cancer later in life. The post Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breas",
-      "publishedAt": "2026-10-16T16:58:46+00:00"
     },
     {
       "id": "biopharma-dive-9",
@@ -1057,210 +1072,6 @@
       "link": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
       "summary": "Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI&rsquo;s role in drug development evolving.",
       "publishedAt": "2026-10-16T16:10:00+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking",
-      "titleZh": "",
-      "link": "https://endpoints.news/qa-sanofis-new-research-chief-on-ai-rd-failure-rates-and-dealmaking/",
-      "summary": "Paulo Fontoura took over as Sanofi’s global head of R&amp;D in September after 16 years at Roche and a recent stint at AI drug discovery startup Xaira Therapeutics. Ahead of Sanofi’s Oct. 30 earnings, Endpoints ...",
-      "publishedAt": "2026-10-16T16:02:00+00:00"
-    },
-    {
-      "id": "nature-biotech-0",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03360-5",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-1",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Engineered human Argonaute 2 for targeted C-to-U RNA base editing",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03359-y",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-2",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Editor’s pick: Bioptimus",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03345-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-3",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Structural variant detection across sequencing technologies",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03332-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-4",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Proteomic aging clocks go to trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03361-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-5",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "In vivo engineering of CAR natural killer cells for immunotherapy using ligand-directed lipid nanoparticles",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03310-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-6",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Engrafting human cortical organoids",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03355-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genome editing",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03324-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-0",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Author Correction: FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04757-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-1",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Waiting to get sick enough",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04701-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-2",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04692-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-3",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Only time will tell",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04699-7",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-4",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "A reality check for autoimmune CAR T cells",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00052-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-5",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "技术",
-      "title": "Conversational brain AI for adaptive epilepsy care",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04719-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "EGFR-targeted antibody−toxin conjugate in recurrent glioma: a phase 1 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04715-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04687-x",
-      "summary": "",
-      "publishedAt": ""
     }
   ]
 }
