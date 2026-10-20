@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-19T21:00:33.034086+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-20T00:16:28.920156+00:00",
+  "count": 88,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,8 +46,11 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Biotechnology"
+  ],
   "translations": {
+    "ASHG: Long-Read Genomics Meets Clinical Data in PacBio, Verily Health AI Deal": "ASHG ：长读基因组学符合PacBio的临床数据， Verily Health AI交易",
     "Former MIT professor David Sabatini awarded $6M in defamation case": "前麻省理工学院教授David Sabatini在诽谤案中获得600万美元$",
     "Antheia gets $80M conditional DOD loan to onshore to the US": "Antheia在美国获得8000万美元有条件国防部贷款",
     "Landmark UK Biobank, IMU Immune Profiling Initiative Taps Ultima and Waters": "具有里程碑意义的英国生物库， IMU免疫分析计划利用Ultima和Waters",
@@ -106,10 +109,21 @@
     "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded": "STAT + ：陪审团裁决有利于被罢免的剑桥科学家David Sabatini ，赔偿金为600万$",
     "Stanford’s new microscope reveals living cells like never before": "斯坦福大学的新显微镜揭示了前所未有的活细胞",
     "ADC Development from Concept to Clinic": "从概念到诊所的ADC开发",
-    "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science": "Danaher、英伟达将实验室仪器和人工智能相结合，推进自主科学",
-    "Designing the Ecosystem for CGT Success": "为CGT的成功设计生态系统"
+    "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science": "Danaher、英伟达将实验室仪器和人工智能相结合，推进自主科学"
   },
   "items": [
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "ASHG: Long-Read Genomics Meets Clinical Data in PacBio, Verily Health AI Deal",
+      "titleZh": "ASHG ：长读基因组学符合PacBio的临床数据， Verily Health AI交易",
+      "link": "https://www.genengnews.com/topics/omics/ashg-long-read-genomics-meets-clinical-data-in-pacbio-verily-health-ai-deal/",
+      "summary": "A multi-year collaboration will connect PacBio's HiFi sequencing with Verily Pre, combining long-read genomic and clinical data for biomedical research and AI model development. The post ASHG: Long-Read Genomics Meets Clinical Data in PacBio, Verily Health AI Deal appeared first on GEN - Genetic Eng",
+      "publishedAt": "2026-10-19T22:35:31+00:00"
+    },
     {
       "id": "endpoints-0",
       "source": "Endpoints News",
@@ -135,7 +149,7 @@
       "publishedAt": "2026-10-19T19:01:09+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -159,7 +173,7 @@
       "publishedAt": "2026-10-19T17:42:45+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -603,7 +617,7 @@
       "publishedAt": "2026-10-19T00:32:07+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -615,7 +629,7 @@
       "publishedAt": "2026-10-18T18:33:31+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -795,7 +809,7 @@
       "publishedAt": "2026-10-17T01:06:05+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -807,7 +821,7 @@
       "publishedAt": "2026-10-16T20:36:42+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -819,19 +833,19 @@
       "publishedAt": "2026-10-16T20:13:04+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "市场",
       "title": "Designing the Ecosystem for CGT Success",
-      "titleZh": "为CGT的成功设计生态系统",
+      "titleZh": "",
       "link": "https://www.genengnews.com/resources/ebooks/designing-the-ecosystem-for-cgt-success/",
       "summary": "This proceedings eBook, developed in partnership with GEN and Cincinnati Children’s Hospital Applied Gene and Cell Therapy Center, captures perspectives and lessons from The Cell Summit ’26 and extends the conversation beyond the meeting itself. The post Designing the Ecosystem for CGT Success appea",
       "publishedAt": "2026-10-16T17:21:49+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -843,7 +857,7 @@
       "publishedAt": "2026-10-16T16:58:46+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1057,114 +1071,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261015073203.htm",
       "summary": "Scientists have discovered how to turn a protein that normally fuels cancer growth into a weapon against it. By activating PPARD in immune cells, researchers made them better at burning fat and attacking tumors, slowing or stopping cancer growth in laboratory experiments. The approach showed promise",
       "publishedAt": "2026-10-16T04:51:38+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Proteomics Reveals Ovarian Remodeling Decades After Menopause",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/omics/proteomics-reveals-ovarian-remodeling-decades-after-menopause/",
-      "summary": "5,812 protein groups were quantified in postmenopausal ovaries, uncovering molecular shifts associated with inflammation, immunity, and extracellular matrix remodeling. The post Proteomics Reveals Ovarian Remodeling Decades After Menopause appeared first on GEN - Genetic Engineering and Biotechnolog",
-      "publishedAt": "2026-10-15T22:16:35+00:00"
-    },
-    {
-      "id": "nature-biotech-0",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Editor’s pick: Bioptimus",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03345-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-1",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Structural variant detection across sequencing technologies",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03332-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-2",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Proteomic aging clocks go to trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03361-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-3",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "In vivo engineering of CAR natural killer cells for immunotherapy using ligand-directed lipid nanoparticles",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03310-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-4",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Engrafting human cortical organoids",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03355-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-5",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genome editing",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03324-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-6",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Tracing the origins of CRISPR–Cas",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03353-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "审批",
-      "title": "FDA nod for rare neurology drug",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03349-0",
-      "summary": "",
-      "publishedAt": ""
     },
     {
       "id": "nature-medicine-0",
