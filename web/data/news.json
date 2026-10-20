@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-20T05:57:08.863393+00:00",
+  "updatedAt": "2026-10-20T11:26:31.840009+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,11 @@
   ],
   "failedSources": [],
   "translations": {
+    "Rapport says drug it licensed from J&J clears Phase 2 bipolar mania study": "融洽关系表示，从强生公司获得许可的药物清除了2期双相躁狂症研究",
+    "Canada’s Arctic Research Could Help Discover Next-Gen Therapeutics": "加拿大的北极研究可能有助于发现下一代疗法",
+    "STAT+: Launch prices for new medicines dipped slightly last year but remain high, analysis finds": "STAT + ：分析发现，新药上市价格去年略有下降，但仍居高不下",
+    "STAT+: The key health care ballot measures we’re watching in the midterms": "STAT + ：我们正在中期观察的关键医疗保健投票措施",
+    "Opinion: Resident physicians may lose some of their most important work hour protections": "意见：住院医师可能会失去一些最重要的工作时间保护措施",
     "ASHG: Long-Read Genomics Meets Clinical Data in PacBio, Verily Health AI Deal": "ASHG ：长读基因组学符合PacBio的临床数据， Verily Health AI交易",
     "Former MIT professor David Sabatini awarded $6M in defamation case": "前麻省理工学院教授David Sabatini在诽谤案中获得600万美元$",
     "Antheia gets $80M conditional DOD loan to onshore to the US": "Antheia在美国获得8000万美元有条件国防部贷款",
@@ -102,16 +107,71 @@
     "Scientists find a youth protein that helps aging brain cells act young again": "科学家发现一种帮助衰老的脑细胞再次年轻的青春蛋白质",
     "New drug reverses severe fatty liver disease by repairing the gut": "新药通过修复肠道来逆转重度脂肪肝",
     "Brain cells meant to protect us may be fueling cognitive decline": "旨在保护我们的脑细胞可能正在加剧认知能力下降",
-    "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more": "搜索“阿尔茨海默氏症的他汀类药物” ； Arrowhead注射剂降低tau ；以及更多",
-    "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain": "科学家发现深度睡眠如何锻炼肌肉、燃烧脂肪和增强大脑",
-    "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded": "STAT + ：陪审团裁决有利于被罢免的剑桥科学家David Sabatini ，赔偿金为600万$",
-    "Stanford’s new microscope reveals living cells like never before": "斯坦福大学的新显微镜揭示了前所未有的活细胞",
-    "ADC Development from Concept to Clinic": "从概念到诊所的ADC开发",
-    "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science": "Danaher、英伟达将实验室仪器和人工智能相结合，推进自主科学"
+    "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more": "搜索“阿尔茨海默氏症的他汀类药物” ； Arrowhead注射剂降低tau ；以及更多"
   },
   "items": [
     {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Rapport says drug it licensed from J&J clears Phase 2 bipolar mania study",
+      "titleZh": "融洽关系表示，从强生公司获得许可的药物清除了2期双相躁狂症研究",
+      "link": "https://endpoints.news/rapport-says-drug-it-licensed-from-jj-clears-phase-2-bipolar-mania-study/",
+      "summary": "Rapport Therapeutics said Tuesday its investigational oral drug that dials down the effect of AMPA receptors has cleared a mid-stage trial in bipolar mania, paving the way for registrational studies slated to start next year. ...",
+      "publishedAt": "2026-10-20T11:14:39+00:00"
+    },
+    {
       "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Canada’s Arctic Research Could Help Discover Next-Gen Therapeutics",
+      "titleZh": "加拿大的北极研究可能有助于发现下一代疗法",
+      "link": "https://www.genengnews.com/topics/drug-discovery/canadas-arctic-research-could-help-discover-next-gen-therapeutics/",
+      "summary": "Unlocking the Arctic’s subterranean DNA must ensure a delicate balance between scientific rigor and ethical stewardship. Synthetic biology and chemistry could help discovery of new life-saving therapeutics. The post Canada’s Arctic Research Could Help Discover Next-Gen Therapeutics appeared first on",
+      "publishedAt": "2026-10-20T11:12:39+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Launch prices for new medicines dipped slightly last year but remain high, analysis finds",
+      "titleZh": "STAT + ：分析发现，新药上市价格去年略有下降，但仍居高不下",
+      "link": "https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss",
+      "summary": "The median net price for 202 newly launched medicines rose by 35%, to $257,000 last year from $173,000 in 2022.",
+      "publishedAt": "2026-10-20T10:30:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: The key health care ballot measures we’re watching in the midterms",
+      "titleZh": "STAT + ：我们正在中期观察的关键医疗保健投票措施",
+      "link": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss",
+      "summary": "State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters.",
+      "publishedAt": "2026-10-20T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: Resident physicians may lose some of their most important work hour protections",
+      "titleZh": "意见：住院医师可能会失去一些最重要的工作时间保护措施",
+      "link": "https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss",
+      "summary": "“It is important to create barriers between high intensity shifts with physical, intellectual, and emotional burden to avoid burnout” in residents, writes Arifeen Rahman.",
+      "publishedAt": "2026-10-20T08:30:00+00:00"
+    },
+    {
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -123,7 +183,7 @@
       "publishedAt": "2026-10-19T22:35:31+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -135,7 +195,7 @@
       "publishedAt": "2026-10-19T19:17:01+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -147,7 +207,7 @@
       "publishedAt": "2026-10-19T19:01:09+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -159,7 +219,7 @@
       "publishedAt": "2026-10-19T18:38:05+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -171,7 +231,7 @@
       "publishedAt": "2026-10-19T17:42:45+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -183,7 +243,7 @@
       "publishedAt": "2026-10-19T17:38:13+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +255,7 @@
       "publishedAt": "2026-10-19T17:27:04+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +279,7 @@
       "publishedAt": "2026-10-19T16:27:00+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +291,7 @@
       "publishedAt": "2026-10-19T15:43:35+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -239,11 +299,11 @@
       "title": "Gilead’s pill posts stronger colitis remission rates than Entyvio",
       "titleZh": "吉利德的药丸比Entyvio有更高的结肠炎缓解率",
       "link": "https://endpoints.news/gileads-pill-posts-stronger-colitis-remission-rates-than-entyvio/",
-      "summary": "Gilead Sciences is to start late-stage trials of its oral α4β7 inhibitor in ulcerative colitis next year, after data from a Phase 2 dose-finding trial suggested that the drug looked better than rival products. After ...",
+      "summary": "Gilead Sciences will start late-stage trials of its oral α4β7 inhibitor in ulcerative colitis next year after data from a Phase 2 dose-finding trial suggested that the drug looked better than rival products. After taking ...",
       "publishedAt": "2026-10-19T15:05:39+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +315,7 @@
       "publishedAt": "2026-10-19T15:01:30+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +339,7 @@
       "publishedAt": "2026-10-19T13:59:52+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +351,7 @@
       "publishedAt": "2026-10-19T13:57:45+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +363,7 @@
       "publishedAt": "2026-10-19T13:39:28+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +387,7 @@
       "publishedAt": "2026-10-19T13:14:00+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +411,7 @@
       "publishedAt": "2026-10-19T12:57:02+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +447,7 @@
       "publishedAt": "2026-10-19T11:23:26+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -399,7 +459,7 @@
       "publishedAt": "2026-10-19T11:08:33+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +471,7 @@
       "publishedAt": "2026-10-19T11:00:36+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -423,7 +483,7 @@
       "publishedAt": "2026-10-19T11:00:09+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +555,7 @@
       "publishedAt": "2026-10-19T09:00:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +567,7 @@
       "publishedAt": "2026-10-19T08:35:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +579,7 @@
       "publishedAt": "2026-10-19T08:30:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +591,7 @@
       "publishedAt": "2026-10-19T08:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +603,7 @@
       "publishedAt": "2026-10-19T08:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +615,7 @@
       "publishedAt": "2026-10-19T08:30:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -567,7 +627,7 @@
       "publishedAt": "2026-10-19T08:30:00+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -591,7 +651,7 @@
       "publishedAt": "2026-10-19T02:35:09+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -615,7 +675,7 @@
       "publishedAt": "2026-10-19T00:32:07+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -627,7 +687,7 @@
       "publishedAt": "2026-10-18T18:33:31+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -759,7 +819,7 @@
       "publishedAt": "2026-10-17T12:44:22+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -777,19 +837,19 @@
       "lang": "en",
       "category": "研发",
       "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
-      "titleZh": "科学家发现深度睡眠如何锻炼肌肉、燃烧脂肪和增强大脑",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
       "summary": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatmen",
       "publishedAt": "2026-10-17T05:14:50+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
       "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
-      "titleZh": "STAT + ：陪审团裁决有利于被罢免的剑桥科学家David Sabatini ，赔偿金为600万$",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
       "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab.",
       "publishedAt": "2026-10-17T02:38:35+00:00"
@@ -801,22 +861,10 @@
       "lang": "en",
       "category": "研发",
       "title": "Stanford’s new microscope reveals living cells like never before",
-      "titleZh": "斯坦福大学的新显微镜揭示了前所未有的活细胞",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261015073231.htm",
       "summary": "Stanford scientists have developed a revolutionary microscope that reveals the hidden inner workings of living cells in real time, without the fluorescent labels that can interfere with observations. The breakthrough could provide new insights into cancer, infectious diseases, and how drugs interact",
       "publishedAt": "2026-10-17T01:06:05+00:00"
-    },
-    {
-      "id": "gen-5",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "ADC Development from Concept to Clinic",
-      "titleZh": "从概念到诊所的ADC开发",
-      "link": "https://www.genengnews.com/resources/ebooks/adc-developmentfrom-concept-to-clinic/",
-      "summary": "This eBook brings insight on integrated end-to-end solutions for precision engineered therapeutics. The post ADC Development from Concept to Clinic appeared first on GEN - Genetic Engineering and Biotechnology News.",
-      "publishedAt": "2026-10-16T20:36:42+00:00"
     },
     {
       "id": "gen-6",
@@ -824,14 +872,26 @@
       "sourceId": "gen",
       "lang": "en",
       "category": "技术",
+      "title": "ADC Development from Concept to Clinic",
+      "titleZh": "",
+      "link": "https://www.genengnews.com/resources/ebooks/adc-developmentfrom-concept-to-clinic/",
+      "summary": "This eBook brings insight on integrated end-to-end solutions for precision engineered therapeutics. The post ADC Development from Concept to Clinic appeared first on GEN - Genetic Engineering and Biotechnology News.",
+      "publishedAt": "2026-10-16T20:36:42+00:00"
+    },
+    {
+      "id": "gen-7",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
       "title": "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science",
-      "titleZh": "Danaher、英伟达将实验室仪器和人工智能相结合，推进自主科学",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/artificial-intelligence/danaher-nvidia-combine-lab-instrumentation-and-ai-to-advance-autonomous-science/",
       "summary": "Danaher and Nvidia are collaborating to advance autonomous science, combining lab instrumentation, automation, and software with accelerated computing and AI so that experiments inform models and models help design better experiments. The post Danaher, Nvidia Combine Lab Instrumentation and AI to Ad",
       "publishedAt": "2026-10-16T20:13:04+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -843,7 +903,7 @@
       "publishedAt": "2026-10-16T17:21:49+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -853,18 +913,6 @@
       "link": "https://www.genengnews.com/topics/cancer/exposure-to-common-endocrine-disrupting-chemicals-may-alter-normal-breast-development/",
       "summary": "A study in human breast organoids has found that exposure to some common endocrine-disrupting chemicals may lead to molecular changes in breast tissue that could influence susceptibility to breast cancer later in life. The post Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breas",
       "publishedAt": "2026-10-16T16:58:46+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "ASHG 2026 Awards Honor Achievements in Research, Education, and More",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/omics/ashg-2026-awards-honor-achievements-in-research-education-and-more/",
-      "summary": "ASHG will honor seven recipients with its 2026 Professional Awards, recognizing outstanding contributions to human genetics and genomics research, education, mentorship, and public service at ceremonies this week. The post ASHG 2026 Awards Honor Achievements in Research, Education, and More appeared",
-      "publishedAt": "2026-10-16T16:27:48+00:00"
     },
     {
       "id": "biopharma-dive-6",
@@ -879,7 +927,7 @@
       "publishedAt": "2026-10-16T16:10:00+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -891,7 +939,7 @@
       "publishedAt": "2026-10-16T16:02:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -903,7 +951,7 @@
       "publishedAt": "2026-10-16T15:34:31+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -915,7 +963,7 @@
       "publishedAt": "2026-10-16T15:32:24+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -927,7 +975,7 @@
       "publishedAt": "2026-10-16T15:28:01+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -939,7 +987,7 @@
       "publishedAt": "2026-10-16T15:23:34+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -951,19 +999,7 @@
       "publishedAt": "2026-10-16T14:55:55+00:00"
     },
     {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Lilly interested in ibogaine investments, its neuro leader says",
-      "titleZh": "",
-      "link": "https://endpoints.news/lilly-interested-in-ibogaine-investments-its-neuro-leader-says/",
-      "summary": "Eli Lilly is interested in R&amp;D efforts to “improve the profile of ibogaine,” the pharma giant’s neuroscience president said at a psychedelics conference Thursday. Carole Ho, who joined the company last year from Denali Therapeutics ...",
-      "publishedAt": "2026-10-16T14:04:29+00:00"
-    },
-    {
-      "id": "stat-news-15",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -975,7 +1011,7 @@
       "publishedAt": "2026-10-16T14:00:13+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -985,18 +1021,6 @@
       "link": "https://www.statnews.com/pharmalot/2026/10/16/hhs-peptide-push-trump-pharma-stock-holdings/?utm_campaign=rss",
       "summary": "The Trump administration is proceeding with a plan to allow compounding pharmacies to produce certain peptides",
       "publishedAt": "2026-10-16T13:49:21+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: RevMed’s pancreatic cancer drug nears European approval",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/?utm_campaign=rss",
-      "summary": "Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines' Rasonque for pancreatic cancer.",
-      "publishedAt": "2026-10-16T13:38:22+00:00"
     },
     {
       "id": "biopharma-dive-7",
@@ -1009,18 +1033,6 @@
       "link": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
       "summary": "The latest installment in BioPharma Dive&rsquo;s&nbsp;data visualization-focused series includes a look at Moderna&rsquo;s meteoric rise in 2026 and a sudden deal surge from Roche.",
       "publishedAt": "2026-10-16T13:15:00+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "What to read before you go see that new documentary on Elizabeth Holmes",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/?utm_campaign=rss",
-      "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022&#8230;",
-      "publishedAt": "2026-10-16T12:34:03+00:00"
     },
     {
       "id": "biopharma-dive-8",
@@ -1047,18 +1059,6 @@
       "publishedAt": "2026-10-16T10:30:00+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss",
-      "summary": "Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?",
-      "publishedAt": "2026-10-16T08:30:00+00:00"
-    },
-    {
       "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
@@ -1076,6 +1076,30 @@
       "sourceId": "nature-biotech",
       "lang": "en",
       "category": "研发",
+      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03360-5",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-1",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Engineered human Argonaute 2 for targeted C-to-U RNA base editing",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03359-y",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-2",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
       "title": "Editor’s pick: Bioptimus",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03345-4",
@@ -1083,7 +1107,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-1",
+      "id": "nature-biotech-3",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1095,7 +1119,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-2",
+      "id": "nature-biotech-4",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1107,7 +1131,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-3",
+      "id": "nature-biotech-5",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1119,7 +1143,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-4",
+      "id": "nature-biotech-6",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1131,7 +1155,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-5",
+      "id": "nature-biotech-7",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1139,30 +1163,6 @@
       "title": "Genome editing",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03324-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-6",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Tracing the origins of CRISPR–Cas",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03353-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "审批",
-      "title": "FDA nod for rare neurology drug",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03349-0",
       "summary": "",
       "publishedAt": ""
     },
