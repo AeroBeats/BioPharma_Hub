@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-21T20:05:14.432402+00:00",
-  "count": 88,
+  "updatedAt": "2026-10-21T23:58:48.921892+00:00",
+  "count": 96,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,10 +46,11 @@
       "category": "技术"
     }
   ],
-  "failedSources": [
-    "Nature Biotechnology"
-  ],
+  "failedSources": [],
   "translations": {
+    "Rezera files for IPO to back NLRP3 work in peripheral artery disease": "Rezera文件用于IPO以支持NLRP3在外周动脉疾病中的工作",
+    "China biotech RiboX reveals first data of circular RNA therapies in people": "中国生物技术公司RiboX首次披露人体循环RNA治疗数据",
+    "STAT+: CMS extends fraud crackdown to New York’s adult day care program": "STAT + ： CMS将打击欺诈行为扩展到纽约的成人日托计划",
     "STAT+: Another diabetes association leader is out while review continues": "STAT + ：在审核继续进行期间，另一位糖尿病协会负责人出局",
     "BCG Vaccine-Induced Trained Immunity May Help Protect Against Dementia": "卡介苗诱导的训练免疫可能有助于预防痴呆",
     "Treasury expected to be harder on China biotech deals in new rules": "财政部预计将在新规则中加大中国生物技术交易的难度",
@@ -64,7 +65,7 @@
     "Raman+NIR Spectra Improves Glucose Soft Sensing": "拉曼+近红外光谱改善葡萄糖软感",
     "Patients Should Be Considered When Choosing a Vector Production Method": "选择载体生产方法时应考虑患者",
     "Roivant, continuing ascent, claims another victory for rare disease drug": "Roivant继续上升，声称罕见病药物的又一次胜利",
-    "5 takeaways from Endpoints' AI Day: agents, AI slop, biosecurity": "Endpoints AI Day的5个要点：药剂、AI SLOP、生物安全",
+    "5 takeaways from Endpoints' AI Day: Agents, AI slop, biosecurity": "端点AI日的5个要点：药剂、AI SLOP、生物安全",
     "CSL hires ViiV CEO Deborah Waterhouse after three decades at GSK": "CSL在葛兰素史克工作三十年后聘请ViiV首席执行官Deborah Waterhouse",
     "Alcon and OpenAI make acquisitions; Tezspire's latest Phase 3 win": "爱尔康和OpenAI进行收购； Tezspire最新的第三阶段获胜",
     "Roivant's autoimmune drug succeeds in two pivotal trials, setting up 2027 filing": "Roivant的自身免疫药物在两项关键试验中取得成功，建立了2027年的申请",
@@ -103,17 +104,50 @@
     "Biopharma Sentiment Index | Q3 2026 survey results": "生物制药情绪指数| 2026年第三季度调查结果",
     "Scientists finally uncover why statins can cause muscle pain": "科学家终于揭示了为什么他汀类药物会导致肌肉疼痛",
     "How voters feel about trans rights and abortion access will soon be put to the test": "选民对跨性别权利和堕胎途径的感受将很快受到考验",
-    "STAT+: Dana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital": "STAT + ： Dana-Farber、Beth Israel将开始建设新的$ 16.8亿癌症医院",
     "Scientists discover a way to kill dangerous gut bacteria without killing the good": "科学家发现了一种杀死危险肠道细菌而不杀死有益细菌的方法",
     "Exclusive: Astellas partners with Boston ‘miniproteins’ startup": "独家：安斯泰来与波士顿“微蛋白”初创公司合作",
     "Hype vs. reality: What pharma’s hottest R&D bets have actually proved": "炒作与现实：制药公司最热门的研发赌注实际上证明了什么",
-    "Your aging brain may be trading memory for something more valuable": "您的衰老大脑可能正在用记忆换取更有价值的东西",
-    "Rapport says drug it licensed from J&J clears Phase 2 bipolar mania study": "融洽关系表示，从强生公司获得许可的药物清除了2期双相躁狂症研究",
-    "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau": "科学家找到一种方法来对抗阿尔茨海默氏症的脑损伤，而不去除有毒的tau"
+    "Your aging brain may be trading memory for something more valuable": "您的衰老大脑可能正在用记忆换取更有价值的东西"
   },
   "items": [
     {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Rezera files for IPO to back NLRP3 work in peripheral artery disease",
+      "titleZh": "Rezera文件用于IPO以支持NLRP3在外周动脉疾病中的工作",
+      "link": "https://endpoints.news/rezera-files-for-ipo-to-back-nlrp3-work-in-peripheral-artery-disease/",
+      "summary": "Rezera, the biotech that rebranded from NodThera earlier this year, has entered the queue for an initial public offering to bolster its decade-long NLRP3 efforts. The biotech submitted its pitch Wednesday ...",
+      "publishedAt": "2026-10-21T23:45:38+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "China biotech RiboX reveals first data of circular RNA therapies in people",
+      "titleZh": "中国生物技术公司RiboX首次披露人体循环RNA治疗数据",
+      "link": "https://endpoints.news/china-biotech-ribox-reveals-first-data-of-circular-rna-therapies-in-people/",
+      "summary": "Biotech investors and pharma companies have poured billions into three Boston-region startups competing to develop a next-generation version of mRNA technology that could make for more durable and potent therapies. But now a relatively",
+      "publishedAt": "2026-10-21T23:19:30+00:00"
+    },
+    {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: CMS extends fraud crackdown to New York’s adult day care program",
+      "titleZh": "STAT + ： CMS将打击欺诈行为扩展到纽约的成人日托计划",
+      "link": "https://www.statnews.com/2026/10/21/cms-medicaid-fraud-nyc-adult-daycare-operators/?utm_campaign=rss",
+      "summary": "CMS is cracking down on adult day cares in New York, part of a broader focus on alleged health care fraud.",
+      "publishedAt": "2026-10-21T21:38:41+00:00"
+    },
+    {
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -137,7 +171,7 @@
       "publishedAt": "2026-10-21T19:13:42+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -185,7 +219,7 @@
       "publishedAt": "2026-10-21T18:00:35+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -197,7 +231,7 @@
       "publishedAt": "2026-10-21T17:49:31+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -281,19 +315,19 @@
       "publishedAt": "2026-10-21T15:31:00+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "技术",
-      "title": "5 takeaways from Endpoints' AI Day: agents, AI slop, biosecurity",
-      "titleZh": "Endpoints AI Day的5个要点：药剂、AI SLOP、生物安全",
+      "title": "5 takeaways from Endpoints' AI Day: Agents, AI slop, biosecurity",
+      "titleZh": "端点AI日的5个要点：药剂、AI SLOP、生物安全",
       "link": "https://endpoints.news/5-takeaways-from-endpoints-ai-day-agents-ai-slop-biosecurity/",
-      "summary": "In 2024, I started Endpoints News’ flagship AI event because I didn’t see anything like it. Biopharma conferences scratched the surface with a stray AI panel. Machine-learning events like NeurIPS didn't gather the whole drug ...",
+      "summary": "In 2024, I started Endpoints News’ flagship AI event because I didn’t see anything like it. Biopharma conferences scratched the surface with a stray AI panel. Machine learning events like NeurIPS didn't gather the whole ...",
       "publishedAt": "2026-10-21T15:15:31+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -305,7 +339,7 @@
       "publishedAt": "2026-10-21T15:11:08+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -317,7 +351,7 @@
       "publishedAt": "2026-10-21T14:57:33+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -325,11 +359,11 @@
       "title": "Roivant's autoimmune drug succeeds in two pivotal trials, setting up 2027 filing",
       "titleZh": "Roivant的自身免疫药物在两项关键试验中取得成功，建立了2027年的申请",
       "link": "https://endpoints.news/roivants-autoimmune-drug-succeeds-in-two-pivotal-trials-setting-up-2027-filing/",
-      "summary": "Roivant Sciences on Wednesday checked off another milestone in its attempt to build a franchise drug in autoimmune diseases. The biotech said two trials for brepocitinib, which won its first approval earlier ...",
+      "summary": "Roivant Sciences checked off another milestone in its attempt to build a franchise drug in autoimmune diseases. The biotech said on Wednesday that two trials for brepocitinib, which won its first approval ...",
       "publishedAt": "2026-10-21T14:39:09+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -365,7 +399,7 @@
       "publishedAt": "2026-10-21T14:19:38+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -401,7 +435,7 @@
       "publishedAt": "2026-10-21T13:02:34+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -425,7 +459,7 @@
       "publishedAt": "2026-10-21T11:59:14+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -449,7 +483,7 @@
       "publishedAt": "2026-10-21T11:03:52+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -473,7 +507,7 @@
       "publishedAt": "2026-10-21T09:52:28+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -485,7 +519,7 @@
       "publishedAt": "2026-10-21T08:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -497,7 +531,7 @@
       "publishedAt": "2026-10-21T08:30:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -509,7 +543,7 @@
       "publishedAt": "2026-10-21T08:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -521,7 +555,7 @@
       "publishedAt": "2026-10-21T08:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -533,7 +567,7 @@
       "publishedAt": "2026-10-21T08:30:00+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -569,7 +603,7 @@
       "publishedAt": "2026-10-20T21:58:48+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -581,7 +615,7 @@
       "publishedAt": "2026-10-20T21:22:26+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -593,7 +627,7 @@
       "publishedAt": "2026-10-20T20:14:29+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -605,7 +639,7 @@
       "publishedAt": "2026-10-20T17:57:40+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -617,7 +651,7 @@
       "publishedAt": "2026-10-20T16:47:02+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -653,7 +687,7 @@
       "publishedAt": "2026-10-20T15:55:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -665,7 +699,7 @@
       "publishedAt": "2026-10-20T15:41:10+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -677,7 +711,7 @@
       "publishedAt": "2026-10-20T15:15:18+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -689,7 +723,7 @@
       "publishedAt": "2026-10-20T14:55:11+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -701,7 +735,7 @@
       "publishedAt": "2026-10-20T14:40:13+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -713,7 +747,7 @@
       "publishedAt": "2026-10-20T14:02:16+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -737,7 +771,7 @@
       "publishedAt": "2026-10-20T13:00:56+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -747,18 +781,6 @@
       "link": "https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss",
       "summary": "How do voters feel about trans students participating in school sports teams? Or abortion access? The U.S. is about to find out.",
       "publishedAt": "2026-10-20T12:55:52+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Dana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital",
-      "titleZh": "STAT + ： Dana-Farber、Beth Israel将开始建设新的$ 16.8亿癌症医院",
-      "link": "https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss",
-      "summary": "Dana-Farber Cancer Institute and Beth Israel Lahey Health are starting work on a $1.68 billion cancer hospital in Boston, marking a new phase in their competition with Mass General Brigham.",
-      "publishedAt": "2026-10-20T12:37:18+00:00"
     },
     {
       "id": "science-daily-health-10",
@@ -773,7 +795,7 @@
       "publishedAt": "2026-10-20T12:07:49+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -809,13 +831,13 @@
       "publishedAt": "2026-10-20T11:31:22+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
       "title": "Rapport says drug it licensed from J&J clears Phase 2 bipolar mania study",
-      "titleZh": "融洽关系表示，从强生公司获得许可的药物清除了2期双相躁狂症研究",
+      "titleZh": "",
       "link": "https://endpoints.news/rapport-says-drug-it-licensed-from-jj-clears-phase-2-bipolar-mania-study/",
       "summary": "Rapport Therapeutics said Tuesday its investigational oral drug that dials down the effect of AMPA receptors has cleared a mid-stage trial in bipolar mania, paving the way for registrational studies slated to start next year. ...",
       "publishedAt": "2026-10-20T11:14:39+00:00"
@@ -827,7 +849,7 @@
       "lang": "en",
       "category": "技术",
       "title": "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau",
-      "titleZh": "科学家找到一种方法来对抗阿尔茨海默氏症的脑损伤，而不去除有毒的tau",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261019093355.htm",
       "summary": "Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons. In mice, the treatment preserved roughly 40% more tissue in memory centers and improved memory, even without removing harmful tau protein",
       "publishedAt": "2026-10-20T09:52:35+00:00"
@@ -857,7 +879,7 @@
       "publishedAt": "2026-10-20T00:49:11+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -869,7 +891,7 @@
       "publishedAt": "2026-10-19T19:17:01+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -881,7 +903,7 @@
       "publishedAt": "2026-10-19T19:01:09+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -905,7 +927,7 @@
       "publishedAt": "2026-10-19T16:27:00+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -915,18 +937,6 @@
       "link": "https://endpoints.news/gileads-pill-posts-stronger-colitis-remission-rates-than-entyvio/",
       "summary": "Gilead Sciences will start late-stage trials of its oral α4β7 inhibitor in ulcerative colitis next year after data from a Phase 2 dose-finding trial suggested that the drug looked better than rival products. After taking ...",
       "publishedAt": "2026-10-19T15:05:39+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "EyePoint's Phase 3 failure; Lilly's China drug delivery deal",
-      "titleZh": "",
-      "link": "https://endpoints.news/eyepoints-phase-3-failure-lillys-china-drug-delivery-deal/",
-      "summary": "Plus news about Longwood's next fund and Ryzumvi's label expansion. EyePoint drug fails, biotech halves staff: The Watertown, MA-based biotech is letting go of 53% of its positions after its experimental ...",
-      "publishedAt": "2026-10-19T15:01:30+00:00"
     },
     {
       "id": "biopharma-dive-7",
@@ -939,18 +949,6 @@
       "link": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
       "summary": "The acquisition gives the German company a promising blood disorder medicine that passed a Phase 2 test and could threaten a Takeda drug.",
       "publishedAt": "2026-10-19T13:59:52+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Merck KGaA to buy Silence Therapeutics and its siRNA pipeline for $1.3B",
-      "titleZh": "",
-      "link": "https://endpoints.news/merck-kgaa-will-buy-silence-therapeutics-and-its-sirna-pipeline-for-1-3b/",
-      "summary": "Germany's Merck KGaA agreed to buy UK drug developer Silence Therapeutics for $1.3 billion, building out its work in rare and specialty diseases using genetic medicines. Silence is developing the siRNA drug divesiran, which is ...",
-      "publishedAt": "2026-10-19T13:57:45+00:00"
     },
     {
       "id": "biopharma-dive-8",
@@ -1071,6 +1069,102 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
       "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish without disrupting their normal social interactions. The finding",
       "publishedAt": "2026-10-18T12:52:13+00:00"
+    },
+    {
+      "id": "nature-biotech-0",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03348-1",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-1",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Recordanelles for transcriptome-wide single-cell RNA recording in human cells",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03327-6",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-2",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03360-5",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-3",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Engineered human Argonaute 2 for targeted C-to-U RNA base editing",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03359-y",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-4",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Editor’s pick: Bioptimus",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03345-4",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-5",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Structural variant detection across sequencing technologies",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03332-9",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-6",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Proteomic aging clocks go to trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03361-4",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-7",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "In vivo engineering of CAR natural killer cells for immunotherapy using ligand-directed lipid nanoparticles",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03310-1",
+      "summary": "",
+      "publishedAt": ""
     },
     {
       "id": "nature-medicine-0",
