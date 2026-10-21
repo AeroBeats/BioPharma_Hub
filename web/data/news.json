@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-20T23:48:57.460592+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-21T04:34:40.758711+00:00",
+  "count": 88,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,7 +46,9 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Biotechnology"
+  ],
   "translations": {
     "New Catalytic Reactive-Hydrogen Membranes Capture and Break Down PFAS": "新的催化反应-氢气膜捕获和分解PFAS",
     "STAT+: He’s slashing quality at nursing homes. This state is letting it happen": "STAT + ：他正在削减疗养院的质量。这种状态让它发生",
@@ -1069,102 +1071,6 @@
       "link": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
       "summary": "Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI&rsquo;s role in drug development evolving.",
       "publishedAt": "2026-10-16T16:10:00+00:00"
-    },
-    {
-      "id": "nature-biotech-0",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03360-5",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-1",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Engineered human Argonaute 2 for targeted C-to-U RNA base editing",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03359-y",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-2",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Editor’s pick: Bioptimus",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03345-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-3",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Structural variant detection across sequencing technologies",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03332-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-4",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Proteomic aging clocks go to trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03361-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-5",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "In vivo engineering of CAR natural killer cells for immunotherapy using ligand-directed lipid nanoparticles",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03310-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-6",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Engrafting human cortical organoids",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03355-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genome editing",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03324-9",
-      "summary": "",
-      "publishedAt": ""
     },
     {
       "id": "nature-medicine-0",
