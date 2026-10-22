@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-21T23:58:48.921892+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-22T04:33:15.542651+00:00",
+  "count": 88,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,7 +46,9 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Medicine"
+  ],
   "translations": {
     "Rezera files for IPO to back NLRP3 work in peripheral artery disease": "Rezera文件用于IPO以支持NLRP3在外周动脉疾病中的工作",
     "China biotech RiboX reveals first data of circular RNA therapies in people": "中国生物技术公司RiboX首次披露人体循环RNA治疗数据",
@@ -1163,102 +1165,6 @@
       "title": "In vivo engineering of CAR natural killer cells for immunotherapy using ligand-directed lipid nanoparticles",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03310-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-0",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Editorial Expression of Concern: Oncogenic transformation of diverse gastrointestinal tissues in primary organoid culture",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04749-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-1",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "The need for resilience in global vaccination programs",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04690-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-2",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Author Correction: Povorcitinib for hidradenitis suppurativa: the randomized, double-blind, placebo-controlled STOP-HS1 and STOP-HS2 phase 3 trials",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04747-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-3",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Global, regional and national burden of pertussis in 1990–2023: a Global Burden of Disease study",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04660-8",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-4",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04661-7",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-5",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Author Correction: FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04757-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Waiting to get sick enough",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04701-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04692-0",
       "summary": "",
       "publishedAt": ""
     }
