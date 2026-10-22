@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-22T04:33:15.542651+00:00",
+  "updatedAt": "2026-10-22T10:04:19.969135+00:00",
   "count": 88,
   "sources": [
     {
@@ -50,6 +50,10 @@
     "Nature Medicine"
   ],
   "translations": {
+    "STAT+: Workers are paying 9% more for family health coverage this year, a higher jump than in the recent past": "STAT + ：今年工人为家庭健康保险支付的费用增加了9% ，比过去增加了9%",
+    "Opinion: What I got wrong about the Affordable Care Act — and how to fix it": "意见：我对《平价医疗法案》的错误之处—以及如何解决",
+    "Opinion: The inherited disease my family called ‘it’ had a name, which changed everything": "意见：我家人称之为“它”的遗传病有一个名字，改变了一切",
+    "STAT+: Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction": "STAT + ：远程医疗超越FDA批准使用标签外GLP-1成瘾处方",
     "Rezera files for IPO to back NLRP3 work in peripheral artery disease": "Rezera文件用于IPO以支持NLRP3在外周动脉疾病中的工作",
     "China biotech RiboX reveals first data of circular RNA therapies in people": "中国生物技术公司RiboX首次披露人体循环RNA治疗数据",
     "STAT+: CMS extends fraud crackdown to New York’s adult day care program": "STAT + ： CMS将打击欺诈行为扩展到纽约的成人日托计划",
@@ -98,20 +102,64 @@
     "STAT+: Roche continues to look to China for new drugs": "STAT + ：罗氏继续在中国寻找新药",
     "Rapport’s epilepsy drug finds surprising success in bipolar trial": "融洽的癫痫药物在躁郁症试验中取得了惊人的成功",
     "Most new drugs are still too costly at launch, ICER says": "ICER表示，大多数新药在发布时仍然过于昂贵",
-    "Why I wish you didn’t want to see Nathan Fielder’s Elizabeth Holmes documentary": "为什么我希望你不想看内森·菲尔德（ Nathan Fielder ）的伊丽莎白·福尔摩斯（ Elizabeth Holmes ）",
     "An EHR giant backs consumer healthcare": "EHR巨头支持消费者医疗保健",
     "Pfizer ends Phase 2 autoimmune study; Lycia aims for $227M IPO": "辉瑞结束2期自身免疫研究； Lycia计划首次公开募股$ 2.27亿美元",
-    "STAT+: OpenEvidence’s JAMA paper leaves open questions": "STAT + ： OpenEvidence的JAMA论文留下了悬而未决的问题",
-    "STAT+: Pharmalittle: We’re reading about drug launch prices, an AstraZeneca AI deal, and more": "STAT + ： Pharmalittle ：我们正在阅读药品上市价格、阿斯利康人工智能交易等信息",
     "Biopharma Sentiment Index | Q3 2026 survey results": "生物制药情绪指数| 2026年第三季度调查结果",
     "Scientists finally uncover why statins can cause muscle pain": "科学家终于揭示了为什么他汀类药物会导致肌肉疼痛",
-    "How voters feel about trans rights and abortion access will soon be put to the test": "选民对跨性别权利和堕胎途径的感受将很快受到考验",
     "Scientists discover a way to kill dangerous gut bacteria without killing the good": "科学家发现了一种杀死危险肠道细菌而不杀死有益细菌的方法",
     "Exclusive: Astellas partners with Boston ‘miniproteins’ startup": "独家：安斯泰来与波士顿“微蛋白”初创公司合作",
     "Hype vs. reality: What pharma’s hottest R&D bets have actually proved": "炒作与现实：制药公司最热门的研发赌注实际上证明了什么",
     "Your aging brain may be trading memory for something more valuable": "您的衰老大脑可能正在用记忆换取更有价值的东西"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Workers are paying 9% more for family health coverage this year, a higher jump than in the recent past",
+      "titleZh": "STAT + ：今年工人为家庭健康保险支付的费用增加了9% ，比过去增加了9%",
+      "link": "https://www.statnews.com/2026/10/22/kff-2026-benefits-survey-9-percent-premium-increase/?utm_campaign=rss",
+      "summary": "A KFF survey finds that rising healthcare costs are squeezing both employers and workers.",
+      "publishedAt": "2026-10-22T09:00:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: What I got wrong about the Affordable Care Act — and how to fix it",
+      "titleZh": "意见：我对《平价医疗法案》的错误之处—以及如何解决",
+      "link": "https://www.statnews.com/2026/10/22/aca-failure-contain-healthcare-costs-economist-regret/?utm_campaign=rss",
+      "summary": "“The big mistake, ironically, was the ACA’s lack of focus on affordability,” writes Dana Goldman.",
+      "publishedAt": "2026-10-22T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "Opinion: The inherited disease my family called ‘it’ had a name, which changed everything",
+      "titleZh": "意见：我家人称之为“它”的遗传病有一个名字，改变了一切",
+      "link": "https://www.statnews.com/2026/10/22/rare-disease-family-name-fenib-personal-essay/?utm_campaign=rss",
+      "summary": "For 50 years, doctors shrugged about the disease running through Miranda Pappas’ family. Then she discovered something.",
+      "publishedAt": "2026-10-22T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction",
+      "titleZh": "STAT + ：远程医疗超越FDA批准使用标签外GLP-1成瘾处方",
+      "link": "https://www.statnews.com/2026/10/22/glp-1-drugs-substance-use-disorder-telehealth-off-label-prescription/?utm_campaign=rss",
+      "summary": "As telehealth promotes GLP-1s for addiction, experts worry about fragmented care, and exposing patients to unknown risks.",
+      "publishedAt": "2026-10-22T08:30:00+00:00"
+    },
     {
       "id": "endpoints-0",
       "source": "Endpoints News",
@@ -121,7 +169,7 @@
       "title": "Rezera files for IPO to back NLRP3 work in peripheral artery disease",
       "titleZh": "Rezera文件用于IPO以支持NLRP3在外周动脉疾病中的工作",
       "link": "https://endpoints.news/rezera-files-for-ipo-to-back-nlrp3-work-in-peripheral-artery-disease/",
-      "summary": "Rezera, the biotech that rebranded from NodThera earlier this year, has entered the queue for an initial public offering to bolster its decade-long NLRP3 efforts. The biotech submitted its pitch Wednesday ...",
+      "summary": "Rezera, the biotech that rebranded from NodThera earlier this year, has entered the queue for an initial public offering to bolster its NLRP3 efforts. The biotech submitted its pitch Wednesday night ...",
       "publishedAt": "2026-10-21T23:45:38+00:00"
     },
     {
@@ -137,7 +185,7 @@
       "publishedAt": "2026-10-21T23:19:30+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -149,7 +197,7 @@
       "publishedAt": "2026-10-21T21:38:41+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -221,7 +269,7 @@
       "publishedAt": "2026-10-21T18:00:35+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -365,7 +413,7 @@
       "publishedAt": "2026-10-21T14:39:09+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -401,7 +449,7 @@
       "publishedAt": "2026-10-21T14:19:38+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -437,7 +485,7 @@
       "publishedAt": "2026-10-21T13:02:34+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -461,7 +509,7 @@
       "publishedAt": "2026-10-21T11:59:14+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -509,7 +557,7 @@
       "publishedAt": "2026-10-21T09:52:28+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -521,7 +569,7 @@
       "publishedAt": "2026-10-21T08:30:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -533,7 +581,7 @@
       "publishedAt": "2026-10-21T08:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -545,7 +593,7 @@
       "publishedAt": "2026-10-21T08:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -557,7 +605,7 @@
       "publishedAt": "2026-10-21T08:30:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -605,7 +653,7 @@
       "publishedAt": "2026-10-20T21:58:48+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -617,7 +665,7 @@
       "publishedAt": "2026-10-20T21:22:26+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -641,7 +689,7 @@
       "publishedAt": "2026-10-20T17:57:40+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -653,7 +701,7 @@
       "publishedAt": "2026-10-20T16:47:02+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -689,18 +737,6 @@
       "publishedAt": "2026-10-20T15:55:00+00:00"
     },
     {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Why I wish you didn’t want to see Nathan Fielder’s Elizabeth Holmes documentary",
-      "titleZh": "为什么我希望你不想看内森·菲尔德（ Nathan Fielder ）的伊丽莎白·福尔摩斯（ Elizabeth Holmes ）",
-      "link": "https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/?utm_campaign=rss",
-      "summary": "A reporter who interviewed Elizabeth Holmes on why society confuses authenticity, honesty, and truth, and how she takes advantage.",
-      "publishedAt": "2026-10-20T15:41:10+00:00"
-    },
-    {
       "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
@@ -725,30 +761,6 @@
       "publishedAt": "2026-10-20T14:55:11+00:00"
     },
     {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: OpenEvidence’s JAMA paper leaves open questions",
-      "titleZh": "STAT + ： OpenEvidence的JAMA论文留下了悬而未决的问题",
-      "link": "https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/?utm_campaign=rss",
-      "summary": "In this edition of STAT Health Tech: A new paper in JAMA offers a glimpse into clinicians's use of OpenEvidence, and a look at Isomorphic Labs.",
-      "publishedAt": "2026-10-20T14:40:13+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: Pharmalittle: We’re reading about drug launch prices, an AstraZeneca AI deal, and more",
-      "titleZh": "STAT + ： Pharmalittle ：我们正在阅读药品上市价格、阿斯利康人工智能交易等信息",
-      "link": "https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss",
-      "summary": "The median net price for newly launched medicines, when adjusted for inflation and manufacturer discounts, rose by 35% from 2022 to 2025.",
-      "publishedAt": "2026-10-20T14:02:16+00:00"
-    },
-    {
       "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
@@ -771,18 +783,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
       "summary": "Scientists have uncovered a surprising reason why statins, the widely prescribed cholesterol-lowering drugs that help prevent heart attacks and strokes, can sometimes cause muscle pain, weakness, and even severe muscle damage. Using advanced imaging technology, researchers discovered that statins ca",
       "publishedAt": "2026-10-20T13:00:56+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "How voters feel about trans rights and abortion access will soon be put to the test",
-      "titleZh": "选民对跨性别权利和堕胎途径的感受将很快受到考验",
-      "link": "https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss",
-      "summary": "How do voters feel about trans students participating in school sports teams? Or abortion access? The U.S. is about to find out.",
-      "publishedAt": "2026-10-20T12:55:52+00:00"
     },
     {
       "id": "science-daily-health-10",
