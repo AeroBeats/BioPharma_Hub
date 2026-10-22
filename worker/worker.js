@@ -1,10 +1,11 @@
 // BioPharma Hub AI backend for Cloudflare Workers.
 // Deploy via Cloudflare dashboard (Workers & Pages → Create Worker → paste this file).
-// Required Secret: QODER_PAT  (Workers & Pages → Settings → Variables and Secrets)
+// Required Secret: DEEPSEEK_API_KEY  (Workers & Pages → Settings → Variables and Secrets)
 // Optional Var:    ALLOWED_ORIGINS (comma-separated CORS whitelist;
 //                   default "https://aerobeats.github.io")
 
-const QODER_API = "https://api.qoder.com.cn/api/v1/cloud/chat/completions";
+const DEEPSEEK_API = "https://api.deepseek.com/v1/chat/completions";
+const MODEL = "deepseek-chat"; // or "deepseek-reasoner" for reasoning model
 
 const SYSTEM_PROMPT =
   "你是一名资深生物医药实验设计顾问。请针对用户提供的 Protocol 草稿，给出专业、简洁、可执行的优化建议，" +
@@ -48,27 +49,34 @@ async function enhance(payload, env, cors) {
   const draft = String(payload?.draft || "").slice(0, 8000);
   if (!topic && !draft) return json({ ok: false, error: "empty_input" }, cors, 400);
 
-  const pat = env.QODER_PAT;
-  if (!pat) {
-    return json({ ok: true, ai: false, note: "后端未配置 QODER_PAT，AI 暂不可用。" }, cors);
+  const apiKey = env.DEEPSEEK_API_KEY;
+  if (!apiKey) {
+    return json({ ok: true, ai: false, note: "后端未配置 DEEPSEEK_API_KEY，AI 暂不可用。" }, cors);
   }
 
   try {
-    const res = await fetch(QODER_API, {
+    const res = await fetch(DEEPSEEK_API, {
       method: "POST",
-      headers: { "Content-Type": "application/json", Authorization: "Bearer " + pat },
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: "Bearer " + apiKey,
+      },
       body: JSON.stringify({
+        model: MODEL,
         messages: [
           { role: "system", content: SYSTEM_PROMPT },
           { role: "user", content: "Protocol 主题：" + topic + "\n\n当前草稿：\n" + draft },
         ],
+        temperature: 0.7,
+        max_tokens: 2000,
       }),
     });
     if (!res.ok) {
+      const errText = await res.text().catch(() => "");
       return json({ ok: true, ai: false, note: "AI 服务暂时不可用（HTTP " + res.status + "）。模板流程仍可正常使用。" }, cors);
     }
     const data = await res.json();
-    const text = data?.choices?.[0]?.message?.content || data?.content || data?.message || "";
+    const text = data?.choices?.[0]?.message?.content || "";
     return json({ ok: true, ai: true, text: String(text) }, cors);
   } catch {
     return json({ ok: true, ai: false, note: "AI 服务连接失败。模板流程仍可正常使用。" }, cors);

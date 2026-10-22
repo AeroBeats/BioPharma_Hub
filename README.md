@@ -132,7 +132,7 @@ AI 智能优化功能依赖后端服务，部署到 Cloudflare Workers（免费�
 
 2. **配置密钥**
    - 进入 Worker → Settings → Variables and Secrets
-   - 添加 **Secret**: `QODER_PAT` = 你的 Qoder Personal Access Token
+   - 添加 **Secret**: `DEEPSEEK_API_KEY` = 你的 DeepSeek API Key
    - 添加 Variable (Text): `ALLOWED_ORIGINS` = `https://aerobeats.github.io` (多个域名用逗号分隔)
 
 3. **获取域名**
@@ -154,9 +154,10 @@ AI 智能优化功能依赖后端服务，部署到 Cloudflare Workers（免费�
 
 ### 安全说明
 
-- **QODER_PAT 必须存为 Secret**，不会出现在代码或前端
+- **DEEPSEEK_API_KEY 必须存为 Secret**，不会出现在代码或前端
 - Worker 只允许白名单域名发起请求（CORS 校验）
-- 如需轮换 PAT，直接在 Cloudflare 控制台修改 Secret，无需重新部署代码
+- 如需轮换 API Key，直接在 Cloudflare 控制台修改 Secret，无需重新部署代码
+- DeepSeek API 按 token 计费，建议设置月度预算上限（DeepSeek 控制台 → Billing）
 
 ## 许可证
 
