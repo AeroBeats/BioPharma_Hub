@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-22T20:00:48.995809+00:00",
+  "updatedAt": "2026-10-22T23:17:39.801952+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,9 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general": "STAT + ：吉利德支付4500万$以解决德克萨斯州总检察长提出的回扣费用",
+    "Treasury proposal would sharply limit US investments in much of China biotech": "财政部提议将大幅限制美国对中国大部分生物技术的投资",
+    "Pfizer details mixed Lyme disease vaccine data": "辉瑞详细介绍混合莱姆病疫苗数据",
     "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results": "Moderna ，默克的股价跌落在急切期待的癌症疫苗结果上",
     "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial": "STAT + ：详细数据证实Moderna和Merck癌症疫苗符合黑色素瘤试验的关键终点",
     "Data leak for Merck and Moderna’s therapeutic cancer vaccine": "默克和Moderna的治疗性癌症疫苗数据泄露",
@@ -104,12 +107,45 @@
     "Researchers Validate Buoyant Mass for Cell Health Testing": "研究人员验证了用于细胞健康测试的浮质质量",
     "Roivant, continuing ascent, claims another victory for rare disease drug": "Roivant继续上升，声称罕见病药物的又一次胜利",
     "5 takeaways from Endpoints' AI Day: Agents, AI slop, biosecurity": "端点AI日的5个要点：药剂、AI SLOP、生物安全",
-    "CSL hires ViiV CEO Deborah Waterhouse after three decades at GSK": "CSL在葛兰素史克工作三十年后聘请ViiV首席执行官Deborah Waterhouse",
-    "Alcon and OpenAI make acquisitions; Tezspire's latest Phase 3 win": "爱尔康和OpenAI进行收购； Tezspire最新的第三阶段获胜",
-    "Roivant's autoimmune drug succeeds in two pivotal trials, setting up 2027 filing": "Roivant的自身免疫药物在两项关键试验中取得成功，建立了2027年的申请",
-    "STAT+: GSK picks up hep B drug approval": "STAT + ：葛兰素史克获得乙型肝炎药物批准"
+    "CSL hires ViiV CEO Deborah Waterhouse after three decades at GSK": "CSL在葛兰素史克工作三十年后聘请ViiV首席执行官Deborah Waterhouse"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general",
+      "titleZh": "STAT + ：吉利德支付4500万$以解决德克萨斯州总检察长提出的回扣费用",
+      "link": "https://www.statnews.com/pharmalot/2026/10/22/gilead-settles-kickback-lawsuit-texas-attorney-general/?utm_campaign=rss",
+      "summary": "Gilead Sciences agreed to pay $45 million to settle allegations of paying kickbacks that improperly influenced prescriptions paid for by the Texas Medicaid program",
+      "publishedAt": "2026-10-22T23:12:17+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Treasury proposal would sharply limit US investments in much of China biotech",
+      "titleZh": "财政部提议将大幅限制美国对中国大部分生物技术的投资",
+      "link": "https://endpoints.news/treasury-proposal-would-sharply-limit-us-investments-in-much-of-china-biotech/",
+      "summary": "Draft regulations from the Treasury Department would put broad limits on what types of drug and biotech assets that US companies and venture capitalists could invest in and make deals for. The",
+      "publishedAt": "2026-10-22T21:57:11+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "Pfizer details mixed Lyme disease vaccine data",
+      "titleZh": "辉瑞详细介绍混合莱姆病疫苗数据",
+      "link": "https://endpoints.news/pfizer-details-mixed-lyme-disease-vaccine-data/",
+      "summary": "New data on a closely watched Lyme disease vaccine from Pfizer and Valneva provide details on the near-miss in one of two analyses, as the vaccine's commercial future hangs in the balance. Unveiled Thursday at ...",
+      "publishedAt": "2026-10-22T20:00:07+00:00"
+    },
     {
       "id": "biopharma-dive-0",
       "source": "BioPharma Dive",
@@ -123,7 +159,7 @@
       "publishedAt": "2026-10-22T19:27:00+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,15 +171,15 @@
       "publishedAt": "2026-10-22T19:03:31+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
-      "category": "研发",
+      "category": "市场",
       "title": "Data leak for Merck and Moderna’s therapeutic cancer vaccine",
       "titleZh": "默克和Moderna的治疗性癌症疫苗数据泄露",
       "link": "https://endpoints.news/data-leaks-for-merck-and-modernas-therapeutic-cancer-vaccine/",
-      "summary": "MADRID — Results of a Phase 3 trial of Moderna and Merck’s closely watched cancer vaccine were released on Thursday, after the data were leaked earlier in the day. The therapeutic vaccine, named intismeran autogene, cut ...",
+      "summary": "MADRID — Data from a Phase 3 trial of Moderna and Merck’s cancer vaccine showed that it continued to cut patients’ risk of death or their cancer recurring, but fell short of investors’ high hopes. The ...",
       "publishedAt": "2026-10-22T18:37:12+00:00"
     },
     {
@@ -171,7 +207,7 @@
       "publishedAt": "2026-10-22T18:22:49+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +219,7 @@
       "publishedAt": "2026-10-22T18:22:27+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +231,7 @@
       "publishedAt": "2026-10-22T18:04:47+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +279,7 @@
       "publishedAt": "2026-10-22T16:43:05+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +303,7 @@
       "publishedAt": "2026-10-22T16:24:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +315,7 @@
       "publishedAt": "2026-10-22T16:17:03+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -315,7 +351,7 @@
       "publishedAt": "2026-10-22T15:20:26+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -327,7 +363,7 @@
       "publishedAt": "2026-10-22T15:18:05+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +375,7 @@
       "publishedAt": "2026-10-22T15:06:28+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +387,7 @@
       "publishedAt": "2026-10-22T14:09:51+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +399,7 @@
       "publishedAt": "2026-10-22T14:07:13+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -375,7 +411,7 @@
       "publishedAt": "2026-10-22T14:00:40+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +423,7 @@
       "publishedAt": "2026-10-22T13:42:46+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +435,7 @@
       "publishedAt": "2026-10-22T13:35:20+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +447,7 @@
       "publishedAt": "2026-10-22T13:17:29+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -423,7 +459,7 @@
       "publishedAt": "2026-10-22T12:30:01+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +471,7 @@
       "publishedAt": "2026-10-22T12:22:12+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -459,7 +495,7 @@
       "publishedAt": "2026-10-22T11:42:05+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +531,7 @@
       "publishedAt": "2026-10-22T10:52:18+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -519,7 +555,7 @@
       "publishedAt": "2026-10-22T10:10:23+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +567,7 @@
       "publishedAt": "2026-10-22T09:00:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +579,7 @@
       "publishedAt": "2026-10-22T08:30:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +591,7 @@
       "publishedAt": "2026-10-22T08:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +639,7 @@
       "publishedAt": "2026-10-22T02:37:01+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -615,7 +651,7 @@
       "publishedAt": "2026-10-21T23:45:38+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +663,7 @@
       "publishedAt": "2026-10-21T23:19:30+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -639,7 +675,7 @@
       "publishedAt": "2026-10-21T21:38:41+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -663,7 +699,7 @@
       "publishedAt": "2026-10-21T19:13:42+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -711,7 +747,7 @@
       "publishedAt": "2026-10-21T18:00:35+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -723,7 +759,7 @@
       "publishedAt": "2026-10-21T17:49:31+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -771,7 +807,7 @@
       "publishedAt": "2026-10-21T15:31:00+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -783,7 +819,7 @@
       "publishedAt": "2026-10-21T15:15:31+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -795,37 +831,25 @@
       "publishedAt": "2026-10-21T15:11:08+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
       "title": "Alcon and OpenAI make acquisitions; Tezspire's latest Phase 3 win",
-      "titleZh": "爱尔康和OpenAI进行收购； Tezspire最新的第三阶段获胜",
+      "titleZh": "",
       "link": "https://endpoints.news/alcon-and-openai-make-acquisitions-tezspires-latest-phase-3-win/",
       "summary": "Alcon acquires Neurotech: The Swiss eye specialist paid $550 million upfront to acquire Neurotech Pharmaceuticals and could make additional payments if certain milestones are met. Alcon gains hold of an FDA-approved ...",
       "publishedAt": "2026-10-21T14:57:33+00:00"
     },
     {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Roivant's autoimmune drug succeeds in two pivotal trials, setting up 2027 filing",
-      "titleZh": "Roivant的自身免疫药物在两项关键试验中取得成功，建立了2027年的申请",
-      "link": "https://endpoints.news/roivants-autoimmune-drug-succeeds-in-two-pivotal-trials-setting-up-2027-filing/",
-      "summary": "Roivant Sciences checked off another milestone in its attempt to build a franchise drug in autoimmune diseases. The biotech said on Wednesday that two trials for brepocitinib, which won its first approval ...",
-      "publishedAt": "2026-10-21T14:39:09+00:00"
-    },
-    {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "审批",
       "title": "STAT+: GSK picks up hep B drug approval",
-      "titleZh": "STAT + ：葛兰素史克获得乙型肝炎药物批准",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
       "summary": "GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods.",
       "publishedAt": "2026-10-21T14:24:45+00:00"
@@ -843,7 +867,7 @@
       "publishedAt": "2026-10-21T14:23:00+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -879,18 +903,6 @@
       "publishedAt": "2026-10-21T13:02:34+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: Roivant says closely watched immune drug succeeded in new eye disease",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/?utm_campaign=rss",
-      "summary": "An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis.",
-      "publishedAt": "2026-10-21T12:05:54+00:00"
-    },
-    {
       "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
@@ -913,18 +925,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
       "summary": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate how cells become younger and could help researchers better u",
       "publishedAt": "2026-10-21T11:03:52+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "GSK gets FDA approval for hepatitis B drug that offers functional cure",
-      "titleZh": "",
-      "link": "https://endpoints.news/gsk-gets-fda-approval-for-hepatitis-b-drug-that-offers-functional-cure/",
-      "summary": "The approval of GSK and Ionis’ chronic hepatitis B drug bepirovirsen came early, setting it up to eventually reach blockbuster status. But the FDA gave the drug, now branded Hibsago, a",
-      "publishedAt": "2026-10-21T10:12:55+00:00"
     },
     {
       "id": "science-daily-health-5",
