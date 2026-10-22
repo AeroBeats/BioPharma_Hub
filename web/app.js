@@ -4,7 +4,7 @@ import { TEMPLATES, getTemplate } from "./templates.js";
 // Absolute URL of the deployed AI backend (Cloudflare Worker). Leave "" to use
 // the same-origin Qoder Functions endpoint. Fill in the *.workers.dev URL after
 // deploying worker/worker.js, e.g. "https://biopharma-ai.<user>.workers.dev".
-const AI_ENDPOINT = "tiny-sea-6bf7.3440954925.workers.dev";
+const AI_ENDPOINT = "https://biopharma-hub.3440954925.workers.dev";
 
 // ── Utilities ─────────────────────────────────
 const $ = (sel, el = document) => el.querySelector(sel);
