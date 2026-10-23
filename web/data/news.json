@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-22T23:17:39.801952+00:00",
+  "updatedAt": "2026-10-23T04:38:49.294260+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,11 @@
   ],
   "failedSources": [],
   "translations": {
+    "Gilead strikes $1.3B upfront China deal for oral IL-23 drug": "吉利德在中国达成13亿美元的口服IL-23药物前期交易",
+    "Protein degrader specialist Lycia prices $318M IPO": "蛋白质脱脂机专家Lycia IPO定价$ 3.18亿美元",
+    "Cambridge scientists create a $10 chip that could put a medical lab on your wrist": "剑桥大学的科学家们创造了一个10 $的芯片，可以在你的手腕上放一个医学实验室",
+    "Scientists discover a hidden immune weapon against deadly lung cancer": "科学家发现了一种针对致命肺癌的隐藏免疫武器",
+    "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells": "Cryo-EM和AI设计的支架揭示安第斯山脉汉坦病毒如何结合细胞",
     "STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general": "STAT + ：吉利德支付4500万$以解决德克萨斯州总检察长提出的回扣费用",
     "Treasury proposal would sharply limit US investments in much of China biotech": "财政部提议将大幅限制美国对中国大部分生物技术的投资",
     "Pfizer details mixed Lyme disease vaccine data": "辉瑞详细介绍混合莱姆病疫苗数据",
@@ -76,6 +81,7 @@
     "STAT+: Pharmalittle: We’re reading about a U.S. rule on Chinese deals, Belgium refusing Mounjaro coverage, and more": "STAT + ： Pharmalittle ：我们正在阅读美国对中国交易的规定，比利时拒绝Mounjaro报道等",
     "STAT+: What to expect from the Moderna-Merck cancer vaccine data reveal": "STAT + ： Moderna-Merck癌症疫苗数据揭示了",
     "STAT+: FDA finalizes its guidance on apps related to drugs, pharma rejoices": "STAT + ： FDA最终确定与药物相关的应用程序指南，制药业欢欣鼓舞",
+    "Millions take fish oil for brain health. A two-year study found no benefit": "数百万人服用鱼油来维持大脑健康。一项为期两年的研究发现没有获益",
     "Healthcare industry weighs in on evidence standards for generative AI medical devices": "医疗保健行业权衡生成式人工智能医疗设备的证据标准",
     "Health insurance premiums jump 9%, and more Americans don’t have access to coverage": "医疗保险费上涨9% ，更多美国人无法获得医疗保险",
     "Redesign Health merges with ARC Global in $2B deal to help hospitals build startups": "Redesign Health以$ 2B的交易与ARC Global合并，以帮助医院建立初创公司",
@@ -101,15 +107,69 @@
     "ASHG: Signals Based on Clinical Obesity Show Stronger Links to Cardiovascular Health than Those Linked to BMI": "ASHG ：与BMI相关的信号相比，基于临床肥胖的信号与心血管健康的联系更强",
     "Using AI Agents and Bio-Foundation Models to Automate Vector Design for Cell Line Development": "使用人工智能试剂和生物基础模型自动化细胞系发育的载体设计",
     "Bridging the Translational Gap in Pancreatic Cancer Through Biology-First Modeling": "通过生物学首创建模弥合胰腺癌的转化差距",
-    "STAT+: What’s the deal with Isomorphic Labs?": "STAT + ： Isomorphic Labs是怎么回事？",
-    "Samsung Bio union to contest court ruling blocking worker strikes": "三星生物工会对阻止工人罢工的法院裁决提出异议",
-    "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug": "葛兰素史克、IONIS获得美国首个乙型肝炎药物批准",
-    "Researchers Validate Buoyant Mass for Cell Health Testing": "研究人员验证了用于细胞健康测试的浮质质量",
-    "Roivant, continuing ascent, claims another victory for rare disease drug": "Roivant继续上升，声称罕见病药物的又一次胜利",
-    "5 takeaways from Endpoints' AI Day: Agents, AI slop, biosecurity": "端点AI日的5个要点：药剂、AI SLOP、生物安全",
-    "CSL hires ViiV CEO Deborah Waterhouse after three decades at GSK": "CSL在葛兰素史克工作三十年后聘请ViiV首席执行官Deborah Waterhouse"
+    "STAT+: What’s the deal with Isomorphic Labs?": "STAT + ： Isomorphic Labs是怎么回事？"
   },
   "items": [
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Gilead strikes $1.3B upfront China deal for oral IL-23 drug",
+      "titleZh": "吉利德在中国达成13亿美元的口服IL-23药物前期交易",
+      "link": "https://endpoints.news/gilead-strikes-1-3b-upfront-china-deal-for-oral-il-23-drug/",
+      "summary": "Gilead is going to Shanghai for its latest expansion in the hot inflammation market, dishing out $1.28 billion upfront to PepStar Therapeutics for a Phase 1 asset. The California biopharma is gaining hold of an ...",
+      "publishedAt": "2026-10-23T02:02:41+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "Protein degrader specialist Lycia prices $318M IPO",
+      "titleZh": "蛋白质脱脂机专家Lycia IPO定价$ 3.18亿美元",
+      "link": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
+      "summary": "Funds from the upsized offering will support a trio of protein-degrading medicines in development for allergic conditions as well as the autoimmune disorder Graves&rsquo; disease.",
+      "publishedAt": "2026-10-23T01:37:00+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "titleZh": "剑桥大学的科学家们创造了一个10 $的芯片，可以在你的手腕上放一个医学实验室",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+      "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose,",
+      "publishedAt": "2026-10-23T01:21:47+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover a hidden immune weapon against deadly lung cancer",
+      "titleZh": "科学家发现了一种针对致命肺癌的隐藏免疫武器",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261021231232.htm",
+      "summary": "Researchers have uncovered a hidden immune defense capable of attacking small cell lung cancer, an extremely aggressive disease that often escapes conventional treatments. The specialized immune cells can recognize and destroy cancer cells even when tumors have disguised themselves from the immune s",
+      "publishedAt": "2026-10-23T00:32:37+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells",
+      "titleZh": "Cryo-EM和AI设计的支架揭示安第斯山脉汉坦病毒如何结合细胞",
+      "link": "https://www.genengnews.com/topics/infectious-diseases/cryo-em-and-ai-designed-scaffold-reveal-how-andes-hantavirus-binds-cells/",
+      "summary": "Using cryo-EM and an AI-designed scaffold, researchers mapped how Andes hantavirus engages a receptor on human cells. The findings explain how antibodies block attachment and may highlight a potential target for antiviral development. The post Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantav",
+      "publishedAt": "2026-10-22T23:50:03+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
@@ -123,7 +183,7 @@
       "publishedAt": "2026-10-22T23:12:17+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -135,7 +195,7 @@
       "publishedAt": "2026-10-22T21:57:11+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -147,7 +207,7 @@
       "publishedAt": "2026-10-22T20:00:07+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -171,7 +231,7 @@
       "publishedAt": "2026-10-22T19:03:31+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +243,7 @@
       "publishedAt": "2026-10-22T18:37:12+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -195,7 +255,7 @@
       "publishedAt": "2026-10-22T18:33:39+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -243,7 +303,7 @@
       "publishedAt": "2026-10-22T17:52:09+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -255,7 +315,7 @@
       "publishedAt": "2026-10-22T17:48:12+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -267,7 +327,7 @@
       "publishedAt": "2026-10-22T17:33:44+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -279,7 +339,7 @@
       "publishedAt": "2026-10-22T16:43:05+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +351,7 @@
       "publishedAt": "2026-10-22T16:32:24+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -315,7 +375,7 @@
       "publishedAt": "2026-10-22T16:17:03+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -327,7 +387,7 @@
       "publishedAt": "2026-10-22T15:51:50+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -339,7 +399,7 @@
       "publishedAt": "2026-10-22T15:50:00+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -351,7 +411,7 @@
       "publishedAt": "2026-10-22T15:20:26+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -375,7 +435,7 @@
       "publishedAt": "2026-10-22T15:06:28+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +447,7 @@
       "publishedAt": "2026-10-22T14:09:51+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -399,7 +459,7 @@
       "publishedAt": "2026-10-22T14:07:13+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -447,7 +507,19 @@
       "publishedAt": "2026-10-22T13:17:29+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "science-daily-health-6",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Millions take fish oil for brain health. A two-year study found no benefit",
+      "titleZh": "数百万人服用鱼油来维持大脑健康。一项为期两年的研究发现没有获益",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+      "summary": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect that getting these nutrients through a healthy diet may offer benefits that suppl",
+      "publishedAt": "2026-10-22T12:46:24+00:00"
+    },
+    {
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -471,7 +543,7 @@
       "publishedAt": "2026-10-22T12:22:12+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -483,7 +555,7 @@
       "publishedAt": "2026-10-22T12:00:26+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-1",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -495,7 +567,7 @@
       "publishedAt": "2026-10-22T11:42:05+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -507,7 +579,7 @@
       "publishedAt": "2026-10-22T11:30:58+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -519,7 +591,7 @@
       "publishedAt": "2026-10-22T11:30:49+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -531,7 +603,7 @@
       "publishedAt": "2026-10-22T10:52:18+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -543,7 +615,7 @@
       "publishedAt": "2026-10-22T10:21:48+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -603,7 +675,7 @@
       "publishedAt": "2026-10-22T08:30:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -615,7 +687,7 @@
       "publishedAt": "2026-10-22T03:37:25+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -627,7 +699,7 @@
       "publishedAt": "2026-10-22T03:03:08+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -639,7 +711,7 @@
       "publishedAt": "2026-10-22T02:37:01+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +723,7 @@
       "publishedAt": "2026-10-21T23:45:38+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +759,7 @@
       "publishedAt": "2026-10-21T19:59:48+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -699,7 +771,7 @@
       "publishedAt": "2026-10-21T19:13:42+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -711,7 +783,7 @@
       "publishedAt": "2026-10-21T18:48:02+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -723,7 +795,7 @@
       "publishedAt": "2026-10-21T18:30:56+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -735,7 +807,7 @@
       "publishedAt": "2026-10-21T18:14:18+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -759,40 +831,16 @@
       "publishedAt": "2026-10-21T17:49:31+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
       "title": "Samsung Bio union to contest court ruling blocking worker strikes",
-      "titleZh": "三星生物工会对阻止工人罢工的法院裁决提出异议",
+      "titleZh": "",
       "link": "https://endpoints.news/samsung-bio-union-to-contest-court-ruling-blocking-worker-strikes/",
       "summary": "Samsung Biologics may have won court approval to block upcoming worker strikes, but the company's labor union plans to appeal the decision and take further action. The labor group for the contract developer and manufacturer ...",
       "publishedAt": "2026-10-21T17:04:27+00:00"
-    },
-    {
-      "id": "biopharma-dive-4",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
-      "titleZh": "葛兰素史克、IONIS获得美国首个乙型肝炎药物批准",
-      "link": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
-      "summary": "Hibsago is viewed as a potential &ldquo;functional cure&rdquo; for chronic infections and an important part of the British drugmaker&rsquo;s goal of reaching &pound;40 billion in annual revenue by 2031.",
-      "publishedAt": "2026-10-21T16:03:00+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Researchers Validate Buoyant Mass for Cell Health Testing",
-      "titleZh": "研究人员验证了用于细胞健康测试的浮质质量",
-      "link": "https://www.genengnews.com/topics/bioprocessing/researchers-validate-buoyant-mass-for-cell-health-testing/",
-      "summary": "Scientists have used measurement of buoyant mass by suspended microchannel resonator (SMR) technology to assess the immune fitness of T cells and predict patient response to immune checkpoint blockade (ICB). The post Researchers Validate Buoyant Mass for Cell Health Testing appeared first on GEN - G",
-      "publishedAt": "2026-10-21T16:00:54+00:00"
     },
     {
       "id": "biopharma-dive-5",
@@ -800,47 +848,47 @@
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "审批",
+      "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
+      "titleZh": "",
+      "link": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
+      "summary": "Hibsago is viewed as a potential &ldquo;functional cure&rdquo; for chronic infections and an important part of the British drugmaker&rsquo;s goal of reaching &pound;40 billion in annual revenue by 2031.",
+      "publishedAt": "2026-10-21T16:03:00+00:00"
+    },
+    {
+      "id": "biopharma-dive-6",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
       "title": "Roivant, continuing ascent, claims another victory for rare disease drug",
-      "titleZh": "Roivant继续上升，声称罕见病药物的又一次胜利",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/roivant-brepocitinib-uveitis-study-results/833569/",
       "summary": "Shortly after winning a clearance in the skin disease dermatomyositis, brepocitinib posted results suggesting it might also be a &ldquo;best-in-disease&rdquo; medicine for an inflammatory eye condition, one analyst said.",
       "publishedAt": "2026-10-21T15:31:00+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "技术",
-      "title": "5 takeaways from Endpoints' AI Day: Agents, AI slop, biosecurity",
-      "titleZh": "端点AI日的5个要点：药剂、AI SLOP、生物安全",
-      "link": "https://endpoints.news/5-takeaways-from-endpoints-ai-day-agents-ai-slop-biosecurity/",
-      "summary": "In 2024, I started Endpoints News’ flagship AI event because I didn’t see anything like it. Biopharma conferences scratched the surface with a stray AI panel. Machine learning events like NeurIPS didn't gather the whole ...",
-      "publishedAt": "2026-10-21T15:15:31+00:00"
     },
     {
       "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
-      "category": "市场",
-      "title": "CSL hires ViiV CEO Deborah Waterhouse after three decades at GSK",
-      "titleZh": "CSL在葛兰素史克工作三十年后聘请ViiV首席执行官Deborah Waterhouse",
-      "link": "https://endpoints.news/csl-hires-viiv-ceo-deborah-waterhouse-after-three-decades-at-gsk/",
-      "summary": "Deborah Waterhouse is moving on from a 30-year career at GSK, departing as CEO of the UK pharma's HIV specialist ViiV Healthcare. Waterhouse will take on the CEO post at CSL on",
-      "publishedAt": "2026-10-21T15:11:08+00:00"
+      "category": "技术",
+      "title": "5 takeaways from Endpoints' AI Day: Agents, AI slop, biosecurity",
+      "titleZh": "",
+      "link": "https://endpoints.news/5-takeaways-from-endpoints-ai-day-agents-ai-slop-biosecurity/",
+      "summary": "In 2024, I started Endpoints News’ flagship AI event because I didn’t see anything like it. Biopharma conferences scratched the surface with a stray AI panel. Machine learning events like NeurIPS didn't gather the whole ...",
+      "publishedAt": "2026-10-21T15:15:31+00:00"
     },
     {
       "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
-      "category": "审批",
-      "title": "Alcon and OpenAI make acquisitions; Tezspire's latest Phase 3 win",
+      "category": "市场",
+      "title": "CSL hires ViiV CEO Deborah Waterhouse after three decades at GSK",
       "titleZh": "",
-      "link": "https://endpoints.news/alcon-and-openai-make-acquisitions-tezspires-latest-phase-3-win/",
-      "summary": "Alcon acquires Neurotech: The Swiss eye specialist paid $550 million upfront to acquire Neurotech Pharmaceuticals and could make additional payments if certain milestones are met. Alcon gains hold of an FDA-approved ...",
-      "publishedAt": "2026-10-21T14:57:33+00:00"
+      "link": "https://endpoints.news/csl-hires-viiv-ceo-deborah-waterhouse-after-three-decades-at-gsk/",
+      "summary": "Deborah Waterhouse is moving on from a 30-year career at GSK, departing as CEO of the UK pharma's HIV specialist ViiV Healthcare. Waterhouse will take on the CEO post at CSL on",
+      "publishedAt": "2026-10-21T15:11:08+00:00"
     },
     {
       "id": "stat-news-18",
@@ -855,7 +903,7 @@
       "publishedAt": "2026-10-21T14:24:45+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -879,7 +927,7 @@
       "publishedAt": "2026-10-21T13:26:27+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,7 +939,7 @@
       "publishedAt": "2026-10-21T13:22:17+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -903,7 +951,7 @@
       "publishedAt": "2026-10-21T13:02:34+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,7 +963,7 @@
       "publishedAt": "2026-10-21T11:59:14+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,7 +975,7 @@
       "publishedAt": "2026-10-21T11:03:52+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -939,7 +987,7 @@
       "publishedAt": "2026-10-21T09:52:28+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -951,7 +999,7 @@
       "publishedAt": "2026-10-21T01:58:07+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -963,7 +1011,7 @@
       "publishedAt": "2026-10-20T16:27:00+00:00"
     },
     {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -975,7 +1023,7 @@
       "publishedAt": "2026-10-20T15:55:00+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,31 +1035,7 @@
       "publishedAt": "2026-10-20T13:00:56+00:00"
     },
     {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover a way to kill dangerous gut bacteria without killing the good",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261019093353.htm",
-      "summary": "Scientists have discovered a natural compound that targets dangerous C. difficile bacteria without wiping out the gut's beneficial microbes. Successful early tests suggest it could lead to a gentler, more effective treatment for stubborn intestinal infections that frequently return.",
-      "publishedAt": "2026-10-20T12:07:49+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "研发",
-      "title": "Hype vs. reality: What pharma’s hottest R&D bets have actually proved",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/pharma-rd-bets-clinical-proof-gsk-summit/833332/",
-      "summary": "New types of bispecifics, antibody-drug conjugates and cell therapies haven&rsquo;t yet proven themselves in the clinic. Pharmaceutical companies are betting billions anyway.",
-      "publishedAt": "2026-10-20T12:00:00+00:00"
-    },
-    {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1023,7 +1047,7 @@
       "publishedAt": "2026-10-20T11:31:22+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1035,7 +1059,7 @@
       "publishedAt": "2026-10-20T09:52:35+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1045,30 +1069,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
       "summary": "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse events and showed a promising survival advantage, raising hopes that a common vitamin",
       "publishedAt": "2026-10-20T04:21:35+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Why painful arthritis can return stronger after cancer treatment",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205055.htm",
-      "summary": "Researchers discovered that recurring arthritis triggered by cancer immunotherapy may be driven by immune cells that remember previous attacks and return in a more aggressive state. The findings could pave the way for treatments that prevent painful flare-ups while preserving the immune system's abi",
-      "publishedAt": "2026-10-20T00:49:11+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
-      "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and functional decline, even in people already showing early sign",
-      "publishedAt": "2026-10-19T11:23:26+00:00"
     },
     {
       "id": "nature-biotech-0",
