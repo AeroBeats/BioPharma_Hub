@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-23T14:58:37.014861+00:00",
+  "updatedAt": "2026-10-23T19:07:23.966779+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,8 +48,21 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: Patient dies in Bristol Myers Squibb autoimmune CAR-T trial": "STAT + ： Bristol Myers Squibb自身免疫性CAR-T试验中患者死亡",
+    "STAT+: Most cancer drugs approved by European regulators lack a high clinical benefit, analysis finds": "STAT + ：分析发现，欧洲监管机构批准的大多数抗癌药物缺乏高临床获益",
+    "Q&A: Bristol Myers' Lynelle Hoch on autoimmune CAR-T safety challenges": "问答： Bristol Myers的Lynelle Hoch关于自身免疫性CAR-T安全挑战",
+    "STAT+: Novartis multiple sclerosis treatment cuts rates of relapse in pivotal trials": "STAT + ：诺华多发性硬化症治疗在关键试验中降低复发率",
+    "Opinion: It took me 13 years to be diagnosed with MS. Christina Applegate’s misdiagnosis doesn’t surprise me": "意见：我花了13年的时间才被诊断出患有Christina Applegate女士的误诊并不让我感到惊讶",
+    "STAT+: Up and down the ladder: The latest comings and goings": "STAT + ：上下阶梯：最新动态",
+    "Remembering STAT’s Helen Branswell": "回忆STAT的Helen Branswell",
+    "This week in charts: a big year for RNAi developers": "本周排行榜： RNAi开发人员的重要一年",
+    "STAT+: Tango builds on Revolution Medicines’ pancreatic cancer success": "STAT + ： Tango以Revolution Medicines的胰腺癌成功为基础",
+    "Wirelessly Powered Electronic Implant, ECHO, Enables Drug-Free Management of ‘Diabesity’": "无线供电的电子植入物ECHO实现“糖尿病”的无药物管理",
+    "Lycia's $318M IPO; Merck sac-TMT trial stopped early": "Lycia的3.18亿美元IPO ；默克SAC-TMT试验提前停止",
+    "Multiomic Study of MSS CRC Identifies Vulnerabilities Pointing to Therapeutic Possibilities": "MSS CRC的多组学研究确定了指向治疗可能性的漏洞",
+    "Roche taps Zymeworks in up to $813M deal for preclinical T cell engager": "罗氏利用Zymeworks获得高达8.13亿美元的临床前T细胞激活剂交易",
     "Anxiety builds over Medicaid work requirements": "焦虑建立在医疗补助工作要求之上",
-    "Bristol Myers reveals autoimmune CAR-T trial death, explains summertime pause": "布里斯托尔迈尔斯揭示自身免疫性CAR-T试验死亡，解释夏季暂停",
+    "Bristol Myers reveals death in MS CAR-T trial, has answer for safety signal in lupus trial": "布里斯托·迈尔斯（ Bristol Myers ）在MS CAR-T试验中揭示死亡，在狼疮试验中对安全信号有答案",
     "STAT+: Treasury proposes major restrictions to U.S. investment in Chinese biotech sector": "STAT + ：财政部提议对美国在中国生物技术领域的投资进行重大限制",
     "STAT+: Pharmalittle: We’re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more": "STAT + ： Pharmalittle ：我们正在阅读有关癌症疫苗、实验性胰腺癌药物等的信息",
     "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership": "Pathos以30亿美元的估值筹集了2.37亿美元，签署了布里斯托尔迈尔斯神经合作伙伴关系",
@@ -62,6 +75,7 @@
     "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial": "突破性PTSD治疗在临床试验中达到68%的缓解率",
     "Al Sandrock to step down as Voyager CEO; Insmed adds Paul Hudson to board": "Al Sandrock辞去Voyager首席执行官职务； Insmed将Paul Hudson加入董事会",
     "Star Therapeutics gets $200M to try repeating its Vega, Electra successes": "Star Therapeutics获得2亿美元，尝试重复其Vega ， Electra的成功",
+    "Star adds $200M after spinout successes": "分拆成功后， STAR增加了$ 2亿",
     "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer": "STAT + ： TANGO报告晚期胰腺癌联合治疗试验的肿瘤缓解率为82%",
     "Scientists discover a surprising double benefit of exercise for Parkinson’s": "科学家发现运动对帕金森氏症的双重益处",
     "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes": "STAT + ：州政府官员争先恐后地实施医疗补助工作要求，满足互换票据的要求",
@@ -82,36 +96,178 @@
     "Treasury proposal would sharply limit US investments in much of China biotech": "财政部提议将大幅限制美国对中国大部分生物技术的投资",
     "Pfizer details mixed Lyme disease vaccine data": "辉瑞详细介绍混合莱姆病疫苗数据",
     "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results": "Moderna ，默克的股价跌落在急切期待的癌症疫苗结果上",
-    "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial": "STAT + ：详细数据证实Moderna和Merck癌症疫苗符合黑色素瘤试验的关键终点",
     "#ESMO26: Data leak for Merck and Moderna’s therapeutic cancer vaccine": "# ESMO26 ： Merck和Moderna的治疗性癌症疫苗数据泄露",
     "EQT to Acquire Qiagen for $12.1B, Plans to Take Tools, Diagnostics Provider Private": "EQT以121亿美元收购QIAGEN ，计划采用工具，诊断提供商私有化",
     "Proteins Circulating in Blood Linked to Future Risk of Prostate Cancer": "血液中循环的蛋白质与前列腺癌的未来风险相关",
-    "STAT+: AbbVie skin disorder drug succeeds in late-stage trial, but results miss market expectations": "STAT + ：艾伯维皮肤病药物在后期试验中取得成功，但结果未达到市场预期",
-    "STAT+: Nutrition experts press White House to release ultra-processed food definition": "STAT + ：营养专家敦促白宫发布超加工食品的定义",
-    "Top MAHA adviser Calley Means resigns from White House days ahead of midterms": "高级MAHA顾问Calley意味着在中期选举前几天从白宫辞职",
     "Nvidia, UW Institute for Protein Design Unveil Open-Source Protein Design AI Model": "英伟达威斯康星大学蛋白质设计研究所推出开源蛋白质设计AI模型",
     "PerturbAI and OpenAI Launch AI Reasoning Agents for Biomedical Discovery": "PerturbAI和OpenAI推出用于生物医学发现的人工智能推理代理",
     "ASHG President Susan Slaugenhaupt Calls for Hope, Leadership, and Communication in Science": "ASHG总裁Susan Slaugenhaupt呼吁科学领域的希望、领导力和沟通",
     "Roche says it will help patients who are 'anxiously awaiting' its new breast cancer drug": "罗氏表示，它将帮助那些“焦急地等待”其新乳腺癌药物的患者",
     "Biohaven’s previously rejected rare disease drug to get fresh FDA review": "Biohaven先前拒绝的罕见病药物以获得新的FDA审查",
-    "STAT+: Will the Treasury restrict U.S. investment in the Chinese biotech sector?": "STAT + ：财政部是否会限制美国在中国生物技术领域的投资？",
     "American Medical Association CEO talks regulating AI care": "美国医学会首席执行官谈规范人工智能护理",
     "GLP-1 compounder issues recall for copycat Zepbound": "模仿Zepbound的GLP-1复合剂问题召回",
     "Roche affirms sales outlook amid doubts about its future": "罗氏在对其未来持怀疑态度的情况下确认销售前景",
-    "A hepatitis B hold lifted and drug tabled; Ultomiris' accelerated approval": "乙型肝炎暂缓治疗解除并上市； Ultomiris加速批准",
-    "STAT+: Crackdowns loom, from China to New York": "STAT + ：从中国到纽约的镇压迫在眉睫",
-    "AbbVie notches Phase 3 win in painful skin condition, FDA filing likely next year": "艾伯维在痛苦的皮肤状况中取得第3阶段的胜利， FDA可能会在明年提交申请",
-    "Sanofi's new German site; radioisotope deals from Northstar and Telix": "赛诺菲新的德国工厂； Northstar和Telix的放射性同位素交易",
-    "Big trials push beyond obesity to see if GLP-1s can quell alcohol, drug cravings": "大型试验超越肥胖，看看GLP-1s是否可以平息酒精和药物的渴望",
-    "STAT+: Pharmalittle: We’re reading about a U.S. rule on Chinese deals, Belgium refusing Mounjaro coverage, and more": "STAT + ： Pharmalittle ：我们正在阅读美国对中国交易的规定，比利时拒绝Mounjaro报道等",
-    "Millions take fish oil for brain health. A two-year study found no benefit": "数百万人服用鱼油来维持大脑健康。一项为期两年的研究发现没有获益",
-    "Healthcare industry weighs in on evidence standards for generative AI medical devices": "医疗保健行业权衡生成式人工智能医疗设备的证据标准",
-    "Oxford scientists discover how viruses build themselves without a blueprint": "牛津大学科学家发现病毒如何在没有蓝图的情况下自我构建",
-    "A revolutionary new microscope could reveal the hidden machinery of life": "革命性的新显微镜可以揭示隐藏的生命机器"
+    "A hepatitis B hold lifted and drug tabled; Ultomiris' accelerated approval": "乙型肝炎暂缓治疗解除并上市； Ultomiris加速批准"
   },
   "items": [
     {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "市场",
+      "title": "STAT+: Patient dies in Bristol Myers Squibb autoimmune CAR-T trial",
+      "titleZh": "STAT + ： Bristol Myers Squibb自身免疫性CAR-T试验中患者死亡",
+      "link": "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/?utm_campaign=rss",
+      "summary": "Where should the safety bar be for studies investigating CAR-T therapies for autoimmune conditions?",
+      "publishedAt": "2026-10-23T18:55:12+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Most cancer drugs approved by European regulators lack a high clinical benefit, analysis finds",
+      "titleZh": "STAT + ：分析发现，欧洲监管机构批准的大多数抗癌药物缺乏高临床获益",
+      "link": "https://www.statnews.com/pharmalot/2026/10/23/cancer-drugs-approved-europe-lack-high-clinical-benefit/?utm_campaign=rss",
+      "summary": "Most new cancer medicines approved by European regulators over a recent four-year period do not offer high clinical benefit, a new analysis finds.",
+      "publishedAt": "2026-10-23T18:48:10+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "Q&A: Bristol Myers' Lynelle Hoch on autoimmune CAR-T safety challenges",
+      "titleZh": "问答： Bristol Myers的Lynelle Hoch关于自身免疫性CAR-T安全挑战",
+      "link": "https://endpoints.news/qa-bristol-myers-lynelle-hoch-on-autoimmune-car-t-safety-challenges/",
+      "summary": "Bristol Myers Squibb is facing one problem after another with its autoimmune CAR-T therapy program. The company says it has figured out the cause of the safety signal in a lupus trial ...",
+      "publishedAt": "2026-10-23T18:36:40+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Novartis multiple sclerosis treatment cuts rates of relapse in pivotal trials",
+      "titleZh": "STAT + ：诺华多发性硬化症治疗在关键试验中降低复发率",
+      "link": "https://www.statnews.com/2026/10/23/novartis-remibrutinib-multiple-sclerosis-trial-results/?utm_campaign=rss",
+      "summary": "An MS treatment from Novartis cut by a third the rates of relapses compared to a standard treatment.",
+      "publishedAt": "2026-10-23T16:47:31+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: It took me 13 years to be diagnosed with MS. Christina Applegate’s misdiagnosis doesn’t surprise me",
+      "titleZh": "意见：我花了13年的时间才被诊断出患有Christina Applegate女士的误诊并不让我感到惊讶",
+      "link": "https://www.statnews.com/2026/10/23/christina-applegate-ms-misdiagnosis/?utm_campaign=rss",
+      "summary": "“I felt Christina Applegate’s disappointment as if it were my own — because not long ago, it was,” writes Lindsay Karp.",
+      "publishedAt": "2026-10-23T16:39:04+00:00"
+    },
+    {
+      "id": "stat-news-4",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "titleZh": "STAT + ：上下阶梯：最新动态",
+      "link": "https://www.statnews.com/pharmalot/2026/10/23/up-and-down-ladder-pharma-jobs-callio/?utm_campaign=rss",
+      "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+      "publishedAt": "2026-10-23T15:59:07+00:00"
+    },
+    {
+      "id": "stat-news-5",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Remembering STAT’s Helen Branswell",
+      "titleZh": "回忆STAT的Helen Branswell",
+      "link": "https://www.statnews.com/2026/10/23/readout-loud-podcast-remembering-helen-branswell-infectious-disease/?utm_campaign=rss",
+      "summary": "This week on the “The Readout LOUD” podcast, we remember our beloved colleague Helen Branswell, who died last week. We speak with colleagues, family, and public health leaders about her&#8230;",
+      "publishedAt": "2026-10-23T15:48:21+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "This week in charts: a big year for RNAi developers",
+      "titleZh": "本周排行榜： RNAi开发人员的重要一年",
+      "link": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
+      "summary": "The latest installment in BioPharma Dive&rsquo;s data visualization series features a look at the emerging popularity of RNAi developers, and the funding that came with it.",
+      "publishedAt": "2026-10-23T15:33:00+00:00"
+    },
+    {
+      "id": "stat-news-6",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Tango builds on Revolution Medicines’ pancreatic cancer success",
+      "titleZh": "STAT + ： Tango以Revolution Medicines的胰腺癌成功为基础",
+      "link": "https://www.statnews.com/2026/10/23/tango-pancreatic-cancer-star-moderna-readout-newsletter/?utm_campaign=rss",
+      "summary": "As the ESMO conference kicks off, Tango's pancreatic cancer combination shows striking promise and detailed data on Moderna and Merck's cancer vaccine is released early.",
+      "publishedAt": "2026-10-23T15:24:28+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "审批",
+      "title": "Wirelessly Powered Electronic Implant, ECHO, Enables Drug-Free Management of ‘Diabesity’",
+      "titleZh": "无线供电的电子植入物ECHO实现“糖尿病”的无药物管理",
+      "link": "https://www.genengnews.com/topics/translational-medicine/wirelessly-powered-electronic-implant-echo-enables-drug-free-management-of-diabesity/",
+      "summary": "Researchers developed an implantable, wirelessly powered electronic device, ECHO, that uses electrocatalysis to remove excess glucose from the bloodstream on demand, and could offer a drug-free approach to managing obesity and type 2 diabetes (T2D). The post Wirelessly Powered Electronic Implant, EC",
+      "publishedAt": "2026-10-23T15:21:24+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Lycia's $318M IPO; Merck sac-TMT trial stopped early",
+      "titleZh": "Lycia的3.18亿美元IPO ；默克SAC-TMT试验提前停止",
+      "link": "https://endpoints.news/lycias-318m-ipo-merck-sac-tmt-trial-stopped-early/",
+      "summary": "Plus news about Hexagon Bio, Mineralys Therapeutics and Arbor Biotechnologies. Lycia prices $317.5 million IPO: Lycia Therapeutics, a company founded by Nobel Prize winner Carolyn Bertozzi, is pricing its initial public ...",
+      "publishedAt": "2026-10-23T15:13:11+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Multiomic Study of MSS CRC Identifies Vulnerabilities Pointing to Therapeutic Possibilities",
+      "titleZh": "MSS CRC的多组学研究确定了指向治疗可能性的漏洞",
+      "link": "https://www.genengnews.com/topics/cancer/multiomic-study-of-mss-crc-identifies-vulnerabilities-pointing-to-therapeutic-possibilities/",
+      "summary": "Researchers analyzed mulitomic and clinical data from 2000 colorectal cancer samples and used an AI tool, iPhenMap, to help identify cancer cell vulnerabilities and drug combinations that could be used to treat MSS CRC. The post Multiomic Study of MSS CRC Identifies Vulnerabilities Pointing to Thera",
+      "publishedAt": "2026-10-23T15:12:58+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Roche taps Zymeworks in up to $813M deal for preclinical T cell engager",
+      "titleZh": "罗氏利用Zymeworks获得高达8.13亿美元的临床前T细胞激活剂交易",
+      "link": "https://endpoints.news/roche-taps-zymeworks-in-up-to-813m-deal-for-preclinical-t-cell-engager/",
+      "summary": "Another day, another Roche deal. The Swiss pharma is teaming up with Zymeworks, paying $55 million upfront for worldwide rights to a trispecific T cell engager (TCE) that could go head-to-head with Amgen’s Imdelltra. Zymeworks ...",
+      "publishedAt": "2026-10-23T15:03:52+00:00"
+    },
+    {
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -123,19 +279,19 @@
       "publishedAt": "2026-10-23T14:47:21+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "研发",
-      "title": "Bristol Myers reveals autoimmune CAR-T trial death, explains summertime pause",
-      "titleZh": "布里斯托尔迈尔斯揭示自身免疫性CAR-T试验死亡，解释夏季暂停",
+      "title": "Bristol Myers reveals death in MS CAR-T trial, has answer for safety signal in lupus trial",
+      "titleZh": "布里斯托·迈尔斯（ Bristol Myers ）在MS CAR-T试验中揭示死亡，在狼疮试验中对安全信号有答案",
       "link": "https://endpoints.news/bristol-myers-reveals-autoimmune-car-t-trial-death-explains-summertime-pause/",
       "summary": "A patient has died in a Bristol Myers Squibb study of autoimmune CAR-T, the same technology that was called into question this summer when both Bristol Myers and Novartis paused similar programs. The patient, who ...",
       "publishedAt": "2026-10-23T14:33:54+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +303,7 @@
       "publishedAt": "2026-10-23T14:03:06+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +315,7 @@
       "publishedAt": "2026-10-23T13:45:14+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +327,7 @@
       "publishedAt": "2026-10-23T13:00:57+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -179,11 +335,11 @@
       "title": "Post-Hoc Live: Did the US just kill off China biotech deals?",
       "titleZh": "事后直播：美国刚刚扼杀了中国的生物技术交易吗？",
       "link": "https://endpoints.news/post-hoc-live-did-the-us-just-kill-off-china-biotech-deals/",
-      "summary": "Last night, the Treasury Department issued a proposed rule to implement the COINS Act, the 2025 law that governs US investment in sensitive technologies in China and other countries. In a surprise turn, a broad ...",
+      "summary": "Thursday night, the Treasury Department issued a proposed rule to implement the COINS Act, the 2025 law that governs US investment in sensitive technologies in China and other countries. In a surprise turn, a broad ...",
       "publishedAt": "2026-10-23T13:00:44+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +351,7 @@
       "publishedAt": "2026-10-23T13:00:17+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -207,7 +363,7 @@
       "publishedAt": "2026-10-23T13:00:00+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +375,7 @@
       "publishedAt": "2026-10-23T11:35:00+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +411,7 @@
       "publishedAt": "2026-10-23T11:02:25+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +423,7 @@
       "publishedAt": "2026-10-23T11:00:34+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -279,7 +435,19 @@
       "publishedAt": "2026-10-23T11:00:15+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "biopharma-dive-1",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "研发",
+      "title": "Star adds $200M after spinout successes",
+      "titleZh": "分拆成功后， STAR增加了$ 2亿",
+      "link": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
+      "summary": "Following exits for its subsidiaries Electra Therapeutics and Vega Therapeutics, Star is now mining for a new drug prospect.",
+      "publishedAt": "2026-10-23T11:00:00+00:00"
+    },
+    {
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +471,7 @@
       "publishedAt": "2026-10-23T10:10:11+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +483,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +495,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +507,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +519,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +531,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +555,7 @@
       "publishedAt": "2026-10-23T08:28:22+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -399,7 +567,7 @@
       "publishedAt": "2026-10-23T07:45:51+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +579,7 @@
       "publishedAt": "2026-10-23T07:45:00+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -423,7 +591,7 @@
       "publishedAt": "2026-10-23T02:02:41+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -459,7 +627,7 @@
       "publishedAt": "2026-10-23T00:32:37+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -471,7 +639,7 @@
       "publishedAt": "2026-10-22T23:50:03+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +651,7 @@
       "publishedAt": "2026-10-22T23:12:17+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +663,7 @@
       "publishedAt": "2026-10-22T21:57:11+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -507,7 +675,7 @@
       "publishedAt": "2026-10-22T20:00:07+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -519,19 +687,7 @@
       "publishedAt": "2026-10-22T19:27:00+00:00"
     },
     {
-      "id": "stat-news-13",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
-      "titleZh": "STAT + ：详细数据证实Moderna和Merck癌症疫苗符合黑色素瘤试验的关键终点",
-      "link": "https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/?utm_campaign=rss",
-      "summary": "A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment.",
-      "publishedAt": "2026-10-22T19:03:31+00:00"
-    },
-    {
-      "id": "endpoints-12",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -543,7 +699,7 @@
       "publishedAt": "2026-10-22T18:37:12+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -555,7 +711,7 @@
       "publishedAt": "2026-10-22T18:33:39+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -567,43 +723,7 @@
       "publishedAt": "2026-10-22T18:22:49+00:00"
     },
     {
-      "id": "stat-news-14",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: AbbVie skin disorder drug succeeds in late-stage trial, but results miss market expectations",
-      "titleZh": "STAT + ：艾伯维皮肤病药物在后期试验中取得成功，但结果未达到市场预期",
-      "link": "https://www.statnews.com/2026/10/22/abbvie-lutikizumab-hidradenitis-suppurativa-drug-phase-3-results/?utm_campaign=rss",
-      "summary": "AbbVie's lutikizumab, an experimental therapy for a chronic skin condition, succeeded in a late-stage trial but missed market expectations.",
-      "publishedAt": "2026-10-22T18:22:27+00:00"
-    },
-    {
-      "id": "stat-news-15",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Nutrition experts press White House to release ultra-processed food definition",
-      "titleZh": "STAT + ：营养专家敦促白宫发布超加工食品的定义",
-      "link": "https://www.statnews.com/2026/10/22/ultra-processed-food-definition-maha-white-house/?utm_campaign=rss",
-      "summary": "MAHA allies and nutrition experts want the Trump administration to act on ultra-processed foods before the elections.",
-      "publishedAt": "2026-10-22T18:04:47+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Top MAHA adviser Calley Means resigns from White House days ahead of midterms",
-      "titleZh": "高级MAHA顾问Calley意味着在中期选举前几天从白宫辞职",
-      "link": "https://www.statnews.com/2026/10/22/calley-means-resigns-white-house-adviser-maha-movement/?utm_campaign=rss",
-      "summary": "The surprising departure of Calley Means comes just before an election that may serve as a referendum on the MAHA movement.",
-      "publishedAt": "2026-10-22T17:52:09+00:00"
-    },
-    {
-      "id": "gen-3",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -615,7 +735,7 @@
       "publishedAt": "2026-10-22T17:48:12+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -627,7 +747,7 @@
       "publishedAt": "2026-10-22T17:33:44+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -639,7 +759,7 @@
       "publishedAt": "2026-10-22T16:43:05+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +771,7 @@
       "publishedAt": "2026-10-22T16:32:24+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -663,19 +783,7 @@
       "publishedAt": "2026-10-22T16:24:00+00:00"
     },
     {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: Will the Treasury restrict U.S. investment in the Chinese biotech sector?",
-      "titleZh": "STAT + ：财政部是否会限制美国在中国生物技术领域的投资？",
-      "link": "https://www.statnews.com/2026/10/22/biotech-news-treasury-restrictions-for-us-investment-in-chinese-biotech/?utm_campaign=rss",
-      "summary": "Rumors are swirling that the Treasury Department this week is going to propose a rule that restricts U.S. investment in the Chinese biotech sector.",
-      "publishedAt": "2026-10-22T16:17:03+00:00"
-    },
-    {
-      "id": "endpoints-14",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +795,7 @@
       "publishedAt": "2026-10-22T15:51:50+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -699,7 +807,7 @@
       "publishedAt": "2026-10-22T15:50:00+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -711,7 +819,7 @@
       "publishedAt": "2026-10-22T15:20:26+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -723,64 +831,16 @@
       "publishedAt": "2026-10-22T15:18:05+00:00"
     },
     {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Crackdowns loom, from China to New York",
-      "titleZh": "STAT + ：从中国到纽约的镇压迫在眉睫",
-      "link": "https://www.statnews.com/2026/10/22/china-biotech-coins-act-rule-health-insurance-costs-rise/?utm_campaign=rss",
-      "summary": "Speaking on the economy, the vice president told a crowd in Ohio that, “You don’t turn the Titanic around overnight.” Send news tips and bad metaphors to John.Wilkerson@statnews.com or John_Wilkerson.07&#8230;",
-      "publishedAt": "2026-10-22T15:06:28+00:00"
-    },
-    {
-      "id": "endpoints-16",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
       "title": "AbbVie notches Phase 3 win in painful skin condition, FDA filing likely next year",
-      "titleZh": "艾伯维在痛苦的皮肤状况中取得第3阶段的胜利， FDA可能会在明年提交申请",
+      "titleZh": "",
       "link": "https://endpoints.news/abbvie-notches-phase-3-win-in-painful-skin-condition-fda-filing-likely-next-year/",
       "summary": "AbbVie unwrapped a Phase 3 success on Thursday for an experimental drug designed to treat a debilitating skin disease. In the trial, AbbVie’s IL-1α and IL-1β inhibitor lutikizumab improved patient response ...",
       "publishedAt": "2026-10-22T14:09:51+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Sanofi's new German site; radioisotope deals from Northstar and Telix",
-      "titleZh": "赛诺菲新的德国工厂； Northstar和Telix的放射性同位素交易",
-      "link": "https://endpoints.news/sanofis-new-german-site-radioisotope-deals-from-northstar-and-telix/",
-      "summary": "Plus more from Baxter and United Therapeutics. Sanofi starts construction of an insulin factory: Sanofi has broken ground on a new 36,000-square-meter manufacturing facility at its site in Frankfurt, which ...",
-      "publishedAt": "2026-10-22T14:07:13+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Big trials push beyond obesity to see if GLP-1s can quell alcohol, drug cravings",
-      "titleZh": "大型试验超越肥胖，看看GLP-1s是否可以平息酒精和药物的渴望",
-      "link": "https://endpoints.news/big-trials-push-beyond-obesity-to-see-if-glp-1s-can-quell-alcohol-drug-cravings/",
-      "summary": "For nearly as long as they've been approved for diabetes and weight loss, GLP-1 drugs have captured the public imagination as a possible solution to diseases far beyond metabolic disorders. That potential is now inching ...",
-      "publishedAt": "2026-10-22T14:00:40+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: Pharmalittle: We’re reading about a U.S. rule on Chinese deals, Belgium refusing Mounjaro coverage, and more",
-      "titleZh": "STAT + ： Pharmalittle ：我们正在阅读美国对中国交易的规定，比利时拒绝Mounjaro报道等",
-      "link": "https://www.statnews.com/pharmalot/2026/10/22/chinese-biotech-deals-scrutiny-belgium-refuses-mounjaro-coverage/?utm_campaign=rss",
-      "summary": "U.S. is poised to issue a proposed rule that would subject outbound licensing deals with Chinese biotech companies to additional scrutiny",
-      "publishedAt": "2026-10-22T13:42:46+00:00"
     },
     {
       "id": "science-daily-health-10",
@@ -789,22 +849,10 @@
       "lang": "en",
       "category": "研发",
       "title": "Millions take fish oil for brain health. A two-year study found no benefit",
-      "titleZh": "数百万人服用鱼油来维持大脑健康。一项为期两年的研究发现没有获益",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
       "summary": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect that getting these nutrients through a healthy diet may offer benefits that suppl",
       "publishedAt": "2026-10-22T12:46:24+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Healthcare industry weighs in on evidence standards for generative AI medical devices",
-      "titleZh": "医疗保健行业权衡生成式人工智能医疗设备的证据标准",
-      "link": "https://endpoints.news/healthcare-industry-weighs-in-on-evidence-standards-for-generative-ai-medical-devices/",
-      "summary": "How much evidence should the FDA require before it authorizes a generative AI-enabled medical device? The question was a point of contention among healthcare lobbying organizations and tech companies, who weighed in as the FDA ...",
-      "publishedAt": "2026-10-22T12:30:01+00:00"
     },
     {
       "id": "science-daily-health-5",
@@ -813,7 +861,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Oxford scientists discover how viruses build themselves without a blueprint",
-      "titleZh": "牛津大学科学家发现病毒如何在没有蓝图的情况下自我构建",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
       "summary": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecular turning point that speeds up assembly and could lead to n",
       "publishedAt": "2026-10-22T11:42:05+00:00"
@@ -825,7 +873,7 @@
       "lang": "en",
       "category": "研发",
       "title": "A revolutionary new microscope could reveal the hidden machinery of life",
-      "titleZh": "革命性的新显微镜可以揭示隐藏的生命机器",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
       "summary": "Researchers have developed a revolutionary microscope that uses an incredibly powerful laser to make previously invisible cellular structures easier to see. The technology dramatically improves image clarity, allowing scientists to examine small proteins that conventional electron microscopes strugg",
       "publishedAt": "2026-10-22T11:30:49+00:00"
@@ -891,7 +939,7 @@
       "publishedAt": "2026-10-22T02:37:01+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -903,7 +951,7 @@
       "publishedAt": "2026-10-21T19:13:42+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -915,31 +963,7 @@
       "publishedAt": "2026-10-21T18:30:56+00:00"
     },
     {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "审批",
-      "title": "Using AI Agents and Bio-Foundation Models to Automate Vector Design for Cell Line Development",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/multimedia/webinars/using-ai-agents-and-bio-foundation-models-to-automate-vector-design-for-cell-line-development/",
-      "summary": "In this GEN webinar, Asimov’s VP of Business Development and Commercial Strategy Jamie Freeman, PhD, will show how Asimov combines bio-foundation models, AI agents, and synthetic biology to tailor expression vector design for each molecule. The post Using AI Agents and Bio-Foundation Models to Autom",
-      "publishedAt": "2026-10-21T18:14:18+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Bridging the Translational Gap in Pancreatic Cancer Through Biology-First Modeling",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/multimedia/webinars/bridging-the-translational-gap-in-pancreatic-cancer-through-biology-first-modeling/",
-      "summary": "In this GEN webinar, our expert speaker Josh Wheeler, MD, PhD, will discuss a biology-first, interpretable AI approach to understand patient tumor states and next-generation preclinical models that reproduce their biological complexity. The post Bridging the Translational Gap in Pancreatic Cancer Th",
-      "publishedAt": "2026-10-21T18:00:35+00:00"
-    },
-    {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -951,7 +975,7 @@
       "publishedAt": "2026-10-21T16:03:00+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -963,7 +987,7 @@
       "publishedAt": "2026-10-21T15:31:00+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -1033,30 +1057,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261020085025.htm",
       "summary": "A new Penn State study suggests that just four minutes of daily strength training can significantly improve mobility and physical function in older adults. After 12 weeks, participants showed meaningful gains in balance, leg strength, and their ability to stand up from a chair, all important factors",
       "publishedAt": "2026-10-21T09:52:28+00:00"
-    },
-    {
-      "id": "biopharma-dive-8",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "市场",
-      "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/rapport-bipolar-mania-clinical-trial-rap-219-results/833454/",
-      "summary": "Despite what some analysts described as low expectations, RAP-219 narrowly hit the main goal of a mid-stage study, results that could help it tap a billion-dollar-plus market opportunity.",
-      "publishedAt": "2026-10-20T16:27:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "研发",
-      "title": "Most new drugs are still too costly at launch, ICER says",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/icer-new-drug-launch-prices-report-2022-2025/833468/",
-      "summary": "A new analysis from the non-profit group found that net launch prices for new medicines spiked significantly between 2022 and 2025, and the majority were well above its cost-effectiveness guidelines. &nbsp;",
-      "publishedAt": "2026-10-20T15:55:00+00:00"
     },
     {
       "id": "science-daily-health-19",
