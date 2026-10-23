@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-23T19:07:23.966779+00:00",
+  "updatedAt": "2026-10-23T23:04:45.616884+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,8 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early": "STAT + ：备受期待的Moderna-Merck黑色素瘤癌症疫苗数据提前到达",
+    "STAT+: Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear": "STAT + ：糖尿病协会表示， “威胁”先于成员被驱逐，但承认政策不明确",
     "STAT+: Patient dies in Bristol Myers Squibb autoimmune CAR-T trial": "STAT + ： Bristol Myers Squibb自身免疫性CAR-T试验中患者死亡",
     "STAT+: Most cancer drugs approved by European regulators lack a high clinical benefit, analysis finds": "STAT + ：分析发现，欧洲监管机构批准的大多数抗癌药物缺乏高临床获益",
     "Q&A: Bristol Myers' Lynelle Hoch on autoimmune CAR-T safety challenges": "问答： Bristol Myers的Lynelle Hoch关于自身免疫性CAR-T安全挑战",
@@ -86,13 +88,11 @@
     "One family’s story of a life-extending medicine for pancreatic cancer": "一个家庭关于延年益寿的胰腺癌药物的故事",
     "Scientists discover a hidden messaging system deep inside the brain": "科学家在大脑深处发现了一个隐藏的消息系统",
     "Alnylam plans bigger study of RNA drug for Huntington’s disease": "Alnylam计划对亨廷顿舞蹈症的RNA药物进行更大规模的研究",
-    "STAT+: Alnylam says Huntington’s drug shows promise in early study": "STAT + ： Alnylam说亨廷顿药物在早期研究中显示出前景",
     "Gilead strikes $1.3B upfront China deal for oral IL-23 drug": "吉利德在中国达成13亿美元的口服IL-23药物前期交易",
     "Protein degrader specialist Lycia prices $318M IPO": "蛋白质脱脂机专家Lycia IPO定价$ 3.18亿美元",
     "Cambridge scientists create a $10 chip that could put a medical lab on your wrist": "剑桥大学的科学家们创造了一个10 $的芯片，可以在你的手腕上放一个医学实验室",
     "Scientists discover a hidden immune weapon against deadly lung cancer": "科学家发现了一种针对致命肺癌的隐藏免疫武器",
     "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells": "Cryo-EM和AI设计的支架揭示安第斯山脉汉坦病毒如何结合细胞",
-    "STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general": "STAT + ：吉利德支付4500万$以解决德克萨斯州总检察长提出的回扣费用",
     "Treasury proposal would sharply limit US investments in much of China biotech": "财政部提议将大幅限制美国对中国大部分生物技术的投资",
     "Pfizer details mixed Lyme disease vaccine data": "辉瑞详细介绍混合莱姆病疫苗数据",
     "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results": "Moderna ，默克的股价跌落在急切期待的癌症疫苗结果上",
@@ -115,6 +115,30 @@
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
+      "titleZh": "STAT + ：备受期待的Moderna-Merck黑色素瘤癌症疫苗数据提前到达",
+      "link": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss",
+      "summary": "In data released at ESMO, the Moderna-Merck personalized mRNA cancer vaccine reduced recurrence-free survival and the time until distant metastasis occurred.",
+      "publishedAt": "2026-10-23T19:19:55+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear",
+      "titleZh": "STAT + ：糖尿病协会表示， “威胁”先于成员被驱逐，但承认政策不明确",
+      "link": "https://www.statnews.com/2026/10/23/ada-new-orleans-convention-new-report-on-controversial-june-ejections/?utm_campaign=rss",
+      "summary": "The American Diabetes Association has issued two explanations, two reviews and an apology over its June convention. A Friday report adds new twists.",
+      "publishedAt": "2026-10-23T19:16:37+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
       "category": "市场",
       "title": "STAT+: Patient dies in Bristol Myers Squibb autoimmune CAR-T trial",
       "titleZh": "STAT + ： Bristol Myers Squibb自身免疫性CAR-T试验中患者死亡",
@@ -123,7 +147,7 @@
       "publishedAt": "2026-10-23T18:55:12+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +171,7 @@
       "publishedAt": "2026-10-23T18:36:40+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +183,7 @@
       "publishedAt": "2026-10-23T16:47:31+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -171,7 +195,7 @@
       "publishedAt": "2026-10-23T16:39:04+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +207,7 @@
       "publishedAt": "2026-10-23T15:59:07+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -207,7 +231,7 @@
       "publishedAt": "2026-10-23T15:33:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +291,7 @@
       "publishedAt": "2026-10-23T15:03:52+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +315,7 @@
       "publishedAt": "2026-10-23T14:33:54+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +327,7 @@
       "publishedAt": "2026-10-23T14:03:06+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +375,7 @@
       "publishedAt": "2026-10-23T13:00:17+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +471,7 @@
       "publishedAt": "2026-10-23T11:00:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +495,7 @@
       "publishedAt": "2026-10-23T10:10:11+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +507,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +519,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +531,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +543,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +555,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -565,18 +589,6 @@
       "link": "https://endpoints.news/alnylam-plans-bigger-study-of-rna-drug-for-huntingtons-disease/",
       "summary": "As with many of the most feared neurological conditions, Huntington’s disease has proven to be a minefield for drug developers. Promising biomarker data didn’t translate into clinical benefits in Roche’s recent study ...",
       "publishedAt": "2026-10-23T07:45:51+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Alnylam says Huntington’s drug shows promise in early study",
-      "titleZh": "STAT + ： Alnylam说亨廷顿药物在早期研究中显示出前景",
-      "link": "https://www.statnews.com/2026/10/23/huntingtons-alnylam-gene-silencing-brezosiran/?utm_campaign=rss",
-      "summary": "It’s yet to be seen whether Alnylam’s drug will actually slow progression of Huntington’s, but the field is lively.",
-      "publishedAt": "2026-10-23T07:45:00+00:00"
     },
     {
       "id": "endpoints-12",
@@ -637,18 +649,6 @@
       "link": "https://www.genengnews.com/topics/infectious-diseases/cryo-em-and-ai-designed-scaffold-reveal-how-andes-hantavirus-binds-cells/",
       "summary": "Using cryo-EM and an AI-designed scaffold, researchers mapped how Andes hantavirus engages a receptor on human cells. The findings explain how antibodies block attachment and may highlight a potential target for antiviral development. The post Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantav",
       "publishedAt": "2026-10-22T23:50:03+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general",
-      "titleZh": "STAT + ：吉利德支付4500万$以解决德克萨斯州总检察长提出的回扣费用",
-      "link": "https://www.statnews.com/pharmalot/2026/10/22/gilead-settles-kickback-lawsuit-texas-attorney-general/?utm_campaign=rss",
-      "summary": "Gilead Sciences agreed to pay $45 million to settle allegations of paying kickbacks that improperly influenced prescriptions paid for by the Texas Medicaid program",
-      "publishedAt": "2026-10-22T23:12:17+00:00"
     },
     {
       "id": "endpoints-13",
@@ -1171,6 +1171,18 @@
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
+      "category": "技术",
+      "title": "Putting conversational AI to the test in primary care",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00054-y",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
       "category": "研发",
       "title": "The human microbiome and chronic disease: ten strategic priorities for research and public health",
       "titleZh": "",
@@ -1179,7 +1191,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "Editorial Expression of Concern: Oncogenic transformation of diverse gastrointestinal tissues in primary organoid culture",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04749-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "The need for resilience in global vaccination programs",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04690-2",
       "summary": "",
       "publishedAt": ""
     }
