@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-23T04:38:49.294260+00:00",
+  "updatedAt": "2026-10-23T09:58:39.191082+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,14 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes": "STAT + ：州政府官员争先恐后地实施医疗补助工作要求，满足互换票据的要求",
+    "Opinion: New Medicare policies will keep important pain relief from some patients": "意见：新的Medicare政策将保留一些患者的重要疼痛缓解",
+    "Opinion: Overdose deaths have plunged. We need to know why": "意见：过量死亡人数大幅下降。我们需要知道为什么",
+    "STAT reporters react to the new Elizabeth Holmes documentary": "STAT记者对伊丽莎白·福尔摩斯（ Elizabeth Holmes ）的新纪录",
+    "How a targeted drug kept one patient alive 15 years — but failed to save her friends": "靶向药物如何使一名患者存活15年—但未能挽救她的朋友",
+    "One family’s story of a life-extending medicine for pancreatic cancer": "一个家庭关于延年益寿的胰腺癌药物的故事",
+    "Alnylam plans bigger study of RNA drug for Huntington’s disease": "Alnylam计划对亨廷顿舞蹈症的RNA药物进行更大规模的研究",
+    "STAT+: Alnylam says Huntington’s drug shows promise in early study": "STAT + ： Alnylam说亨廷顿药物在早期研究中显示出前景",
     "Gilead strikes $1.3B upfront China deal for oral IL-23 drug": "吉利德在中国达成13亿美元的口服IL-23药物前期交易",
     "Protein degrader specialist Lycia prices $318M IPO": "蛋白质脱脂机专家Lycia IPO定价$ 3.18亿美元",
     "Cambridge scientists create a $10 chip that could put a medical lab on your wrist": "剑桥大学的科学家们创造了一个10 $的芯片，可以在你的手腕上放一个医学实验室",
@@ -58,7 +66,7 @@
     "Pfizer details mixed Lyme disease vaccine data": "辉瑞详细介绍混合莱姆病疫苗数据",
     "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results": "Moderna ，默克的股价跌落在急切期待的癌症疫苗结果上",
     "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial": "STAT + ：详细数据证实Moderna和Merck癌症疫苗符合黑色素瘤试验的关键终点",
-    "Data leak for Merck and Moderna’s therapeutic cancer vaccine": "默克和Moderna的治疗性癌症疫苗数据泄露",
+    "#ESMO26: Data leak for Merck and Moderna’s therapeutic cancer vaccine": "# ESMO26 ： Merck和Moderna的治疗性癌症疫苗数据泄露",
     "EQT to Acquire Qiagen for $12.1B, Plans to Take Tools, Diagnostics Provider Private": "EQT以121亿美元收购QIAGEN ，计划采用工具，诊断提供商私有化",
     "Proteins Circulating in Blood Linked to Future Risk of Prostate Cancer": "血液中循环的蛋白质与前列腺癌的未来风险相关",
     "STAT+: AbbVie skin disorder drug succeeds in late-stage trial, but results miss market expectations": "STAT + ：艾伯维皮肤病药物在后期试验中取得成功，但结果未达到市场预期",
@@ -93,25 +101,113 @@
     "Scientists discover a surprising secret behind the human brain’s wrinkles": "科学家们发现了人类大脑皱纹背后的一个令人惊讶的秘密",
     "STAT+: Workers are paying 9% more for family health coverage this year, a higher jump than in the recent past": "STAT + ：今年工人为家庭健康保险支付的费用增加了9% ，比过去增加了9%",
     "Opinion: What I got wrong about the Affordable Care Act — and how to fix it": "意见：我对《平价医疗法案》的错误之处—以及如何解决",
-    "Opinion: The inherited disease my family called ‘it’ had a name, which changed everything": "意见：我家人称之为“它”的遗传病有一个名字，改变了一切",
-    "STAT+: Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction": "STAT + ：远程医疗超越FDA批准使用标签外GLP-1成瘾处方",
     "Natural compound could fight rheumatoid arthritis at its source": "天然化合物可以从源头上对抗类风湿性关节炎",
     "A simple 15-minute treatment could help patients avoid carpal tunnel surgery": "简单的15分钟治疗可以帮助患者避免腕管手术",
     "People are taking an unapproved weight-loss drug. AI found something surprising": "人们正在服用未经批准的减肥药。人工智能发现了一些令人惊讶的东西",
     "Rezera files for IPO to back NLRP3 work in peripheral artery disease": "Rezera文件用于IPO以支持NLRP3在外周动脉疾病中的工作",
     "China biotech RiboX reveals first data of circular RNA therapies in people": "中国生物技术公司RiboX首次披露人体循环RNA治疗数据",
-    "STAT+: CMS extends fraud crackdown to New York’s adult day care program": "STAT + ： CMS将打击欺诈行为扩展到纽约的成人日托计划",
-    "STAT+: Another diabetes association leader is out while review continues": "STAT + ：在审核继续进行期间，另一位糖尿病协会负责人出局",
     "BCG Vaccine-Induced Trained Immunity May Help Protect Against Dementia": "卡介苗诱导的训练免疫可能有助于预防痴呆",
-    "Treasury expected to be harder on China biotech deals in new rules": "财政部预计将在新规则中加大中国生物技术交易的难度",
-    "ASHG: Signals Based on Clinical Obesity Show Stronger Links to Cardiovascular Health than Those Linked to BMI": "ASHG ：与BMI相关的信号相比，基于临床肥胖的信号与心血管健康的联系更强",
-    "Using AI Agents and Bio-Foundation Models to Automate Vector Design for Cell Line Development": "使用人工智能试剂和生物基础模型自动化细胞系发育的载体设计",
-    "Bridging the Translational Gap in Pancreatic Cancer Through Biology-First Modeling": "通过生物学首创建模弥合胰腺癌的转化差距",
-    "STAT+: What’s the deal with Isomorphic Labs?": "STAT + ： Isomorphic Labs是怎么回事？"
+    "Treasury expected to be harder on China biotech deals in new rules": "财政部预计将在新规则中加大中国生物技术交易的难度"
   },
   "items": [
     {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes",
+      "titleZh": "STAT + ：州政府官员争先恐后地实施医疗补助工作要求，满足互换票据的要求",
+      "link": "https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss",
+      "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
+      "publishedAt": "2026-10-23T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: New Medicare policies will keep important pain relief from some patients",
+      "titleZh": "意见：新的Medicare政策将保留一些患者的重要疼痛缓解",
+      "link": "https://www.statnews.com/2026/10/23/severe-pain-policy-medicare-coverage-macs-nerve-block/?utm_campaign=rss",
+      "summary": "For some people, simply putting on pants can be excruciatingly painful. New policy will put pain relief out of reach for many, doctor writes.",
+      "publishedAt": "2026-10-23T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: Overdose deaths have plunged. We need to know why",
+      "titleZh": "意见：过量死亡人数大幅下降。我们需要知道为什么",
+      "link": "https://www.statnews.com/2026/10/23/opioid-deaths-fallen-naloxone-treatment-supply-shock-public-health/?utm_campaign=rss",
+      "summary": "The humbling truth is that forces outside medical care and public health policies must be playing the biggest role in a dramatic drop in opioid overdose deaths, three health experts&#8230;",
+      "publishedAt": "2026-10-23T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT reporters react to the new Elizabeth Holmes documentary",
+      "titleZh": "STAT记者对伊丽莎白·福尔摩斯（ Elizabeth Holmes ）的新纪录",
+      "link": "https://www.statnews.com/2026/10/23/explain-appeal-elizabeth-holmes-doc-status-report/?utm_campaign=rss",
+      "summary": "It seems everyone has a hot take on the new Elizabeth Holmes documentary, \"You Can See Everything.\" STAT reporters went to see the film — here's their review.",
+      "publishedAt": "2026-10-23T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-4",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "How a targeted drug kept one patient alive 15 years — but failed to save her friends",
+      "titleZh": "靶向药物如何使一名患者存活15年—但未能挽救她的朋友",
+      "link": "https://www.statnews.com/2026/10/23/lung-cancer-patient-ros1-mutation-on-crizotinib/?utm_campaign=rss",
+      "summary": "A lung cancer patient speaks out about her cutting-edge treatment: “Research is big on tracking survival stats, but quality of life for survivors — not so much.”",
+      "publishedAt": "2026-10-23T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-5",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "One family’s story of a life-extending medicine for pancreatic cancer",
+      "titleZh": "一个家庭关于延年益寿的胰腺癌药物的故事",
+      "link": "https://www.statnews.com/2026/10/23/patient-story-pancreatic-cancer-drug-daraxonrasib-rasonque/?utm_campaign=rss",
+      "summary": "Bobby Senaha was among the first patients to use daraxonrasib, a new life-extending drug for pancreatic cancer. His wife shares what those extra months meant to his family.",
+      "publishedAt": "2026-10-23T08:30:00+00:00"
+    },
+    {
       "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "Alnylam plans bigger study of RNA drug for Huntington’s disease",
+      "titleZh": "Alnylam计划对亨廷顿舞蹈症的RNA药物进行更大规模的研究",
+      "link": "https://endpoints.news/alnylam-plans-bigger-study-of-rna-drug-for-huntingtons-disease/",
+      "summary": "As with many of the most feared neurological conditions, Huntington’s disease has proven to be a minefield for drug developers. Promising biomarker data didn’t translate into clinical benefits in Roche’s recent study ...",
+      "publishedAt": "2026-10-23T07:45:51+00:00"
+    },
+    {
+      "id": "stat-news-6",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Alnylam says Huntington’s drug shows promise in early study",
+      "titleZh": "STAT + ： Alnylam说亨廷顿药物在早期研究中显示出前景",
+      "link": "https://www.statnews.com/2026/10/23/huntingtons-alnylam-gene-silencing-brezosiran/?utm_campaign=rss",
+      "summary": "It’s yet to be seen whether Alnylam’s drug will actually slow progression of Huntington’s, but the field is lively.",
+      "publishedAt": "2026-10-23T07:45:00+00:00"
+    },
+    {
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +267,7 @@
       "publishedAt": "2026-10-22T23:50:03+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +279,7 @@
       "publishedAt": "2026-10-22T23:12:17+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +291,7 @@
       "publishedAt": "2026-10-22T21:57:11+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +315,7 @@
       "publishedAt": "2026-10-22T19:27:00+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,13 +327,13 @@
       "publishedAt": "2026-10-22T19:03:31+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "市场",
-      "title": "Data leak for Merck and Moderna’s therapeutic cancer vaccine",
-      "titleZh": "默克和Moderna的治疗性癌症疫苗数据泄露",
+      "title": "#ESMO26: Data leak for Merck and Moderna’s therapeutic cancer vaccine",
+      "titleZh": "# ESMO26 ： Merck和Moderna的治疗性癌症疫苗数据泄露",
       "link": "https://endpoints.news/data-leaks-for-merck-and-modernas-therapeutic-cancer-vaccine/",
       "summary": "MADRID — Data from a Phase 3 trial of Moderna and Merck’s cancer vaccine showed that it continued to cut patients’ risk of death or their cancer recurring, but fell short of investors’ high hopes. The ...",
       "publishedAt": "2026-10-22T18:37:12+00:00"
@@ -267,7 +363,7 @@
       "publishedAt": "2026-10-22T18:22:49+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +375,7 @@
       "publishedAt": "2026-10-22T18:22:27+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +387,7 @@
       "publishedAt": "2026-10-22T18:04:47+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +435,7 @@
       "publishedAt": "2026-10-22T16:43:05+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +459,7 @@
       "publishedAt": "2026-10-22T16:24:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +471,7 @@
       "publishedAt": "2026-10-22T16:17:03+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +507,7 @@
       "publishedAt": "2026-10-22T15:20:26+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -423,7 +519,7 @@
       "publishedAt": "2026-10-22T15:18:05+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +531,7 @@
       "publishedAt": "2026-10-22T15:06:28+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -447,7 +543,7 @@
       "publishedAt": "2026-10-22T14:09:51+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -459,7 +555,7 @@
       "publishedAt": "2026-10-22T14:07:13+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -471,7 +567,7 @@
       "publishedAt": "2026-10-22T14:00:40+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +579,7 @@
       "publishedAt": "2026-10-22T13:42:46+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +591,7 @@
       "publishedAt": "2026-10-22T13:35:20+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +615,7 @@
       "publishedAt": "2026-10-22T12:46:24+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -531,7 +627,7 @@
       "publishedAt": "2026-10-22T12:30:01+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +639,7 @@
       "publishedAt": "2026-10-22T12:22:12+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -567,7 +663,7 @@
       "publishedAt": "2026-10-22T11:42:05+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -603,7 +699,7 @@
       "publishedAt": "2026-10-22T10:52:18+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +723,7 @@
       "publishedAt": "2026-10-22T10:10:23+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -639,7 +735,7 @@
       "publishedAt": "2026-10-22T09:00:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -648,30 +744,6 @@
       "titleZh": "意见：我对《平价医疗法案》的错误之处—以及如何解决",
       "link": "https://www.statnews.com/2026/10/22/aca-failure-contain-healthcare-costs-economist-regret/?utm_campaign=rss",
       "summary": "“The big mistake, ironically, was the ACA’s lack of focus on affordability,” writes Dana Goldman.",
-      "publishedAt": "2026-10-22T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-13",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "Opinion: The inherited disease my family called ‘it’ had a name, which changed everything",
-      "titleZh": "意见：我家人称之为“它”的遗传病有一个名字，改变了一切",
-      "link": "https://www.statnews.com/2026/10/22/rare-disease-family-name-fenib-personal-essay/?utm_campaign=rss",
-      "summary": "For 50 years, doctors shrugged about the disease running through Miranda Pappas’ family. Then she discovered something.",
-      "publishedAt": "2026-10-22T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-14",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction",
-      "titleZh": "STAT + ：远程医疗超越FDA批准使用标签外GLP-1成瘾处方",
-      "link": "https://www.statnews.com/2026/10/22/glp-1-drugs-substance-use-disorder-telehealth-off-label-prescription/?utm_campaign=rss",
-      "summary": "As telehealth promotes GLP-1s for addiction, experts worry about fragmented care, and exposing patients to unknown risks.",
       "publishedAt": "2026-10-22T08:30:00+00:00"
     },
     {
@@ -711,7 +783,7 @@
       "publishedAt": "2026-10-22T02:37:01+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -723,7 +795,7 @@
       "publishedAt": "2026-10-21T23:45:38+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -733,30 +805,6 @@
       "link": "https://endpoints.news/china-biotech-ribox-reveals-first-data-of-circular-rna-therapies-in-people/",
       "summary": "Biotech investors and pharma companies have poured billions into three Boston-region startups competing to develop a next-generation version of mRNA technology that could make for more durable and potent therapies. But a relatively",
       "publishedAt": "2026-10-21T23:19:30+00:00"
-    },
-    {
-      "id": "stat-news-15",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: CMS extends fraud crackdown to New York’s adult day care program",
-      "titleZh": "STAT + ： CMS将打击欺诈行为扩展到纽约的成人日托计划",
-      "link": "https://www.statnews.com/2026/10/21/cms-medicaid-fraud-nyc-adult-daycare-operators/?utm_campaign=rss",
-      "summary": "CMS is cracking down on adult day cares in New York, part of a broader focus on alleged health care fraud.",
-      "publishedAt": "2026-10-21T21:38:41+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Another diabetes association leader is out while review continues",
-      "titleZh": "STAT + ：在审核继续进行期间，另一位糖尿病协会负责人出局",
-      "link": "https://www.statnews.com/2026/10/21/american-diabetes-association-leadership-change-controversy/?utm_campaign=rss",
-      "summary": "An endocrinologist who had long served in the American Diabetes Association's leadership is out without explanation.",
-      "publishedAt": "2026-10-21T19:59:48+00:00"
     },
     {
       "id": "gen-6",
@@ -771,7 +819,7 @@
       "publishedAt": "2026-10-21T19:13:42+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -789,7 +837,7 @@
       "lang": "en",
       "category": "研发",
       "title": "ASHG: Signals Based on Clinical Obesity Show Stronger Links to Cardiovascular Health than Those Linked to BMI",
-      "titleZh": "ASHG ：与BMI相关的信号相比，基于临床肥胖的信号与心血管健康的联系更强",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/drug-discovery/ashg-signals-based-on-clinical-obesity-show-stronger-links-to-cardiovascular-health-than-those-linked-to-bmi/",
       "summary": "Researchers also developed a clinical obesity polygenic score that combined information from numerous genetic variants, a score that was shown to be significantly associated with BMI, body fat percentage, and waist circumference. The post ASHG: Signals Based on Clinical Obesity Show Stronger Links t",
       "publishedAt": "2026-10-21T18:30:56+00:00"
@@ -801,7 +849,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Using AI Agents and Bio-Foundation Models to Automate Vector Design for Cell Line Development",
-      "titleZh": "使用人工智能试剂和生物基础模型自动化细胞系发育的载体设计",
+      "titleZh": "",
       "link": "https://www.genengnews.com/multimedia/webinars/using-ai-agents-and-bio-foundation-models-to-automate-vector-design-for-cell-line-development/",
       "summary": "In this GEN webinar, Asimov’s VP of Business Development and Commercial Strategy Jamie Freeman, PhD, will show how Asimov combines bio-foundation models, AI agents, and synthetic biology to tailor expression vector design for each molecule. The post Using AI Agents and Bio-Foundation Models to Autom",
       "publishedAt": "2026-10-21T18:14:18+00:00"
@@ -813,25 +861,13 @@
       "lang": "en",
       "category": "技术",
       "title": "Bridging the Translational Gap in Pancreatic Cancer Through Biology-First Modeling",
-      "titleZh": "通过生物学首创建模弥合胰腺癌的转化差距",
+      "titleZh": "",
       "link": "https://www.genengnews.com/multimedia/webinars/bridging-the-translational-gap-in-pancreatic-cancer-through-biology-first-modeling/",
       "summary": "In this GEN webinar, our expert speaker Josh Wheeler, MD, PhD, will discuss a biology-first, interpretable AI approach to understand patient tumor states and next-generation preclinical models that reproduce their biological complexity. The post Bridging the Translational Gap in Pancreatic Cancer Th",
       "publishedAt": "2026-10-21T18:00:35+00:00"
     },
     {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: What’s the deal with Isomorphic Labs?",
-      "titleZh": "STAT + ： Isomorphic Labs是怎么回事？",
-      "link": "https://www.statnews.com/2026/10/21/whats-the-deal-with-isomorphic-labs-ai-prognosis/?utm_campaign=rss",
-      "summary": "In this edition of STAT's AI Prognosis: What does Isomorphic Labs' high valuation say about AI's role in drug development, and the debate around AI and cost of care.",
-      "publishedAt": "2026-10-21T17:49:31+00:00"
-    },
-    {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -867,7 +903,7 @@
       "publishedAt": "2026-10-21T15:31:00+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -877,30 +913,6 @@
       "link": "https://endpoints.news/5-takeaways-from-endpoints-ai-day-agents-ai-slop-biosecurity/",
       "summary": "In 2024, I started Endpoints News’ flagship AI event because I didn’t see anything like it. Biopharma conferences scratched the surface with a stray AI panel. Machine learning events like NeurIPS didn't gather the whole ...",
       "publishedAt": "2026-10-21T15:15:31+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "CSL hires ViiV CEO Deborah Waterhouse after three decades at GSK",
-      "titleZh": "",
-      "link": "https://endpoints.news/csl-hires-viiv-ceo-deborah-waterhouse-after-three-decades-at-gsk/",
-      "summary": "Deborah Waterhouse is moving on from a 30-year career at GSK, departing as CEO of the UK pharma's HIV specialist ViiV Healthcare. Waterhouse will take on the CEO post at CSL on",
-      "publishedAt": "2026-10-21T15:11:08+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: GSK picks up hep B drug approval",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
-      "summary": "GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods.",
-      "publishedAt": "2026-10-21T14:24:45+00:00"
     },
     {
       "id": "biopharma-dive-7",
@@ -913,18 +925,6 @@
       "link": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
       "summary": "New follow-up results suggest Arcus&rsquo; drug might be superior to a marketed Merck medicine. Elsewhere, Eli Lilly and AstraZeneca forged new partnerships.",
       "publishedAt": "2026-10-21T14:23:00+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Pharmalittle: We’re reading about Mark Cuban eyeing rare disease drugs, a ketamine gold rush, and more",
-      "titleZh": "",
-      "link": "https://www.statnews.com/pharmalot/2026/10/21/mark-cuban-eyes-rare-disease-drugs-ketamine-gold-rush/?utm_campaign=rss",
-      "summary": "Mark Cuban has a new vision for his company Cost Plus Drugs: shake up the business of custom-made rare disease medicines",
-      "publishedAt": "2026-10-21T13:26:27+00:00"
     },
     {
       "id": "science-daily-health-13",
@@ -1172,6 +1172,30 @@
       "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
+      "title": "The human microbiome and chronic disease: ten strategic priorities for research and public health",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04730-x",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04707-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
       "title": "Milk multi-omics links maternal health to infant growth",
       "titleZh": "",
       "link": "https://www.nature.com/articles/d41591-026-00053-z",
@@ -1179,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1235,30 +1259,6 @@
       "title": "Global, regional and national burden of pertussis in 1990–2023: a Global Burden of Disease study",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04660-8",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04661-7",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Author Correction: FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04757-0",
       "summary": "",
       "publishedAt": ""
     }
