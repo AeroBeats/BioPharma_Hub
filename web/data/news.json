@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-23T23:04:45.616884+00:00",
+  "updatedAt": "2026-10-24T01:33:49.437858+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "Windward Bio files for Nasdaq IPO to fund China-derived assets and in-house R&D": "Windward Bio申请纳斯达克IPO ，为中国衍生资产和内部研发提供资金",
     "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early": "STAT + ：备受期待的Moderna-Merck黑色素瘤癌症疫苗数据提前到达",
     "STAT+: Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear": "STAT + ：糖尿病协会表示， “威胁”先于成员被驱逐，但承认政策不明确",
     "STAT+: Patient dies in Bristol Myers Squibb autoimmune CAR-T trial": "STAT + ： Bristol Myers Squibb自身免疫性CAR-T试验中患者死亡",
@@ -106,10 +107,21 @@
     "Biohaven’s previously rejected rare disease drug to get fresh FDA review": "Biohaven先前拒绝的罕见病药物以获得新的FDA审查",
     "American Medical Association CEO talks regulating AI care": "美国医学会首席执行官谈规范人工智能护理",
     "GLP-1 compounder issues recall for copycat Zepbound": "模仿Zepbound的GLP-1复合剂问题召回",
-    "Roche affirms sales outlook amid doubts about its future": "罗氏在对其未来持怀疑态度的情况下确认销售前景",
-    "A hepatitis B hold lifted and drug tabled; Ultomiris' accelerated approval": "乙型肝炎暂缓治疗解除并上市； Ultomiris加速批准"
+    "Roche affirms sales outlook amid doubts about its future": "罗氏在对其未来持怀疑态度的情况下确认销售前景"
   },
   "items": [
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Windward Bio files for Nasdaq IPO to fund China-derived assets and in-house R&D",
+      "titleZh": "Windward Bio申请纳斯达克IPO ，为中国衍生资产和内部研发提供资金",
+      "link": "https://endpoints.news/windward-bio-files-for-nasdaq-ipo-to-fund-china-derived-assets-and-in-house-rd/",
+      "summary": "A 2-year-old European biotech with two clinical-stage assets from China is the latest to attempt an initial public offering in the US. Basel-based Windward Bio submitted its cards for a Nasdaq ...",
+      "publishedAt": "2026-10-23T23:15:09+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
@@ -159,7 +171,7 @@
       "publishedAt": "2026-10-23T18:48:10+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +267,7 @@
       "publishedAt": "2026-10-23T15:21:24+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -279,7 +291,7 @@
       "publishedAt": "2026-10-23T15:12:58+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -303,7 +315,7 @@
       "publishedAt": "2026-10-23T14:47:21+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +351,7 @@
       "publishedAt": "2026-10-23T13:45:14+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +363,7 @@
       "publishedAt": "2026-10-23T13:00:57+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +375,7 @@
       "publishedAt": "2026-10-23T13:00:44+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +399,7 @@
       "publishedAt": "2026-10-23T13:00:00+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -399,7 +411,7 @@
       "publishedAt": "2026-10-23T11:35:00+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +447,7 @@
       "publishedAt": "2026-10-23T11:02:25+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -447,7 +459,7 @@
       "publishedAt": "2026-10-23T11:00:34+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -579,7 +591,7 @@
       "publishedAt": "2026-10-23T08:28:22+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -591,7 +603,7 @@
       "publishedAt": "2026-10-23T07:45:51+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +663,7 @@
       "publishedAt": "2026-10-22T23:50:03+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -663,7 +675,7 @@
       "publishedAt": "2026-10-22T21:57:11+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +699,7 @@
       "publishedAt": "2026-10-22T19:27:00+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -759,7 +771,7 @@
       "publishedAt": "2026-10-22T16:43:05+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -783,7 +795,7 @@
       "publishedAt": "2026-10-22T16:24:00+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -819,28 +831,16 @@
       "publishedAt": "2026-10-22T15:20:26+00:00"
     },
     {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "A hepatitis B hold lifted and drug tabled; Ultomiris' accelerated approval",
-      "titleZh": "乙型肝炎暂缓治疗解除并上市； Ultomiris加速批准",
-      "link": "https://endpoints.news/a-hepatitis-b-hold-lifted-and-drug-tabled-ultomiris-accelerated-approval/",
-      "summary": "Plus news about Biohaven, Arcus Biosciences and a Boehringer Ingelheim and Microsoft collaboration. Hold on Arbutus drug lifted: It’s been a long, tough road for Arbutus Biopharma. The company has",
-      "publishedAt": "2026-10-22T15:18:05+00:00"
-    },
-    {
       "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
-      "title": "AbbVie notches Phase 3 win in painful skin condition, FDA filing likely next year",
+      "title": "A hepatitis B hold lifted and drug tabled; Ultomiris' accelerated approval",
       "titleZh": "",
-      "link": "https://endpoints.news/abbvie-notches-phase-3-win-in-painful-skin-condition-fda-filing-likely-next-year/",
-      "summary": "AbbVie unwrapped a Phase 3 success on Thursday for an experimental drug designed to treat a debilitating skin disease. In the trial, AbbVie’s IL-1α and IL-1β inhibitor lutikizumab improved patient response ...",
-      "publishedAt": "2026-10-22T14:09:51+00:00"
+      "link": "https://endpoints.news/a-hepatitis-b-hold-lifted-and-drug-tabled-ultomiris-accelerated-approval/",
+      "summary": "Plus news about Biohaven, Arcus Biosciences and a Boehringer Ingelheim and Microsoft collaboration. Hold on Arbutus drug lifted: It’s been a long, tough road for Arbutus Biopharma. The company has",
+      "publishedAt": "2026-10-22T15:18:05+00:00"
     },
     {
       "id": "science-daily-health-10",
