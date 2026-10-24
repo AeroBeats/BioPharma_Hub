@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-24T16:32:44.616873+00:00",
+  "updatedAt": "2026-10-24T19:26:52.850246+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: The ESMO presentation everyone’s been waiting for": "STAT + ：每个人都在等待的ESMO演示文稿",
     "#ESMO26: AstraZeneca eyes Keytruda's Padcev spot; Lilly's ADC takes on Elahere; Nubeqa targets earlier prostate cancer": "# ESMO26 ：阿斯利康瞄准Keytruda的Padcev点；礼来的ADC瞄准Elahere ； Nubeqa瞄准早期前列腺癌",
     "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial": "# ESMO26 ：在3期肺癌试验中，安进的Imdelltra方案将死亡风险降低了一半以上",
     "Could lowering high blood pressure be as simple as stimulating your ear?": "降低高血压能像刺激耳朵一样简单吗？",
@@ -93,7 +94,6 @@
     "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes": "STAT + ：州政府官员争先恐后地实施医疗补助工作要求，满足互换票据的要求",
     "Opinion: New Medicare policies will keep important pain relief from some patients": "意见：新的Medicare政策将保留一些患者的重要疼痛缓解",
     "Opinion: Overdose deaths have plunged. We need to know why": "意见：过量死亡人数大幅下降。我们需要知道为什么",
-    "STAT reporters react to the new Elizabeth Holmes documentary": "STAT记者对伊丽莎白·福尔摩斯（ Elizabeth Holmes ）的新纪录",
     "Scientists discover a hidden messaging system deep inside the brain": "科学家在大脑深处发现了一个隐藏的消息系统",
     "Alnylam plans bigger study of RNA drug for Huntington’s disease": "Alnylam计划对亨廷顿舞蹈症的RNA药物进行更大规模的研究",
     "Gilead strikes $1.3B upfront China deal for oral IL-23 drug": "吉利德在中国达成13亿美元的口服IL-23药物前期交易",
@@ -110,6 +110,18 @@
     "Nvidia, UW Institute for Protein Design Unveil Open-Source Protein Design AI Model": "英伟达威斯康星大学蛋白质设计研究所推出开源蛋白质设计AI模型"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: The ESMO presentation everyone’s been waiting for",
+      "titleZh": "STAT + ：每个人都在等待的ESMO演示文稿",
+      "link": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss",
+      "summary": "Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.",
+      "publishedAt": "2026-10-24T17:00:59+00:00"
+    },
     {
       "id": "endpoints-0",
       "source": "Endpoints News",
@@ -171,7 +183,7 @@
       "publishedAt": "2026-10-24T11:16:08+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +195,7 @@
       "publishedAt": "2026-10-24T11:00:00+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +243,7 @@
       "publishedAt": "2026-10-23T23:15:09+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +255,7 @@
       "publishedAt": "2026-10-23T19:19:55+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +267,7 @@
       "publishedAt": "2026-10-23T19:16:37+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +279,7 @@
       "publishedAt": "2026-10-23T18:55:12+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +303,7 @@
       "publishedAt": "2026-10-23T18:36:40+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +315,7 @@
       "publishedAt": "2026-10-23T16:47:31+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +327,7 @@
       "publishedAt": "2026-10-23T16:39:04+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +339,7 @@
       "publishedAt": "2026-10-23T15:59:07+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +363,7 @@
       "publishedAt": "2026-10-23T15:33:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +423,7 @@
       "publishedAt": "2026-10-23T15:03:52+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +447,7 @@
       "publishedAt": "2026-10-23T14:33:54+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +459,7 @@
       "publishedAt": "2026-10-23T14:03:06+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +507,7 @@
       "publishedAt": "2026-10-23T13:00:17+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +603,7 @@
       "publishedAt": "2026-10-23T11:00:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -615,7 +627,7 @@
       "publishedAt": "2026-10-23T10:10:11+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +639,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -639,7 +651,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -648,18 +660,6 @@
       "titleZh": "意见：过量死亡人数大幅下降。我们需要知道为什么",
       "link": "https://www.statnews.com/2026/10/23/opioid-deaths-fallen-naloxone-treatment-supply-shock-public-health/?utm_campaign=rss",
       "summary": "The humbling truth is that forces outside medical care and public health policies must be playing the biggest role in a dramatic drop in opioid overdose deaths, three health experts&#8230;",
-      "publishedAt": "2026-10-23T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT reporters react to the new Elizabeth Holmes documentary",
-      "titleZh": "STAT记者对伊丽莎白·福尔摩斯（ Elizabeth Holmes ）的新纪录",
-      "link": "https://www.statnews.com/2026/10/23/explain-appeal-elizabeth-holmes-doc-status-report/?utm_campaign=rss",
-      "summary": "It seems everyone has a hot take on the new Elizabeth Holmes documentary, \"You Can See Everything.\" STAT reporters went to see the film — here's their review.",
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
