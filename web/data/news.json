@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-24T12:37:53.864317+00:00",
+  "updatedAt": "2026-10-24T16:32:44.616873+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,9 +48,15 @@
   ],
   "failedSources": [],
   "translations": {
+    "#ESMO26: AstraZeneca eyes Keytruda's Padcev spot; Lilly's ADC takes on Elahere; Nubeqa targets earlier prostate cancer": "# ESMO26 ：阿斯利康瞄准Keytruda的Padcev点；礼来的ADC瞄准Elahere ； Nubeqa瞄准早期前列腺癌",
+    "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial": "# ESMO26 ：在3期肺癌试验中，安进的Imdelltra方案将死亡风险降低了一半以上",
+    "Could lowering high blood pressure be as simple as stimulating your ear?": "降低高血压能像刺激耳朵一样简单吗？",
+    "Your blood could reveal inflammatory bowel disease 10 years before diagnosis": "您的血液在诊断前10年可能会出现炎症性肠病",
+    "Scientists discover a hidden switch that burns fat and blocks new fat cells": "科学家发现一种隐藏的开关，可以燃烧脂肪并阻断新的脂肪细胞",
     "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology": "观点：克里斯蒂娜·阿普尔盖特（ Christina Applegate ）面对神经病学中最重要的挑战之一",
     "Opinion: STAT readers on Elizabeth Holmes, cancer screening, and more": "意见：伊丽莎白·霍姆斯（ Elizabeth Holmes ）、癌症筛查等方面的STAT读者",
     "Cancer vaccine data from #ESMO26; Treasury proposal could curb China investment; and more": "来自# ESMO26的癌症疫苗数据；财政部的提议可能会抑制中国的投资；等等",
+    "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive": "胶质母细胞瘤的突破揭示了脑癌细胞如何变得更具侵略性",
     "Windward Bio files for Nasdaq IPO to fund China-derived assets and in-house R&D": "Windward Bio申请纳斯达克IPO ，为中国衍生资产和内部研发提供资金",
     "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early": "STAT + ：备受期待的Moderna-Merck黑色素瘤癌症疫苗数据提前到达",
     "STAT+: Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear": "STAT + ：糖尿病协会表示， “威胁”先于成员被驱逐，但承认政策不明确",
@@ -101,15 +107,69 @@
     "#ESMO26: Data leak for Merck and Moderna’s therapeutic cancer vaccine": "# ESMO26 ： Merck和Moderna的治疗性癌症疫苗数据泄露",
     "EQT to Acquire Qiagen for $12.1B, Plans to Take Tools, Diagnostics Provider Private": "EQT以121亿美元收购QIAGEN ，计划采用工具，诊断提供商私有化",
     "Proteins Circulating in Blood Linked to Future Risk of Prostate Cancer": "血液中循环的蛋白质与前列腺癌的未来风险相关",
-    "Nvidia, UW Institute for Protein Design Unveil Open-Source Protein Design AI Model": "英伟达威斯康星大学蛋白质设计研究所推出开源蛋白质设计AI模型",
-    "PerturbAI and OpenAI Launch AI Reasoning Agents for Biomedical Discovery": "PerturbAI和OpenAI推出用于生物医学发现的人工智能推理代理",
-    "ASHG President Susan Slaugenhaupt Calls for Hope, Leadership, and Communication in Science": "ASHG总裁Susan Slaugenhaupt呼吁科学领域的希望、领导力和沟通",
-    "Roche says it will help patients who are 'anxiously awaiting' its new breast cancer drug": "罗氏表示，它将帮助那些“焦急地等待”其新乳腺癌药物的患者",
-    "Biohaven’s previously rejected rare disease drug to get fresh FDA review": "Biohaven先前拒绝的罕见病药物以获得新的FDA审查",
-    "American Medical Association CEO talks regulating AI care": "美国医学会首席执行官谈规范人工智能护理",
-    "GLP-1 compounder issues recall for copycat Zepbound": "模仿Zepbound的GLP-1复合剂问题召回"
+    "Nvidia, UW Institute for Protein Design Unveil Open-Source Protein Design AI Model": "英伟达威斯康星大学蛋白质设计研究所推出开源蛋白质设计AI模型"
   },
   "items": [
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "#ESMO26: AstraZeneca eyes Keytruda's Padcev spot; Lilly's ADC takes on Elahere; Nubeqa targets earlier prostate cancer",
+      "titleZh": "# ESMO26 ：阿斯利康瞄准Keytruda的Padcev点；礼来的ADC瞄准Elahere ； Nubeqa瞄准早期前列腺癌",
+      "link": "https://endpoints.news/esmo26-astrazeneca-eyes-keytrudas-padcev-spot-lillys-adc-takes-on-elahere-nubeqa-targets-earlier-prostate-cancer/",
+      "summary": "MADRID — It's been estimated that almost 40,000 delegates will be attending this year's ESMO congress over five days in Madrid. And on Saturday, they have new data to review from AstraZeneca, Eli Lilly and Bayer. ...",
+      "publishedAt": "2026-10-24T16:00:12+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial",
+      "titleZh": "# ESMO26 ：在3期肺癌试验中，安进的Imdelltra方案将死亡风险降低了一半以上",
+      "link": "https://endpoints.news/esmo26-amgens-imdelltra-regimen-more-than-halves-risk-of-death-in-phase-3-lung-cancer-trial/",
+      "summary": "MADRID — Amgen’s Imdelltra combined with AstraZeneca’s Imfinzi slashed the chances of dying by 58% versus Imfinzi alone in the first-line maintenance setting in certain small cell lung cancer patients, breezing past the benchmark set by ...",
+      "publishedAt": "2026-10-24T14:30:56+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
+      "titleZh": "降低高血压能像刺激耳朵一样简单吗？",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
+      "summary": "A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and well tolerated. Although it did not significantly outperform a ",
+      "publishedAt": "2026-10-24T13:15:00+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Your blood could reveal inflammatory bowel disease 10 years before diagnosis",
+      "titleZh": "您的血液在诊断前10年可能会出现炎症性肠病",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023713.htm",
+      "summary": "A major study has uncovered hidden warning signs of inflammatory bowel disease in the blood up to 10 years before diagnosis. Researchers discovered distinct antibody patterns that could help predict who would later develop Crohn’s disease or ulcerative colitis, even distinguishing people at risk of ",
+      "publishedAt": "2026-10-24T11:52:47+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
+      "titleZh": "科学家发现一种隐藏的开关，可以燃烧脂肪并阻断新的脂肪细胞",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
+      "summary": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approa",
+      "publishedAt": "2026-10-24T11:16:08+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
@@ -135,7 +195,7 @@
       "publishedAt": "2026-10-24T11:00:00+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -147,7 +207,19 @@
       "publishedAt": "2026-10-24T10:00:25+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "science-daily-health-8",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
+      "titleZh": "胶质母细胞瘤的突破揭示了脑癌细胞如何变得更具侵略性",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+      "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooke",
+      "publishedAt": "2026-10-24T00:48:21+00:00"
+    },
+    {
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +279,7 @@
       "publishedAt": "2026-10-23T18:48:10+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -303,7 +375,7 @@
       "publishedAt": "2026-10-23T15:21:24+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -327,7 +399,7 @@
       "publishedAt": "2026-10-23T15:12:58+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +423,7 @@
       "publishedAt": "2026-10-23T14:47:21+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +459,7 @@
       "publishedAt": "2026-10-23T13:45:14+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -399,7 +471,7 @@
       "publishedAt": "2026-10-23T13:00:57+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +483,7 @@
       "publishedAt": "2026-10-23T13:00:44+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +507,7 @@
       "publishedAt": "2026-10-23T13:00:00+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -447,7 +519,7 @@
       "publishedAt": "2026-10-23T11:35:00+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -459,7 +531,7 @@
       "publishedAt": "2026-10-23T11:30:14+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -471,7 +543,7 @@
       "publishedAt": "2026-10-23T11:12:28+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -483,7 +555,7 @@
       "publishedAt": "2026-10-23T11:02:25+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +567,7 @@
       "publishedAt": "2026-10-23T11:00:34+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -531,7 +603,7 @@
       "publishedAt": "2026-10-23T10:30:00+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -591,7 +663,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -603,7 +675,7 @@
       "publishedAt": "2026-10-23T08:28:22+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -615,7 +687,7 @@
       "publishedAt": "2026-10-23T07:45:51+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,7 +711,7 @@
       "publishedAt": "2026-10-23T01:37:00+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -651,7 +723,7 @@
       "publishedAt": "2026-10-23T01:21:47+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -675,7 +747,7 @@
       "publishedAt": "2026-10-22T23:50:03+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +759,7 @@
       "publishedAt": "2026-10-22T21:57:11+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -711,7 +783,7 @@
       "publishedAt": "2026-10-22T19:27:00+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -765,7 +837,7 @@
       "lang": "en",
       "category": "技术",
       "title": "PerturbAI and OpenAI Launch AI Reasoning Agents for Biomedical Discovery",
-      "titleZh": "PerturbAI和OpenAI推出用于生物医学发现的人工智能推理代理",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/artificial-intelligence/perturbai-and-openai-launch-ai-reasoning-agents-for-biomedical-discovery/",
       "summary": "A year-long collaboration involving scientists at PerturbAI, OpenAI, and their other institutions yielded an AI reasoning framework that turns datasets into testable hypotheses, with thousands of agents analyzing whole-brain genomic data in minutes instead of months. The post PerturbAI and OpenAI La",
       "publishedAt": "2026-10-22T17:33:44+00:00"
@@ -777,22 +849,10 @@
       "lang": "en",
       "category": "技术",
       "title": "ASHG President Susan Slaugenhaupt Calls for Hope, Leadership, and Communication in Science",
-      "titleZh": "ASHG总裁Susan Slaugenhaupt呼吁科学领域的希望、领导力和沟通",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/omics/ashg-president-susan-slaugenhaupt-calls-for-hope-leadership-and-communication-in-science/",
       "summary": "ASHG President Susan Slaugenhaupt, PhD, opened the society’s Montreal meeting with a heartfelt address emphasizing hope, leadership, and the importance of communication amid the challenges facing science today. The post ASHG President Susan Slaugenhaupt Calls for Hope, Leadership, and Communication ",
       "publishedAt": "2026-10-22T16:43:05+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Roche says it will help patients who are 'anxiously awaiting' its new breast cancer drug",
-      "titleZh": "罗氏表示，它将帮助那些“焦急地等待”其新乳腺癌药物的患者",
-      "link": "https://endpoints.news/roche-says-it-will-help-patients-who-are-anxiously-awaiting-its-new-breast-cancer-drug/",
-      "summary": "Roche is gearing up for a major launch with its breast cancer pill giredestrant, and according to Teresa Graham, head of the company’s pharma unit, patients are clamoring to get hold of the drug. Giredestrant ...",
-      "publishedAt": "2026-10-22T16:32:24+00:00"
     },
     {
       "id": "biopharma-dive-4",
@@ -801,22 +861,10 @@
       "lang": "en",
       "category": "审批",
       "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
-      "titleZh": "Biohaven先前拒绝的罕见病药物以获得新的FDA审查",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
       "summary": "U.S. regulators have accepted a new submission for Vyglxia, offering the chance at a turnaround for another rare disease medicine spurned by previous FDA leadership.",
       "publishedAt": "2026-10-22T16:24:00+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "American Medical Association CEO talks regulating AI care",
-      "titleZh": "美国医学会首席执行官谈规范人工智能护理",
-      "link": "https://endpoints.news/american-medical-association-ceo-talks-regulating-ai-care/",
-      "summary": "As we get closer to autonomous, AI-driven medical care becoming a reality, regulators are racing to catch up. The FDA in August released a discussion paper with ideas about how ...",
-      "publishedAt": "2026-10-22T15:51:50+00:00"
     },
     {
       "id": "biopharma-dive-5",
@@ -825,7 +873,7 @@
       "lang": "en",
       "category": "审批",
       "title": "GLP-1 compounder issues recall for copycat Zepbound",
-      "titleZh": "模仿Zepbound的GLP-1复合剂问题召回",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/glp1-obesity-drug-recall-apothecary-tirzepatide-zepbound/833712/",
       "summary": "The notice adds to growing concerns about the safety of knockoff weight loss drugs, which have remained popular despite FDA warnings and legal pressure from Eli Lilly and Novo.",
       "publishedAt": "2026-10-22T15:50:00+00:00"
@@ -843,7 +891,7 @@
       "publishedAt": "2026-10-22T15:20:26+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -855,7 +903,7 @@
       "publishedAt": "2026-10-22T12:46:24+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -867,7 +915,7 @@
       "publishedAt": "2026-10-22T11:42:05+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -879,7 +927,7 @@
       "publishedAt": "2026-10-22T11:30:49+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,7 +939,7 @@
       "publishedAt": "2026-10-22T10:52:18+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -903,7 +951,7 @@
       "publishedAt": "2026-10-22T10:10:23+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,7 +963,7 @@
       "publishedAt": "2026-10-22T03:37:25+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,7 +975,7 @@
       "publishedAt": "2026-10-22T03:03:08+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1004,18 +1052,6 @@
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
-      "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085014.htm",
-      "summary": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer incidence, ultra-processed whole grains and dairy products were as",
-      "publishedAt": "2026-10-21T13:22:17+00:00"
-    },
-    {
-      "id": "science-daily-health-13",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
       "title": "Too much RNA can starve cells of energy, scientists discover",
       "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
@@ -1028,47 +1064,11 @@
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
-      "title": "Astronauts’ hearts just passed a surprising test for Mars",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
-      "summary": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without m",
-      "publishedAt": "2026-10-21T11:59:14+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "市场",
-      "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
-      "summary": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate how cells become younger and could help researchers better u",
-      "publishedAt": "2026-10-21T11:03:52+00:00"
-    },
-    {
-      "id": "science-daily-health-12",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
       "title": "Just 4 minutes a day can dramatically improve strength after 65",
       "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261020085025.htm",
       "summary": "A new Penn State study suggests that just four minutes of daily strength training can significantly improve mobility and physical function in older adults. After 12 weeks, participants showed meaningful gains in balance, leg strength, and their ability to stand up from a chair, all important factors",
       "publishedAt": "2026-10-21T09:52:28+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists finally uncover why statins can cause muscle pain",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
-      "summary": "Scientists have uncovered a surprising reason why statins, the widely prescribed cholesterol-lowering drugs that help prevent heart attacks and strokes, can sometimes cause muscle pain, weakness, and even severe muscle damage. Using advanced imaging technology, researchers discovered that statins ca",
-      "publishedAt": "2026-10-20T13:00:56+00:00"
     },
     {
       "id": "nature-biotech-0",
