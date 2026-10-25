@@ -1,10 +1,10 @@
 import { TEMPLATES, getTemplate } from "./templates.js";
 
 // ── Backend config ─────────────────────────────────
-// Absolute URL of the deployed AI backend (Cloudflare Worker). Leave "" to use
-// the same-origin Qoder Functions endpoint. Fill in the *.workers.dev URL after
-// deploying worker/worker.js, e.g. "https://biopharma-ai.<user>.workers.dev".
-const AI_ENDPOINT = "https://biopharma-hub.3440954925.workers.dev";
+// Absolute URL of the deployed AI backend (Cloudflare Worker, see worker/worker.js).
+// Must be the custom domain: *.workers.dev is DNS/SNI-blocked in mainland China.
+// Leave "" to fall back to the same-origin Functions endpoint (Qoder Sites only).
+const AI_ENDPOINT = "https://api.aerobeats.xyz";
 
 // ── Utilities ─────────────────────────────────
 const $ = (sel, el = document) => el.querySelector(sel);

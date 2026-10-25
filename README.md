@@ -135,15 +135,19 @@ AI 智能优化功能依赖后端服务，部署到 Cloudflare Workers（免费�
    - 添加 **Secret**: `DEEPSEEK_API_KEY` = 你的 DeepSeek API Key
    - 添加 Variable (Text): `ALLOWED_ORIGINS` = `https://aerobeats.github.io` (多个域名用逗号分隔)
 
-3. **获取域名**
-   - Worker 页面顶部显示地址，如 `https://biopharma-ai.<子域>.workers.dev`
-   - 验证: 浏览器打开 `https://biopharma-ai.<子域>.workers.dev/health`
+3. **绑定自定义域名（必须）**
+   - `*.workers.dev` 默认域名在中国大陆被 DNS 污染 + SNI 封锁，无法访问，必须绑定自定义域名
+   - 准备一个自己的域名（如阿里云/腾讯云购买），在 Cloudflare 添加该域名（Add domain → Free 计划）
+   - 到域名注册商处把 NS（DNS 服务器）改为 Cloudflare 分配的两个 `*.ns.cloudflare.com`，等待状态变为 Active
+   - Worker → Settings → Domains & Routes → **Add Custom Domain** → 填 `api.你的域名`（如 `api.aerobeats.xyz`）
+   - Cloudflare 自动创建 DNS 记录并签发证书
+   - 验证: 浏览器打开 `https://api.你的域名/health`
      应返回 `{"ok":true,"service":"biopharma-hub-ai"}`
 
 4. **前端配置**
    - 修改 [web/app.js](web/app.js) 顶部的 `AI_ENDPOINT`:
      ```js
-     const AI_ENDPOINT = "https://biopharma-ai.<子域>.workers.dev";
+     const AI_ENDPOINT = "https://api.你的域名";
      ```
    - 提交并推送:
      ```bash
