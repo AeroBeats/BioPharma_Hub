@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-25T11:18:10.759587+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-25T16:05:01.217697+00:00",
+  "count": 88,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,10 +46,22 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Medicine"
+  ],
   "translations": {
+    "#ESMO26: Merck and Moderna's cancer vaccine data were 'a triumph of science.' And now, the work begins": "# ESMO26 ：默克和莫德纳的癌症疫苗数据是“科学的胜利”。“现在，工作开始了",
+    "#ESMO26: Roche details magnitude of its KRAS G12C inhibitor’s win over rivals in lung cancer trial": "# ESMO26 ：罗氏详细介绍了其KRAS G12C抑制剂在肺癌试验中战胜竞争对手的程度",
+    "#ESMO26: AstraZeneca's Tagrisso-Orpathys combo may extend Tagrisso's life in lung cancer": "# ESMO26 ：阿斯利康的Tagrisso-Orpathys组合可能会延长Tagrisso在肺癌中的生命",
+    "Scientists reveal the hidden danger of missing blood pressure medication": "科学家揭示缺少血压药物的隐患",
+    "Just two drinks a day may be far riskier than you think": "每天只喝两杯可能比你想象的要冒险得多",
+    "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment": "科学家发现胰腺癌如何重写其DNA以逃避治疗",
+    "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch": "低剂量阿司匹林与痴呆风险降低70 ％有关，但有一个问题",
     "#ESMO26: Pfizer looks beyond lung cancer flop as BioNTech, Bristol Myers show early activity": "# ESMO26 ：随着BioNTech、Bristol Myers显示出早期活动，辉瑞的视野超越了肺癌",
     "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact": "STAT + ：在癌症疫苗首次成功后，扩大影响力的竞赛即将开始",
+    "This mysterious mushroom makes people see hundreds of tiny humans": "这种神秘的蘑菇让人们看到了数百个小人",
+    "Popular cannabis sleep gummies may have a hidden dark side": "流行的大麻睡眠软糖可能有隐藏的阴暗面",
+    "Mediterranean diet may boost tiny proteins that protect the heart and brain": "地中海饮食可以促进保护心脏和大脑的微小蛋白质",
     "STAT+: The ESMO presentation everyone’s been waiting for": "STAT + ：每个人都在等待的ESMO演示文稿",
     "#ESMO26: AstraZeneca eyes Keytruda's Padcev spot; Lilly's ADC takes on Elahere; Nubeqa targets earlier prostate cancer": "# ESMO26 ：阿斯利康瞄准Keytruda的Padcev点；礼来的ADC瞄准Elahere ； Nubeqa瞄准早期前列腺癌",
     "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial": "# ESMO26 ：在3期肺癌试验中，安进的Imdelltra方案将死亡风险降低了一半以上",
@@ -97,21 +109,95 @@
     "Opinion: New Medicare policies will keep important pain relief from some patients": "意见：新的Medicare政策将保留一些患者的重要疼痛缓解",
     "Scientists discover a hidden messaging system deep inside the brain": "科学家在大脑深处发现了一个隐藏的消息系统",
     "Alnylam plans bigger study of RNA drug for Huntington’s disease": "Alnylam计划对亨廷顿舞蹈症的RNA药物进行更大规模的研究",
-    "Gilead strikes $1.3B upfront China deal for oral IL-23 drug": "吉利德在中国达成13亿美元的口服IL-23药物前期交易",
-    "Protein degrader specialist Lycia prices $318M IPO": "蛋白质脱脂机专家Lycia IPO定价$ 3.18亿美元",
-    "Cambridge scientists create a $10 chip that could put a medical lab on your wrist": "剑桥大学的科学家们创造了一个10 $的芯片，可以在你的手腕上放一个医学实验室",
-    "Scientists discover a hidden immune weapon against deadly lung cancer": "科学家发现了一种针对致命肺癌的隐藏免疫武器",
-    "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells": "Cryo-EM和AI设计的支架揭示安第斯山脉汉坦病毒如何结合细胞",
-    "Treasury proposal would sharply limit US investments in much of China biotech": "财政部提议将大幅限制美国对中国大部分生物技术的投资",
-    "Pfizer details mixed Lyme disease vaccine data": "辉瑞详细介绍混合莱姆病疫苗数据",
-    "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results": "Moderna ，默克的股价跌落在急切期待的癌症疫苗结果上",
-    "EQT to Acquire Qiagen for $12.1B, Plans to Take Tools, Diagnostics Provider Private": "EQT以121亿美元收购QIAGEN ，计划采用工具，诊断提供商私有化",
-    "Proteins Circulating in Blood Linked to Future Risk of Prostate Cancer": "血液中循环的蛋白质与前列腺癌的未来风险相关",
-    "Nvidia, UW Institute for Protein Design Unveil Open-Source Protein Design AI Model": "英伟达威斯康星大学蛋白质设计研究所推出开源蛋白质设计AI模型"
+    "Protein degrader specialist Lycia prices $318M IPO": "蛋白质脱脂机专家Lycia IPO定价$ 3.18亿美元"
   },
   "items": [
     {
       "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "#ESMO26: Merck and Moderna's cancer vaccine data were 'a triumph of science.' And now, the work begins",
+      "titleZh": "# ESMO26 ：默克和莫德纳的癌症疫苗数据是“科学的胜利”。“现在，工作开始了",
+      "link": "https://endpoints.news/esmo26-merck-and-modernas-cancer-vaccine-data-were-a-triumph-of-science-and-now-the-work-begins/",
+      "summary": "MADRID — In a testament to clinicians’ interest in Merck and Moderna’s personalized cancer vaccine data at this year’s European Society for Medical Oncology conference, the presidential symposium, which can seat thousands of people, was full ...",
+      "publishedAt": "2026-10-25T15:46:39+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "#ESMO26: Roche details magnitude of its KRAS G12C inhibitor’s win over rivals in lung cancer trial",
+      "titleZh": "# ESMO26 ：罗氏详细介绍了其KRAS G12C抑制剂在肺癌试验中战胜竞争对手的程度",
+      "link": "https://endpoints.news/esmo26-roche-details-magnitude-of-its-kras-g12c-inhibitors-win-over-rivals-in-lung-cancer-trial/",
+      "summary": "MADRID — Roche’s next-gen KRAS G12C inhibitor cut the risk of death by 44% in previously treated mutant non-small cell lung cancer in a head-to-head trial against drugs with the same target from Amgen and Bristol ...",
+      "publishedAt": "2026-10-25T15:30:51+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "#ESMO26: AstraZeneca's Tagrisso-Orpathys combo may extend Tagrisso's life in lung cancer",
+      "titleZh": "# ESMO26 ：阿斯利康的Tagrisso-Orpathys组合可能会延长Tagrisso在肺癌中的生命",
+      "link": "https://endpoints.news/esmo26-astrazenecas-tagrisso-orpathys-combo-may-extend-tagrissos-life-in-lung-cancer/",
+      "summary": "MADRID — AstraZeneca said Sunday it might have found a way for patients with mutant non-small cell lung cancer to keep taking Tagrisso even after they have become resistant to the EGFR-targeting tyrosine kinase inhibitor. In ...",
+      "publishedAt": "2026-10-25T15:30:09+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "Scientists reveal the hidden danger of missing blood pressure medication",
+      "titleZh": "科学家揭示缺少血压药物的隐患",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222028.htm",
+      "summary": "Missing blood pressure medication could mean losing much of its protection against heart attacks and strokes, according to an analysis of more than 91,000 people. Patients who consistently took their medication experienced an 11% reduction in major cardiovascular events, while those who missed too m",
+      "publishedAt": "2026-10-25T12:34:35+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Just two drinks a day may be far riskier than you think",
+      "titleZh": "每天只喝两杯可能比你想象的要冒险得多",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222030.htm",
+      "summary": "A major new study reveals that drinking just two alcoholic beverages a day is associated with a 1 in 25 lifetime risk of death from alcohol-related causes, challenging the idea that moderate drinking is harmless. Researchers also found no significant overall health benefits from alcohol, with risks ",
+      "publishedAt": "2026-10-25T12:18:13+00:00"
+    },
+    {
+      "id": "science-daily-health-5",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
+      "titleZh": "科学家发现胰腺癌如何重写其DNA以逃避治疗",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
+      "summary": "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene reversed some of these dangerous changes, revealing a potential new way to fight the deadly disease.",
+      "publishedAt": "2026-10-25T11:00:25+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
+      "titleZh": "低剂量阿司匹林与痴呆风险降低70 ％有关，但有一个问题",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
+      "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The disc",
+      "publishedAt": "2026-10-25T10:21:48+00:00"
+    },
+    {
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -135,6 +221,42 @@
       "publishedAt": "2026-10-25T08:31:01+00:00"
     },
     {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "This mysterious mushroom makes people see hundreds of tiny humans",
+      "titleZh": "这种神秘的蘑菇让人们看到了数百个小人",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
+      "summary": "For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or even hundreds of tiny, colorful humans moving through the real world. Now, scientists have identified a mushroom species, Lanmaoa asiatica, responsible ",
+      "publishedAt": "2026-10-25T06:36:10+00:00"
+    },
+    {
+      "id": "science-daily-health-4",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Popular cannabis sleep gummies may have a hidden dark side",
+      "titleZh": "流行的大麻睡眠软糖可能有隐藏的阴暗面",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024221952.htm",
+      "summary": "A cannabis-derived ingredient commonly found in sleep gummies may be more habit-forming than previously thought, with new research showing that repeated exposure caused tolerance and withdrawal symptoms in mice. Scientists warn that CBN may carry risks similar to THC, although its long-term effects ",
+      "publishedAt": "2026-10-25T05:08:39+00:00"
+    },
+    {
+      "id": "science-daily-health-8",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Mediterranean diet may boost tiny proteins that protect the heart and brain",
+      "titleZh": "地中海饮食可以促进保护心脏和大脑的微小蛋白质",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
+      "summary": "Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging. Researchers at USC found that older adults who closely followed the diet had higher levels of two tiny proteins, humanin and SHMOOSE, produced by the mitochondria, the en",
+      "publishedAt": "2026-10-25T01:38:38+00:00"
+    },
+    {
       "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
@@ -147,7 +269,7 @@
       "publishedAt": "2026-10-24T17:00:59+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -159,7 +281,7 @@
       "publishedAt": "2026-10-24T16:00:12+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +293,7 @@
       "publishedAt": "2026-10-24T14:30:56+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -183,7 +305,7 @@
       "publishedAt": "2026-10-24T13:15:00+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -195,7 +317,7 @@
       "publishedAt": "2026-10-24T11:52:47+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -231,7 +353,7 @@
       "publishedAt": "2026-10-24T11:00:00+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +365,7 @@
       "publishedAt": "2026-10-24T10:00:25+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -255,7 +377,7 @@
       "publishedAt": "2026-10-24T00:48:21+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -315,7 +437,7 @@
       "publishedAt": "2026-10-23T18:48:10+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +533,7 @@
       "publishedAt": "2026-10-23T15:21:24+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +557,7 @@
       "publishedAt": "2026-10-23T15:12:58+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -459,7 +581,7 @@
       "publishedAt": "2026-10-23T14:47:21+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +617,7 @@
       "publishedAt": "2026-10-23T13:45:14+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -507,7 +629,7 @@
       "publishedAt": "2026-10-23T13:00:57+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -519,7 +641,7 @@
       "publishedAt": "2026-10-23T13:00:44+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -543,7 +665,7 @@
       "publishedAt": "2026-10-23T13:00:00+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -555,7 +677,7 @@
       "publishedAt": "2026-10-23T11:35:00+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -567,7 +689,7 @@
       "publishedAt": "2026-10-23T11:30:14+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -579,7 +701,7 @@
       "publishedAt": "2026-10-23T11:12:28+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -591,7 +713,7 @@
       "publishedAt": "2026-10-23T11:02:25+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -603,7 +725,7 @@
       "publishedAt": "2026-10-23T11:00:34+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,7 +761,7 @@
       "publishedAt": "2026-10-23T10:30:00+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -675,7 +797,7 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -687,7 +809,7 @@
       "publishedAt": "2026-10-23T08:28:22+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -697,18 +819,6 @@
       "link": "https://endpoints.news/alnylam-plans-bigger-study-of-rna-drug-for-huntingtons-disease/",
       "summary": "As with many of the most feared neurological conditions, Huntington’s disease has proven to be a minefield for drug developers. Promising biomarker data didn’t translate into clinical benefits in Roche’s recent study ...",
       "publishedAt": "2026-10-23T07:45:51+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Gilead strikes $1.3B upfront China deal for oral IL-23 drug",
-      "titleZh": "吉利德在中国达成13亿美元的口服IL-23药物前期交易",
-      "link": "https://endpoints.news/gilead-strikes-1-3b-upfront-china-deal-for-oral-il-23-drug/",
-      "summary": "Gilead is going to Shanghai for its latest expansion in the hot inflammation market, dishing out $1.28 billion upfront to PepStar Therapeutics for a Phase 1 asset. The California biopharma is gaining hold of an ...",
-      "publishedAt": "2026-10-23T02:02:41+00:00"
     },
     {
       "id": "biopharma-dive-2",
@@ -723,25 +833,25 @@
       "publishedAt": "2026-10-23T01:37:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
-      "titleZh": "剑桥大学的科学家们创造了一个10 $的芯片，可以在你的手腕上放一个医学实验室",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
-      "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose,",
-      "publishedAt": "2026-10-23T01:21:47+00:00"
-    },
-    {
       "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "titleZh": "",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+      "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose,",
+      "publishedAt": "2026-10-23T01:21:47+00:00"
+    },
+    {
+      "id": "science-daily-health-18",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
       "title": "Scientists discover a hidden immune weapon against deadly lung cancer",
-      "titleZh": "科学家发现了一种针对致命肺癌的隐藏免疫武器",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261021231232.htm",
       "summary": "Researchers have uncovered a hidden immune defense capable of attacking small cell lung cancer, an extremely aggressive disease that often escapes conventional treatments. The specialized immune cells can recognize and destroy cancer cells even when tumors have disguised themselves from the immune s",
       "publishedAt": "2026-10-23T00:32:37+00:00"
@@ -753,34 +863,10 @@
       "lang": "en",
       "category": "研发",
       "title": "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells",
-      "titleZh": "Cryo-EM和AI设计的支架揭示安第斯山脉汉坦病毒如何结合细胞",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/infectious-diseases/cryo-em-and-ai-designed-scaffold-reveal-how-andes-hantavirus-binds-cells/",
       "summary": "Using cryo-EM and an AI-designed scaffold, researchers mapped how Andes hantavirus engages a receptor on human cells. The findings explain how antibodies block attachment and may highlight a potential target for antiviral development. The post Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantav",
       "publishedAt": "2026-10-22T23:50:03+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Treasury proposal would sharply limit US investments in much of China biotech",
-      "titleZh": "财政部提议将大幅限制美国对中国大部分生物技术的投资",
-      "link": "https://endpoints.news/treasury-proposal-would-sharply-limit-us-investments-in-much-of-china-biotech/",
-      "summary": "Draft regulations from the Treasury Department would put broad limits on what types of drug and biotech assets US companies and venture capitalists could invest in and what deals they can make. The",
-      "publishedAt": "2026-10-22T21:57:11+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Pfizer details mixed Lyme disease vaccine data",
-      "titleZh": "辉瑞详细介绍混合莱姆病疫苗数据",
-      "link": "https://endpoints.news/pfizer-details-mixed-lyme-disease-vaccine-data/",
-      "summary": "New data on a closely watched Lyme disease vaccine from Pfizer and Valneva provide details on the near-miss in one of two analyses, as the vaccine's commercial future hangs in the balance. Unveiled Thursday at ...",
-      "publishedAt": "2026-10-22T20:00:07+00:00"
     },
     {
       "id": "biopharma-dive-3",
@@ -789,7 +875,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
-      "titleZh": "Moderna ，默克的股价跌落在急切期待的癌症疫苗结果上",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/",
       "summary": "A combination of the shot and the immunotherapy Keytruda cut the risk of relapse or death by 42% in a landmark melanoma study that met Wall Street expectations but triggered a &ldquo;sell-the-news reaction,&rdquo; one analyst wrote.",
       "publishedAt": "2026-10-22T19:27:00+00:00"
@@ -801,7 +887,7 @@
       "lang": "en",
       "category": "市场",
       "title": "EQT to Acquire Qiagen for $12.1B, Plans to Take Tools, Diagnostics Provider Private",
-      "titleZh": "EQT以121亿美元收购QIAGEN ，计划采用工具，诊断提供商私有化",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/bioprocessing/eqt-to-acquire-qiagen-for-12-1b-plans-to-take-tools-diagnostics-provider-private/",
       "summary": "EQT has €354 billion in assets under management and a three-decade track record of acquiring, developing, and sometimes selling companies that include life sciences tools/tech concerns. The post EQT to Acquire Qiagen for $12.1B, Plans to Take Tools, Diagnostics Provider Private appeared first on GEN",
       "publishedAt": "2026-10-22T18:33:39+00:00"
@@ -813,7 +899,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Proteins Circulating in Blood Linked to Future Risk of Prostate Cancer",
-      "titleZh": "血液中循环的蛋白质与前列腺癌的未来风险相关",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/cancer/proteins-circulating-in-blood-linked-to-future-risk-of-prostate-cancer/",
       "summary": "The results of a large prospective proteomic study have associated proteins linked with the immune system, cell adhesion, blood vessel formation, and known prostate cancer genes, to future risk of developing prostate cancer, including aggressive disease. The post Proteins Circulating in Blood Linked",
       "publishedAt": "2026-10-22T18:22:49+00:00"
@@ -825,7 +911,7 @@
       "lang": "en",
       "category": "技术",
       "title": "Nvidia, UW Institute for Protein Design Unveil Open-Source Protein Design AI Model",
-      "titleZh": "英伟达威斯康星大学蛋白质设计研究所推出开源蛋白质设计AI模型",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
       "summary": "RFD4-Proteina is an open model based on Nvidia’s NVIDIA BioNeMo™ artificial intelligence (AI) platform for chemistry and biology that combines programmable protein design with search capabilities. RFD4-Proteina generates targeted protein designs, enabling scientists and agents to search and refine t",
       "publishedAt": "2026-10-22T17:48:12+00:00"
@@ -891,19 +977,7 @@
       "publishedAt": "2026-10-22T15:20:26+00:00"
     },
     {
-      "id": "science-daily-health-14",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Millions take fish oil for brain health. A two-year study found no benefit",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
-      "summary": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect that getting these nutrients through a healthy diet may offer benefits that suppl",
-      "publishedAt": "2026-10-22T12:46:24+00:00"
-    },
-    {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,7 +989,7 @@
       "publishedAt": "2026-10-22T11:42:05+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,19 +1001,7 @@
       "publishedAt": "2026-10-22T11:30:49+00:00"
     },
     {
-      "id": "science-daily-health-13",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231224.htm",
-      "summary": "Your morning coffee may be packing more calories than you realize, and sugar isn't the biggest reason. A study of 30,000 Americans found that non-dairy creamer has overtaken sugar and milk as the leading source of added coffee calories, helping drive a nearly 40% increase between 2003 and 2018.",
-      "publishedAt": "2026-10-22T10:52:18+00:00"
-    },
-    {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -949,42 +1011,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261021231235.htm",
       "summary": "Scientists have discovered why common marmosets have unusually small, smooth brains despite starting development much like other primates. The secret lies in subtle changes to brain-building cells that slow neuron production, revealing new clues about how the large, folded human brain evolved.",
       "publishedAt": "2026-10-22T10:10:23+00:00"
-    },
-    {
-      "id": "science-daily-health-15",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Natural compound could fight rheumatoid arthritis at its source",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085309.htm",
-      "summary": "A natural compound extracted from a medicinal plant has shown surprising promise against rheumatoid arthritis. In rats, it reduced joint swelling, protected cartilage, and calmed the immune responses responsible for chronic inflammation. Scientists discovered that the compound works by targeting a s",
-      "publishedAt": "2026-10-22T03:37:25+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "A simple 15-minute treatment could help patients avoid carpal tunnel surgery",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085020.htm",
-      "summary": "A simple, steroid-free procedure could offer lasting relief for people struggling with carpal tunnel syndrome, potentially helping them avoid surgery. In a clinical trial involving 63 patients, researchers found that ultrasound-guided hydrodissection, which uses fluid to free a compressed nerve in t",
-      "publishedAt": "2026-10-22T03:03:08+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
-      "summary": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help id",
-      "publishedAt": "2026-10-22T02:37:01+00:00"
     },
     {
       "id": "gen-8",
@@ -1045,30 +1071,6 @@
       "link": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
       "summary": "New follow-up results suggest Arcus&rsquo; drug might be superior to a marketed Merck medicine. Elsewhere, Eli Lilly and AstraZeneca forged new partnerships.",
       "publishedAt": "2026-10-21T14:23:00+00:00"
-    },
-    {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Too much RNA can starve cells of energy, scientists discover",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
-      "summary": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune syst",
-      "publishedAt": "2026-10-21T13:02:34+00:00"
-    },
-    {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Just 4 minutes a day can dramatically improve strength after 65",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085025.htm",
-      "summary": "A new Penn State study suggests that just four minutes of daily strength training can significantly improve mobility and physical function in older adults. After 12 weeks, participants showed meaningful gains in balance, leg strength, and their ability to stand up from a chair, all important factors",
-      "publishedAt": "2026-10-21T09:52:28+00:00"
     },
     {
       "id": "nature-biotech-0",
@@ -1163,102 +1165,6 @@
       "title": "Structural variant detection across sequencing technologies",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03332-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-0",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04756-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-1",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "审批",
-      "title": "Neoadjuvant nivolumab with or without visugromab in muscle-invasive bladder cancer: the phase 2a GDFATHER-NEO trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04740-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-2",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "技术",
-      "title": "Putting conversational AI to the test in primary care",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00054-y",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-3",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "The human microbiome and chronic disease: ten strategic priorities for research and public health",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04730-x",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-4",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04734-7",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-5",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Bispecific dual T cell agonist invikafusp alfa in solid tumors: the phase 1/2 START-001 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04711-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04707-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Milk multi-omics links maternal health to infant growth",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00053-z",
       "summary": "",
       "publishedAt": ""
     }
