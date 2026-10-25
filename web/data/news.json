@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-25T16:05:01.217697+00:00",
-  "count": 88,
+  "updatedAt": "2026-10-25T19:01:31.020575+00:00",
+  "count": 96,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,10 +46,9 @@
       "category": "技术"
     }
   ],
-  "failedSources": [
-    "Nature Medicine"
-  ],
+  "failedSources": [],
   "translations": {
+    "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase": "STAT + ：在ESMO ，阿斯利康的癌症追求得到了展示",
     "#ESMO26: Merck and Moderna's cancer vaccine data were 'a triumph of science.' And now, the work begins": "# ESMO26 ：默克和莫德纳的癌症疫苗数据是“科学的胜利”。“现在，工作开始了",
     "#ESMO26: Roche details magnitude of its KRAS G12C inhibitor’s win over rivals in lung cancer trial": "# ESMO26 ：罗氏详细介绍了其KRAS G12C抑制剂在肺癌试验中战胜竞争对手的程度",
     "#ESMO26: AstraZeneca's Tagrisso-Orpathys combo may extend Tagrisso's life in lung cancer": "# ESMO26 ：阿斯利康的Tagrisso-Orpathys组合可能会延长Tagrisso在肺癌中的生命",
@@ -106,12 +105,23 @@
     "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer": "STAT + ： TANGO报告晚期胰腺癌联合治疗试验的肿瘤缓解率为82%",
     "Scientists discover a surprising double benefit of exercise for Parkinson’s": "科学家发现运动对帕金森氏症的双重益处",
     "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes": "STAT + ：州政府官员争先恐后地实施医疗补助工作要求，满足互换票据的要求",
-    "Opinion: New Medicare policies will keep important pain relief from some patients": "意见：新的Medicare政策将保留一些患者的重要疼痛缓解",
     "Scientists discover a hidden messaging system deep inside the brain": "科学家在大脑深处发现了一个隐藏的消息系统",
     "Alnylam plans bigger study of RNA drug for Huntington’s disease": "Alnylam计划对亨廷顿舞蹈症的RNA药物进行更大规模的研究",
     "Protein degrader specialist Lycia prices $318M IPO": "蛋白质脱脂机专家Lycia IPO定价$ 3.18亿美元"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
+      "titleZh": "STAT + ：在ESMO ，阿斯利康的癌症追求得到了展示",
+      "link": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
+      "summary": "AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.",
+      "publishedAt": "2026-10-25T16:58:45+00:00"
+    },
     {
       "id": "endpoints-0",
       "source": "Endpoints News",
@@ -209,7 +219,7 @@
       "publishedAt": "2026-10-25T10:00:51+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -257,7 +267,7 @@
       "publishedAt": "2026-10-25T01:38:38+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -329,7 +339,7 @@
       "publishedAt": "2026-10-24T11:16:08+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -341,7 +351,7 @@
       "publishedAt": "2026-10-24T11:00:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -389,7 +399,7 @@
       "publishedAt": "2026-10-23T23:15:09+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -401,7 +411,7 @@
       "publishedAt": "2026-10-23T19:19:55+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -413,7 +423,7 @@
       "publishedAt": "2026-10-23T19:16:37+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -425,7 +435,7 @@
       "publishedAt": "2026-10-23T18:55:12+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -449,7 +459,7 @@
       "publishedAt": "2026-10-23T18:36:40+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -461,7 +471,7 @@
       "publishedAt": "2026-10-23T16:47:31+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -473,7 +483,7 @@
       "publishedAt": "2026-10-23T16:39:04+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -485,7 +495,7 @@
       "publishedAt": "2026-10-23T15:59:07+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -509,7 +519,7 @@
       "publishedAt": "2026-10-23T15:33:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -569,7 +579,7 @@
       "publishedAt": "2026-10-23T15:03:52+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -593,7 +603,7 @@
       "publishedAt": "2026-10-23T14:33:54+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -605,7 +615,7 @@
       "publishedAt": "2026-10-23T14:03:06+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -653,7 +663,7 @@
       "publishedAt": "2026-10-23T13:00:17+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -749,7 +759,7 @@
       "publishedAt": "2026-10-23T11:00:00+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -773,7 +783,7 @@
       "publishedAt": "2026-10-23T10:10:11+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -782,18 +792,6 @@
       "titleZh": "STAT + ：州政府官员争先恐后地实施医疗补助工作要求，满足互换票据的要求",
       "link": "https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss",
       "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
-      "publishedAt": "2026-10-23T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: New Medicare policies will keep important pain relief from some patients",
-      "titleZh": "意见：新的Medicare政策将保留一些患者的重要疼痛缓解",
-      "link": "https://www.statnews.com/2026/10/23/severe-pain-policy-medicare-coverage-macs-nerve-block/?utm_campaign=rss",
-      "summary": "For some people, simply putting on pants can be excruciatingly painful. New policy will put pain relief out of reach for many, doctor writes.",
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
@@ -1165,6 +1163,102 @@
       "title": "Structural variant detection across sequencing technologies",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03332-9",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-0",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04756-1",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "审批",
+      "title": "Neoadjuvant nivolumab with or without visugromab in muscle-invasive bladder cancer: the phase 2a GDFATHER-NEO trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04740-9",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "技术",
+      "title": "Putting conversational AI to the test in primary care",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00054-y",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-3",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "The human microbiome and chronic disease: ten strategic priorities for research and public health",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04730-x",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-4",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04734-7",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-5",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Bispecific dual T cell agonist invikafusp alfa in solid tumors: the phase 1/2 START-001 trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04711-0",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-6",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04707-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-7",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Milk multi-omics links maternal health to infant growth",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00053-z",
       "summary": "",
       "publishedAt": ""
     }
