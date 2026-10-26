@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-25T21:42:40.915634+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-26T00:12:41.659872+00:00",
+  "count": 88,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,8 +46,12 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Medicine"
+  ],
   "translations": {
+    "StockWatch: Investment Banker Talks U.S.-Chinese Deals, IPOs, and a Tough Climate for Startups Seeking Capital": "StockWatch ：投资银行家谈美中交易、IPO以及初创企业寻求资本的艰难环境",
+    "#ESMO26: Akeso details ivonescimab's biliary cancer success, drawing Keytruda comparisons": "# ESMO26 ： Akeso详细介绍了ivonescimab的胆道癌成功案例，并与Keytruda进行了比较",
     "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase": "STAT + ：在ESMO ，阿斯利康的癌症追求得到了展示",
     "#ESMO26: Merck and Moderna's cancer vaccine data were 'a triumph of science.' And now, the work begins": "# ESMO26 ：默克和莫德纳的癌症疫苗数据是“科学的胜利”。“现在，工作开始了",
     "#ESMO26: Roche details magnitude of its KRAS G12C inhibitor’s win over rivals in lung cancer trial": "# ESMO26 ：罗氏详细介绍了其KRAS G12C抑制剂在肺癌试验中战胜竞争对手的程度",
@@ -105,11 +109,33 @@
     "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer": "STAT + ： TANGO报告晚期胰腺癌联合治疗试验的肿瘤缓解率为82%",
     "Scientists discover a surprising double benefit of exercise for Parkinson’s": "科学家发现运动对帕金森氏症的双重益处",
     "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes": "STAT + ：州政府官员争先恐后地实施医疗补助工作要求，满足互换票据的要求",
-    "Scientists discover a hidden messaging system deep inside the brain": "科学家在大脑深处发现了一个隐藏的消息系统",
-    "Alnylam plans bigger study of RNA drug for Huntington’s disease": "Alnylam计划对亨廷顿舞蹈症的RNA药物进行更大规模的研究",
-    "Protein degrader specialist Lycia prices $318M IPO": "蛋白质脱脂机专家Lycia IPO定价$ 3.18亿美元"
+    "Scientists discover a hidden messaging system deep inside the brain": "科学家在大脑深处发现了一个隐藏的消息系统"
   },
   "items": [
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "StockWatch: Investment Banker Talks U.S.-Chinese Deals, IPOs, and a Tough Climate for Startups Seeking Capital",
+      "titleZh": "StockWatch ：投资银行家谈美中交易、IPO以及初创企业寻求资本的艰难环境",
+      "link": "https://www.genengnews.com/topics/translational-medicine/stockwatch-investment-banker-talks-u-s-chinese-deals-ipos-and-a-tough-climate-for-startups-seeking-capital/",
+      "summary": "Geoff Meyerson addressed the growth of U.S.-Chinese licensing/collaboration deals, the recent growth of IPOs, and the still-chilly climate for startups seeking financing in a recent interview with GEN Edge. The post StockWatch: Investment Banker Talks U.S.-Chinese Deals, IPOs, and a Tough Climate fo",
+      "publishedAt": "2026-10-25T23:11:05+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "#ESMO26: Akeso details ivonescimab's biliary cancer success, drawing Keytruda comparisons",
+      "titleZh": "# ESMO26 ： Akeso详细介绍了ivonescimab的胆道癌成功案例，并与Keytruda进行了比较",
+      "link": "https://endpoints.news/esmo26-akeso-details-ivonescimabs-biliary-cancer-success-drawing-keytruda-comparisons/",
+      "summary": "MADRID — Akeso on Sunday spelled out by how much its Summit Therapeutics-partnered PD-1xVEGF bispecific improved survival in a late-stage, China-only biliary tract cancer study, in one of its early moves to find success beyond ...",
+      "publishedAt": "2026-10-25T21:43:13+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
@@ -123,7 +149,7 @@
       "publishedAt": "2026-10-25T16:58:45+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -135,7 +161,7 @@
       "publishedAt": "2026-10-25T15:46:39+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -147,7 +173,7 @@
       "publishedAt": "2026-10-25T15:30:51+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +233,7 @@
       "publishedAt": "2026-10-25T10:21:48+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -279,7 +305,7 @@
       "publishedAt": "2026-10-24T17:00:59+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +317,7 @@
       "publishedAt": "2026-10-24T16:00:12+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +389,7 @@
       "publishedAt": "2026-10-24T11:00:00+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +413,7 @@
       "publishedAt": "2026-10-24T00:48:21+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -447,7 +473,7 @@
       "publishedAt": "2026-10-23T18:48:10+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -531,7 +557,7 @@
       "publishedAt": "2026-10-23T15:24:28+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -543,7 +569,7 @@
       "publishedAt": "2026-10-23T15:21:24+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -555,7 +581,7 @@
       "publishedAt": "2026-10-23T15:13:11+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -567,7 +593,7 @@
       "publishedAt": "2026-10-23T15:12:58+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -591,7 +617,7 @@
       "publishedAt": "2026-10-23T14:47:21+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +653,7 @@
       "publishedAt": "2026-10-23T13:45:14+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,7 +665,7 @@
       "publishedAt": "2026-10-23T13:00:57+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +677,7 @@
       "publishedAt": "2026-10-23T13:00:44+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -675,7 +701,7 @@
       "publishedAt": "2026-10-23T13:00:00+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +713,7 @@
       "publishedAt": "2026-10-23T11:35:00+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -723,7 +749,7 @@
       "publishedAt": "2026-10-23T11:02:25+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -735,7 +761,7 @@
       "publishedAt": "2026-10-23T11:00:34+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -807,25 +833,13 @@
       "publishedAt": "2026-10-23T08:28:22+00:00"
     },
     {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Alnylam plans bigger study of RNA drug for Huntington’s disease",
-      "titleZh": "Alnylam计划对亨廷顿舞蹈症的RNA药物进行更大规模的研究",
-      "link": "https://endpoints.news/alnylam-plans-bigger-study-of-rna-drug-for-huntingtons-disease/",
-      "summary": "As with many of the most feared neurological conditions, Huntington’s disease has proven to be a minefield for drug developers. Promising biomarker data didn’t translate into clinical benefits in Roche’s recent study ...",
-      "publishedAt": "2026-10-23T07:45:51+00:00"
-    },
-    {
       "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "市场",
       "title": "Protein degrader specialist Lycia prices $318M IPO",
-      "titleZh": "蛋白质脱脂机专家Lycia IPO定价$ 3.18亿美元",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
       "summary": "Funds from the upsized offering will support a trio of protein-degrading medicines in development for allergic conditions as well as the autoimmune disorder Graves&rsquo; disease.",
       "publishedAt": "2026-10-23T01:37:00+00:00"
@@ -855,7 +869,7 @@
       "publishedAt": "2026-10-23T00:32:37+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -879,7 +893,7 @@
       "publishedAt": "2026-10-22T19:27:00+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -891,7 +905,7 @@
       "publishedAt": "2026-10-22T18:33:39+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -903,7 +917,7 @@
       "publishedAt": "2026-10-22T18:22:49+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -915,7 +929,7 @@
       "publishedAt": "2026-10-22T17:48:12+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -927,7 +941,7 @@
       "publishedAt": "2026-10-22T17:33:44+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1011,7 +1025,7 @@
       "publishedAt": "2026-10-22T10:10:23+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1021,18 +1035,6 @@
       "link": "https://www.genengnews.com/topics/translational-medicine/bcg-vaccine-induced-trained-immunity-may-help-protect-against-dementia/",
       "summary": "The results of a preclinical study suggest that the BCG vaccine, which is widely used to prevent tuberculosis and treat bladder cancer, may also have properties that reduce the risk for dementia by inducing trained immunity. The post BCG Vaccine-Induced Trained Immunity May Help Protect Against Deme",
       "publishedAt": "2026-10-21T19:13:42+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "ASHG: Signals Based on Clinical Obesity Show Stronger Links to Cardiovascular Health than Those Linked to BMI",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/drug-discovery/ashg-signals-based-on-clinical-obesity-show-stronger-links-to-cardiovascular-health-than-those-linked-to-bmi/",
-      "summary": "Researchers also developed a clinical obesity polygenic score that combined information from numerous genetic variants, a score that was shown to be significantly associated with BMI, body fat percentage, and waist circumference. The post ASHG: Signals Based on Clinical Obesity Show Stronger Links t",
-      "publishedAt": "2026-10-21T18:30:56+00:00"
     },
     {
       "id": "biopharma-dive-7",
@@ -1163,102 +1165,6 @@
       "title": "Structural variant detection across sequencing technologies",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03332-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-0",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04756-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-1",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "审批",
-      "title": "Neoadjuvant nivolumab with or without visugromab in muscle-invasive bladder cancer: the phase 2a GDFATHER-NEO trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04740-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-2",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "技术",
-      "title": "Putting conversational AI to the test in primary care",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00054-y",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-3",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "The human microbiome and chronic disease: ten strategic priorities for research and public health",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04730-x",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-4",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04734-7",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-5",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Bispecific dual T cell agonist invikafusp alfa in solid tumors: the phase 1/2 START-001 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04711-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04707-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Milk multi-omics links maternal health to infant growth",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00053-z",
       "summary": "",
       "publishedAt": ""
     }
