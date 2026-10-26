@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-26T00:12:41.659872+00:00",
-  "count": 88,
+  "updatedAt": "2026-10-26T06:03:31.405736+00:00",
+  "count": 96,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,10 +46,9 @@
       "category": "技术"
     }
   ],
-  "failedSources": [
-    "Nature Medicine"
-  ],
+  "failedSources": [],
   "translations": {
+    "A simple liquid can stop cavities without drilling, major study confirms": "主要研究证实，简单的液体可以在不钻孔的情况下停止空腔",
     "StockWatch: Investment Banker Talks U.S.-Chinese Deals, IPOs, and a Tough Climate for Startups Seeking Capital": "StockWatch ：投资银行家谈美中交易、IPO以及初创企业寻求资本的艰难环境",
     "#ESMO26: Akeso details ivonescimab's biliary cancer success, drawing Keytruda comparisons": "# ESMO26 ： Akeso详细介绍了ivonescimab的胆道癌成功案例，并与Keytruda进行了比较",
     "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase": "STAT + ：在ESMO ，阿斯利康的癌症追求得到了展示",
@@ -108,10 +107,21 @@
     "Star adds $200M after spinout successes": "分拆成功后， STAR增加了$ 2亿",
     "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer": "STAT + ： TANGO报告晚期胰腺癌联合治疗试验的肿瘤缓解率为82%",
     "Scientists discover a surprising double benefit of exercise for Parkinson’s": "科学家发现运动对帕金森氏症的双重益处",
-    "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes": "STAT + ：州政府官员争先恐后地实施医疗补助工作要求，满足互换票据的要求",
-    "Scientists discover a hidden messaging system deep inside the brain": "科学家在大脑深处发现了一个隐藏的消息系统"
+    "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes": "STAT + ：州政府官员争先恐后地实施医疗补助工作要求，满足互换票据的要求"
   },
   "items": [
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A simple liquid can stop cavities without drilling, major study confirms",
+      "titleZh": "主要研究证实，简单的液体可以在不钻孔的情况下停止空腔",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+      "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broade",
+      "publishedAt": "2026-10-26T02:41:13+00:00"
+    },
     {
       "id": "gen-0",
       "source": "GEN",
@@ -185,7 +195,7 @@
       "publishedAt": "2026-10-25T15:30:09+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -197,7 +207,7 @@
       "publishedAt": "2026-10-25T12:34:35+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-1",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -209,7 +219,7 @@
       "publishedAt": "2026-10-25T12:18:13+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -221,7 +231,7 @@
       "publishedAt": "2026-10-25T11:00:25+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -257,7 +267,7 @@
       "publishedAt": "2026-10-25T08:31:01+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -269,7 +279,7 @@
       "publishedAt": "2026-10-25T06:36:10+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -281,7 +291,7 @@
       "publishedAt": "2026-10-25T05:08:39+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -329,7 +339,7 @@
       "publishedAt": "2026-10-24T14:30:56+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -341,7 +351,7 @@
       "publishedAt": "2026-10-24T13:15:00+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -353,7 +363,7 @@
       "publishedAt": "2026-10-24T11:52:47+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -401,7 +411,7 @@
       "publishedAt": "2026-10-24T10:00:25+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -725,7 +735,7 @@
       "publishedAt": "2026-10-23T11:30:14+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -737,7 +747,7 @@
       "publishedAt": "2026-10-23T11:12:28+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -797,7 +807,7 @@
       "publishedAt": "2026-10-23T10:30:00+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -821,13 +831,13 @@
       "publishedAt": "2026-10-23T08:30:00+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "审批",
       "title": "Scientists discover a hidden messaging system deep inside the brain",
-      "titleZh": "科学家在大脑深处发现了一个隐藏的消息系统",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
       "summary": "A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system. Previously thought to broadcast the same chemical signal throughout the brain, this region actually sends targeted messages that help control learning, attention, and behavior, ",
       "publishedAt": "2026-10-23T08:28:22+00:00"
@@ -845,7 +855,7 @@
       "publishedAt": "2026-10-23T01:37:00+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -857,7 +867,7 @@
       "publishedAt": "2026-10-23T01:21:47+00:00"
     },
     {
-      "id": "science-daily-health-18",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -989,7 +999,7 @@
       "publishedAt": "2026-10-22T15:20:26+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1001,19 +1011,7 @@
       "publishedAt": "2026-10-22T11:42:05+00:00"
     },
     {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "A revolutionary new microscope could reveal the hidden machinery of life",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
-      "summary": "Researchers have developed a revolutionary microscope that uses an incredibly powerful laser to make previously invisible cellular structures easier to see. The technology dramatically improves image clarity, allowing scientists to examine small proteins that conventional electron microscopes strugg",
-      "publishedAt": "2026-10-22T11:30:49+00:00"
-    },
-    {
-      "id": "science-daily-health-17",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1165,6 +1163,102 @@
       "title": "Structural variant detection across sequencing technologies",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03332-9",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-0",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04756-1",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "审批",
+      "title": "Neoadjuvant nivolumab with or without visugromab in muscle-invasive bladder cancer: the phase 2a GDFATHER-NEO trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04740-9",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "技术",
+      "title": "Putting conversational AI to the test in primary care",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00054-y",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-3",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "The human microbiome and chronic disease: ten strategic priorities for research and public health",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04730-x",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-4",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04734-7",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-5",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Bispecific dual T cell agonist invikafusp alfa in solid tumors: the phase 1/2 START-001 trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04711-0",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-6",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04707-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-7",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Milk multi-omics links maternal health to infant growth",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00053-z",
       "summary": "",
       "publishedAt": ""
     }
