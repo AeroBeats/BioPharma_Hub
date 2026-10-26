@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-26T06:03:31.405736+00:00",
+  "updatedAt": "2026-10-26T12:52:15.732989+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,16 @@
   ],
   "failedSources": [],
   "translations": {
+    "Exercise doesn't just strengthen your heart. It rewires it": "锻炼不仅能强化你的心脏，还能重新连接它",
+    "BioNTech, DualityBio ponder next steps for HER2 ADC after 'modest' breast cancer results": "BioNTech ， DualityBio在“适度”乳腺癌结果后考虑HER2 ADC的后续步骤",
+    "AI detects “invisible” signs of pancreatic cancer years before diagnosis": "人工智能在诊断前几年检测到胰腺癌的“隐形”迹象",
+    "The 4 stages of women’s heart health: New framework for doctors and patients": "女性心脏健康的4个阶段：医生和患者的新框架",
+    "The molecule was fine. The moment wasn’t.": "分子很好。那一刻不是。",
+    "Novel protein and peptide therapeutics": "新型蛋白质和肽类疗法",
+    "STAT+: Moderna CEO on what’s next after success in cancer vaccine": "STAT + ： Moderna首席执行官谈谈癌症疫苗成功后的下一步",
+    "STAT+: NIH’s new vaccine injury center has broad goals beyond RFK Jr.’s focus on shots": "STAT + ： NIH的新疫苗损伤中心的广泛目标超出了RFK Jr.对疫苗的关注",
+    "Opinion: How bad is healthy supposed to feel?": "意见：健康应该感觉有多糟糕？",
+    "Opinion: Could long-term AI use lead to isolation? We need to find out — but researchers need better access to data": "观点：长期使用人工智能会导致隔离吗？我们需要找出答案，但研究人员需要更好地访问数据",
     "A simple liquid can stop cavities without drilling, major study confirms": "主要研究证实，简单的液体可以在不钻孔的情况下停止空腔",
     "StockWatch: Investment Banker Talks U.S.-Chinese Deals, IPOs, and a Tough Climate for Startups Seeking Capital": "StockWatch ：投资银行家谈美中交易、IPO以及初创企业寻求资本的艰难环境",
     "#ESMO26: Akeso details ivonescimab's biliary cancer success, drawing Keytruda comparisons": "# ESMO26 ： Akeso详细介绍了ivonescimab的胆道癌成功案例，并与Keytruda进行了比较",
@@ -92,26 +102,136 @@
     "Roche taps Zymeworks in up to $813M deal for preclinical T cell engager": "罗氏利用Zymeworks获得高达8.13亿美元的临床前T细胞激活剂交易",
     "Anxiety builds over Medicaid work requirements": "焦虑建立在医疗补助工作要求之上",
     "Bristol Myers reveals death in MS CAR-T trial, has answer for safety signal in lupus trial": "布里斯托·迈尔斯（ Bristol Myers ）在MS CAR-T试验中揭示死亡，在狼疮试验中对安全信号有答案",
-    "STAT+: Treasury proposes major restrictions to U.S. investment in Chinese biotech sector": "STAT + ：财政部提议对美国在中国生物技术领域的投资进行重大限制",
-    "STAT+: Pharmalittle: We’re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more": "STAT + ： Pharmalittle ：我们正在阅读有关癌症疫苗、实验性胰腺癌药物等的信息",
     "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership": "Pathos以30亿美元的估值筹集了2.37亿美元，签署了布里斯托尔迈尔斯神经合作伙伴关系",
     "Post-Hoc Live: Did the US just kill off China biotech deals?": "事后直播：美国刚刚扼杀了中国的生物技术交易吗？",
     "Biotech takes a hit as dealmakers take a knee in Q3": "随着交易撮合者在第三季度屈服，生物技术受到打击",
-    "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion": "STAT + ：人工智能制药公司Pathos筹集了2.37亿美元，将估值推高至30亿美元",
     "Warp Sciences emerges from stealth, founded by ex-OpenAI science chief and tech veterans": "Warp Sciences由前OpenAI科学负责人和技术资深人士创立",
     "Tango combo clears Rasonque bar, Takeda's Innovent bet gets early returns, plus more from #ESMO26": "Tango combo清除Rasonque酒吧，武田的Innovent BET提前获得回报，以及来自# ESMO26的更多内容",
-    "Dental implants can hijack your immune system, scientists discover": "牙科植入物可以劫持你的免疫系统，科学家发现",
-    "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial": "突破性PTSD治疗在临床试验中达到68%的缓解率",
-    "Al Sandrock to step down as Voyager CEO; Insmed adds Paul Hudson to board": "Al Sandrock辞去Voyager首席执行官职务； Insmed将Paul Hudson加入董事会",
-    "Star Therapeutics gets $200M to try repeating its Vega, Electra successes": "Star Therapeutics获得2亿美元，尝试重复其Vega ， Electra的成功",
-    "Star adds $200M after spinout successes": "分拆成功后， STAR增加了$ 2亿",
-    "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer": "STAT + ： TANGO报告晚期胰腺癌联合治疗试验的肿瘤缓解率为82%",
-    "Scientists discover a surprising double benefit of exercise for Parkinson’s": "科学家发现运动对帕金森氏症的双重益处",
-    "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes": "STAT + ：州政府官员争先恐后地实施医疗补助工作要求，满足互换票据的要求"
+    "Dental implants can hijack your immune system, scientists discover": "牙科植入物可以劫持你的免疫系统，科学家发现"
   },
   "items": [
     {
       "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Exercise doesn't just strengthen your heart. It rewires it",
+      "titleZh": "锻炼不仅能强化你的心脏，还能重新连接它",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+      "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
+      "publishedAt": "2026-10-26T11:35:53+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "BioNTech, DualityBio ponder next steps for HER2 ADC after 'modest' breast cancer results",
+      "titleZh": "BioNTech ， DualityBio在“适度”乳腺癌结果后考虑HER2 ADC的后续步骤",
+      "link": "https://endpoints.news/biontech-dualitybio-ponder-next-steps-for-her2-adc-after-modest-breast-cancer-results/",
+      "summary": "BioNTech and DualityBio are mulling what to do next with trastuzumab pamirtecan in certain breast cancer patients after the antibody-drug conjugate delivered a “statistically significant, yet modest” success in a Phase 3 trial. The drugmakers ...",
+      "publishedAt": "2026-10-26T10:34:34+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
+      "titleZh": "人工智能在诊断前几年检测到胰腺癌的“隐形”迹象",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
+      "summary": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of 475 days before diagnosis and was nearly twice as sensitive as experienced radiologists. By spottin",
+      "publishedAt": "2026-10-26T09:25:21+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "The 4 stages of women’s heart health: New framework for doctors and patients",
+      "titleZh": "女性心脏健康的4个阶段：医生和患者的新框架",
+      "link": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss",
+      "summary": "New guidance is intended to help girls and women — and their doctors — recognize four distinct phases in heart health.",
+      "publishedAt": "2026-10-26T09:00:00+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "The molecule was fine. The moment wasn’t.",
+      "titleZh": "分子很好。那一刻不是。",
+      "link": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
+      "summary": "Some overlooked medicines aren&rsquo;t failures. They just arrived before the market was ready.",
+      "publishedAt": "2026-10-26T09:00:00+00:00"
+    },
+    {
+      "id": "biopharma-dive-1",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "Novel protein and peptide therapeutics",
+      "titleZh": "新型蛋白质和肽类疗法",
+      "link": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
+      "summary": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.",
+      "publishedAt": "2026-10-26T09:00:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Moderna CEO on what’s next after success in cancer vaccine",
+      "titleZh": "STAT + ： Moderna首席执行官谈谈癌症疫苗成功后的下一步",
+      "link": "https://www.statnews.com/2026/10/26/moderna-ceo-stephane-bancel-interview-cancer-vaccine-intismeran/?utm_campaign=rss",
+      "summary": "Moderna's CEO Stéphane Bancel on what's next after the recent success in cancer vaccine, and how that impacts the company's business strategy.",
+      "publishedAt": "2026-10-26T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: NIH’s new vaccine injury center has broad goals beyond RFK Jr.’s focus on shots",
+      "titleZh": "STAT + ： NIH的新疫苗损伤中心的广泛目标超出了RFK Jr.对疫苗的关注",
+      "link": "https://www.statnews.com/2026/10/26/nih-vaccine-injury-center-probes-post-infection-illness/?utm_campaign=rss",
+      "summary": "The center will study the long-term impact of infections, in addition to RFK Jr.'s focus on vaccines.",
+      "publishedAt": "2026-10-26T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: How bad is healthy supposed to feel?",
+      "titleZh": "意见：健康应该感觉有多糟糕？",
+      "link": "https://www.statnews.com/2026/10/26/how-bad-should-a-healthy-person-feel/?utm_campaign=rss",
+      "summary": "“We shouldn't confuse illness and the hardships that come with living,” writes family nurse practitioner Kirsten Balin.",
+      "publishedAt": "2026-10-26T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-4",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
+      "title": "Opinion: Could long-term AI use lead to isolation? We need to find out — but researchers need better access to data",
+      "titleZh": "观点：长期使用人工智能会导致隔离吗？我们需要找出答案，但研究人员需要更好地访问数据",
+      "link": "https://www.statnews.com/2026/10/26/cumulative-ai-use-isolation-research-data-missing/?utm_campaign=rss",
+      "summary": "“What we don’t know is whether people are disconnecting from one another, gradually, over months of interacting with chatbots,” researchers write.",
+      "publishedAt": "2026-10-26T08:30:00+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -135,7 +255,7 @@
       "publishedAt": "2026-10-25T23:11:05+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -143,11 +263,11 @@
       "title": "#ESMO26: Akeso details ivonescimab's biliary cancer success, drawing Keytruda comparisons",
       "titleZh": "# ESMO26 ： Akeso详细介绍了ivonescimab的胆道癌成功案例，并与Keytruda进行了比较",
       "link": "https://endpoints.news/esmo26-akeso-details-ivonescimabs-biliary-cancer-success-drawing-keytruda-comparisons/",
-      "summary": "MADRID — Akeso on Sunday spelled out by how much its Summit Therapeutics-partnered PD-1xVEGF bispecific improved survival in a late-stage, China-only biliary tract cancer study, in one of its early moves to find success beyond ...",
+      "summary": "MADRID — Akeso on Sunday spelled out just how much its Summit Therapeutics-partnered PD-1xVEGF bispecific improved survival in a late-stage, China-only biliary tract cancer study, in one of its early moves to find success beyond ...",
       "publishedAt": "2026-10-25T21:43:13+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +279,7 @@
       "publishedAt": "2026-10-25T16:58:45+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -167,11 +287,11 @@
       "title": "#ESMO26: Merck and Moderna's cancer vaccine data were 'a triumph of science.' And now, the work begins",
       "titleZh": "# ESMO26 ：默克和莫德纳的癌症疫苗数据是“科学的胜利”。“现在，工作开始了",
       "link": "https://endpoints.news/esmo26-merck-and-modernas-cancer-vaccine-data-were-a-triumph-of-science-and-now-the-work-begins/",
-      "summary": "MADRID — In a testament to clinicians’ interest in Merck and Moderna’s personalized cancer vaccine data at this year’s European Society for Medical Oncology conference, the presidential symposium, which can seat thousands of people, was full ...",
+      "summary": "MADRID — In a testament to clinicians’ interest in Merck and Moderna’s personalized cancer vaccine data at this year’s European Society for Medical Oncology conference, the presidential symposium, which can seat thousands of people, was filled ...",
       "publishedAt": "2026-10-25T15:46:39+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +303,7 @@
       "publishedAt": "2026-10-25T15:30:51+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +315,7 @@
       "publishedAt": "2026-10-25T15:30:09+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -207,7 +327,7 @@
       "publishedAt": "2026-10-25T12:34:35+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -219,7 +339,7 @@
       "publishedAt": "2026-10-25T12:18:13+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -231,7 +351,7 @@
       "publishedAt": "2026-10-25T11:00:25+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -243,7 +363,7 @@
       "publishedAt": "2026-10-25T10:21:48+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +375,7 @@
       "publishedAt": "2026-10-25T10:00:51+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +387,7 @@
       "publishedAt": "2026-10-25T08:31:01+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -279,7 +399,7 @@
       "publishedAt": "2026-10-25T06:36:10+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -291,7 +411,7 @@
       "publishedAt": "2026-10-25T05:08:39+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -303,7 +423,7 @@
       "publishedAt": "2026-10-25T01:38:38+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +435,7 @@
       "publishedAt": "2026-10-24T17:00:59+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -327,7 +447,7 @@
       "publishedAt": "2026-10-24T16:00:12+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +459,7 @@
       "publishedAt": "2026-10-24T14:30:56+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -351,7 +471,7 @@
       "publishedAt": "2026-10-24T13:15:00+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -363,7 +483,7 @@
       "publishedAt": "2026-10-24T11:52:47+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -375,7 +495,7 @@
       "publishedAt": "2026-10-24T11:16:08+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +507,7 @@
       "publishedAt": "2026-10-24T11:00:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +519,7 @@
       "publishedAt": "2026-10-24T11:00:00+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +531,7 @@
       "publishedAt": "2026-10-24T10:00:25+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -423,7 +543,7 @@
       "publishedAt": "2026-10-24T00:48:21+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +555,7 @@
       "publishedAt": "2026-10-23T23:15:09+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +567,7 @@
       "publishedAt": "2026-10-23T19:19:55+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +579,7 @@
       "publishedAt": "2026-10-23T19:16:37+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +591,7 @@
       "publishedAt": "2026-10-23T18:55:12+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +603,7 @@
       "publishedAt": "2026-10-23T18:48:10+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +615,7 @@
       "publishedAt": "2026-10-23T18:36:40+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +627,7 @@
       "publishedAt": "2026-10-23T16:47:31+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +639,7 @@
       "publishedAt": "2026-10-23T16:39:04+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +651,7 @@
       "publishedAt": "2026-10-23T15:59:07+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +663,7 @@
       "publishedAt": "2026-10-23T15:48:21+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -555,7 +675,7 @@
       "publishedAt": "2026-10-23T15:33:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +699,7 @@
       "publishedAt": "2026-10-23T15:21:24+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -603,7 +723,7 @@
       "publishedAt": "2026-10-23T15:12:58+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -615,7 +735,7 @@
       "publishedAt": "2026-10-23T15:03:52+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +747,7 @@
       "publishedAt": "2026-10-23T14:47:21+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,31 +759,7 @@
       "publishedAt": "2026-10-23T14:33:54+00:00"
     },
     {
-      "id": "stat-news-15",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: Treasury proposes major restrictions to U.S. investment in Chinese biotech sector",
-      "titleZh": "STAT + ：财政部提议对美国在中国生物技术领域的投资进行重大限制",
-      "link": "https://www.statnews.com/2026/10/23/new-china-biotech-limits-coins-act-proposal-us-pharma-reaction/?utm_campaign=rss",
-      "summary": "A new Treasury Department proposal would restrict U.S. investments in Chinese biotechs, but still allows licensing deals.",
-      "publishedAt": "2026-10-23T14:03:06+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Pharmalittle: We’re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more",
-      "titleZh": "STAT + ： Pharmalittle ：我们正在阅读有关癌症疫苗、实验性胰腺癌药物等的信息",
-      "link": "https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/?utm_campaign=rss",
-      "summary": "A personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to a standard treatment",
-      "publishedAt": "2026-10-23T13:45:14+00:00"
-    },
-    {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -675,7 +771,7 @@
       "publishedAt": "2026-10-23T13:00:57+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +783,7 @@
       "publishedAt": "2026-10-23T13:00:44+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,19 +795,7 @@
       "publishedAt": "2026-10-23T13:00:17+00:00"
     },
     {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion",
-      "titleZh": "STAT + ：人工智能制药公司Pathos筹集了2.37亿美元，将估值推高至30亿美元",
-      "link": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss",
-      "summary": "AI drug firm Pathos raises $237 million, a deal that brings together a big Tempus dataset, AI analysis from Pathos, and drug development from BMS.",
-      "publishedAt": "2026-10-23T13:00:00+00:00"
-    },
-    {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -723,7 +807,7 @@
       "publishedAt": "2026-10-23T11:35:00+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -735,7 +819,7 @@
       "publishedAt": "2026-10-23T11:30:14+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -747,91 +831,55 @@
       "publishedAt": "2026-10-23T11:12:28+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "审批",
       "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
-      "titleZh": "突破性PTSD治疗在临床试验中达到68%的缓解率",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
       "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise",
       "publishedAt": "2026-10-23T11:02:25+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Al Sandrock to step down as Voyager CEO; Insmed adds Paul Hudson to board",
-      "titleZh": "Al Sandrock辞去Voyager首席执行官职务； Insmed将Paul Hudson加入董事会",
-      "link": "https://endpoints.news/al-sandrock-to-step-down-as-voyager-ceo-insmed-adds-paul-hudson-to-board/",
-      "summary": "→ Al Sandrock is calling it quits as CEO of Voyager Therapeutics in the first quarter next year, but he will stay on the board. Chief business and operating officer Robin Swartz, a Sanofi Genzyme ...",
-      "publishedAt": "2026-10-23T11:00:34+00:00"
     },
     {
       "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
-      "category": "研发",
-      "title": "Star Therapeutics gets $200M to try repeating its Vega, Electra successes",
-      "titleZh": "Star Therapeutics获得2亿美元，尝试重复其Vega ， Electra的成功",
-      "link": "https://endpoints.news/star-therapeutics-gets-200m-to-try-repeating-its-vega-electra-successes/",
-      "summary": "Star Therapeutics has collected $200 million to see whether its homegrown research can produce a new pipeline of medicines after prior successes that have been shipped elsewhere. The new capital is essentially a fresh start ...",
-      "publishedAt": "2026-10-23T11:00:15+00:00"
+      "category": "市场",
+      "title": "Al Sandrock to step down as Voyager CEO; Insmed adds Paul Hudson to board",
+      "titleZh": "",
+      "link": "https://endpoints.news/al-sandrock-to-step-down-as-voyager-ceo-insmed-adds-paul-hudson-to-board/",
+      "summary": "→ Al Sandrock is calling it quits as CEO of Voyager Therapeutics in the first quarter next year, but he will stay on the board. Chief business and operating officer Robin Swartz, a Sanofi Genzyme ...",
+      "publishedAt": "2026-10-23T11:00:34+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "研发",
       "title": "Star adds $200M after spinout successes",
-      "titleZh": "分拆成功后， STAR增加了$ 2亿",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
       "summary": "Following exits for its subsidiaries Electra Therapeutics and Vega Therapeutics, Star is now mining for a new drug prospect.",
       "publishedAt": "2026-10-23T11:00:00+00:00"
     },
     {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
-      "titleZh": "STAT + ： TANGO报告晚期胰腺癌联合治疗试验的肿瘤缓解率为82%",
-      "link": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
-      "summary": "An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported.",
-      "publishedAt": "2026-10-23T10:30:00+00:00"
-    },
-    {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
-      "titleZh": "科学家发现运动对帕金森氏症的双重益处",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
       "summary": "A seven-year study found that people with Parkinson’s disease who were more physically active experienced slower declines in memory, thinking, and movement abilities. Those exercising more than eight hours per week showed almost no average cognitive decline, suggesting that staying active may offer ",
       "publishedAt": "2026-10-23T10:10:11+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes",
-      "titleZh": "STAT + ：州政府官员争先恐后地实施医疗补助工作要求，满足互换票据的要求",
-      "link": "https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss",
-      "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
-      "publishedAt": "2026-10-23T08:30:00+00:00"
-    },
-    {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -843,7 +891,7 @@
       "publishedAt": "2026-10-23T08:28:22+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -855,7 +903,7 @@
       "publishedAt": "2026-10-23T01:37:00+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -865,18 +913,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
       "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose,",
       "publishedAt": "2026-10-23T01:21:47+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover a hidden immune weapon against deadly lung cancer",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231232.htm",
-      "summary": "Researchers have uncovered a hidden immune defense capable of attacking small cell lung cancer, an extremely aggressive disease that often escapes conventional treatments. The specialized immune cells can recognize and destroy cancer cells even when tumors have disguised themselves from the immune s",
-      "publishedAt": "2026-10-23T00:32:37+00:00"
     },
     {
       "id": "gen-3",
@@ -891,7 +927,7 @@
       "publishedAt": "2026-10-22T23:50:03+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -963,7 +999,7 @@
       "publishedAt": "2026-10-22T16:43:05+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -975,7 +1011,7 @@
       "publishedAt": "2026-10-22T16:24:00+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -987,7 +1023,7 @@
       "publishedAt": "2026-10-22T15:50:00+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -999,7 +1035,7 @@
       "publishedAt": "2026-10-22T15:20:26+00:00"
     },
     {
-      "id": "science-daily-health-17",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1009,18 +1045,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
       "summary": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecular turning point that speeds up assembly and could lead to n",
       "publishedAt": "2026-10-22T11:42:05+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover a surprising secret behind the human brain’s wrinkles",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231235.htm",
-      "summary": "Scientists have discovered why common marmosets have unusually small, smooth brains despite starting development much like other primates. The secret lies in subtle changes to brain-building cells that slow neuron production, revealing new clues about how the large, folded human brain evolved.",
-      "publishedAt": "2026-10-22T10:10:23+00:00"
     },
     {
       "id": "gen-9",
@@ -1035,7 +1059,7 @@
       "publishedAt": "2026-10-21T19:13:42+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -1047,31 +1071,19 @@
       "publishedAt": "2026-10-21T16:03:00+00:00"
     },
     {
-      "id": "biopharma-dive-8",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "Roivant, continuing ascent, claims another victory for rare disease drug",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/roivant-brepocitinib-uveitis-study-results/833569/",
-      "summary": "Shortly after winning a clearance in the skin disease dermatomyositis, brepocitinib posted results suggesting it might also be a &ldquo;best-in-disease&rdquo; medicine for an inflammatory eye condition, one analyst said.",
-      "publishedAt": "2026-10-21T15:31:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "市场",
-      "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
-      "summary": "New follow-up results suggest Arcus&rsquo; drug might be superior to a marketed Merck medicine. Elsewhere, Eli Lilly and AstraZeneca forged new partnerships.",
-      "publishedAt": "2026-10-21T14:23:00+00:00"
-    },
-    {
       "id": "nature-biotech-0",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Giving AI a seat at the peer review table",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03369-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-1",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1083,7 +1095,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-1",
+      "id": "nature-biotech-2",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1095,7 +1107,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-2",
+      "id": "nature-biotech-3",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1107,7 +1119,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-3",
+      "id": "nature-biotech-4",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1119,7 +1131,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-4",
+      "id": "nature-biotech-5",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1131,7 +1143,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-5",
+      "id": "nature-biotech-6",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1143,7 +1155,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-6",
+      "id": "nature-biotech-7",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1155,19 +1167,19 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
+      "id": "nature-medicine-0",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
       "lang": "en",
-      "category": "技术",
-      "title": "Structural variant detection across sequencing technologies",
+      "category": "研发",
+      "title": "Neoadjuvant durvalumab plus chemotherapy in resectable or borderline resectable non-small-cell lung cancer: the phase 2 MDT-BRIDGE trial",
       "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03332-9",
+      "link": "https://www.nature.com/articles/s41591-026-04742-7",
       "summary": "",
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-0",
+      "id": "nature-medicine-1",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1179,7 +1191,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04707-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Milk multi-omics links maternal health to infant growth",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00053-z",
       "summary": "",
       "publishedAt": ""
     }
