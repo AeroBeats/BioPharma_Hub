@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-27T04:54:30.439871+00:00",
+  "updatedAt": "2026-10-27T10:27:03.926856+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,9 @@
   ],
   "failedSources": [],
   "translations": {
+    "Opinion: Emergency pediatric care is now in permanent crisis mode": "意见：紧急儿科护理现在处于永久性危机模式",
+    "Opinion: Cancer vaccines are finally here. How do we get them to patients?": "意见：癌症疫苗终于来了。我们如何将它们送到患者手中？",
+    "STAT+: Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own": "STAT + ：宾夕法尼亚州的荷兰国家厌倦了等待生物制药，建立了自己的制药公司",
     "STAT+: Roche gets a lung cancer win with its KRAS drug divarasib": "STAT + ：罗氏凭借其KRAS药物divarasib赢得了肺癌",
     "STAT+: Nonprofit Bon Secours Mercy Health strikes $5.7 billion deal for surgery center chain": "STAT + ：非营利组织Bon Secours Mercy Health以57亿美元收购外科中心连锁店",
     "STAT+: HHS relaxes security, transparency rules for health record software used by hospitals": "STAT + ： HHS放宽医院使用的健康记录软件的安全性和透明度规则",
@@ -100,18 +103,51 @@
     "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment": "科学家发现胰腺癌如何重写其DNA以逃避治疗",
     "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch": "低剂量阿司匹林与痴呆风险降低70 ％有关，但有一个问题",
     "#ESMO26: Pfizer looks beyond lung cancer flop as BioNTech, Bristol Myers show early activity": "# ESMO26 ：随着BioNTech、Bristol Myers显示出早期活动，辉瑞的视野超越了肺癌",
-    "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact": "STAT + ：在癌症疫苗首次成功后，扩大影响力的竞赛即将开始",
     "This mysterious mushroom makes people see hundreds of tiny humans": "这种神秘的蘑菇让人们看到了数百个小人",
     "Popular cannabis sleep gummies may have a hidden dark side": "流行的大麻睡眠软糖可能有隐藏的阴暗面",
     "Mediterranean diet may boost tiny proteins that protect the heart and brain": "地中海饮食可以促进保护心脏和大脑的微小蛋白质",
-    "STAT+: The ESMO presentation everyone’s been waiting for": "STAT + ：每个人都在等待的ESMO演示文稿",
     "#ESMO26: AstraZeneca eyes Keytruda's Padcev spot; Lilly's ADC takes on Elahere; Nubeqa targets earlier prostate cancer": "# ESMO26 ：阿斯利康瞄准Keytruda的Padcev点；礼来的ADC瞄准Elahere ； Nubeqa瞄准早期前列腺癌",
-    "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial": "# ESMO26 ：在3期肺癌试验中，安进的Imdelltra方案将死亡风险降低了一半以上",
-    "Could lowering high blood pressure be as simple as stimulating your ear?": "降低高血压能像刺激耳朵一样简单吗？"
+    "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial": "# ESMO26 ：在3期肺癌试验中，安进的Imdelltra方案将死亡风险降低了一半以上"
   },
   "items": [
     {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: Emergency pediatric care is now in permanent crisis mode",
+      "titleZh": "意见：紧急儿科护理现在处于永久性危机模式",
+      "link": "https://www.statnews.com/2026/10/27/pediatric-emergency-care-rural-hospital-closures/?utm_campaign=rss",
+      "summary": "“In 2026, the unprecedented pediatric patient crowding of 2022 has become a normal Tuesday,” write Jonathan Kohler and Mary King.",
+      "publishedAt": "2026-10-27T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: Cancer vaccines are finally here. How do we get them to patients?",
+      "titleZh": "意见：癌症疫苗终于来了。我们如何将它们送到患者手中？",
+      "link": "https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/?utm_campaign=rss",
+      "summary": "“If we want cancer vaccines to reach patients faster than BRCA testing did, there are several challenges to address now,” write Karen E. Knudsen and Othman Laraki.",
+      "publishedAt": "2026-10-27T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own",
+      "titleZh": "STAT + ：宾夕法尼亚州的荷兰国家厌倦了等待生物制药，建立了自己的制药公司",
+      "link": "https://www.statnews.com/2026/10/27/gene-therapy-cow-rare-disease-amish-mennonite-patients-waiting/?utm_campaign=rss",
+      "summary": "A small community tests if it can solve a crisis no one else could, for the simple reason that they have no other choice.",
+      "publishedAt": "2026-10-27T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -123,7 +159,7 @@
       "publishedAt": "2026-10-26T23:17:13+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +171,7 @@
       "publishedAt": "2026-10-26T21:54:24+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +303,7 @@
       "publishedAt": "2026-10-26T17:43:52+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +315,7 @@
       "publishedAt": "2026-10-26T16:26:50+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +375,7 @@
       "publishedAt": "2026-10-26T15:49:12+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +399,7 @@
       "publishedAt": "2026-10-26T14:40:47+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +447,7 @@
       "publishedAt": "2026-10-26T13:59:35+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +459,7 @@
       "publishedAt": "2026-10-26T13:57:14+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +471,7 @@
       "publishedAt": "2026-10-26T13:38:56+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +483,7 @@
       "publishedAt": "2026-10-26T13:37:51+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +543,7 @@
       "publishedAt": "2026-10-26T09:25:21+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +579,7 @@
       "publishedAt": "2026-10-26T09:00:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +591,7 @@
       "publishedAt": "2026-10-26T08:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -567,7 +603,7 @@
       "publishedAt": "2026-10-26T08:30:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +615,7 @@
       "publishedAt": "2026-10-26T08:30:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +663,7 @@
       "publishedAt": "2026-10-25T21:43:13+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -735,18 +771,6 @@
       "publishedAt": "2026-10-25T10:00:51+00:00"
     },
     {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact",
-      "titleZh": "STAT + ：在癌症疫苗首次成功后，扩大影响力的竞赛即将开始",
-      "link": "https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss",
-      "summary": "After 100 years, there's finally an effective cancer vaccine. Now comes the push to get them to work in more tumor types.",
-      "publishedAt": "2026-10-25T08:31:01+00:00"
-    },
-    {
       "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
@@ -783,18 +807,6 @@
       "publishedAt": "2026-10-25T01:38:38+00:00"
     },
     {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: The ESMO presentation everyone’s been waiting for",
-      "titleZh": "STAT + ：每个人都在等待的ESMO演示文稿",
-      "link": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss",
-      "summary": "Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.",
-      "publishedAt": "2026-10-24T17:00:59+00:00"
-    },
-    {
       "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
@@ -825,7 +837,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
-      "titleZh": "降低高血压能像刺激耳朵一样简单吗？",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
       "summary": "A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and well tolerated. Although it did not significantly outperform a ",
       "publishedAt": "2026-10-24T13:15:00+00:00"
@@ -853,18 +865,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
       "summary": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approa",
       "publishedAt": "2026-10-24T11:16:08+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
-      "summary": "“The goal is not simply to diagnose MS faster. It is to get the diagnosis right,” writes Bruce Bebo.",
-      "publishedAt": "2026-10-24T11:00:00+00:00"
     },
     {
       "id": "endpoints-17",
