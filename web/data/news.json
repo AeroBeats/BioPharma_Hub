@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-27T16:29:29.538450+00:00",
+  "updatedAt": "2026-10-27T21:15:43.084873+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,15 @@
   ],
   "failedSources": [],
   "translations": {
+    "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B": "Ferring以高达14亿美元的价格收购下一代试管婴儿创业公司Gameto",
+    "Backed by Amish and Mennonites, a new kind of gene therapy company takes shape": "在Amish和Mennonites的支持下，一种新型的基因治疗公司成形了",
+    "Artiva Axes 94% of Workforce, Weighs Strategic Alternatives After Two Patients in Phase IIa Trial Die": "在IIA期试验中两名患者死亡后， Artiva挽救了94%的劳动力，权衡了战略替代方案",
+    "Draft COINS rules could threaten broad China collaborations": "COINS规则草案可能会威胁到广泛的中国合作",
+    "STAT+: Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts": "STAT + ：密苏里州股份公司警告礼来停止要求寻求3400亿药物折扣的医院提供数据",
+    "Lilly's ads can continue after Novo challenge, judge rules": "Lilly的广告可以在Novo挑战后继续，法官规则",
+    "STAT+: After two deaths in autoimmune cell therapy trial, Artiva is shutting down": "STAT + ：在自身免疫细胞治疗试验中两人死亡后， Artiva正在关闭",
+    "Bonjour Genomics: A Video from ASHG": "Bonjour Genomics ：来自ASHG的视频",
+    "Vitamin Derivative Pantethine Alleviates Psoriasis Symptoms in Small Human Trial": "维生素衍生物Pantethine在小型人体试验中缓解牛皮癣症状",
     "STAT+: FDA offers new details on quicker approval pathway for personalized gene therapies": "STAT + ： FDA提供关于个性化基因疗法更快获批途径的新细节",
     "Court rejects Novo bid to block Lilly obesity drug ads": "法院驳回NOVO阻止礼来肥胖药物广告的申请",
     "STAT+: RFK Jr. goes for broke in Iowa": "STAT + ： RFK Jr.在爱荷华州破产",
@@ -85,7 +94,6 @@
     "Microsoft's AI gives more accurate diagnoses than doctors, study finds": "研究发现，微软的人工智能比医生提供更准确的诊断",
     "South African Labs Strive for Africa’s Biopharma Sovereignty": "南非实验室争取非洲生物制药主权",
     "Overcoming Bottlenecks: Biopharma’s Big Challenge Is Execution": "克服瓶颈：生物制药面临的最大挑战是执行",
-    "Predicting Leukemia Survival May Be Aided by Six Gene Scoring System": "六个基因评分系统可以帮助预测白血病生存率",
     "WuXi AppTec raises revenue forecast again in the face of DOD court case": "面对国防部法庭案件，无锡AppTec再次提高收入预测",
     "STAT+: House lawmaker probes PBMs for ‘punitive’ audits of independent pharmacies": "STAT + ：众议院议员调查PBM对独立药店的“惩罚性”审计",
     "STAT+: GSK sees its return to cancer start to pay off": "STAT + ：葛兰素史克看到其癌症复发开始得到回报",
@@ -99,19 +107,119 @@
     "#ESMO26: SystImmune/BMS and Hengrui detail data in EGFR-mutant lung cancer": "# ESMO26 ： SystImmune/BMS和Hengrui在EGFR突变肺癌中的详细数据",
     "Lilly’s music-loving, intense lead dealmaker knows what he wants": "礼来热爱音乐、热情的首席交易员知道自己想要什么",
     "Another autoimmune CAR-T death; Treasury zeroes in on China deals": "又一例自身免疫性CAR-T死亡；财政部瞄准中国交易",
-    "STAT+: Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO": "STAT + ： ESMO公司表示， Incyte胰腺癌药物可诱导持久的肿瘤反应",
-    "STAT+: Five biotech updates to read after ESMO this weekend": "STAT + ：本周末ESMO之后要阅读的五个生物技术更新",
-    "STAT+: Pharmalittle: We’re reading about a Roche lung cancer drug, a Bristol CAR-T trial death, and more": "STAT + ： Pharmalittle ：我们正在阅读有关罗氏肺癌药物、布里斯托尔CAR-T试验死亡等信息",
-    "A virus that afflicts cows makes the jump to a human": "一种折磨奶牛的病毒会跳到人类身上",
-    "Corxel to take oral GLP-1 public in the US via SPAC": "Corxel将通过SPAC在美国公开口服GLP-1",
-    "Exercise doesn't just strengthen your heart. It rewires it": "锻炼不仅能强化你的心脏，还能重新连接它",
-    "BioNTech, DualityBio ponder next steps for HER2 ADC after 'modest' breast cancer results": "BioNTech ， DualityBio在“适度”乳腺癌结果后考虑HER2 ADC的后续步骤",
-    "AI detects “invisible” signs of pancreatic cancer years before diagnosis": "人工智能在诊断前几年检测到胰腺癌的“隐形”迹象",
-    "The 4 stages of women’s heart health: New framework for doctors and patients": "女性心脏健康的4个阶段：医生和患者的新框架"
+    "STAT+: Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO": "STAT + ： ESMO公司表示， Incyte胰腺癌药物可诱导持久的肿瘤反应"
   },
   "items": [
     {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
+      "titleZh": "Ferring以高达14亿美元的价格收购下一代试管婴儿创业公司Gameto",
+      "link": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
+      "summary": "The buyout hands Ferring rights to a technology capable of simplifying the lengthy and burdensome process of in vitro fertilization.",
+      "publishedAt": "2026-10-27T20:53:00+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "Backed by Amish and Mennonites, a new kind of gene therapy company takes shape",
+      "titleZh": "在Amish和Mennonites的支持下，一种新型的基因治疗公司成形了",
+      "link": "https://endpoints.news/backed-by-amish-and-mennonites-a-new-kind-of-gene-therapy-company-takes-shape/",
+      "summary": "LANCASTER, PA — This spring, Lorraine and Mark Martin, a Mennonite family with a tax business, adopted a stubby-legged cow named Royal Lite. Lorraine, Mark and Royal Lite all have one thing in common: They ...",
+      "publishedAt": "2026-10-27T20:52:03+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Artiva Axes 94% of Workforce, Weighs Strategic Alternatives After Two Patients in Phase IIa Trial Die",
+      "titleZh": "在IIA期试验中两名患者死亡后， Artiva挽救了94%的劳动力，权衡了战略替代方案",
+      "link": "https://www.genengnews.com/topics/translational-medicine/artiva-axes-94-of-workforce-weighs-strategic-alternatives-after-two-patients-in-phase-iia-trial-die/",
+      "summary": "In announcing the layoffs and strategic alternatives review, Artiva disclosed that two patients in the trial who underwent the study treatment died in Grade 5 safety events. One patient succumbed to leukoencephalopathy while the second experienced sudden death. The post Artiva Axes 94% of Workforce,",
+      "publishedAt": "2026-10-27T19:30:41+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Draft COINS rules could threaten broad China collaborations",
+      "titleZh": "COINS规则草案可能会威胁到广泛的中国合作",
+      "link": "https://endpoints.news/draft-coins-rules-could-threaten-broad-china-collaborations/",
+      "summary": "The release of draft regulations from the Treasury Department has spurred an intense debate over the future of China biotech deals, which could be sharply curtailed under the proposal as written. The draft bars US ...",
+      "publishedAt": "2026-10-27T18:50:49+00:00"
+    },
+    {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
+      "titleZh": "STAT + ：密苏里州股份公司警告礼来停止要求寻求3400亿药物折扣的医院提供数据",
+      "link": "https://www.statnews.com/pharmalot/2026/10/27/missouri-ag-warns-lilly-340b-drug-pricing-data/?utm_campaign=rss",
+      "summary": "Missouri AG told Lilly to stop forcing hospitals to provide claims data to receive discounted medicines under 340B, a sign more states are pushing back against drugmakers.",
+      "publishedAt": "2026-10-27T18:45:34+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Lilly's ads can continue after Novo challenge, judge rules",
+      "titleZh": "Lilly的广告可以在Novo挑战后继续，法官规则",
+      "link": "https://endpoints.news/lillys-ads-can-continue-after-novo-challenge-judge-rules/",
+      "summary": "Novo Nordisk has suffered another setback in its uphill battle against Eli Lilly in the booming obesity drug market after a US judge rejected its attempt to block television ads that Novo alleges are misleading. ...",
+      "publishedAt": "2026-10-27T18:23:59+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: After two deaths in autoimmune cell therapy trial, Artiva is shutting down",
+      "titleZh": "STAT + ：在自身免疫细胞治疗试验中两人死亡后， Artiva正在关闭",
+      "link": "https://www.statnews.com/2026/10/27/autoimmune-cell-therapy-trial-artiva-therapeutics-shutting-down/?utm_campaign=rss",
+      "summary": "Recent deaths are setbacks in drug companies’ interest in applying cancer therapy strategies to autoimmune diseases.",
+      "publishedAt": "2026-10-27T18:05:13+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Bonjour Genomics: A Video from ASHG",
+      "titleZh": "Bonjour Genomics ：来自ASHG的视频",
+      "link": "https://www.genengnews.com/topics/omics/bonjour-genomics-a-video-from-ashg/",
+      "summary": "GEN editors Uduak Thomas and Julianna LeMieux, PhD, recap ASHG, highlighting key sessions, Ultima Genomics’ user group meeting, Illumina news, and insights from PacBio’s new CEO Mark Van Oene. The post Bonjour Genomics: A Video from ASHG appeared first on GEN - Genetic Engineering and Biotechnology ",
+      "publishedAt": "2026-10-27T17:18:55+00:00"
+    },
+    {
+      "id": "gen-2",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "Vitamin Derivative Pantethine Alleviates Psoriasis Symptoms in Small Human Trial",
+      "titleZh": "维生素衍生物Pantethine在小型人体试验中缓解牛皮癣症状",
+      "link": "https://www.genengnews.com/topics/drug-discovery/vitamin-derivative-pantethine-alleviates-psoriasis-symptoms-in-small-human-trial/",
+      "summary": "Researchers found that the vitamin B5 derivative pantethine prevented the development of psoriasis in mice, and in a small-scale trial in human psoriasis patients administering pantethine in combination with topical calcipotriol/betamethasone dipropionate helped to alleviate symptoms. The post Vitam",
+      "publishedAt": "2026-10-27T17:02:30+00:00"
+    },
+    {
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -123,7 +231,7 @@
       "publishedAt": "2026-10-27T16:17:33+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -135,7 +243,7 @@
       "publishedAt": "2026-10-27T16:03:00+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +255,7 @@
       "publishedAt": "2026-10-27T15:45:21+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -159,7 +267,7 @@
       "publishedAt": "2026-10-27T15:44:00+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +279,7 @@
       "publishedAt": "2026-10-27T15:21:31+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +291,7 @@
       "publishedAt": "2026-10-27T14:45:41+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +303,7 @@
       "publishedAt": "2026-10-27T14:38:38+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -207,7 +315,7 @@
       "publishedAt": "2026-10-27T14:28:10+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +327,7 @@
       "publishedAt": "2026-10-27T14:04:06+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +339,7 @@
       "publishedAt": "2026-10-27T13:25:50+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +351,7 @@
       "publishedAt": "2026-10-27T13:16:29+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +375,7 @@
       "publishedAt": "2026-10-27T11:53:24+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -291,7 +399,7 @@
       "publishedAt": "2026-10-27T11:18:37+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -303,7 +411,7 @@
       "publishedAt": "2026-10-27T11:13:42+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -327,7 +435,7 @@
       "publishedAt": "2026-10-27T10:46:21+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +447,7 @@
       "publishedAt": "2026-10-27T10:34:44+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +459,7 @@
       "publishedAt": "2026-10-27T08:30:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +471,7 @@
       "publishedAt": "2026-10-27T08:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +531,7 @@
       "publishedAt": "2026-10-26T23:57:03+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +543,7 @@
       "publishedAt": "2026-10-26T23:17:13+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +555,7 @@
       "publishedAt": "2026-10-26T21:54:24+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +567,7 @@
       "publishedAt": "2026-10-26T21:16:11+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -471,7 +579,7 @@
       "publishedAt": "2026-10-26T20:58:51+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -483,7 +591,7 @@
       "publishedAt": "2026-10-26T20:57:02+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +603,7 @@
       "publishedAt": "2026-10-26T20:50:03+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -507,7 +615,7 @@
       "publishedAt": "2026-10-26T19:57:45+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -519,7 +627,7 @@
       "publishedAt": "2026-10-26T19:17:00+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -531,7 +639,7 @@
       "publishedAt": "2026-10-26T19:00:50+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -543,7 +651,7 @@
       "publishedAt": "2026-10-26T18:55:41+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -555,19 +663,7 @@
       "publishedAt": "2026-10-26T18:22:52+00:00"
     },
     {
-      "id": "gen-7",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Predicting Leukemia Survival May Be Aided by Six Gene Scoring System",
-      "titleZh": "六个基因评分系统可以帮助预测白血病生存率",
-      "link": "https://www.genengnews.com/topics/cancer/predicting-leukemia-survival-may-be-aided-by-six-gene-scoring-system/",
-      "summary": "Researchers studying mice and human data identified a six gene signature, and developed a scorings system, that could help forecast acute myeloid leukemia patient survival, and potentially point to new therapeutic targets. The post Predicting Leukemia Survival May Be Aided by Six Gene Scoring System",
-      "publishedAt": "2026-10-26T18:15:06+00:00"
-    },
-    {
-      "id": "endpoints-9",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -579,7 +675,7 @@
       "publishedAt": "2026-10-26T17:43:52+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +687,7 @@
       "publishedAt": "2026-10-26T16:26:50+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +699,7 @@
       "publishedAt": "2026-10-26T16:20:05+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -615,7 +711,7 @@
       "publishedAt": "2026-10-26T16:06:38+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -627,7 +723,7 @@
       "publishedAt": "2026-10-26T16:06:00+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -639,7 +735,7 @@
       "publishedAt": "2026-10-26T15:58:00+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +747,7 @@
       "publishedAt": "2026-10-26T15:49:12+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -663,7 +759,7 @@
       "publishedAt": "2026-10-26T15:30:00+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -675,7 +771,7 @@
       "publishedAt": "2026-10-26T14:40:47+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -687,7 +783,7 @@
       "publishedAt": "2026-10-26T14:38:28+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,7 +795,7 @@
       "publishedAt": "2026-10-26T14:11:34+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -711,7 +807,7 @@
       "publishedAt": "2026-10-26T14:05:43+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -723,7 +819,7 @@
       "publishedAt": "2026-10-26T13:59:35+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -735,49 +831,37 @@
       "publishedAt": "2026-10-26T13:57:14+00:00"
     },
     {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Five biotech updates to read after ESMO this weekend",
-      "titleZh": "STAT + ：本周末ESMO之后要阅读的五个生物技术更新",
-      "link": "https://www.statnews.com/2026/10/26/biotech-news-moderna-ceo-on-whats-next-after-intismeran-success/?utm_campaign=rss",
-      "summary": "Moderna and Merck are racing to submit their personalized cancer vaccine for FDA approval, expected in 2027, according to Moderna CEO Stéphane Bancel.",
-      "publishedAt": "2026-10-26T13:38:56+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: Pharmalittle: We’re reading about a Roche lung cancer drug, a Bristol CAR-T trial death, and more",
-      "titleZh": "STAT + ： Pharmalittle ：我们正在阅读有关罗氏肺癌药物、布里斯托尔CAR-T试验死亡等信息",
-      "link": "https://www.statnews.com/pharmalot/2026/10/26/roche-lung-cancer-drug-patient-death-in-bristol-trial/?utm_campaign=rss",
-      "summary": "Bristol Myers Squibb reported that one patient died after receiving its investigational CAR-T therapy in an early autoimmune trial",
-      "publishedAt": "2026-10-26T13:37:51+00:00"
-    },
-    {
       "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "审批",
-      "title": "A virus that afflicts cows makes the jump to a human",
-      "titleZh": "一种折磨奶牛的病毒会跳到人类身上",
-      "link": "https://www.statnews.com/2026/10/26/health-news-virus-afflicting-cows-makes-the-jump-to-humans/?utm_campaign=rss",
-      "summary": "For the first time, a human has been infected with the Shamonda virus, according to French officials. The World Health Organization says broader transmission is unlikely.",
-      "publishedAt": "2026-10-26T13:26:15+00:00"
+      "title": "STAT+: Five biotech updates to read after ESMO this weekend",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/10/26/biotech-news-moderna-ceo-on-whats-next-after-intismeran-success/?utm_campaign=rss",
+      "summary": "Moderna and Merck are racing to submit their personalized cancer vaccine for FDA approval, expected in 2027, according to Moderna CEO Stéphane Bancel.",
+      "publishedAt": "2026-10-26T13:38:56+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "stat-news-19",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "市场",
+      "title": "STAT+: Pharmalittle: We’re reading about a Roche lung cancer drug, a Bristol CAR-T trial death, and more",
+      "titleZh": "",
+      "link": "https://www.statnews.com/pharmalot/2026/10/26/roche-lung-cancer-drug-patient-death-in-bristol-trial/?utm_campaign=rss",
+      "summary": "Bristol Myers Squibb reported that one patient died after receiving its investigational CAR-T therapy in an early autoimmune trial",
+      "publishedAt": "2026-10-26T13:37:51+00:00"
+    },
+    {
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
       "title": "Corxel to take oral GLP-1 public in the US via SPAC",
-      "titleZh": "Corxel将通过SPAC在美国公开口服GLP-1",
+      "titleZh": "",
       "link": "https://endpoints.news/corxel-to-take-oral-glp-1-public-in-the-us-via-spac/",
       "summary": "For the second week in a row, a drug developer is going public via a special purpose acquisition company (SPAC), the blank-check vehicle that had faded out of favor but now appears ...",
       "publishedAt": "2026-10-26T13:14:17+00:00"
@@ -789,19 +873,19 @@
       "lang": "en",
       "category": "研发",
       "title": "Exercise doesn't just strengthen your heart. It rewires it",
-      "titleZh": "锻炼不仅能强化你的心脏，还能重新连接它",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
       "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
       "publishedAt": "2026-10-26T11:35:53+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "研发",
       "title": "BioNTech, DualityBio ponder next steps for HER2 ADC after 'modest' breast cancer results",
-      "titleZh": "BioNTech ， DualityBio在“适度”乳腺癌结果后考虑HER2 ADC的后续步骤",
+      "titleZh": "",
       "link": "https://endpoints.news/biontech-dualitybio-ponder-next-steps-for-her2-adc-after-modest-breast-cancer-results/",
       "summary": "BioNTech and DualityBio are mulling what to do next with trastuzumab pamirtecan in certain breast cancer patients after the antibody-drug conjugate delivered a “statistically significant, yet modest” success in a Phase 3 trial. The drugmakers ...",
       "publishedAt": "2026-10-26T10:34:34+00:00"
@@ -813,34 +897,10 @@
       "lang": "en",
       "category": "技术",
       "title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
-      "titleZh": "人工智能在诊断前几年检测到胰腺癌的“隐形”迹象",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
       "summary": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of 475 days before diagnosis and was nearly twice as sensitive as experienced radiologists. By spottin",
       "publishedAt": "2026-10-26T09:25:21+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "The 4 stages of women’s heart health: New framework for doctors and patients",
-      "titleZh": "女性心脏健康的4个阶段：医生和患者的新框架",
-      "link": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss",
-      "summary": "New guidance is intended to help girls and women — and their doctors — recognize four distinct phases in heart health.",
-      "publishedAt": "2026-10-26T09:00:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-6",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "Novel protein and peptide therapeutics",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
-      "summary": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.",
-      "publishedAt": "2026-10-26T09:00:00+00:00"
     },
     {
       "id": "biopharma-dive-7",
@@ -855,6 +915,18 @@
       "publishedAt": "2026-10-26T09:00:00+00:00"
     },
     {
+      "id": "biopharma-dive-8",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "Novel protein and peptide therapeutics",
+      "titleZh": "",
+      "link": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
+      "summary": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.",
+      "publishedAt": "2026-10-26T09:00:00+00:00"
+    },
+    {
       "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
@@ -865,54 +937,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
       "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broade",
       "publishedAt": "2026-10-26T02:41:13+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "市场",
-      "title": "StockWatch: Investment Banker Talks U.S.-Chinese Deals, IPOs, and a Tough Climate for Startups Seeking Capital",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/translational-medicine/stockwatch-investment-banker-talks-u-s-chinese-deals-ipos-and-a-tough-climate-for-startups-seeking-capital/",
-      "summary": "Geoff Meyerson addressed the growth of U.S.-Chinese licensing/collaboration deals, the recent growth of IPOs, and the still-chilly climate for startups seeking financing in a recent interview with GEN. The post StockWatch: Investment Banker Talks U.S.-Chinese Deals, IPOs, and a Tough Climate for Sta",
-      "publishedAt": "2026-10-25T23:11:05+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "#ESMO26: Akeso details ivonescimab's biliary cancer success, drawing Keytruda comparisons",
-      "titleZh": "",
-      "link": "https://endpoints.news/esmo26-akeso-details-ivonescimabs-biliary-cancer-success-drawing-keytruda-comparisons/",
-      "summary": "MADRID — Akeso on Sunday spelled out just how much its Summit Therapeutics-partnered PD-1xVEGF bispecific improved survival in a late-stage, China-only biliary tract cancer study, in one of its early moves to find success beyond ...",
-      "publishedAt": "2026-10-25T21:43:13+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "#ESMO26: Merck and Moderna's cancer vaccine data were 'a triumph of science.' And now, the work begins",
-      "titleZh": "",
-      "link": "https://endpoints.news/esmo26-merck-and-modernas-cancer-vaccine-data-were-a-triumph-of-science-and-now-the-work-begins/",
-      "summary": "MADRID — In a testament to clinicians’ interest in Merck and Moderna’s personalized cancer vaccine data at this year’s European Society for Medical Oncology conference, the presidential symposium, which can seat thousands of people, was filled ...",
-      "publishedAt": "2026-10-25T15:46:39+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "#ESMO26: Roche details magnitude of its KRAS G12C inhibitor’s win over rivals in lung cancer trial",
-      "titleZh": "",
-      "link": "https://endpoints.news/esmo26-roche-details-magnitude-of-its-kras-g12c-inhibitors-win-over-rivals-in-lung-cancer-trial/",
-      "summary": "MADRID — Roche’s next-gen KRAS G12C inhibitor cut the risk of death by 44% in previously treated mutant non-small cell lung cancer in a head-to-head trial against drugs with the same target from Amgen and Bristol ...",
-      "publishedAt": "2026-10-25T15:30:51+00:00"
     },
     {
       "id": "science-daily-health-11",
@@ -1035,7 +1059,7 @@
       "publishedAt": "2026-10-24T11:16:08+00:00"
     },
     {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -1045,30 +1069,6 @@
       "link": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
       "summary": "The latest installment in BioPharma Dive&rsquo;s data visualization series features a look at the emerging popularity of RNAi developers, and the funding that came with it.",
       "publishedAt": "2026-10-23T15:33:00+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "审批",
-      "title": "Wirelessly Powered Electronic Implant, ECHO, Enables Drug-Free Management of ‘Diabesity’",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/translational-medicine/wirelessly-powered-electronic-implant-echo-enables-drug-free-management-of-diabesity/",
-      "summary": "Researchers developed an implantable, wirelessly powered electronic device, ECHO, that uses electrocatalysis to remove excess glucose from the bloodstream on demand, and could offer a drug-free approach to managing obesity and type 2 diabetes (T2D). The post Wirelessly Powered Electronic Implant, EC",
-      "publishedAt": "2026-10-23T15:21:24+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "研发",
-      "title": "Star adds $200M after spinout successes",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
-      "summary": "Following exits for its subsidiaries Electra Therapeutics and Vega Therapeutics, Star is now mining for a new drug prospect.",
-      "publishedAt": "2026-10-23T11:00:00+00:00"
     },
     {
       "id": "nature-biotech-0",
