@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-28T01:14:20.032282+00:00",
+  "updatedAt": "2026-10-28T08:20:41.291081+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,9 @@
   ],
   "failedSources": [],
   "translations": {
+    "A simple daily fiber supplement reduced arthritis pain and improved strength": "简单的日常纤维补充剂可减轻关节炎疼痛并提高强度",
+    "The autistic brain processes faces differently than scientists thought": "自闭症大脑过程的面貌与科学家想象的不同",
+    "Scientists discover the immune system’s hidden sense of touch": "科学家发现免疫系统隐藏的触觉",
     "Anthropic buys a single-person biotech startup backed by Atlas Venture": "Anthropic收购了一家由Atlas Venture支持的单人生物技术初创公司",
     "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B": "Ferring以高达14亿美元的价格收购下一代试管婴儿创业公司Gameto",
     "Backed by Amish and Mennonites, a new kind of gene therapy company takes shape": "在Amish和Mennonites的支持下，一种新型的基因治疗公司成形了",
@@ -104,12 +107,45 @@
     "Beyond cancer vaccine, how did Merck’s oncology pipeline do at #ESMO26?": "除了癌症疫苗，默克的肿瘤学管道在# ESMO26上表现如何？",
     "STAT+: Merck ADC drug cut risk of death by one-third in advanced endometrial cancer": "STAT + ：默克ADC药物将晚期子宫内膜癌的死亡风险降低了三分之一",
     "Aspen, Bambusa target $135M IPOs; AstraZeneca vs. Takeda in gastric cancer ADCs": "Aspen ， Bambusa的目标是1.35亿美元的首次公开募股； AstraZeneca与武田在胃癌ADC方面的比较",
-    "STAT+: Rising premiums, a sad Medicaid gathering, and a new fraud crackdown": "STAT + ：保费上涨，医疗补助计划（ Medicaid ）聚会令人遗憾，以及新的反欺诈措施",
-    "#ESMO26: SystImmune/BMS and Hengrui detail data in EGFR-mutant lung cancer": "# ESMO26 ： SystImmune/BMS和Hengrui在EGFR突变肺癌中的详细数据",
-    "Lilly’s music-loving, intense lead dealmaker knows what he wants": "礼来热爱音乐、热情的首席交易员知道自己想要什么",
-    "Another autoimmune CAR-T death; Treasury zeroes in on China deals": "又一例自身免疫性CAR-T死亡；财政部瞄准中国交易"
+    "STAT+: Rising premiums, a sad Medicaid gathering, and a new fraud crackdown": "STAT + ：保费上涨，医疗补助计划（ Medicaid ）聚会令人遗憾，以及新的反欺诈措施"
   },
   "items": [
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
+      "titleZh": "简单的日常纤维补充剂可减轻关节炎疼痛并提高强度",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
+      "summary": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the benefits may be linked to changes in gut bacteria and the hormone GLP-1, revealin",
+      "publishedAt": "2026-10-28T03:56:09+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "The autistic brain processes faces differently than scientists thought",
+      "titleZh": "自闭症大脑过程的面貌与科学家想象的不同",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
+      "summary": "A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals associated with recognizing faces become more specialized as neurotypical children grow older, but sho",
+      "publishedAt": "2026-10-28T03:02:38+00:00"
+    },
+    {
+      "id": "science-daily-health-4",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover the immune system’s hidden sense of touch",
+      "titleZh": "科学家发现免疫系统隐藏的触觉",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
+      "summary": "Scientists at McGill University have discovered a surprising new ability of immune cells that could change how we understand long-term immunity. Researchers found that T cells can actually sense how stiff their surrounding tissues are, using these physical signals to help determine whether they deve",
+      "publishedAt": "2026-10-28T00:54:54+00:00"
+    },
     {
       "id": "endpoints-0",
       "source": "Endpoints News",
@@ -375,7 +411,7 @@
       "publishedAt": "2026-10-27T12:22:28+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -399,7 +435,7 @@
       "publishedAt": "2026-10-27T11:34:24+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -435,7 +471,7 @@
       "publishedAt": "2026-10-27T10:57:52+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -495,7 +531,7 @@
       "publishedAt": "2026-10-27T08:30:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -507,7 +543,7 @@
       "publishedAt": "2026-10-27T04:02:26+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -519,7 +555,7 @@
       "publishedAt": "2026-10-27T02:32:38+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -531,7 +567,7 @@
       "publishedAt": "2026-10-27T00:57:45+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -801,7 +837,7 @@
       "lang": "en",
       "category": "研发",
       "title": "#ESMO26: SystImmune/BMS and Hengrui detail data in EGFR-mutant lung cancer",
-      "titleZh": "# ESMO26 ： SystImmune/BMS和Hengrui在EGFR突变肺癌中的详细数据",
+      "titleZh": "",
       "link": "https://endpoints.news/esmo26-systimmune-bms-and-hengrui-detail-data-in-egfr-mutant-lung-cancer/",
       "summary": "MADRID — Several drugmakers with antibody-drug conjugates are jockeying for a spot in EGFR-mutant non-small cell lung cancer patients who progress after AstraZeneca’s Tagrisso. And it seems that the most intriguing results are coming out of ...",
       "publishedAt": "2026-10-26T14:11:34+00:00"
@@ -813,7 +849,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Lilly’s music-loving, intense lead dealmaker knows what he wants",
-      "titleZh": "礼来热爱音乐、热情的首席交易员知道自己想要什么",
+      "titleZh": "",
       "link": "https://endpoints.news/lillys-music-loving-intense-lead-dealmaker-knows-what-he-wants/",
       "summary": "Twenty-two years ago, in a theater on the bucolic campus of Princeton University, a sophomore named Jacob Van Naarden portrayed the gambler Nathan Detroit in a production of the famous Broadway ...",
       "publishedAt": "2026-10-26T14:05:43+00:00"
@@ -825,7 +861,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
-      "titleZh": "又一例自身免疫性CAR-T死亡；财政部瞄准中国交易",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
       "summary": "A patient who received Bristol Myers&rsquo; zola-cel died 44 days later. Elsewhere, Gilead paid nearly $1.3 billion for a potential threat to J&amp;J&rsquo;s newly approved psoriasis pill.",
       "publishedAt": "2026-10-26T13:59:35+00:00"
@@ -879,7 +915,7 @@
       "publishedAt": "2026-10-26T13:14:17+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,7 +927,7 @@
       "publishedAt": "2026-10-26T11:35:53+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,7 +963,7 @@
       "publishedAt": "2026-10-26T09:00:00+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -939,7 +975,7 @@
       "publishedAt": "2026-10-26T02:41:13+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -951,7 +987,7 @@
       "publishedAt": "2026-10-25T12:34:35+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -963,7 +999,7 @@
       "publishedAt": "2026-10-25T12:18:13+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,7 +1011,7 @@
       "publishedAt": "2026-10-25T11:00:25+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,7 +1023,7 @@
       "publishedAt": "2026-10-25T10:21:48+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -999,7 +1035,7 @@
       "publishedAt": "2026-10-25T06:36:10+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1011,19 +1047,7 @@
       "publishedAt": "2026-10-25T05:08:39+00:00"
     },
     {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Mediterranean diet may boost tiny proteins that protect the heart and brain",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
-      "summary": "Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging. Researchers at USC found that older adults who closely followed the diet had higher levels of two tiny proteins, humanin and SHMOOSE, produced by the mitochondria, the en",
-      "publishedAt": "2026-10-25T01:38:38+00:00"
-    },
-    {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1033,30 +1057,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
       "summary": "A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and well tolerated. Although it did not significantly outperform a ",
       "publishedAt": "2026-10-24T13:15:00+00:00"
-    },
-    {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Your blood could reveal inflammatory bowel disease 10 years before diagnosis",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023713.htm",
-      "summary": "A major study has uncovered hidden warning signs of inflammatory bowel disease in the blood up to 10 years before diagnosis. Researchers discovered distinct antibody patterns that could help predict who would later develop Crohn’s disease or ulcerative colitis, even distinguishing people at risk of ",
-      "publishedAt": "2026-10-24T11:52:47+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
-      "summary": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approa",
-      "publishedAt": "2026-10-24T11:16:08+00:00"
     },
     {
       "id": "biopharma-dive-9",
