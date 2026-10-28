@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-27T21:15:43.084873+00:00",
+  "updatedAt": "2026-10-28T01:14:20.032282+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "Anthropic buys a single-person biotech startup backed by Atlas Venture": "Anthropic收购了一家由Atlas Venture支持的单人生物技术初创公司",
     "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B": "Ferring以高达14亿美元的价格收购下一代试管婴儿创业公司Gameto",
     "Backed by Amish and Mennonites, a new kind of gene therapy company takes shape": "在Amish和Mennonites的支持下，一种新型的基因治疗公司成形了",
     "Artiva Axes 94% of Workforce, Weighs Strategic Alternatives After Two Patients in Phase IIa Trial Die": "在IIA期试验中两名患者死亡后， Artiva挽救了94%的劳动力，权衡了战略替代方案",
@@ -106,10 +107,21 @@
     "STAT+: Rising premiums, a sad Medicaid gathering, and a new fraud crackdown": "STAT + ：保费上涨，医疗补助计划（ Medicaid ）聚会令人遗憾，以及新的反欺诈措施",
     "#ESMO26: SystImmune/BMS and Hengrui detail data in EGFR-mutant lung cancer": "# ESMO26 ： SystImmune/BMS和Hengrui在EGFR突变肺癌中的详细数据",
     "Lilly’s music-loving, intense lead dealmaker knows what he wants": "礼来热爱音乐、热情的首席交易员知道自己想要什么",
-    "Another autoimmune CAR-T death; Treasury zeroes in on China deals": "又一例自身免疫性CAR-T死亡；财政部瞄准中国交易",
-    "STAT+: Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO": "STAT + ： ESMO公司表示， Incyte胰腺癌药物可诱导持久的肿瘤反应"
+    "Another autoimmune CAR-T death; Treasury zeroes in on China deals": "又一例自身免疫性CAR-T死亡；财政部瞄准中国交易"
   },
   "items": [
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Anthropic buys a single-person biotech startup backed by Atlas Venture",
+      "titleZh": "Anthropic收购了一家由Atlas Venture支持的单人生物技术初创公司",
+      "link": "https://endpoints.news/anthropic-buys-a-single-person-biotech-startup-backed-by-atlas-venture/",
+      "summary": "The AI company Anthropic has acquired a drug discovery startup called Mithril Medicine, as part of its push into the life sciences. And that's where things start to get strange. Mithril is ...",
+      "publishedAt": "2026-10-27T22:31:54+00:00"
+    },
     {
       "id": "biopharma-dive-0",
       "source": "BioPharma Dive",
@@ -123,7 +135,7 @@
       "publishedAt": "2026-10-27T20:53:00+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -147,7 +159,7 @@
       "publishedAt": "2026-10-27T19:30:41+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +183,7 @@
       "publishedAt": "2026-10-27T18:45:34+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +279,7 @@
       "publishedAt": "2026-10-27T15:44:00+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -279,7 +291,7 @@
       "publishedAt": "2026-10-27T15:21:31+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +303,7 @@
       "publishedAt": "2026-10-27T14:45:41+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -315,7 +327,7 @@
       "publishedAt": "2026-10-27T14:28:10+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +351,7 @@
       "publishedAt": "2026-10-27T13:25:50+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +423,7 @@
       "publishedAt": "2026-10-27T11:13:42+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +447,7 @@
       "publishedAt": "2026-10-27T10:46:21+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -591,7 +603,7 @@
       "publishedAt": "2026-10-26T20:57:02+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +639,7 @@
       "publishedAt": "2026-10-26T19:17:00+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -663,7 +675,7 @@
       "publishedAt": "2026-10-26T18:22:52+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,7 +711,7 @@
       "publishedAt": "2026-10-26T16:20:05+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -735,7 +747,7 @@
       "publishedAt": "2026-10-26T15:58:00+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -759,7 +771,7 @@
       "publishedAt": "2026-10-26T15:30:00+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -783,7 +795,7 @@
       "publishedAt": "2026-10-26T14:38:28+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -795,7 +807,7 @@
       "publishedAt": "2026-10-26T14:11:34+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -825,7 +837,7 @@
       "lang": "en",
       "category": "研发",
       "title": "STAT+: Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO",
-      "titleZh": "STAT + ： ESMO公司表示， Incyte胰腺癌药物可诱导持久的肿瘤反应",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/26/incyte-esmo-pancreatic-cancer-incb161734-results/?utm_campaign=rss",
       "summary": "A targeted drug from Incyte, when used in combination with chemotherapy, induced lasting tumor responses in certain patients with pancreatic cancer.",
       "publishedAt": "2026-10-26T13:57:14+00:00"
@@ -855,7 +867,7 @@
       "publishedAt": "2026-10-26T13:37:51+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -877,18 +889,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
       "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
       "publishedAt": "2026-10-26T11:35:53+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "BioNTech, DualityBio ponder next steps for HER2 ADC after 'modest' breast cancer results",
-      "titleZh": "",
-      "link": "https://endpoints.news/biontech-dualitybio-ponder-next-steps-for-her2-adc-after-modest-breast-cancer-results/",
-      "summary": "BioNTech and DualityBio are mulling what to do next with trastuzumab pamirtecan in certain breast cancer patients after the antibody-drug conjugate delivered a “statistically significant, yet modest” success in a Phase 3 trial. The drugmakers ...",
-      "publishedAt": "2026-10-26T10:34:34+00:00"
     },
     {
       "id": "science-daily-health-9",
