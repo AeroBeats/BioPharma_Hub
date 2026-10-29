@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-29T00:49:49.902214+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-29T06:59:04.503637+00:00",
+  "count": 88,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,8 +46,11 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Biotechnology"
+  ],
   "translations": {
+    "Your blood pressure could be dangerous even when your numbers look normal": "即使您的数字看起来正常，您的血压也可能是危险的",
     "Three-Photon Microscopy Reveals Neural Activity Deep in the Mouse Brain": "三光子显微镜揭示小鼠大脑深处的神经活动",
     "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings": "STAT + ：立法者希望政府监管机构调查TrumpRx关于药物节省的说法",
     "How the Heart Stays Strong with MCT1-Dependent Mitochondrial Lactate Import": "通过MCT1依赖性线粒体乳酸盐导入，心脏如何保持强健",
@@ -66,7 +69,7 @@
     "Analysts press Biogen on lupus drug litifilimab ahead of pivotal readouts": "在关键读数之前，分析师按Biogen对红斑狼疮药物litifilimab",
     "Pfizer India site closure risks exacerbating cancer drug shortages": "辉瑞印度工厂关闭存在加剧癌症药物短缺的风险",
     "FDA unveils guidance for ‘plug and play’ gene therapies": "FDA公布“即插即用”基因疗法指南",
-    "Senate candidate El-Sayed wants to ‘grill’ RFK Jr., calls him the ‘most incompetent HHS secretary ever’": "参议院候选人El-Sayed希望“烧烤”小RFK ，称他为“有史以来最无能的HHS秘书”",
+    "STAT+: Senate candidate El-Sayed wants to ‘grill’ RFK Jr., calls him the ‘most incompetent HHS secretary ever’": "STAT + ：参议院候选人El-Sayed希望“烧烤”小RFK ，称他为“有史以来最无能的HHS秘书”",
     "STAT+: Why every health care AI company must face Epic": "STAT + ：为什么每家医疗保健人工智能公司都必须面对Epic",
     "Beijing-based BioGeometry gets $100M+ for AI drug R&D": "总部位于北京的BioGeometry获得$ 1亿多美元用于人工智能药物研发",
     "STAT+: Pharmalittle: We’re reading about 340B battles, new results for a Lilly weight loss drug, and more": "STAT + ： Pharmalittle ：我们正在阅读有关340B战斗，礼来减肥药物的新结果等",
@@ -106,10 +109,21 @@
     "Outpace ends an ovarian cancer trial; Incyte data impresses at ESMO": "Outpace结束卵巢癌试验； Incyte数据给ESMO留下深刻印象",
     "STAT+: Nonprofit resurrects shelved gene therapy after startup shuts down": "STAT + ：非营利组织在启动关闭后复活了搁置的基因疗法",
     "After Makary's FDA exit, biopharma exhales: Signal Survey": "Makary退出FDA后，生物制药呼气：信号调查",
-    "STAT+: Pharmalittle: We’re reading about a Novo setback in court, a House probe into big PBMs, and more": "STAT + ： Pharmalittle ：我们正在阅读Novo在法庭上的挫折，众议院对大型PBM的调查等",
-    "Ferring to acquire ovary-in-a-dish startup Gameto for up to $1.38B": "Ferring将以高达13.8亿美元的价格收购卵巢式培养皿创业公司Gameto"
+    "STAT+: Pharmalittle: We’re reading about a Novo setback in court, a House probe into big PBMs, and more": "STAT + ： Pharmalittle ：我们正在阅读Novo在法庭上的挫折，众议院对大型PBM的调查等"
   },
   "items": [
+    {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Your blood pressure could be dangerous even when your numbers look normal",
+      "titleZh": "即使您的数字看起来正常，您的血压也可能是危险的",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+      "summary": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain.",
+      "publishedAt": "2026-10-29T03:54:37+00:00"
+    },
     {
       "id": "gen-0",
       "source": "GEN",
@@ -323,7 +337,7 @@
       "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
       "titleZh": "FDA公布“即插即用”基因疗法指南",
       "link": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
-      "summary": "The plan advances recent agency moves to accelerate &ldquo;personalized&rdquo; treatments by offering an approval framework for therapies that can benefit different subsets of patients with the same disease.&nbsp;",
+      "summary": "The plan builds on recent FDA moves to speed &quot;personalized&quot; treatments by offering an approval framework for therapies benefiting different subsets of patients with the same disease.",
       "publishedAt": "2026-10-28T15:15:00+00:00"
     },
     {
@@ -332,8 +346,8 @@
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
-      "title": "Senate candidate El-Sayed wants to ‘grill’ RFK Jr., calls him the ‘most incompetent HHS secretary ever’",
-      "titleZh": "参议院候选人El-Sayed希望“烧烤”小RFK ，称他为“有史以来最无能的HHS秘书”",
+      "title": "STAT+: Senate candidate El-Sayed wants to ‘grill’ RFK Jr., calls him the ‘most incompetent HHS secretary ever’",
+      "titleZh": "STAT + ：参议院候选人El-Sayed希望“烧烤”小RFK ，称他为“有史以来最无能的HHS秘书”",
       "link": "https://www.statnews.com/2026/10/28/abdul-el-sayed-profile-midterm-policy-issues-health-care/?utm_campaign=rss",
       "summary": "Abdul El-Sayed has made headlines for his progressive politics and stance on Israel. But some supporters consider his public health background critical.",
       "publishedAt": "2026-10-28T15:14:49+00:00"
@@ -399,7 +413,7 @@
       "publishedAt": "2026-10-28T13:27:00+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -471,7 +485,7 @@
       "publishedAt": "2026-10-28T10:45:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -567,7 +581,7 @@
       "publishedAt": "2026-10-28T03:02:38+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -825,7 +839,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Ferring to acquire ovary-in-a-dish startup Gameto for up to $1.38B",
-      "titleZh": "Ferring将以高达13.8亿美元的价格收购卵巢式培养皿创业公司Gameto",
+      "titleZh": "",
       "link": "https://endpoints.news/ferring-to-acquire-ovary-in-a-dish-startup-gameto-for-up-to-1-38b/",
       "summary": "Ferring Pharmaceuticals has signed an agreement to acquire the fertility startup Gameto in a deal that could be worth up to $1.3825 billion, the companies told Endpoints News ahead of a",
       "publishedAt": "2026-10-27T13:16:29+00:00"
@@ -843,7 +857,7 @@
       "publishedAt": "2026-10-27T12:22:28+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -855,7 +869,7 @@
       "publishedAt": "2026-10-27T11:53:24+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -867,7 +881,7 @@
       "publishedAt": "2026-10-27T11:18:37+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,7 +905,7 @@
       "publishedAt": "2026-10-27T08:30:00+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -903,7 +917,7 @@
       "publishedAt": "2026-10-27T04:02:26+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,7 +929,7 @@
       "publishedAt": "2026-10-27T02:32:38+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,7 +941,7 @@
       "publishedAt": "2026-10-27T00:57:45+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,19 +1001,19 @@
       "publishedAt": "2026-10-26T13:59:35+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
-      "title": "Exercise doesn't just strengthen your heart. It rewires it",
+      "title": "Exercise doesn&#039;t just strengthen your heart. It rewires it",
       "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
       "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
       "publishedAt": "2026-10-26T11:35:53+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1011,7 +1025,7 @@
       "publishedAt": "2026-10-26T09:25:21+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1023,7 +1037,7 @@
       "publishedAt": "2026-10-26T02:41:13+00:00"
     },
     {
-      "id": "science-daily-health-17",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1035,7 +1049,7 @@
       "publishedAt": "2026-10-25T12:34:35+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1047,124 +1061,16 @@
       "publishedAt": "2026-10-25T12:18:13+00:00"
     },
     {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
-      "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The disc",
-      "publishedAt": "2026-10-25T10:21:48+00:00"
-    },
-    {
       "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
-      "category": "技术",
-      "title": "This mysterious mushroom makes people see hundreds of tiny humans",
+      "category": "审批",
+      "title": "Low-dose aspirin linked to 70% lower dementia risk, but there&#039;s a catch",
       "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
-      "summary": "For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or even hundreds of tiny, colorful humans moving through the real world. Now, scientists have identified a mushroom species, Lanmaoa asiatica, responsible ",
-      "publishedAt": "2026-10-25T06:36:10+00:00"
-    },
-    {
-      "id": "nature-biotech-0",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "An engineered, compact Cas12m variant for multiplexed gene activation in vivo",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03352-5",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-1",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03343-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-2",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Giving AI a seat at the peer review table",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03369-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-3",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Recordanelles capture transient gene expression in single human cells",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03350-7",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-4",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Human Argonaute 2 is a programmable targeting domain for RNA editing",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03358-z",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-5",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03348-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-6",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Recordanelles for transcriptome-wide single-cell RNA recording in human cells",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03327-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03360-5",
-      "summary": "",
-      "publishedAt": ""
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
+      "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The disc",
+      "publishedAt": "2026-10-25T10:21:48+00:00"
     },
     {
       "id": "nature-medicine-0",
