@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-28T20:59:08.928454+00:00",
+  "updatedAt": "2026-10-29T00:49:49.902214+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "Three-Photon Microscopy Reveals Neural Activity Deep in the Mouse Brain": "三光子显微镜揭示小鼠大脑深处的神经活动",
     "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings": "STAT + ：立法者希望政府监管机构调查TrumpRx关于药物节省的说法",
     "How the Heart Stays Strong with MCT1-Dependent Mitochondrial Lactate Import": "通过MCT1依赖性线粒体乳酸盐导入，心脏如何保持强健",
     "Why Zocdoc is clearing the way for AI personal agents": "为什么Zocdoc正在为人工智能个人代理扫清道路",
@@ -106,10 +107,21 @@
     "STAT+: Nonprofit resurrects shelved gene therapy after startup shuts down": "STAT + ：非营利组织在启动关闭后复活了搁置的基因疗法",
     "After Makary's FDA exit, biopharma exhales: Signal Survey": "Makary退出FDA后，生物制药呼气：信号调查",
     "STAT+: Pharmalittle: We’re reading about a Novo setback in court, a House probe into big PBMs, and more": "STAT + ： Pharmalittle ：我们正在阅读Novo在法庭上的挫折，众议院对大型PBM的调查等",
-    "Ferring to acquire ovary-in-a-dish startup Gameto for up to $1.38B": "Ferring将以高达13.8亿美元的价格收购卵巢式培养皿创业公司Gameto",
-    "A possible treatment for brain-eating amoebas, found in the sea": "海洋中发现的脑食性变形虫的可能治疗方法"
+    "Ferring to acquire ovary-in-a-dish startup Gameto for up to $1.38B": "Ferring将以高达13.8亿美元的价格收购卵巢式培养皿创业公司Gameto"
   },
   "items": [
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "Three-Photon Microscopy Reveals Neural Activity Deep in the Mouse Brain",
+      "titleZh": "三光子显微镜揭示小鼠大脑深处的神经活动",
+      "link": "https://www.genengnews.com/topics/translational-medicine/three-photon-microscopy-reveals-neural-activity-deep-in-the-mouse-brain/",
+      "summary": "By optimizing laser, optical, and acquisition parameters, The Rockefeller University researchers developed a three-photon microscopy platform that captures deep-brain neural activity in living mice at single-cell resolution without surgically removing the overlying cortex. The post Three-Photon Micr",
+      "publishedAt": "2026-10-28T22:17:38+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
@@ -123,7 +135,7 @@
       "publishedAt": "2026-10-28T20:51:12+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -183,7 +195,7 @@
       "publishedAt": "2026-10-28T18:04:01+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -219,7 +231,7 @@
       "publishedAt": "2026-10-28T16:35:03+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -231,7 +243,7 @@
       "publishedAt": "2026-10-28T16:00:40+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -243,7 +255,7 @@
       "publishedAt": "2026-10-28T16:00:34+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -255,7 +267,7 @@
       "publishedAt": "2026-10-28T16:00:14+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -311,7 +323,7 @@
       "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
       "titleZh": "FDA公布“即插即用”基因疗法指南",
       "link": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
-      "summary": "The plan builds on recent FDA moves to speed &quot;personalized&quot; treatments by offering an approval framework for therapies benefiting different subsets of patients with the same disease.",
+      "summary": "The plan advances recent agency moves to accelerate &ldquo;personalized&rdquo; treatments by offering an approval framework for therapies that can benefit different subsets of patients with the same disease.&nbsp;",
       "publishedAt": "2026-10-28T15:15:00+00:00"
     },
     {
@@ -603,7 +615,7 @@
       "publishedAt": "2026-10-27T20:52:03+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -663,7 +675,7 @@
       "publishedAt": "2026-10-27T18:05:13+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -675,7 +687,7 @@
       "publishedAt": "2026-10-27T17:18:55+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -825,7 +837,7 @@
       "lang": "en",
       "category": "研发",
       "title": "A possible treatment for brain-eating amoebas, found in the sea",
-      "titleZh": "海洋中发现的脑食性变形虫的可能治疗方法",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/27/health-news-possible-treatment-for-brain-eating-amoebas-found-in-sea/?utm_campaign=rss",
       "summary": "Brain-eating amoebas are hard to treat and nearly always fatal. But researchers have isolated a compound that could help stop the disease.",
       "publishedAt": "2026-10-27T12:22:28+00:00"
@@ -841,18 +853,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
       "summary": "The secret to aging more slowly may be hiding in your gut. Scientists discovered that certain gut bacteria are strongly linked to how quickly the body ages, with microbial differences accounting for about 15% of the variation in biological aging rates. Some bacterial species were associated with slo",
       "publishedAt": "2026-10-27T11:53:24+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Single-Cell Multiomics: Phenotypic Plasticity in Colorectal Cancer Metastasis",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/multimedia/webinars/single-cell-multiomics-phenotypic-plasticity-in-colorectal-cancer-metastasis/",
-      "summary": "In this GEN webinar, Mirjana Efremova, PhD (Queen Mary University of London) will show how these technologies can be used to analyze primary and liver-metastatic CRC patient samples to reveal cancer cell states. The post Single-Cell Multiomics: Phenotypic Plasticity in Colorectal Cancer Metastasis a",
-      "publishedAt": "2026-10-27T11:34:24+00:00"
     },
     {
       "id": "science-daily-health-5",
