@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-29T20:14:18.301600+00:00",
+  "updatedAt": "2026-10-30T00:51:43.210118+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "Labor Department finalizes sweeping PBM disclosure rule": "劳工部最终确定全面的PBM披露规则",
     "For Lilly, cash-pay is key in the US and, increasingly, abroad": "对于礼来而言，现金支付在美国是关键，在海外也越来越重要",
     "Brain Quality Control Selectively Eliminates Neurons with Abnormal Variants in Development": "大脑质量控制选择性地消除发育异常变异的神经元",
     "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements": "STAT + ：联邦法官拒绝新的医疗补助“脆弱”工作要求定义",
@@ -106,10 +107,21 @@
     "STAT+: Why every health care AI company must face Epic": "STAT + ：为什么每家医疗保健人工智能公司都必须面对Epic",
     "Beijing-based BioGeometry gets $100M+ for AI drug R&D": "总部位于北京的BioGeometry获得$ 1亿多美元用于人工智能药物研发",
     "STAT+: Pharmalittle: We’re reading about 340B battles, new results for a Lilly weight loss drug, and more": "STAT + ： Pharmalittle ：我们正在阅读有关340B战斗，礼来减肥药物的新结果等",
-    "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study": "STAT + ：礼来的三重G药物在头对头研究中击败Ozempic",
-    "Lilly shuffles business structure; Novartis writes off part of Avidity deal": "礼来洗牌业务结构；诺华公司注销部分Avidity交易"
+    "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study": "STAT + ：礼来的三重G药物在头对头研究中击败Ozempic"
   },
   "items": [
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "研发",
+      "title": "Labor Department finalizes sweeping PBM disclosure rule",
+      "titleZh": "劳工部最终确定全面的PBM披露规则",
+      "link": "https://www.biopharmadive.com/news/pbm-transparency-final-rule-labor-department-employer/873254/",
+      "summary": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with self-funded employer clients. Employers cheered the rule, while PBMs slammed it as government overreach.",
+      "publishedAt": "2026-10-29T20:30:00+00:00"
+    },
     {
       "id": "endpoints-0",
       "source": "Endpoints News",
@@ -179,7 +191,7 @@
       "title": "R&D chief Dean Li says Merck outflanked rivals with its sac-TMT cancer program",
       "titleZh": "研发主管李院长表示，默沙东凭借其SAC-TMT癌症计划击败竞争对手",
       "link": "https://endpoints.news/rd-chief-dean-li-says-merck-outflanked-rivals-with-its-sac-tmt-cancer-program/",
-      "summary": "Merck's head of R&amp;D Dean Li believes he’s outfoxed his competition for the next generation of oncology drugs, jumping into a wide set of indications that could help it expand the potential of its antibody-drug ...",
+      "summary": "Merck's R&amp;D head Dean Li believes he’s outfoxed his competition for the next generation of oncology drugs, jumping into a wide set of indications that could help it expand the potential of its antibody-drug conjugate ...",
       "publishedAt": "2026-10-29T18:00:02+00:00"
     },
     {
@@ -207,7 +219,7 @@
       "publishedAt": "2026-10-29T16:15:20+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -255,7 +267,7 @@
       "publishedAt": "2026-10-29T15:06:45+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -471,7 +483,7 @@
       "publishedAt": "2026-10-29T10:30:03+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -711,7 +723,7 @@
       "publishedAt": "2026-10-28T16:00:14+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -747,7 +759,7 @@
       "publishedAt": "2026-10-28T15:15:11+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -819,13 +831,13 @@
       "publishedAt": "2026-10-28T13:42:44+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "市场",
       "title": "Lilly shuffles business structure; Novartis writes off part of Avidity deal",
-      "titleZh": "礼来洗牌业务结构；诺华公司注销部分Avidity交易",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
       "summary": "Lilly intends to merge its U.S. and international divisions when a top executive retires. Elsewhere, Astellas closed in on what it believes to be a &ldquo;best-in-class&rdquo; cancer immunotherapy prospect.",
       "publishedAt": "2026-10-28T13:27:00+00:00"
@@ -915,7 +927,7 @@
       "publishedAt": "2026-10-28T00:54:54+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -927,7 +939,7 @@
       "publishedAt": "2026-10-27T20:53:00+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -939,7 +951,7 @@
       "publishedAt": "2026-10-27T16:03:00+00:00"
     },
     {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -1033,18 +1045,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
       "summary": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough also solves a 30-year genetic mystery and could pave the way ",
       "publishedAt": "2026-10-26T23:57:03+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "市场",
-      "title": "Corxel, an obesity drugmaker, to go public via SPAC deal",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/corxel-pharmaceuticals-spac-public-obesity-drugs/872772/",
-      "summary": "Armed with a $300 million financing and two GLP-1 and amylin-targeting medicines, Corxel is set to become the latest weight loss-focused company to join the public markets.&nbsp;",
-      "publishedAt": "2026-10-26T19:17:00+00:00"
     },
     {
       "id": "science-daily-health-14",
