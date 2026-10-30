@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-30T19:17:39.550498+00:00",
-  "count": 88,
+  "updatedAt": "2026-10-30T23:40:09.316488+00:00",
+  "count": 96,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,10 +46,10 @@
       "category": "技术"
     }
   ],
-  "failedSources": [
-    "Nature Biotechnology"
-  ],
+  "failedSources": [],
   "translations": {
+    "Opentrons Raises $40M in Series E to Expand Its Robotics, Software, Data Infrastructure": "Opentrons在E轮融资中筹集了4000万美元$ ，以扩展其机器人、软件和数据基础设施",
+    "100 Million-Cell AI-Ready Dataset with Single-Cell and Proteomic Data Created by Parse and Nomic": "使用Parse和Nomic创建的单细胞和蛋白质组数据的1亿细胞AI就绪数据集",
     "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal": "根据特朗普协议，赛诺菲可能会寻求更高的欧洲药品价格，而不是拒绝上市",
     "This week in charts: ESMO’s winners and losers": "本周排行榜： ESMO的赢家和输家",
     "Gilead CAR-T on partial clinical hold; Agios' PDUFA date pushed back": "Gilead CAR-T处于部分临床保留状态； Agios的PDUFA日期推迟",
@@ -107,11 +107,33 @@
     "STAT+: Pharmalittle: We’re reading about a new policy for compounding peptides, a PBM disclosure rule, and more": "STAT + ： Pharmalittle ：我们正在阅读有关复合多肽的新政策、PBM披露规则等",
     "Less than 42 minutes of bright daylight linked to higher dementia risk": "少于42分钟的明亮日光与更高的痴呆风险有关",
     "Lilly again far surpasses revenue expectations": "礼来再次远远超出收入预期",
-    "Scientists discover that cranberry juice may help fight tooth decay": "科学家发现蔓越莓汁可能有助于对抗蛀牙",
-    "Dren Bio raises $350M to get blood cancer drug onto market in 2027": "Dren Bio筹集了3.5亿美元，以便在2027年将血液癌症药物推向市场",
-    "Flagship blends three biotech startups to form Etcelera": "旗舰将三家生物技术初创公司合并为Etcelera"
+    "Scientists discover that cranberry juice may help fight tooth decay": "科学家发现蔓越莓汁可能有助于对抗蛀牙"
   },
   "items": [
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Opentrons Raises $40M in Series E to Expand Its Robotics, Software, Data Infrastructure",
+      "titleZh": "Opentrons在E轮融资中筹集了4000万美元$ ，以扩展其机器人、软件和数据基础设施",
+      "link": "https://www.genengnews.com/topics/artificial-intelligence/opentrons-raises-40m-in-series-e-to-expand-its-robotics-software-data-infrastructure/",
+      "summary": "According to the company, the funds will support the next phase of its growth in enabling autonomous science in labs and biopharmaceutical companies using its AI and robotics systems. The post Opentrons Raises $40M in Series E to Expand Its Robotics, Software, Data Infrastructure appeared first on G",
+      "publishedAt": "2026-10-30T19:17:01+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "100 Million-Cell AI-Ready Dataset with Single-Cell and Proteomic Data Created by Parse and Nomic",
+      "titleZh": "使用Parse和Nomic创建的单细胞和蛋白质组数据的1亿细胞AI就绪数据集",
+      "link": "https://www.genengnews.com/topics/omics/100-million-cell-ai-ready-dataset-with-single-cell-and-proteomic-data-created-by-parse-and-nomic/",
+      "summary": "Parse Biosciences and Nomic Bio are partnering to create Cascade, a 100-million-cell multimodal dataset combining single-cell and proteomic data to advance AI-driven immune modeling, drug discovery, and therapeutic target identification. The post 100 Million-Cell AI-Ready Dataset with Single-Cell an",
+      "publishedAt": "2026-10-30T19:13:34+00:00"
+    },
     {
       "id": "endpoints-0",
       "source": "Endpoints News",
@@ -149,7 +171,7 @@
       "publishedAt": "2026-10-30T15:47:13+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -161,7 +183,7 @@
       "publishedAt": "2026-10-30T15:47:11+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -485,7 +507,7 @@
       "publishedAt": "2026-10-29T19:31:38+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -521,7 +543,7 @@
       "publishedAt": "2026-10-29T18:33:44+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -653,7 +675,7 @@
       "publishedAt": "2026-10-29T14:45:48+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -677,7 +699,7 @@
       "publishedAt": "2026-10-29T14:18:27+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -815,7 +837,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Dren Bio raises $350M to get blood cancer drug onto market in 2027",
-      "titleZh": "Dren Bio筹集了3.5亿美元，以便在2027年将血液癌症药物推向市场",
+      "titleZh": "",
       "link": "https://endpoints.news/dren-bio-raises-350m-to-get-blood-cancer-drug-onto-market-in-2027/",
       "summary": "Dren Bio has raised $350 million, hoping to get its lead blood cancer drug onto the market by the end of 2027, the California drug developer exclusively told Endpoints News. The Thursday morning haul will ...",
       "publishedAt": "2026-10-29T11:00:08+00:00"
@@ -827,7 +849,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Flagship blends three biotech startups to form Etcelera",
-      "titleZh": "旗舰将三家生物技术初创公司合并为Etcelera",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/flagship-etcelera-etiome-empress-cellarity-launch/872947/",
       "summary": "Etiome, Cellarity and Empress Therapeutics are being combined into one new AI-aided drugmaker claiming to possess the ability to better predict the way new medicines will fare in humans.",
       "publishedAt": "2026-10-29T10:30:00+00:00"
@@ -857,7 +879,7 @@
       "publishedAt": "2026-10-29T03:54:37+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -869,7 +891,7 @@
       "publishedAt": "2026-10-28T22:17:38+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -879,30 +901,6 @@
       "link": "https://www.genengnews.com/topics/translational-medicine/how-the-heart-stays-strong-with-mct1-dependent-mitochondrial-lactate-import/",
       "summary": "Preclinical study results suggest how the heart can keep itself well-fueled even under times of stress, by burning glucose in the cell cytosol while burning lactate in the mitochondria. The post How the Heart Stays Strong with MCT1-Dependent Mitochondrial Lactate Import appeared first on GEN - Genet",
       "publishedAt": "2026-10-28T20:42:30+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "审批",
-      "title": "Human Dengue Study Reveals How Preexisting Immunity Shapes Secondary Infections",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/infectious-diseases/human-dengue-study-reveals-how-preexisting-immunity-shapes-secondary-infections/",
-      "summary": "A controlled human trial reveals how preexisting antibodies influence dengue virus replication and immune responses, offering insights to develop safer, more broadly protective vaccines against all four dengue strains. The post Human Dengue Study Reveals How Preexisting Immunity Shapes Secondary Inf",
-      "publishedAt": "2026-10-28T18:00:01+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Crossing the Digital Validation Chasm",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/bioprocessing/crossing-the-digital-validation-chasm/",
-      "summary": "An iterative, risk-based, model-driven digital validation strategy enables rapid responses to process changes and innovative technological implementations that would be slow to validate using traditional processes. The post Crossing the Digital Validation Chasm appeared first on GEN - Genetic Engine",
-      "publishedAt": "2026-10-28T16:00:40+00:00"
     },
     {
       "id": "biopharma-dive-8",
@@ -1071,6 +1069,102 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
       "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broade",
       "publishedAt": "2026-10-26T02:41:13+00:00"
+    },
+    {
+      "id": "nature-biotech-0",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "An engineered, compact Cas12m variant for multiplexed gene activation in vivo",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03352-5",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-1",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03343-6",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-2",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Giving AI a seat at the peer review table",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03369-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-3",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Recordanelles capture transient gene expression in single human cells",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03350-7",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-4",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Human Argonaute 2 is a programmable targeting domain for RNA editing",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03358-z",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-5",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03348-1",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-6",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Recordanelles for transcriptome-wide single-cell RNA recording in human cells",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03327-6",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-7",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03360-5",
+      "summary": "",
+      "publishedAt": ""
     },
     {
       "id": "nature-medicine-0",
