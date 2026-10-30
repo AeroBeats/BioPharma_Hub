@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-30T14:03:32.577665+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-30T19:17:39.550498+00:00",
+  "count": 88,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,8 +46,18 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Biotechnology"
+  ],
   "translations": {
+    "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal": "根据特朗普协议，赛诺菲可能会寻求更高的欧洲药品价格，而不是拒绝上市",
+    "This week in charts: ESMO’s winners and losers": "本周排行榜： ESMO的赢家和输家",
+    "Gilead CAR-T on partial clinical hold; Agios' PDUFA date pushed back": "Gilead CAR-T处于部分临床保留状态； Agios的PDUFA日期推迟",
+    "Blocking Protein Slows Pancreatic Tumor Growth and Reduces Immune Suppression in Mice": "阻断蛋白质减缓小鼠胰腺肿瘤生长并降低免疫抑制",
+    "No Nonsense: David Liu Lauds Progress in Disease-Agnostic Gene Editing at ESGCT": "无稽之谈： David Liu称赞ESGCT在疾病无关基因编辑方面取得的进展",
+    "AstraZeneca says reorg could mean R&D cuts and trials shifted to emerging markets": "阿斯利康表示，重组可能意味着研发削减和试验转移到新兴市场",
+    "STAT+: Up and down the ladder: The latest comings and goings": "STAT + ：上下阶梯：最新动态",
+    "How Election Day can affect your heart": "选举日如何影响您的心脏",
     "Assessing Merck and Moderna’s mRNA cancer vaccine": "评估Merck和Moderna的mRNA癌症疫苗",
     "STAT+: Pharmalittle: We’re reading about AstraZeneca cost-cutting, Sun Pharma facility problems, and more": "STAT + ： Pharmalittle ：我们正在阅读有关阿斯利康削减成本、Sun Pharma设施问题等的信息",
     "The persisting paradox of men’s health": "持续存在的男性健康悖论",
@@ -99,19 +109,107 @@
     "Lilly again far surpasses revenue expectations": "礼来再次远远超出收入预期",
     "Scientists discover that cranberry juice may help fight tooth decay": "科学家发现蔓越莓汁可能有助于对抗蛀牙",
     "Dren Bio raises $350M to get blood cancer drug onto market in 2027": "Dren Bio筹集了3.5亿美元，以便在2027年将血液癌症药物推向市场",
-    "Flagship Pioneering merges three of its companies for AI drug discovery": "旗舰先锋将其三家公司合并为人工智能药物发现",
-    "Flagship blends three biotech startups to form Etcelera": "旗舰将三家生物技术初创公司合并为Etcelera",
-    "STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous": "STAT + ：新的结直肠肿瘤图谱揭示了为什么年轻人的癌症更危险",
-    "Opinion: STAT+: Is AI more a partner, competitor, or crutch for biomedical scientists?": "观点： STAT + ：人工智能更像是生物医学科学家的合作伙伴、竞争对手还是拐杖？",
-    "STAT+: Biopharma industry at odds over impact of Treasury’s new China rule": "STAT + ：生物制药行业对财政部新中国规则的影响存在分歧",
-    "Your blood pressure could be dangerous even when your numbers look normal": "即使您的数字看起来正常，您的血压也可能是危险的",
-    "Three-Photon Microscopy Reveals Neural Activity Deep in the Mouse Brain": "三光子显微镜揭示小鼠大脑深处的神经活动",
-    "How the Heart Stays Strong with MCT1-Dependent Mitochondrial Lactate Import": "通过MCT1依赖性线粒体乳酸盐导入，心脏如何保持强健",
-    "Why Zocdoc is clearing the way for personal AI agents": "为什么Zocdoc正在为个人人工智能代理扫清道路"
+    "Flagship blends three biotech startups to form Etcelera": "旗舰将三家生物技术初创公司合并为Etcelera"
   },
   "items": [
     {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal",
+      "titleZh": "根据特朗普协议，赛诺菲可能会寻求更高的欧洲药品价格，而不是拒绝上市",
+      "link": "https://endpoints.news/sanofi-may-seek-higher-european-drug-prices-not-withhold-launches-under-trump-deal/",
+      "summary": "While some of Europe’s biggest drugmakers have warned that President Donald Trump’s pricing policies could leave European patients waiting longer for new medicines, Sanofi is taking a different approach. ...",
+      "publishedAt": "2026-10-30T16:16:51+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "研发",
+      "title": "This week in charts: ESMO’s winners and losers",
+      "titleZh": "本周排行榜： ESMO的赢家和输家",
+      "link": "https://www.biopharmadive.com/news/biotech-charts-esmo-2026-winners-losers/873281/",
+      "summary": "The latest installment in BioPharma Dive&rsquo;s visualization-focused series looks at Wall Street&rsquo;s response to a trio of closely watched presentations at a top meeting for cancer drugs.",
+      "publishedAt": "2026-10-30T16:00:00+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Gilead CAR-T on partial clinical hold; Agios' PDUFA date pushed back",
+      "titleZh": "Gilead CAR-T处于部分临床保留状态； Agios的PDUFA日期推迟",
+      "link": "https://endpoints.news/gilead-car-t-on-partial-clinical-hold-agios-pdufa-date-pushed-back/",
+      "summary": "Plus news about Acumen, Bristol Myers Squibb, Regeneron, Aer Therapeutics and Hemay Pharmaceutical. Gilead pauses CAR-T after ICANS: After several cases of the neurological condition known as ICANS, Gilead said in ...",
+      "publishedAt": "2026-10-30T15:47:13+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Blocking Protein Slows Pancreatic Tumor Growth and Reduces Immune Suppression in Mice",
+      "titleZh": "阻断蛋白质减缓小鼠胰腺肿瘤生长并降低免疫抑制",
+      "link": "https://www.genengnews.com/topics/cancer/blocking-protein-slows-pancreatic-tumor-growth-and-reduces-immune-suppression-in-mice/",
+      "summary": "Scientists identified a potential therapeutic target for pancreatic ductal cell adenocarcinoma, discovering that the protein ANO6 is involved in a process helping pancreatic cancer cells obtain nutrients from surrounding cells, while suppressing the immune system’s ability to fight tumors. The post ",
+      "publishedAt": "2026-10-30T15:47:11+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "审批",
+      "title": "No Nonsense: David Liu Lauds Progress in Disease-Agnostic Gene Editing at ESGCT",
+      "titleZh": "无稽之谈： David Liu称赞ESGCT在疾病无关基因编辑方面取得的进展",
+      "link": "https://www.genengnews.com/topics/genome-editing/no-nonsense-david-liu-lauds-progress-in-disease-agnostic-gene-editing-at-esgct/",
+      "summary": "Liu ensured that his return visit to ESGCT (having spoken at the congress in Barcelona in 2019) would be one of the highlights of the conference. The “meta lesson” of the past few years in therapeutic genome editing is that different scientific approaches and applications can synergize with regulato",
+      "publishedAt": "2026-10-30T15:38:49+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "AstraZeneca says reorg could mean R&D cuts and trials shifted to emerging markets",
+      "titleZh": "阿斯利康表示，重组可能意味着研发削减和试验转移到新兴市场",
+      "link": "https://endpoints.news/astrazeneca-says-reorg-could-mean-rd-cuts-and-trials-shifted-to-emerging-markets/",
+      "summary": "AstraZeneca’s leadership hinted at where the cost cuts and job losses from the company’s new restructuring program might fall on a call with journalists Friday. “We are losing patent protection for Farxiga ...",
+      "publishedAt": "2026-10-30T15:36:16+00:00"
+    },
+    {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Up and down the ladder: The latest comings and goings",
+      "titleZh": "STAT + ：上下阶梯：最新动态",
+      "link": "https://www.statnews.com/pharmalot/2026/10/30/up-and-down-the-ladder-jobs-pharma-biotech-lilly/?utm_campaign=rss",
+      "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+      "publishedAt": "2026-10-30T14:45:50+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "How Election Day can affect your heart",
+      "titleZh": "选举日如何影响您的心脏",
+      "link": "https://www.statnews.com/2026/10/30/election-stress-heart-attack-risk/?utm_campaign=rss",
+      "summary": "Political campaigns can do more than raise your blood pressure. Studies link election stress to irregular heartbeats and an increase in heart attacks.",
+      "publishedAt": "2026-10-30T14:07:14+00:00"
+    },
+    {
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -123,7 +221,7 @@
       "publishedAt": "2026-10-30T13:33:55+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -131,11 +229,11 @@
       "title": "STAT+: Pharmalittle: We’re reading about AstraZeneca cost-cutting, Sun Pharma facility problems, and more",
       "titleZh": "STAT + ： Pharmalittle ：我们正在阅读有关阿斯利康削减成本、Sun Pharma设施问题等的信息",
       "link": "https://www.statnews.com/pharmalot/2026/10/30/astrazeneca-cost-cutting-sun-pharma-facility-problems/?utm_campaign=rss",
-      "summary": "AstraZeneca has launched a three-year cost-cutting program that aims to slice off $1.5 billion a year, with the savings reinvested in R&#038;D",
+      "summary": "AstraZeneca has launched a three-year cost-cutting program that aims to slice off $1.5 billion a year, with the savings reinvested in R&#038;D.",
       "publishedAt": "2026-10-30T13:22:49+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +245,7 @@
       "publishedAt": "2026-10-30T13:12:49+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +269,7 @@
       "publishedAt": "2026-10-30T12:12:46+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -183,7 +281,7 @@
       "publishedAt": "2026-10-30T11:50:00+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +293,7 @@
       "publishedAt": "2026-10-30T11:12:36+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +305,7 @@
       "publishedAt": "2026-10-30T11:00:55+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +317,7 @@
       "publishedAt": "2026-10-30T10:30:35+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -243,7 +341,7 @@
       "publishedAt": "2026-10-30T10:15:28+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -251,11 +349,11 @@
       "title": "Post-Hoc Live: Is biotech’s future full of zero- and one- employee startups?",
       "titleZh": "事后直播：生物技术的未来是否充满了零和一名员工的创业公司？",
       "link": "https://endpoints.news/post-hoc-live-is-biotechs-future-full-of-zero-and-one-employee-startups/",
-      "summary": "🎙️Watch today at 10:30 am ET 🦾 After Endpoints News’ AI event in New York this month, I had dinner with some of our guests. Over a few ...",
+      "summary": "After Endpoints News’ AI event in New York in October, I had dinner with some of our guests. Over a few glasses of wine, we started talking about some out-there ideas they ...",
       "publishedAt": "2026-10-30T10:00:25+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +365,7 @@
       "publishedAt": "2026-10-30T09:49:35+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +377,7 @@
       "publishedAt": "2026-10-30T08:30:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +389,7 @@
       "publishedAt": "2026-10-30T08:30:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +401,7 @@
       "publishedAt": "2026-10-30T08:30:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +413,7 @@
       "publishedAt": "2026-10-30T08:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +425,7 @@
       "publishedAt": "2026-10-30T08:30:00+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -335,11 +433,11 @@
       "title": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M",
       "titleZh": "Aspen Neuroscience首次公开募股$ 1.41亿，而Bambusa获得$ 1.69亿",
       "link": "https://endpoints.news/aspen-neuroscience-lands-141m-ipo-while-bambusa-secures-169m/",
-      "summary": "A Parkinson's cell therapy biotech and an I&amp;I startup from former BioNTech leaders will join the public markets on Friday, extending a sizzling IPO streak for drug developers. Aspen Neuroscience will collect ...",
+      "summary": "A Parkinson’s cell therapy biotech and an I&amp;I startup from former BioNTech leaders joined the public markets on Friday, extending a sizzling IPO streak for drug developers. Aspen Neuroscience raised $141 ...",
       "publishedAt": "2026-10-30T06:11:31+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -363,7 +461,7 @@
       "publishedAt": "2026-10-30T00:26:37+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -375,7 +473,7 @@
       "publishedAt": "2026-10-29T20:30:00+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +485,7 @@
       "publishedAt": "2026-10-29T19:31:38+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -399,7 +497,7 @@
       "publishedAt": "2026-10-29T19:17:19+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +509,7 @@
       "publishedAt": "2026-10-29T18:57:37+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -423,7 +521,7 @@
       "publishedAt": "2026-10-29T18:33:44+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -435,7 +533,7 @@
       "publishedAt": "2026-10-29T18:28:44+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -447,7 +545,7 @@
       "publishedAt": "2026-10-29T18:00:02+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +557,7 @@
       "publishedAt": "2026-10-29T16:44:05+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +569,7 @@
       "publishedAt": "2026-10-29T16:15:20+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -483,7 +581,7 @@
       "publishedAt": "2026-10-29T16:06:00+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +593,7 @@
       "publishedAt": "2026-10-29T15:31:16+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -507,7 +605,7 @@
       "publishedAt": "2026-10-29T15:08:22+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -519,7 +617,7 @@
       "publishedAt": "2026-10-29T15:06:45+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -531,7 +629,7 @@
       "publishedAt": "2026-10-29T14:52:00+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -543,7 +641,7 @@
       "publishedAt": "2026-10-29T14:49:42+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +653,7 @@
       "publishedAt": "2026-10-29T14:45:48+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -567,7 +665,7 @@
       "publishedAt": "2026-10-29T14:45:45+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +677,7 @@
       "publishedAt": "2026-10-29T14:18:27+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -591,7 +689,7 @@
       "publishedAt": "2026-10-29T13:44:33+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +701,7 @@
       "publishedAt": "2026-10-29T13:43:44+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -615,7 +713,7 @@
       "publishedAt": "2026-10-29T13:38:36+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +749,7 @@
       "publishedAt": "2026-10-29T13:04:04+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -663,7 +761,7 @@
       "publishedAt": "2026-10-29T13:00:32+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -687,7 +785,7 @@
       "publishedAt": "2026-10-29T11:30:32+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -711,7 +809,7 @@
       "publishedAt": "2026-10-29T11:12:06+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -723,19 +821,7 @@
       "publishedAt": "2026-10-29T11:00:08+00:00"
     },
     {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "技术",
-      "title": "Flagship Pioneering merges three of its companies for AI drug discovery",
-      "titleZh": "旗舰先锋将其三家公司合并为人工智能药物发现",
-      "link": "https://endpoints.news/flagship-pioneering-merges-three-of-its-companies-for-ai-drug-discovery/",
-      "summary": "Flagship Pioneering is combining three of its portfolio companies, including one that has been around for a decade, in an effort to compete in the bustling AI drug discovery field. The Cambridge, MA-based incubator and ...",
-      "publishedAt": "2026-10-29T10:30:03+00:00"
-    },
-    {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -747,40 +833,16 @@
       "publishedAt": "2026-10-29T10:30:00+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
       "title": "STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous",
-      "titleZh": "STAT + ：新的结直肠肿瘤图谱揭示了为什么年轻人的癌症更危险",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/?utm_campaign=rss",
       "summary": "A new atlas of colorectal tumors sheds light on why cancers in young people are more dangerous.",
       "publishedAt": "2026-10-29T10:00:00+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "Opinion: STAT+: Is AI more a partner, competitor, or crutch for biomedical scientists?",
-      "titleZh": "观点： STAT + ：人工智能更像是生物医学科学家的合作伙伴、竞争对手还是拐杖？",
-      "link": "https://www.statnews.com/2026/10/29/ai-science-biology-dependence-ethics-research/?utm_campaign=rss",
-      "summary": "Biologist Paul Knoepfler asks: Could overdependence on AI make us less capable as researchers?",
-      "publishedAt": "2026-10-29T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: Biopharma industry at odds over impact of Treasury’s new China rule",
-      "titleZh": "STAT + ：生物制药行业对财政部新中国规则的影响存在分歧",
-      "link": "https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/?utm_campaign=rss",
-      "summary": "An exemption for a common kind of biopharma deal is at the heart of disagreements over the proposal.",
-      "publishedAt": "2026-10-29T08:30:00+00:00"
     },
     {
       "id": "science-daily-health-10",
@@ -789,61 +851,37 @@
       "lang": "en",
       "category": "研发",
       "title": "Your blood pressure could be dangerous even when your numbers look normal",
-      "titleZh": "即使您的数字看起来正常，您的血压也可能是危险的",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
       "summary": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain.",
       "publishedAt": "2026-10-29T03:54:37+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "市场",
       "title": "Three-Photon Microscopy Reveals Neural Activity Deep in the Mouse Brain",
-      "titleZh": "三光子显微镜揭示小鼠大脑深处的神经活动",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/translational-medicine/three-photon-microscopy-reveals-neural-activity-deep-in-the-mouse-brain/",
       "summary": "By optimizing laser, optical, and acquisition parameters, The Rockefeller University researchers developed a three-photon microscopy platform that captures deep-brain neural activity in living mice at single-cell resolution without surgically removing the overlying cortex. The post Three-Photon Micr",
       "publishedAt": "2026-10-28T22:17:38+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "研发",
       "title": "How the Heart Stays Strong with MCT1-Dependent Mitochondrial Lactate Import",
-      "titleZh": "通过MCT1依赖性线粒体乳酸盐导入，心脏如何保持强健",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/translational-medicine/how-the-heart-stays-strong-with-mct1-dependent-mitochondrial-lactate-import/",
       "summary": "Preclinical study results suggest how the heart can keep itself well-fueled even under times of stress, by burning glucose in the cell cytosol while burning lactate in the mitochondria. The post How the Heart Stays Strong with MCT1-Dependent Mitochondrial Lactate Import appeared first on GEN - Genet",
       "publishedAt": "2026-10-28T20:42:30+00:00"
     },
     {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "技术",
-      "title": "Why Zocdoc is clearing the way for personal AI agents",
-      "titleZh": "为什么Zocdoc正在为个人人工智能代理扫清道路",
-      "link": "https://endpoints.news/why-zocdoc-is-clearing-the-way-for-ai-personal-agents/",
-      "summary": "Amazon, Delta Air Lines and major US banks have blocked people from using personal AI agents to shop, book flights and manage transactions. But as agents start handling patients' healthcare tasks, at least one company ...",
-      "publishedAt": "2026-10-28T19:16:37+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Formation Bio unveils $600M fund tied to existing model",
-      "titleZh": "",
-      "link": "https://endpoints.news/formation-bio-unveils-600m-fund-tied-to-existing-model/",
-      "summary": "Formation Bio, an AI-focused biotech that acquires outside assets, develops them and then hands them off, has raised a $600 million investment found to double down on that strategy. The new fund will help it ...",
-      "publishedAt": "2026-10-28T18:40:59+00:00"
-    },
-    {
-      "id": "gen-6",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -855,7 +893,7 @@
       "publishedAt": "2026-10-28T18:00:01+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -867,31 +905,7 @@
       "publishedAt": "2026-10-28T16:00:40+00:00"
     },
     {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Decentralization, AI, and Gene Editing Are Opportunities for CGT Contractors",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/bioprocessing/decentralization-ai-and-gene-editing-are-opportunities-for-cgt-contractors/",
-      "summary": "CDMOs already play a critical role in the cell and gene therapy development and manufacturing space, says Rose Biosolutions. Emerging bioprocessing technologies, production methods, and strategies are creating even more opportunities for contractors. The post Decentralization, AI, and Gene Editing A",
-      "publishedAt": "2026-10-28T16:00:34+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "审批",
-      "title": "Microbial Dark Matter Could Revive Antibiotics",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/bioprocessing/microbial-dark-matter-could-revive-antibiotics/",
-      "summary": "Most microbes remain out of reach, and many antibiotic-producing genes stay silent. A new review argues that combining genomics, innovative cultivation, and scalable manufacturing could turn this hidden chemistry into desperately needed new antibiotic treatments. The post Microbial Dark Matter Could",
-      "publishedAt": "2026-10-28T16:00:14+00:00"
-    },
-    {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -903,7 +917,7 @@
       "publishedAt": "2026-10-28T15:53:00+00:00"
     },
     {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -913,18 +927,6 @@
       "link": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
       "summary": "The plan builds on recent FDA moves to speed &quot;personalized&quot; treatments by offering an approval framework for therapies benefiting different subsets of patients with the same disease.",
       "publishedAt": "2026-10-28T15:15:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "市场",
-      "title": "Lilly shuffles business structure; Novartis writes off part of Avidity deal",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
-      "summary": "Lilly intends to merge its U.S. and international divisions when a top executive retires. Elsewhere, Astellas closed in on what it believes to be a &ldquo;best-in-class&rdquo; cancer immunotherapy prospect.",
-      "publishedAt": "2026-10-28T13:27:00+00:00"
     },
     {
       "id": "science-daily-health-11",
@@ -1069,102 +1071,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
       "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broade",
       "publishedAt": "2026-10-26T02:41:13+00:00"
-    },
-    {
-      "id": "nature-biotech-0",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "An engineered, compact Cas12m variant for multiplexed gene activation in vivo",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03352-5",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-1",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03343-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-2",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Giving AI a seat at the peer review table",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03369-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-3",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Recordanelles capture transient gene expression in single human cells",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03350-7",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-4",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Human Argonaute 2 is a programmable targeting domain for RNA editing",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03358-z",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-5",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03348-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-6",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Recordanelles for transcriptome-wide single-cell RNA recording in human cells",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03327-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03360-5",
-      "summary": "",
-      "publishedAt": ""
     },
     {
       "id": "nature-medicine-0",
