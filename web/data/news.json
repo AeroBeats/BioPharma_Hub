@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-30T00:51:43.210118+00:00",
+  "updatedAt": "2026-10-30T07:01:36.984063+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,8 @@
   ],
   "failedSources": [],
   "translations": {
+    "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M": "Aspen Neuroscience首次公开募股$ 1.41亿，而Bambusa获得$ 1.69亿",
+    "Aspen raises a $140M IPO in pursuit of a cell therapy for Parkinson’s": "Aspen筹集了1.4亿美元的IPO ，以寻求帕金森氏症的细胞疗法",
     "Labor Department finalizes sweeping PBM disclosure rule": "劳工部最终确定全面的PBM披露规则",
     "For Lilly, cash-pay is key in the US and, increasingly, abroad": "对于礼来而言，现金支付在美国是关键，在海外也越来越重要",
     "Brain Quality Control Selectively Eliminates Neurons with Abnormal Variants in Development": "大脑质量控制选择性地消除发育异常变异的神经元",
@@ -105,13 +107,35 @@
     "FDA unveils guidance for ‘plug and play’ gene therapies": "FDA公布“即插即用”基因疗法指南",
     "STAT+: Senate candidate El-Sayed wants to ‘grill’ RFK Jr., calls him the ‘most incompetent HHS secretary ever’": "STAT + ：参议院候选人El-Sayed希望“烧烤”小RFK ，称他为“有史以来最无能的HHS秘书”",
     "STAT+: Why every health care AI company must face Epic": "STAT + ：为什么每家医疗保健人工智能公司都必须面对Epic",
-    "Beijing-based BioGeometry gets $100M+ for AI drug R&D": "总部位于北京的BioGeometry获得$ 1亿多美元用于人工智能药物研发",
-    "STAT+: Pharmalittle: We’re reading about 340B battles, new results for a Lilly weight loss drug, and more": "STAT + ： Pharmalittle ：我们正在阅读有关340B战斗，礼来减肥药物的新结果等",
-    "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study": "STAT + ：礼来的三重G药物在头对头研究中击败Ozempic"
+    "Beijing-based BioGeometry gets $100M+ for AI drug R&D": "总部位于北京的BioGeometry获得$ 1亿多美元用于人工智能药物研发"
   },
   "items": [
     {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M",
+      "titleZh": "Aspen Neuroscience首次公开募股$ 1.41亿，而Bambusa获得$ 1.69亿",
+      "link": "https://endpoints.news/aspen-neuroscience-lands-141m-ipo-while-bambusa-secures-169m/",
+      "summary": "A Parkinson's cell therapy biotech and an I&amp;I startup from former BioNTech leaders will join the public markets on Friday, extending a sizzling IPO streak for drug developers. Aspen Neuroscience will collect ...",
+      "publishedAt": "2026-10-30T06:11:31+00:00"
+    },
+    {
       "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "Aspen raises a $140M IPO in pursuit of a cell therapy for Parkinson’s",
+      "titleZh": "Aspen筹集了1.4亿美元的IPO ，以寻求帕金森氏症的细胞疗法",
+      "link": "https://www.biopharmadive.com/news/aspen-neuroscience-parkinsons-ipo-pricing/873050/",
+      "summary": "The San Diego biotechnology startup is one of several firms working on a cutting-edge technique with the potential to slow or even halt the neurodegenerative condition.",
+      "publishedAt": "2026-10-30T02:38:00+00:00"
+    },
+    {
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -123,7 +147,7 @@
       "publishedAt": "2026-10-29T20:30:00+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -159,7 +183,7 @@
       "publishedAt": "2026-10-29T18:57:37+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +207,7 @@
       "publishedAt": "2026-10-29T18:28:44+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +243,7 @@
       "publishedAt": "2026-10-29T16:15:20+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -231,7 +255,7 @@
       "publishedAt": "2026-10-29T16:06:00+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +267,7 @@
       "publishedAt": "2026-10-29T15:31:16+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +279,7 @@
       "publishedAt": "2026-10-29T15:08:22+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +291,7 @@
       "publishedAt": "2026-10-29T15:06:45+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -279,7 +303,7 @@
       "publishedAt": "2026-10-29T14:52:00+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -399,7 +423,7 @@
       "publishedAt": "2026-10-29T13:04:04+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +459,7 @@
       "publishedAt": "2026-10-29T11:30:32+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -459,7 +483,7 @@
       "publishedAt": "2026-10-29T11:12:06+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -471,7 +495,7 @@
       "publishedAt": "2026-10-29T11:00:08+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -483,7 +507,7 @@
       "publishedAt": "2026-10-29T10:30:03+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -603,7 +627,7 @@
       "publishedAt": "2026-10-28T20:42:30+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -615,7 +639,7 @@
       "publishedAt": "2026-10-28T19:16:37+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +651,7 @@
       "publishedAt": "2026-10-28T18:40:59+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,7 +663,7 @@
       "publishedAt": "2026-10-28T18:21:40+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -663,7 +687,7 @@
       "publishedAt": "2026-10-28T18:00:01+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -723,7 +747,7 @@
       "publishedAt": "2026-10-28T16:00:14+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -735,7 +759,7 @@
       "publishedAt": "2026-10-28T15:53:00+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -747,7 +771,7 @@
       "publishedAt": "2026-10-28T15:25:26+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -759,7 +783,7 @@
       "publishedAt": "2026-10-28T15:15:11+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -795,7 +819,7 @@
       "publishedAt": "2026-10-28T14:52:17+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -813,7 +837,7 @@
       "lang": "en",
       "category": "研发",
       "title": "STAT+: Pharmalittle: We’re reading about 340B battles, new results for a Lilly weight loss drug, and more",
-      "titleZh": "STAT + ： Pharmalittle ：我们正在阅读有关340B战斗，礼来减肥药物的新结果等",
+      "titleZh": "",
       "link": "https://www.statnews.com/pharmalot/2026/10/28/battles-over-340b-lilly-reports-weight-loss-drug-results/?utm_campaign=rss",
       "summary": "Missouri attorney general warned Eli Lilly to discontinue requiring hospitals to provide claims data to receive discounted medicines under 340B program",
       "publishedAt": "2026-10-28T13:44:59+00:00"
@@ -825,13 +849,13 @@
       "lang": "en",
       "category": "市场",
       "title": "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study",
-      "titleZh": "STAT + ：礼来的三重G药物在头对头研究中击败Ozempic",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/28/biotech-news-lillys-triple-g-drug-beats-ozempic-in-head-to-head-study/?utm_campaign=rss",
       "summary": "Eli Lilly announced that its investigational drug retatrutide was more effective at lowering blood sugar and cutting weight than Novo Nordisk’s Ozempic in a large diabetes study.",
       "publishedAt": "2026-10-28T13:42:44+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -853,18 +877,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
       "summary": "Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage. In mice, partially restoring a crucial molecule reversed signs of muscle wasting and prevented premature death, raising hopes for new treatments for age-related muscle decline",
       "publishedAt": "2026-10-28T13:04:55+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "技术",
-      "title": "Now 78% of scientists say AI will speed drug discovery this year: Signal Survey",
-      "titleZh": "",
-      "link": "https://endpoints.news/now-78-of-scientists-say-ai-will-speed-drug-discovery-this-year-signal-survey/",
-      "summary": "A year ago, Endpoints Signal surveyed almost 1,500 biopharma insiders about the very near-term prospects of AI accelerating drug discovery. Scientists, interestingly, were the most skeptical. Now, as we revisit the question in our",
-      "publishedAt": "2026-10-28T13:00:06+00:00"
     },
     {
       "id": "science-daily-health-4",
@@ -927,7 +939,7 @@
       "publishedAt": "2026-10-28T00:54:54+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -939,7 +951,7 @@
       "publishedAt": "2026-10-27T20:53:00+00:00"
     },
     {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -949,18 +961,6 @@
       "link": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-ruling-false-advertising-wegovy-zepbound/872856/",
       "summary": "Novo failed to prove that Lilly&rsquo;s campaign &mdash; which featured claims of obesity drug superiority &mdash; meaningfully harmed the Danish company&rsquo;s sales, a federal judge ruled.",
       "publishedAt": "2026-10-27T16:03:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "研发",
-      "title": "Artiva to quit autoimmune cell therapy work, cut staff after patient deaths",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/artiva-discontinue-nk-cell-therapy-autoimmune-patient-death/872873/",
-      "summary": "The disclosure makes Artiva the third company to recently report fatal events in an autoimmune cell therapy trial, following announcements from Novartis and Bristol Myers Squibb.",
-      "publishedAt": "2026-10-27T15:44:00+00:00"
     },
     {
       "id": "science-daily-health-11",
