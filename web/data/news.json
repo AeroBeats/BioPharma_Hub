@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-31T12:14:49.859008+00:00",
-  "count": 80,
+  "updatedAt": "2026-10-31T17:40:14.285465+00:00",
+  "count": 96,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,13 +46,14 @@
       "category": "技术"
     }
   ],
-  "failedSources": [
-    "Nature Biotechnology",
-    "Nature Medicine"
-  ],
+  "failedSources": [],
   "translations": {
+    "Scientists finally discover how a common gut bacterium can trigger colon cancer": "科学家们终于发现了一种常见的肠道细菌如何引发结肠癌",
     "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in": "STAT + ：期中考试的健康风险是什么？政策制定者、说客和专家参与",
+    "Scientists discover a bacterial defense so strange they thought it was broken": "科学家发现了一种奇怪的细菌防御，他们认为它被打破了",
     "Anthropic’s one-person biotech buy; Jake Van Naarden’s dealmaking strategy; and more": "Anthropic的单人生物技术收购； Jake Van Naarden的交易策略；以及更多",
+    "A surprising vitamin A discovery is changing what scientists know about vision": "一项令人惊讶的维生素A发现正在改变科学家对视力的了解",
+    "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms": "简单的血液测试可以在症状出现前10年揭示阿尔茨海默氏症的风险",
     "Opentrons Raises $40M in Series E to Expand Its Robotics, Software, Data Infrastructure": "Opentrons在E轮融资中筹集了4000万美元$ ，以扩展其机器人、软件和数据基础设施",
     "100 Million-Cell AI-Ready Dataset with Single-Cell and Proteomic Data Created by Parse and Nomic": "使用Parse和Nomic创建的单细胞和蛋白质组数据的1亿细胞AI就绪数据集",
     "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal": "根据特朗普协议，赛诺菲可能会寻求更高的欧洲药品价格，而不是拒绝上市",
@@ -69,7 +70,7 @@
     "Anthropic's Nathan Frey on biopharma partners, M&A and pipeline": "Anthropic的Nathan Frey ，生物制药合作伙伴、并购和管道",
     "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months": "2型糖尿病取得突破， 54%在短短6个月内获得缓解",
     "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game": "盈利综述：礼来的坚定势头、诺华的反弹和葛兰素史克的等待",
-    "Sanofi has 'no plans for major restructuring' as Dupixent's patent cliff looms": "由于Dupixent的专利悬崖迫在眉睫，赛诺菲“没有重大重组的计划”",
+    "Sanofi has no plans for 'major' reconstruction as Dupixent's patent cliff looms": "赛诺菲没有“重大”重建计划，因为Dupixent的专利悬崖迫在眉睫",
     "After Be Bio shutdown, its CEO heads to Orbis; Enanta's longtime chief Jay Luly to retire": "Be Bio关闭后，其首席执行官前往奥比斯； Enanta的长期首席执行官Jay Luly退休",
     "Setara gets $90M to continue rare disease pipeline spun out of Jazz's Actio deal": "Setara获得9000万美元，用于继续从Jazz的Actio交易中分离出的罕见疾病管道",
     "With Setara, the team behind Actio opens its second act": "与Setara一起， Actio背后的团队开启了第二幕",
@@ -106,13 +107,21 @@
     "STAT+: HHS green lights six peptides, despite concerns from FDA scientists": "STAT + ： HHS绿灯六肽，尽管FDA科学家对此表示担忧",
     "Martin Kulldorff critiques scientific gatekeepers at NIH lecture": "马丁·库尔多夫（ Martin Kulldorff ）在美国国立卫生研究院（ NIH ）讲座上批评",
     "STAT+: Vertex kidney disease drug scrutinized for infection risk": "STAT + ：仔细检查顶点肾病药物的感染风险",
-    "A single brain signal may explain schizophrenia's most puzzling symptoms": "单个大脑信号可以解释精神分裂症最令人费解的症状",
-    "Six popular sugar substitutes linked to faster brain aging": "六种流行的糖替代品与大脑老化加快有关",
-    "Anthropic pitches 'age of miracles,' gives biopharma research update": "Anthropic Pitch的“奇迹时代”为生物制药研究提供了最新信息",
-    "STAT+: Pharmalittle: We’re reading about a new policy for compounding peptides, a PBM disclosure rule, and more": "STAT + ： Pharmalittle ：我们正在阅读有关复合多肽的新政策、PBM披露规则等",
-    "Less than 42 minutes of bright daylight linked to higher dementia risk": "少于42分钟的明亮日光与更高的痴呆风险有关"
+    "A single brain signal may explain schizophrenia&#039;s most puzzling symptoms": "单个大脑信号可以解释精神分裂症最令人费解的症状"
   },
   "items": [
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
+      "titleZh": "科学家们终于发现了一种常见的肠道细菌如何引发结肠癌",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
+      "summary": "Scientists at Johns Hopkins have uncovered a crucial missing link between a common gut bacterium and colorectal cancer, solving a mystery that has puzzled researchers for nearly two decades. The bacterium, Bacteroides fragilis, produces a toxin that damages the colon’s protective lining, triggers ch",
+      "publishedAt": "2026-10-31T13:49:23+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
@@ -126,6 +135,18 @@
       "publishedAt": "2026-10-31T11:00:00+00:00"
     },
     {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover a bacterial defense so strange they thought it was broken",
+      "titleZh": "科学家发现了一种奇怪的细菌防御，他们认为它被打破了",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
+      "summary": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus attacks, this unusual mechanism waits until an infection begins before producing",
+      "publishedAt": "2026-10-31T10:38:30+00:00"
+    },
+    {
       "id": "endpoints-0",
       "source": "Endpoints News",
       "sourceId": "endpoints",
@@ -136,6 +157,30 @@
       "link": "https://endpoints.news/anthropics-one-person-biotech-buy-jake-van-naardens-dealmaking-strategy-and-more/",
       "summary": "Hello and welcome back to a spooky Halloween edition of Endpoints Weekly! Sorry to all the candy corn lovers out there, but just noting that they’re actually made with bug secretions. The Atlantic has all ...",
       "publishedAt": "2026-10-31T10:00:28+00:00"
+    },
+    {
+      "id": "science-daily-health-4",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A surprising vitamin A discovery is changing what scientists know about vision",
+      "titleZh": "一项令人惊讶的维生素A发现正在改变科学家对视力的了解",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+      "summary": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas grown in the lab, researchers discovered that a vitamin A derivative and thyroid h",
+      "publishedAt": "2026-10-31T04:31:41+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+      "titleZh": "简单的血液测试可以在症状出现前10年揭示阿尔茨海默氏症的风险",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+      "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the ",
+      "publishedAt": "2026-10-31T00:59:52+00:00"
     },
     {
       "id": "gen-0",
@@ -306,7 +351,7 @@
       "publishedAt": "2026-10-30T13:00:09+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -335,8 +380,8 @@
       "sourceId": "endpoints",
       "lang": "en",
       "category": "研发",
-      "title": "Sanofi has 'no plans for major restructuring' as Dupixent's patent cliff looms",
-      "titleZh": "由于Dupixent的专利悬崖迫在眉睫，赛诺菲“没有重大重组的计划”",
+      "title": "Sanofi has no plans for 'major' reconstruction as Dupixent's patent cliff looms",
+      "titleZh": "赛诺菲没有“重大”重建计划，因为Dupixent的专利悬崖迫在眉睫",
       "link": "https://endpoints.news/sanofi-has-no-plans-for-a-major-overhaul-as-dupixents-patent-cliff-looms/",
       "summary": "It’s been six months since Belén Garijo took over as the CEO of Sanofi, and the French drugmaker said Friday it is not planning “major” changes to its business or R&amp;D pipeline as the early ...",
       "publishedAt": "2026-10-30T11:12:36+00:00"
@@ -378,7 +423,7 @@
       "publishedAt": "2026-10-30T10:30:00+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -498,7 +543,7 @@
       "publishedAt": "2026-10-30T02:38:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -506,7 +551,7 @@
       "title": "Scientists discover why chronic back pain feels so personal",
       "titleZh": "科学家们发现为什么慢性背痛感觉如此个性化",
       "link": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
-      "summary": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typ",
+      "summary": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain&#039;s sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pai",
       "publishedAt": "2026-10-30T00:26:37+00:00"
     },
     {
@@ -774,25 +819,25 @@
       "publishedAt": "2026-10-29T13:25:01+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
-      "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
+      "title": "A single brain signal may explain schizophrenia&#039;s most puzzling symptoms",
       "titleZh": "单个大脑信号可以解释精神分裂症最令人费解的症状",
       "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
-      "summary": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discovery could help explain the disorder's underlying mechanisms an",
+      "summary": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discovery could help explain the disorder&#039;s underlying mechanis",
       "publishedAt": "2026-10-29T13:14:52+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Six popular sugar substitutes linked to faster brain aging",
-      "titleZh": "六种流行的糖替代品与大脑老化加快有关",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
       "summary": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular sweeteners were linked to faster cognitive decline, raising concerns",
       "publishedAt": "2026-10-29T13:04:04+00:00"
@@ -804,7 +849,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Anthropic pitches 'age of miracles,' gives biopharma research update",
-      "titleZh": "Anthropic Pitch的“奇迹时代”为生物制药研究提供了最新信息",
+      "titleZh": "",
       "link": "https://endpoints.news/anthropic-pitches-age-of-miracles-gives-biopharma-research-update/",
       "summary": "A day after publishing the paperwork for what could be the business world’s largest-ever IPO, Anthropic released the most detailed look yet at its biopharma ambitions, including the possibility of bringing ...",
       "publishedAt": "2026-10-29T13:00:32+00:00"
@@ -816,19 +861,19 @@
       "lang": "en",
       "category": "研发",
       "title": "STAT+: Pharmalittle: We’re reading about a new policy for compounding peptides, a PBM disclosure rule, and more",
-      "titleZh": "STAT + ： Pharmalittle ：我们正在阅读有关复合多肽的新政策、PBM披露规则等",
+      "titleZh": "",
       "link": "https://www.statnews.com/pharmalot/2026/10/29/peptides-policy-released-by-hhs-pbm-disclosure-requirements/?utm_campaign=rss",
       "summary": "HHS released a policy that will temporarily allow compounding pharmacies to manufacture some peptide products",
       "publishedAt": "2026-10-29T12:52:11+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
-      "titleZh": "少于42分钟的明亮日光与更高的痴呆风险有关",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
       "summary": "Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk of dementia, with longer exposure to bright light linked to even greater reducti",
       "publishedAt": "2026-10-29T11:30:32+00:00"
@@ -846,7 +891,7 @@
       "publishedAt": "2026-10-29T11:21:53+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -870,7 +915,7 @@
       "publishedAt": "2026-10-29T10:30:00+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -930,7 +975,7 @@
       "publishedAt": "2026-10-28T15:15:00+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -942,7 +987,7 @@
       "publishedAt": "2026-10-28T13:04:55+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -954,7 +999,7 @@
       "publishedAt": "2026-10-28T12:37:31+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -966,7 +1011,7 @@
       "publishedAt": "2026-10-28T10:29:36+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -978,7 +1023,7 @@
       "publishedAt": "2026-10-28T03:56:09+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -990,7 +1035,7 @@
       "publishedAt": "2026-10-28T03:02:38+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1002,7 +1047,7 @@
       "publishedAt": "2026-10-28T00:54:54+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1014,7 +1059,7 @@
       "publishedAt": "2026-10-27T11:53:24+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1026,52 +1071,196 @@
       "publishedAt": "2026-10-27T11:18:37+00:00"
     },
     {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
+      "id": "nature-biotech-0",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
       "lang": "en",
       "category": "研发",
-      "title": "Common drugs may help dangerous viruses spread through the body",
+      "title": "An engineered, compact Cas12m variant for multiplexed gene activation in vivo",
       "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-      "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza",
-      "publishedAt": "2026-10-27T10:46:21+00:00"
+      "link": "https://www.nature.com/articles/s41587-026-03352-5",
+      "summary": "",
+      "publishedAt": ""
     },
     {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
+      "id": "nature-biotech-1",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03343-6",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-2",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Giving AI a seat at the peer review table",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03369-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-3",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Recordanelles capture transient gene expression in single human cells",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03350-7",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-4",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Human Argonaute 2 is a programmable targeting domain for RNA editing",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03358-z",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-5",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03348-1",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-6",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "技术",
+      "title": "Recordanelles for transcriptome-wide single-cell RNA recording in human cells",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03327-6",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-7",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03360-5",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-0",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Climate change threatens malaria elimination in the Asia Pacific",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04722-x",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Applying digital twins to prevent preterm births",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00056-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "A small-molecule TREM2 agonist for Alzheimer’s disease",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00055-x",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-3",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "5-year outcomes of chemotherapy de-escalation in HER2-positive early breast cancer and exploratory circulating tumor DNA analyses from the randomized phase 2 PHERGain trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04723-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-4",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
       "lang": "en",
       "category": "审批",
-      "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
+      "title": "A clinical multimodal vision language foundation model with fine-grain explainability",
       "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
-      "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that these cells remain present even in people over 80, but their",
-      "publishedAt": "2026-10-27T04:02:26+00:00"
+      "link": "https://www.nature.com/articles/s41591-026-04655-5",
+      "summary": "",
+      "publishedAt": ""
     },
     {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
+      "id": "nature-medicine-5",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
-      "title": "Exercise doesn't just strengthen your heart. It rewires it",
+      "title": "Insights into early-onset colorectal cancer from a single-nucleus RNA-seq atlas of colorectal cancer across the age continuum",
       "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
-      "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
-      "publishedAt": "2026-10-26T11:35:53+00:00"
+      "link": "https://www.nature.com/articles/s41591-026-04721-y",
+      "summary": "",
+      "publishedAt": ""
     },
     {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
+      "id": "nature-medicine-6",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
-      "title": "A simple liquid can stop cavities without drilling, major study confirms",
+      "title": "Editorial Expression of Concern: MicroRNA-133 controls cardiac hypertrophy",
       "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
-      "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broade",
-      "publishedAt": "2026-10-26T02:41:13+00:00"
+      "link": "https://www.nature.com/articles/s41591-026-04748-1",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-7",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Author Correction: Toripalimab or placebo plus chemotherapy as first-line treatment in advanced nasopharyngeal carcinoma: a multicenter randomized phase 3 trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04751-6",
+      "summary": "",
+      "publishedAt": ""
     }
   ]
 }
