@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-10-31T05:27:25.686992+00:00",
-  "count": 96,
+  "updatedAt": "2026-10-31T12:14:49.859008+00:00",
+  "count": 80,
   "sources": [
     {
       "id": "nature-biotech",
@@ -46,8 +46,13 @@
       "category": "技术"
     }
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Nature Biotechnology",
+    "Nature Medicine"
+  ],
   "translations": {
+    "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in": "STAT + ：期中考试的健康风险是什么？政策制定者、说客和专家参与",
+    "Anthropic’s one-person biotech buy; Jake Van Naarden’s dealmaking strategy; and more": "Anthropic的单人生物技术收购； Jake Van Naarden的交易策略；以及更多",
     "Opentrons Raises $40M in Series E to Expand Its Robotics, Software, Data Infrastructure": "Opentrons在E轮融资中筹集了4000万美元$ ，以扩展其机器人、软件和数据基础设施",
     "100 Million-Cell AI-Ready Dataset with Single-Cell and Proteomic Data Created by Parse and Nomic": "使用Parse和Nomic创建的单细胞和蛋白质组数据的1亿细胞AI就绪数据集",
     "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal": "根据特朗普协议，赛诺菲可能会寻求更高的欧洲药品价格，而不是拒绝上市",
@@ -64,7 +69,7 @@
     "Anthropic's Nathan Frey on biopharma partners, M&A and pipeline": "Anthropic的Nathan Frey ，生物制药合作伙伴、并购和管道",
     "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months": "2型糖尿病取得突破， 54%在短短6个月内获得缓解",
     "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game": "盈利综述：礼来的坚定势头、诺华的反弹和葛兰素史克的等待",
-    "Sanofi has no plans for a 'major' overhaul as Dupixent's patent cliff looms": "赛诺菲没有计划进行“重大”大修，因为Dupixent的专利悬崖迫在眉睫",
+    "Sanofi has 'no plans for major restructuring' as Dupixent's patent cliff looms": "由于Dupixent的专利悬崖迫在眉睫，赛诺菲“没有重大重组的计划”",
     "After Be Bio shutdown, its CEO heads to Orbis; Enanta's longtime chief Jay Luly to retire": "Be Bio关闭后，其首席执行官前往奥比斯； Enanta的长期首席执行官Jay Luly退休",
     "Setara gets $90M to continue rare disease pipeline spun out of Jazz's Actio deal": "Setara获得9000万美元，用于继续从Jazz的Actio交易中分离出的罕见疾病管道",
     "With Setara, the team behind Actio opens its second act": "与Setara一起， Actio背后的团队开启了第二幕",
@@ -105,11 +110,33 @@
     "Six popular sugar substitutes linked to faster brain aging": "六种流行的糖替代品与大脑老化加快有关",
     "Anthropic pitches 'age of miracles,' gives biopharma research update": "Anthropic Pitch的“奇迹时代”为生物制药研究提供了最新信息",
     "STAT+: Pharmalittle: We’re reading about a new policy for compounding peptides, a PBM disclosure rule, and more": "STAT + ： Pharmalittle ：我们正在阅读有关复合多肽的新政策、PBM披露规则等",
-    "Less than 42 minutes of bright daylight linked to higher dementia risk": "少于42分钟的明亮日光与更高的痴呆风险有关",
-    "Lilly again far surpasses revenue expectations": "礼来再次远远超出收入预期",
-    "Scientists discover that cranberry juice may help fight tooth decay": "科学家发现蔓越莓汁可能有助于对抗蛀牙"
+    "Less than 42 minutes of bright daylight linked to higher dementia risk": "少于42分钟的明亮日光与更高的痴呆风险有关"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in",
+      "titleZh": "STAT + ：期中考试的健康风险是什么？政策制定者、说客和专家参与",
+      "link": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
+      "summary": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.",
+      "publishedAt": "2026-10-31T11:00:00+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Anthropic’s one-person biotech buy; Jake Van Naarden’s dealmaking strategy; and more",
+      "titleZh": "Anthropic的单人生物技术收购； Jake Van Naarden的交易策略；以及更多",
+      "link": "https://endpoints.news/anthropics-one-person-biotech-buy-jake-van-naardens-dealmaking-strategy-and-more/",
+      "summary": "Hello and welcome back to a spooky Halloween edition of Endpoints Weekly! Sorry to all the candy corn lovers out there, but just noting that they’re actually made with bug secretions. The Atlantic has all ...",
+      "publishedAt": "2026-10-31T10:00:28+00:00"
+    },
     {
       "id": "gen-0",
       "source": "GEN",
@@ -135,7 +162,7 @@
       "publishedAt": "2026-10-30T19:13:34+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -159,7 +186,7 @@
       "publishedAt": "2026-10-30T16:00:00+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +222,7 @@
       "publishedAt": "2026-10-30T15:38:49+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +234,7 @@
       "publishedAt": "2026-10-30T15:36:16+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +246,7 @@
       "publishedAt": "2026-10-30T14:45:50+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +258,7 @@
       "publishedAt": "2026-10-30T14:07:14+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +270,7 @@
       "publishedAt": "2026-10-30T13:33:55+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +282,7 @@
       "publishedAt": "2026-10-30T13:22:49+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +294,7 @@
       "publishedAt": "2026-10-30T13:12:49+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -303,19 +330,19 @@
       "publishedAt": "2026-10-30T11:50:00+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "研发",
-      "title": "Sanofi has no plans for a 'major' overhaul as Dupixent's patent cliff looms",
-      "titleZh": "赛诺菲没有计划进行“重大”大修，因为Dupixent的专利悬崖迫在眉睫",
+      "title": "Sanofi has 'no plans for major restructuring' as Dupixent's patent cliff looms",
+      "titleZh": "由于Dupixent的专利悬崖迫在眉睫，赛诺菲“没有重大重组的计划”",
       "link": "https://endpoints.news/sanofi-has-no-plans-for-a-major-overhaul-as-dupixents-patent-cliff-looms/",
       "summary": "It’s been six months since Belén Garijo took over as the CEO of Sanofi, and the French drugmaker said Friday it is not planning “major” changes to its business or R&amp;D pipeline as the early ...",
       "publishedAt": "2026-10-30T11:12:36+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -327,7 +354,7 @@
       "publishedAt": "2026-10-30T11:00:55+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +390,7 @@
       "publishedAt": "2026-10-30T10:15:28+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -375,7 +402,7 @@
       "publishedAt": "2026-10-30T10:00:25+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +414,7 @@
       "publishedAt": "2026-10-30T09:49:35+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +426,7 @@
       "publishedAt": "2026-10-30T08:30:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +438,7 @@
       "publishedAt": "2026-10-30T08:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +450,7 @@
       "publishedAt": "2026-10-30T08:30:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +462,7 @@
       "publishedAt": "2026-10-30T08:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +474,7 @@
       "publishedAt": "2026-10-30T08:30:00+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +522,7 @@
       "publishedAt": "2026-10-29T20:30:00+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -519,7 +546,7 @@
       "publishedAt": "2026-10-29T19:17:19+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +558,7 @@
       "publishedAt": "2026-10-29T18:57:37+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -555,7 +582,7 @@
       "publishedAt": "2026-10-29T18:28:44+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -567,7 +594,7 @@
       "publishedAt": "2026-10-29T18:00:02+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +606,7 @@
       "publishedAt": "2026-10-29T16:44:05+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +630,7 @@
       "publishedAt": "2026-10-29T16:06:00+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -615,7 +642,7 @@
       "publishedAt": "2026-10-29T15:31:16+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +654,7 @@
       "publishedAt": "2026-10-29T15:08:22+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +678,7 @@
       "publishedAt": "2026-10-29T14:52:00+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -663,7 +690,7 @@
       "publishedAt": "2026-10-29T14:49:42+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -687,7 +714,7 @@
       "publishedAt": "2026-10-29T14:45:45+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -711,7 +738,7 @@
       "publishedAt": "2026-10-29T13:44:33+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -723,7 +750,7 @@
       "publishedAt": "2026-10-29T13:43:44+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -735,7 +762,7 @@
       "publishedAt": "2026-10-29T13:38:36+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -771,7 +798,7 @@
       "publishedAt": "2026-10-29T13:04:04+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -783,7 +810,7 @@
       "publishedAt": "2026-10-29T13:00:32+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -807,13 +834,13 @@
       "publishedAt": "2026-10-29T11:30:32+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "市场",
       "title": "Lilly again far surpasses revenue expectations",
-      "titleZh": "礼来再次远远超出收入预期",
+      "titleZh": "",
       "link": "https://endpoints.news/lilly-again-far-surpasses-revenue-expectations/",
       "summary": "Eli Lilly once again dominated revenue expectations, blowing past Wall Street's estimates by about $2 billion, sending shares {$LLY} up almost 7% to an all-time high. The world's most valuable healthcare company posted",
       "publishedAt": "2026-10-29T11:21:53+00:00"
@@ -825,22 +852,10 @@
       "lang": "en",
       "category": "研发",
       "title": "Scientists discover that cranberry juice may help fight tooth decay",
-      "titleZh": "科学家发现蔓越莓汁可能有助于对抗蛀牙",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
       "summary": "Cranberry juice may offer an unexpected benefit beyond its reputation for helping prevent urinary tract infections: protecting teeth from decay. Researchers at the University of Illinois Chicago discovered that pure, unsweetened cranberry juice slowed the regrowth of dental plaque bacteria and reduc",
       "publishedAt": "2026-10-29T11:12:06+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Dren Bio raises $350M to get blood cancer drug onto market in 2027",
-      "titleZh": "",
-      "link": "https://endpoints.news/dren-bio-raises-350m-to-get-blood-cancer-drug-onto-market-in-2027/",
-      "summary": "Dren Bio has raised $350 million, hoping to get its lead blood cancer drug onto the market by the end of 2027, the California drug developer exclusively told Endpoints News. The Thursday morning haul will ...",
-      "publishedAt": "2026-10-29T11:00:08+00:00"
     },
     {
       "id": "biopharma-dive-7",
@@ -853,18 +868,6 @@
       "link": "https://www.biopharmadive.com/news/flagship-etcelera-etiome-empress-cellarity-launch/872947/",
       "summary": "Etiome, Cellarity and Empress Therapeutics are being combined into one new AI-aided drugmaker claiming to possess the ability to better predict the way new medicines will fare in humans.",
       "publishedAt": "2026-10-29T10:30:00+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/?utm_campaign=rss",
-      "summary": "A new atlas of colorectal tumors sheds light on why cancers in young people are more dangerous.",
-      "publishedAt": "2026-10-29T10:00:00+00:00"
     },
     {
       "id": "science-daily-health-10",
@@ -1069,198 +1072,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
       "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broade",
       "publishedAt": "2026-10-26T02:41:13+00:00"
-    },
-    {
-      "id": "nature-biotech-0",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "An engineered, compact Cas12m variant for multiplexed gene activation in vivo",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03352-5",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-1",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03343-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-2",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Giving AI a seat at the peer review table",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03369-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-3",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Recordanelles capture transient gene expression in single human cells",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03350-7",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-4",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Human Argonaute 2 is a programmable targeting domain for RNA editing",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03358-z",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-5",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03348-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-6",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "技术",
-      "title": "Recordanelles for transcriptome-wide single-cell RNA recording in human cells",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03327-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03360-5",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-0",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Climate change threatens malaria elimination in the Asia Pacific",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04722-x",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-1",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Applying digital twins to prevent preterm births",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00056-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-2",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "A small-molecule TREM2 agonist for Alzheimer’s disease",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00055-x",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-3",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "5-year outcomes of chemotherapy de-escalation in HER2-positive early breast cancer and exploratory circulating tumor DNA analyses from the randomized phase 2 PHERGain trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04723-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-4",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "审批",
-      "title": "A clinical multimodal vision language foundation model with fine-grain explainability",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04655-5",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-5",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Insights into early-onset colorectal cancer from a single-nucleus RNA-seq atlas of colorectal cancer across the age continuum",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04721-y",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Editorial Expression of Concern: MicroRNA-133 controls cardiac hypertrophy",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04748-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Author Correction: Toripalimab or placebo plus chemotherapy as first-line treatment in advanced nasopharyngeal carcinoma: a multicenter randomized phase 3 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04751-6",
-      "summary": "",
-      "publishedAt": ""
     }
   ]
 }
