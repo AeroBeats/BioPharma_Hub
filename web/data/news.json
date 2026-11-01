@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-01T07:28:21.383506+00:00",
+  "updatedAt": "2026-11-01T14:59:40.655033+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,10 @@
   ],
   "failedSources": [],
   "translations": {
+    "Scientists discover a surprising brain benefit of eating peanuts every day": "科学家发现每天吃花生对大脑有惊人的好处",
+    "Common pesticide linked to 2.5 times the risk of Parkinson’s disease": "与帕金森病风险2.5倍相关的常见杀虫剂",
+    "Drinking tea may help protect your heart, but there’s a surprising catch": "喝茶可能有助于保护你的心脏，但有一个令人惊讶的发现",
+    "Scientists use sound waves to deliver a new attack on deadly brain cancer": "科学家利用声波对致命的脑癌进行新的攻击",
     "Scientists discover a hidden driver of high cholesterol and a way to stop it": "科学家发现了高胆固醇的隐藏驱动因素和阻止它的方法",
     "Scientists finally discover how a common gut bacterium can trigger colon cancer": "科学家们终于发现了一种常见的肠道细菌如何引发结肠癌",
     "STAT+: The 4 biggest ways the midterms could change health policy, according to policymakers, lobbyists, and experts": "STAT + ：根据政策制定者、游说者和专家的说法，中期改变卫生政策的4大方式",
@@ -103,15 +107,59 @@
     "Personal AI agents are coming to healthcare": "个人人工智能代理即将进入医疗保健领域",
     "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA": "STAT + ：肯尼迪对2026年中期的总结：欺诈、疫苗和MAHA",
     "Building the Future of AAV Gene Therapy": "构建AAV基因治疗的未来",
-    "STAT+: El-Sayed claps back at RFK Jr., and FDA’s ‘enforcement discretion’ on peptides": "STAT + ： El-Sayed回击RFK Jr. ， FDA对肽的“强制执行自由裁量权”",
-    "Hamburg Hosts 2026 European Gene Therapy Conference": "汉堡主办2026年欧洲基因疗法大会",
-    "STAT+: HHS green lights six peptides, despite concerns from FDA scientists": "STAT + ： HHS绿灯六肽，尽管FDA科学家对此表示担忧",
-    "Martin Kulldorff critiques scientific gatekeepers at NIH lecture": "马丁·库尔多夫（ Martin Kulldorff ）在美国国立卫生研究院（ NIH ）讲座上批评",
-    "STAT+: Vertex kidney disease drug scrutinized for infection risk": "STAT + ：仔细检查顶点肾病药物的感染风险"
+    "STAT+: El-Sayed claps back at RFK Jr., and FDA’s ‘enforcement discretion’ on peptides": "STAT + ： El-Sayed回击RFK Jr. ， FDA对肽的“强制执行自由裁量权”"
   },
   "items": [
     {
+      "id": "science-daily-health-5",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
+      "titleZh": "科学家发现每天吃花生对大脑有惊人的好处",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
+      "summary": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in brain regions important for memory, a ",
+      "publishedAt": "2026-11-01T13:24:51+00:00"
+    },
+    {
       "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+      "titleZh": "与帕金森病风险2.5倍相关的常见杀虫剂",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
+      "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect them.",
+      "publishedAt": "2026-11-01T12:33:13+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Drinking tea may help protect your heart, but there’s a surprising catch",
+      "titleZh": "喝茶可能有助于保护你的心脏，但有一个令人惊讶的发现",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm",
+      "summary": "A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases. The lowest risk was linked to drinking roughly six to eight cups per day, with black tea showing more consistent benefits than green tea.",
+      "publishedAt": "2026-11-01T11:29:04+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
+      "titleZh": "科学家利用声波对致命的脑癌进行新的攻击",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm",
+      "summary": "Scientists at the University of Virginia have developed a promising new strategy to fight glioblastoma, one of the deadliest and most difficult-to-treat forms of brain cancer. Their experimental approach combines focused ultrasound, tiny nanoparticles, and genetic molecules called microRNAs to attac",
+      "publishedAt": "2026-11-01T10:49:13+00:00"
+    },
+    {
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -123,7 +171,7 @@
       "publishedAt": "2026-11-01T01:57:50+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -147,7 +195,7 @@
       "publishedAt": "2026-10-31T11:00:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -171,7 +219,7 @@
       "publishedAt": "2026-10-31T10:00:28+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -183,7 +231,7 @@
       "publishedAt": "2026-10-31T04:31:41+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -363,7 +411,7 @@
       "publishedAt": "2026-10-30T13:00:09+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -435,7 +483,7 @@
       "publishedAt": "2026-10-30T10:30:00+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -555,7 +603,7 @@
       "publishedAt": "2026-10-30T02:38:00+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -789,7 +837,7 @@
       "lang": "en",
       "category": "技术",
       "title": "Hamburg Hosts 2026 European Gene Therapy Conference",
-      "titleZh": "汉堡主办2026年欧洲基因疗法大会",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/genome-editing/hamburg-hosts-2026-european-gene-therapy-conference/",
       "summary": "GEN's Kevin Davies, PhD, reports from ESGCT where patient safety, expanding access to gene therapy, and progress towards an HIV vaccine were prominent themes among the early talks at ESGCT 2026. The post Hamburg Hosts 2026 European Gene Therapy Conference appeared first on GEN - Genetic Engineering ",
       "publishedAt": "2026-10-29T13:44:33+00:00"
@@ -801,7 +849,7 @@
       "lang": "en",
       "category": "审批",
       "title": "STAT+: HHS green lights six peptides, despite concerns from FDA scientists",
-      "titleZh": "STAT + ： HHS绿灯六肽，尽管FDA科学家对此表示担忧",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/29/biotech-news-hhs-green-lights-six-peptides-for-now/?utm_campaign=rss",
       "summary": "Great news for peptide fans: The Trump administration is giving the peptide craze a regulatory boost, despite objections from FDA career scientists.",
       "publishedAt": "2026-10-29T13:43:44+00:00"
@@ -813,7 +861,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
-      "titleZh": "马丁·库尔多夫（ Martin Kulldorff ）在美国国立卫生研究院（ NIH ）讲座上批评",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/?utm_campaign=rss",
       "summary": "Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, insisted that the rise in measles cases is caused by a widely disputed claim about said lockdowns:",
       "publishedAt": "2026-10-29T13:38:36+00:00"
@@ -825,13 +873,13 @@
       "lang": "en",
       "category": "审批",
       "title": "STAT+: Vertex kidney disease drug scrutinized for infection risk",
-      "titleZh": "STAT + ：仔细检查顶点肾病药物的感染风险",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/29/biotech-news-vertex-kidney-disease-drug-scrutinized-for-infection-risk/?utm_campaign=rss",
       "summary": "Ahead of its FDA approval decision on Nov 30, Vertex's kidney disease drug is being heavily scrutinized for infection risk.",
       "publishedAt": "2026-10-29T13:25:01+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -843,7 +891,7 @@
       "publishedAt": "2026-10-29T13:14:52+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -879,7 +927,7 @@
       "publishedAt": "2026-10-29T12:52:11+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -903,7 +951,7 @@
       "publishedAt": "2026-10-29T11:21:53+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,7 +975,7 @@
       "publishedAt": "2026-10-29T10:30:00+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -991,18 +1039,6 @@
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
-      "category": "审批",
-      "title": "Scientists discover a hidden reason why muscles weaken with age",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
-      "summary": "Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage. In mice, partially restoring a crucial molecule reversed signs of muscle wasting and prevented premature death, raising hopes for new treatments for age-related muscle decline",
-      "publishedAt": "2026-10-28T13:04:55+00:00"
-    },
-    {
-      "id": "science-daily-health-12",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
       "category": "研发",
       "title": "A single sauna session sends immune cells surging through your body",
       "titleZh": "",
@@ -1015,18 +1051,6 @@
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
-      "category": "技术",
-      "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
-      "summary": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes through the human body, offering valuable insights for futu",
-      "publishedAt": "2026-10-28T10:29:36+00:00"
-    },
-    {
-      "id": "science-daily-health-13",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
       "category": "研发",
       "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
       "titleZh": "",
@@ -1035,7 +1059,7 @@
       "publishedAt": "2026-10-28T03:56:09+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1045,30 +1069,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
       "summary": "A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals associated with recognizing faces become more specialized as neurotypical children grow older, but sho",
       "publishedAt": "2026-10-28T03:02:38+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "The secret to slower aging may be hiding in your gut",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
-      "summary": "The secret to aging more slowly may be hiding in your gut. Scientists discovered that certain gut bacteria are strongly linked to how quickly the body ages, with microbial differences accounting for about 15% of the variation in biological aging rates. Some bacterial species were associated with slo",
-      "publishedAt": "2026-10-27T11:53:24+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Low testosterone may make sugar far more harmful to your liver",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
-      "summary": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing a potential new target for preventing liver damage.",
-      "publishedAt": "2026-10-27T11:18:37+00:00"
     },
     {
       "id": "nature-biotech-0",
