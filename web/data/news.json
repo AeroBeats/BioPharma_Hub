@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-01T01:02:08.965362+00:00",
+  "updatedAt": "2026-11-01T07:28:21.383506+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,8 +48,9 @@
   ],
   "failedSources": [],
   "translations": {
+    "Scientists discover a hidden driver of high cholesterol and a way to stop it": "科学家发现了高胆固醇的隐藏驱动因素和阻止它的方法",
     "Scientists finally discover how a common gut bacterium can trigger colon cancer": "科学家们终于发现了一种常见的肠道细菌如何引发结肠癌",
-    "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in": "STAT + ：期中考试的健康风险是什么？政策制定者、说客和专家参与",
+    "STAT+: The 4 biggest ways the midterms could change health policy, according to policymakers, lobbyists, and experts": "STAT + ：根据政策制定者、游说者和专家的说法，中期改变卫生政策的4大方式",
     "Scientists discover a bacterial defense so strange they thought it was broken": "科学家发现了一种奇怪的细菌防御，他们认为它被打破了",
     "Anthropic’s one-person biotech buy; Jake Van Naarden’s dealmaking strategy; and more": "Anthropic的单人生物技术收购； Jake Van Naarden的交易策略；以及更多",
     "A surprising vitamin A discovery is changing what scientists know about vision": "一项令人惊讶的维生素A发现正在改变科学家对视力的了解",
@@ -106,10 +107,21 @@
     "Hamburg Hosts 2026 European Gene Therapy Conference": "汉堡主办2026年欧洲基因疗法大会",
     "STAT+: HHS green lights six peptides, despite concerns from FDA scientists": "STAT + ： HHS绿灯六肽，尽管FDA科学家对此表示担忧",
     "Martin Kulldorff critiques scientific gatekeepers at NIH lecture": "马丁·库尔多夫（ Martin Kulldorff ）在美国国立卫生研究院（ NIH ）讲座上批评",
-    "STAT+: Vertex kidney disease drug scrutinized for infection risk": "STAT + ：仔细检查顶点肾病药物的感染风险",
-    "A single brain signal may explain schizophrenia&#039;s most puzzling symptoms": "单个大脑信号可以解释精神分裂症最令人费解的症状"
+    "STAT+: Vertex kidney disease drug scrutinized for infection risk": "STAT + ：仔细检查顶点肾病药物的感染风险"
   },
   "items": [
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover a hidden driver of high cholesterol and a way to stop it",
+      "titleZh": "科学家发现了高胆固醇的隐藏驱动因素和阻止它的方法",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
+      "summary": "Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body's natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an experimental drug targeting this pathway has already passed an early hum",
+      "publishedAt": "2026-11-01T01:57:50+00:00"
+    },
     {
       "id": "science-daily-health-0",
       "source": "ScienceDaily Health",
@@ -128,14 +140,14 @@
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
-      "title": "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in",
-      "titleZh": "STAT + ：期中考试的健康风险是什么？政策制定者、说客和专家参与",
+      "title": "STAT+: The 4 biggest ways the midterms could change health policy, according to policymakers, lobbyists, and experts",
+      "titleZh": "STAT + ：根据政策制定者、游说者和专家的说法，中期改变卫生政策的4大方式",
       "link": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
       "summary": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.",
       "publishedAt": "2026-10-31T11:00:00+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -159,7 +171,7 @@
       "publishedAt": "2026-10-31T10:00:28+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -171,7 +183,7 @@
       "publishedAt": "2026-10-31T04:31:41+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -351,7 +363,7 @@
       "publishedAt": "2026-10-30T13:00:09+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -423,7 +435,7 @@
       "publishedAt": "2026-10-30T10:30:00+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -543,7 +555,7 @@
       "publishedAt": "2026-10-30T02:38:00+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -551,7 +563,7 @@
       "title": "Scientists discover why chronic back pain feels so personal",
       "titleZh": "科学家们发现为什么慢性背痛感觉如此个性化",
       "link": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
-      "summary": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain&#039;s sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pai",
+      "summary": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typ",
       "publishedAt": "2026-10-30T00:26:37+00:00"
     },
     {
@@ -819,19 +831,19 @@
       "publishedAt": "2026-10-29T13:25:01+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
-      "title": "A single brain signal may explain schizophrenia&#039;s most puzzling symptoms",
-      "titleZh": "单个大脑信号可以解释精神分裂症最令人费解的症状",
+      "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
-      "summary": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discovery could help explain the disorder&#039;s underlying mechanis",
+      "summary": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discovery could help explain the disorder's underlying mechanisms an",
       "publishedAt": "2026-10-29T13:14:52+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -867,7 +879,7 @@
       "publishedAt": "2026-10-29T12:52:11+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,7 +903,7 @@
       "publishedAt": "2026-10-29T11:21:53+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,7 +927,7 @@
       "publishedAt": "2026-10-29T10:30:00+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,7 +987,7 @@
       "publishedAt": "2026-10-28T15:15:00+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,7 +999,7 @@
       "publishedAt": "2026-10-28T13:04:55+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -999,7 +1011,7 @@
       "publishedAt": "2026-10-28T12:37:31+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1011,7 +1023,7 @@
       "publishedAt": "2026-10-28T10:29:36+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1023,7 +1035,7 @@
       "publishedAt": "2026-10-28T03:56:09+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1040,18 +1052,6 @@
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
-      "title": "Scientists discover the immune system’s hidden sense of touch",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
-      "summary": "Scientists at McGill University have discovered a surprising new ability of immune cells that could change how we understand long-term immunity. Researchers found that T cells can actually sense how stiff their surrounding tissues are, using these physical signals to help determine whether they deve",
-      "publishedAt": "2026-10-28T00:54:54+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
       "title": "The secret to slower aging may be hiding in your gut",
       "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
@@ -1059,7 +1059,7 @@
       "publishedAt": "2026-10-27T11:53:24+00:00"
     },
     {
-      "id": "science-daily-health-17",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
