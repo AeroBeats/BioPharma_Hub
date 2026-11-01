@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-01T14:59:40.655033+00:00",
+  "updatedAt": "2026-11-01T19:34:49.316505+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "StockWatch: Gene Editing Shares Jump on ESGCT Data, FDA Draft Guidance": "StockWatch ：基因编辑共享在ESGCT数据上跳跃， FDA指南草案",
     "Scientists discover a surprising brain benefit of eating peanuts every day": "科学家发现每天吃花生对大脑有惊人的好处",
     "Common pesticide linked to 2.5 times the risk of Parkinson’s disease": "与帕金森病风险2.5倍相关的常见杀虫剂",
     "Drinking tea may help protect your heart, but there’s a surprising catch": "喝茶可能有助于保护你的心脏，但有一个令人惊讶的发现",
@@ -106,10 +107,21 @@
     "HHS to allow compounders to make 6 unapproved peptides": "HHS允许化合物生产6种未经批准的肽",
     "Personal AI agents are coming to healthcare": "个人人工智能代理即将进入医疗保健领域",
     "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA": "STAT + ：肯尼迪对2026年中期的总结：欺诈、疫苗和MAHA",
-    "Building the Future of AAV Gene Therapy": "构建AAV基因治疗的未来",
-    "STAT+: El-Sayed claps back at RFK Jr., and FDA’s ‘enforcement discretion’ on peptides": "STAT + ： El-Sayed回击RFK Jr. ， FDA对肽的“强制执行自由裁量权”"
+    "Building the Future of AAV Gene Therapy": "构建AAV基因治疗的未来"
   },
   "items": [
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "审批",
+      "title": "StockWatch: Gene Editing Shares Jump on ESGCT Data, FDA Draft Guidance",
+      "titleZh": "StockWatch ：基因编辑共享在ESGCT数据上跳跃， FDA指南草案",
+      "link": "https://www.genengnews.com/topics/genome-editing/stockwatch-gene-editing-shares-jump-on-esgct-data-fda-draft-guidance/",
+      "summary": "Shares of gene editing therapy companies mostly surged this past week on two growth catalysts: Data readouts at the European Society of Gene and Cell Therapy’s 33rd ESGCT Annual Congress, and the FDA's new draft guidance for personalized gene therapies. The post StockWatch: Gene Editing Shares Jump ",
+      "publishedAt": "2026-11-01T19:03:24+00:00"
+    },
     {
       "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
@@ -243,7 +255,7 @@
       "publishedAt": "2026-10-31T00:59:52+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -255,7 +267,7 @@
       "publishedAt": "2026-10-30T19:17:01+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -303,7 +315,7 @@
       "publishedAt": "2026-10-30T15:47:13+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -315,7 +327,7 @@
       "publishedAt": "2026-10-30T15:47:11+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -639,7 +651,7 @@
       "publishedAt": "2026-10-29T19:31:38+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -675,7 +687,7 @@
       "publishedAt": "2026-10-29T18:33:44+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -807,7 +819,7 @@
       "publishedAt": "2026-10-29T14:45:48+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -825,13 +837,13 @@
       "lang": "en",
       "category": "审批",
       "title": "STAT+: El-Sayed claps back at RFK Jr., and FDA’s ‘enforcement discretion’ on peptides",
-      "titleZh": "STAT + ： El-Sayed回击RFK Jr. ， FDA对肽的“强制执行自由裁量权”",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/10/29/el-sayed-claps-back-at-rfk-jr-fda-peptide-policy-dc-diagnosis/?utm_campaign=rss",
       "summary": "Abdul El-Sayed, the Democratic Senate candidate in Michigan, pushes back against the RFK Jr.'s claims, and the new FDA policy around peptides.",
       "publishedAt": "2026-10-29T14:18:27+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -987,7 +999,7 @@
       "publishedAt": "2026-10-29T03:54:37+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -997,18 +1009,6 @@
       "link": "https://www.genengnews.com/topics/translational-medicine/three-photon-microscopy-reveals-neural-activity-deep-in-the-mouse-brain/",
       "summary": "By optimizing laser, optical, and acquisition parameters, The Rockefeller University researchers developed a three-photon microscopy platform that captures deep-brain neural activity in living mice at single-cell resolution without surgically removing the overlying cortex. The post Three-Photon Micr",
       "publishedAt": "2026-10-28T22:17:38+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "How the Heart Stays Strong with MCT1-Dependent Mitochondrial Lactate Import",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/translational-medicine/how-the-heart-stays-strong-with-mct1-dependent-mitochondrial-lactate-import/",
-      "summary": "Preclinical study results suggest how the heart can keep itself well-fueled even under times of stress, by burning glucose in the cell cytosol while burning lactate in the mitochondria. The post How the Heart Stays Strong with MCT1-Dependent Mitochondrial Lactate Import appeared first on GEN - Genet",
-      "publishedAt": "2026-10-28T20:42:30+00:00"
     },
     {
       "id": "biopharma-dive-8",
