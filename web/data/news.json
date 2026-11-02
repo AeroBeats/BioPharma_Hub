@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-02T15:37:58.241467+00:00",
+  "updatedAt": "2026-11-02T23:27:06.076685+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,16 @@
   ],
   "failedSources": [],
   "translations": {
+    "Washington state resident dies from bird flu following exposure to infected cattle": "华盛顿州居民在接触受感染的牛后死于禽流感",
+    "AbbVie, Brise disclose deal for two preclinical migraine meds": "AbbVie, Brise披露两种临床前偏头痛药物的交易",
+    "WuXi Biologics, Fresenius partner ahead of biosimilar boom": "无锡生物制药，费森尤斯在生物仿制药热潮之前的合作伙伴",
+    "FDA Sets May 1 PDUFA Action Date for uniQure’s Huntington’s Disease Gene Therapy": "FDA为uniQure的亨廷顿舞蹈症基因治疗设定5月1日PDUFA行动日期",
+    "Inflammatory Process Identified as Link Between Pulmonary Hypertension and Cognitive Decline": "炎症过程被确定为肺动脉高压与认知能力下降之间的联系",
+    "Karyopharm, deep in debt, to sell itself in bankruptcy": "Karyopharm ，债务沉重，在破产中出售自己",
+    "STAT+: The health care affordability midterms, and billing urgent care as ER": "STAT + ：医疗保健负担能力期中考试，并以急诊室的身份收取紧急护理费用",
+    "STAT+: Psilocybin’s lasting benefits prove elusive in mice": "STAT + ：裸盖菇素的持久益处在小鼠中难以捉摸",
+    "STAT+: FDA OKs generic HIV prevention shot, widening access for lower-income countries": "STAT + ： FDA确定通用HIV预防注射，扩大低收入国家的可及性",
+    "UniQure gets review date and adcomm; Inovia's stock surges after approval": "UniQure获得审核日期和广告通告； Inovia的股票在批准后激增",
     "Karyopharm plans to merge with Ayrmid, the company that tried buying bluebird": "Karyopharm计划与试图收购蓝鸟的公司Ayrmid合并",
     "FDA puts Bright Minds drug on partial hold, stock tanks": "FDA将Bright Minds药物置于部分搁置状态，储备罐",
     "Sentira Brings Claude’s AI to 10x Genomics’ Chromium Platform": "Sentira将Claude的AI引入10x Genomics的Chromium平台",
@@ -97,21 +107,131 @@
     "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months": "2型糖尿病取得突破， 54%在短短6个月内获得缓解",
     "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game": "盈利综述：礼来的坚定势头、诺华的反弹和葛兰素史克的等待",
     "Sanofi has no plans for 'major restructuring' as Dupixent's patent cliff looms": "由于Dupixent的专利悬崖迫在眉睫，赛诺菲没有“重大重组”的计划",
-    "After Be Bio shutdown, its CEO heads to Orbis; Enanta's longtime chief Jay Luly to retire": "Be Bio关闭后，其首席执行官前往奥比斯； Enanta的长期首席执行官Jay Luly退休",
-    "Setara gets $90M to continue rare disease pipeline spun out of Jazz's Actio deal": "Setara获得9000万美元，用于继续从Jazz的Actio交易中分离出的罕见疾病管道",
-    "With Setara, the team behind Actio opens its second act": "与Setara一起， Actio背后的团队开启了第二幕",
-    "Why some “lower-risk” childhood cancers turn deadly": "为什么一些“低风险”的儿童癌症会致命",
-    "Post-Hoc Live: Is biotech’s future full of zero- and one- employee startups?": "事后直播：生物技术的未来是否充满了零和一名员工的创业公司？",
-    "AstraZeneca follows GSK with $1.5B annual savings push": "阿斯利康效仿葛兰素史克，每年节省$ 15亿",
-    "Opinion: What a mother’s 1834 letter about measles tells us about MAHA": "观点：一位母亲在1834年写的关于麻疹的信告诉我们关于马哈的信",
-    "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings": "STAT + ：随着更多州寻求在临床环境中测试人工智能， FDA、CMS争相避免监管僵局",
-    "The health care issues STAT reporters are watching in the midterms": "统计数据记者在中期观察的医疗保健问题",
-    "Opinion: How Congress can fix expert advisory committees": "意见：国会如何修复专家咨询委员会",
-    "STAT+: How a simple UTI turns into a $1,756 bill": "STAT + ：简单的UTI如何变成$ 1,756的账单"
+    "After Be Bio shutdown, its CEO heads to Orbis; Enanta's longtime chief Jay Luly to retire": "Be Bio关闭后，其首席执行官前往奥比斯； Enanta的长期首席执行官Jay Luly退休"
   },
   "items": [
     {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Washington state resident dies from bird flu following exposure to infected cattle",
+      "titleZh": "华盛顿州居民在接触受感染的牛后死于禽流感",
+      "link": "https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss",
+      "summary": "A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year.",
+      "publishedAt": "2026-11-02T20:44:40+00:00"
+    },
+    {
       "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "AbbVie, Brise disclose deal for two preclinical migraine meds",
+      "titleZh": "AbbVie, Brise披露两种临床前偏头痛药物的交易",
+      "link": "https://endpoints.news/abbvie-brise-disclose-deal-for-two-preclinical-migraine-meds/",
+      "summary": "AbbVie has agreed to a discovery and commercialization deal with Brise Pharma for two preclinical migraine programs. The Beijing-based partner said Monday the agreement actually stemmed from 2024. An investor relations ...",
+      "publishedAt": "2026-11-02T19:43:03+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "WuXi Biologics, Fresenius partner ahead of biosimilar boom",
+      "titleZh": "无锡生物制药，费森尤斯在生物仿制药热潮之前的合作伙伴",
+      "link": "https://endpoints.news/wuxi-biologics-fresenius-partner-ahead-of-biosimilar-boom/",
+      "summary": "WuXi Biologics and German drugmaker Fresenius have reached one of the largest biosimilar deals to date ahead of what some in the industry have called an upcoming “golden decade” for such products. ...",
+      "publishedAt": "2026-11-02T18:44:22+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA Sets May 1 PDUFA Action Date for uniQure’s Huntington’s Disease Gene Therapy",
+      "titleZh": "FDA为uniQure的亨廷顿舞蹈症基因治疗设定5月1日PDUFA行动日期",
+      "link": "https://www.genengnews.com/topics/genome-editing/fda-sets-may-1-pdufa-action-date-for-uniqures-huntingtons-disease-gene-therapy/",
+      "summary": "uniQure has aligned with the FDA on what the company calls key elements of the confirmatory study design: The study is being designed as a randomized, standard-of-care trial enrolling approximately 200 patients in a 2:1 ratio of ifezuntirgene inilparvovec to standard of care, with Total Functional C",
+      "publishedAt": "2026-11-02T18:13:13+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "Inflammatory Process Identified as Link Between Pulmonary Hypertension and Cognitive Decline",
+      "titleZh": "炎症过程被确定为肺动脉高压与认知能力下降之间的联系",
+      "link": "https://www.genengnews.com/topics/translational-medicine/inflammatory-process-identified-as-link-between-pulmonary-hypertension-and-cognitive-decline/",
+      "summary": "A study investigating the observed connection between pulmonary hypertension and cognitive decline symptoms has linked brain abnormalities in pulmonary hypertension to the same inflammatory processes that drive disease in the lungs and heart. The post Inflammatory Process Identified as Link Between ",
+      "publishedAt": "2026-11-02T17:56:05+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
+      "titleZh": "Karyopharm ，债务沉重，在破产中出售自己",
+      "link": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
+      "summary": "The parent of cell therapy maker Gamida Cell will be the lead bidder in a court-supervised auction of Karyopharm, which recently cut a forbearance deal to push off debt payments.",
+      "publishedAt": "2026-11-02T17:07:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: The health care affordability midterms, and billing urgent care as ER",
+      "titleZh": "STAT + ：医疗保健负担能力期中考试，并以急诊室的身份收取紧急护理费用",
+      "link": "https://www.statnews.com/2026/11/02/health-care-affordability-midterms-hybrid-er-urgent-care-clinics-health-care-inc/?utm_campaign=rss",
+      "summary": "Health care affordability is a major issue for voters, and a new kind of medical clinic sticks some patients with big bills.",
+      "publishedAt": "2026-11-02T17:05:28+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Psilocybin’s lasting benefits prove elusive in mice",
+      "titleZh": "STAT + ：裸盖菇素的持久益处在小鼠中难以捉摸",
+      "link": "https://www.statnews.com/2026/11/02/biotech-news-psilocybin-lasting-benefits-prove-elusive-in-mice/?utm_campaign=rss",
+      "summary": "Five Bay Area labs teamed up to compare lasting effects of psilocybin on anxiety and depression-like behavior in mice, with limited results:",
+      "publishedAt": "2026-11-02T16:47:33+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: FDA OKs generic HIV prevention shot, widening access for lower-income countries",
+      "titleZh": "STAT + ： FDA确定通用HIV预防注射，扩大低收入国家的可及性",
+      "link": "https://www.statnews.com/pharmalot/2026/11/02/lenacapavir-generic-version-approved-fda-hiv-prevention-dr-reddys/?utm_campaign=rss",
+      "summary": "The FDA has approved a generic HIV prevention shot, a key step in widening access for dozens of lower-income countries.",
+      "publishedAt": "2026-11-02T16:13:46+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "UniQure gets review date and adcomm; Inovia's stock surges after approval",
+      "titleZh": "UniQure获得审核日期和广告通告； Inovia的股票在批准后激增",
+      "link": "https://endpoints.news/uniqure-gets-review-date-and-adcomm-inovias-stock-surges-after-approval/",
+      "summary": "Plus news about AbbVie, Gilead and Tiziana Life Sciences. FDA gives uniQure a review date and adcomm: The agency will decide whether or not to approve UniQure’s high-profile Huntington’s disease gene therapy by May 1 ...",
+      "publishedAt": "2026-11-02T16:10:20+00:00"
+    },
+    {
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -123,7 +243,7 @@
       "publishedAt": "2026-11-02T15:28:10+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -135,7 +255,7 @@
       "publishedAt": "2026-11-02T15:11:58+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -147,7 +267,7 @@
       "publishedAt": "2026-11-02T15:08:21+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -159,7 +279,7 @@
       "publishedAt": "2026-11-02T14:34:00+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -171,7 +291,7 @@
       "publishedAt": "2026-11-02T14:22:08+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -183,7 +303,7 @@
       "publishedAt": "2026-11-02T14:07:56+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -207,7 +327,7 @@
       "publishedAt": "2026-11-02T13:10:42+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +363,7 @@
       "publishedAt": "2026-11-02T12:13:03+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +375,7 @@
       "publishedAt": "2026-11-02T12:00:45+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -267,7 +387,7 @@
       "publishedAt": "2026-11-02T10:00:00+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +399,7 @@
       "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +411,7 @@
       "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +423,7 @@
       "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +435,7 @@
       "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +471,7 @@
       "publishedAt": "2026-11-02T01:46:26+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -435,7 +555,7 @@
       "publishedAt": "2026-10-31T13:49:23+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +579,7 @@
       "publishedAt": "2026-10-31T10:38:30+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +615,7 @@
       "publishedAt": "2026-10-31T00:59:52+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -507,7 +627,7 @@
       "publishedAt": "2026-10-30T19:17:01+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -519,7 +639,7 @@
       "publishedAt": "2026-10-30T19:13:34+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -531,7 +651,7 @@
       "publishedAt": "2026-10-30T16:16:51+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -543,7 +663,7 @@
       "publishedAt": "2026-10-30T16:00:00+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -555,7 +675,7 @@
       "publishedAt": "2026-10-30T15:47:13+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -567,7 +687,7 @@
       "publishedAt": "2026-10-30T15:47:11+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -579,7 +699,7 @@
       "publishedAt": "2026-10-30T15:38:49+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -591,7 +711,7 @@
       "publishedAt": "2026-10-30T15:36:16+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +723,7 @@
       "publishedAt": "2026-10-30T14:45:50+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -615,7 +735,7 @@
       "publishedAt": "2026-10-30T14:07:14+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +747,7 @@
       "publishedAt": "2026-10-30T13:33:55+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -639,7 +759,7 @@
       "publishedAt": "2026-10-30T13:22:49+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +771,7 @@
       "publishedAt": "2026-10-30T13:12:49+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -675,7 +795,7 @@
       "publishedAt": "2026-10-30T12:12:46+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -687,7 +807,7 @@
       "publishedAt": "2026-10-30T11:50:00+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,7 +819,7 @@
       "publishedAt": "2026-10-30T11:12:36+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -711,25 +831,25 @@
       "publishedAt": "2026-10-30T11:00:55+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
       "title": "Setara gets $90M to continue rare disease pipeline spun out of Jazz's Actio deal",
-      "titleZh": "Setara获得9000万美元，用于继续从Jazz的Actio交易中分离出的罕见疾病管道",
+      "titleZh": "",
       "link": "https://endpoints.news/setara-gets-90m-to-continue-rare-disease-pipeline-spun-out-of-jazzs-actio-deal/",
       "summary": "After shipping its precision epilepsy drug to Jazz Pharmaceuticals, Actio Biosciences has spun out the remainder of its genetics-driven pipeline into a new company called Setara Biosciences. Setara is getting a fresh $90 million to ...",
       "publishedAt": "2026-10-30T10:30:35+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "研发",
       "title": "With Setara, the team behind Actio opens its second act",
-      "titleZh": "与Setara一起， Actio背后的团队开启了第二幕",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/setara-actio-charcot-marie-tooth-ion-channel-drugs/873227/",
       "summary": "The fledgling startup has $90 million to develop a pipeline of drugs, led by a Charcot-Marie-Tooth disease medicine, that Actio was working on when Jazz Pharmaeuticals bought its lead epilepsy program.",
       "publishedAt": "2026-10-30T10:30:00+00:00"
@@ -741,82 +861,34 @@
       "lang": "en",
       "category": "研发",
       "title": "Why some “lower-risk” childhood cancers turn deadly",
-      "titleZh": "为什么一些“低风险”的儿童癌症会致命",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261028232717.htm",
       "summary": "Scientists have uncovered hidden aggressive cancer cells in children whose tumors were previously considered lower risk, revealing why some cases of rhabdomyosarcoma become unexpectedly deadly. The discovery could help doctors identify dangerous tumors earlier and develop personalized treatments tha",
       "publishedAt": "2026-10-30T10:15:28+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "技术",
       "title": "Post-Hoc Live: Is biotech’s future full of zero- and one- employee startups?",
-      "titleZh": "事后直播：生物技术的未来是否充满了零和一名员工的创业公司？",
+      "titleZh": "",
       "link": "https://endpoints.news/post-hoc-live-is-biotechs-future-full-of-zero-and-one-employee-startups/",
       "summary": "After Endpoints News’ AI event in New York in October, I had dinner with some of our guests. Over a few glasses of wine, we started talking about some out-there ideas they ...",
       "publishedAt": "2026-10-30T10:00:25+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "市场",
       "title": "AstraZeneca follows GSK with $1.5B annual savings push",
-      "titleZh": "阿斯利康效仿葛兰素史克，每年节省$ 15亿",
+      "titleZh": "",
       "link": "https://endpoints.news/astrazeneca-follows-gsk-with-1-5b-annual-savings-push/",
       "summary": "Battered by late-stage trial failures and determined to meet its ambitious $80 billion-by-2030 revenue goal, AstraZeneca is cutting costs. The company said Friday that it was shifting resources with ...",
       "publishedAt": "2026-10-30T09:49:35+00:00"
-    },
-    {
-      "id": "stat-news-13",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
-      "titleZh": "观点：一位母亲在1834年写的关于麻疹的信告诉我们关于马哈的信",
-      "link": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
-      "summary": "An 1834 letter about a measles outbreak sheds light on today’s anti-vaccine movement, writes a medical historian.",
-      "publishedAt": "2026-10-30T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-14",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
-      "titleZh": "STAT + ：随着更多州寻求在临床环境中测试人工智能， FDA、CMS争相避免监管僵局",
-      "link": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
-      "summary": "Officials are moving behind the scenes to head off a conflict brewing between states and the federal government over regulating AI.",
-      "publishedAt": "2026-10-30T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-15",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "The health care issues STAT reporters are watching in the midterms",
-      "titleZh": "统计数据记者在中期观察的医疗保健问题",
-      "link": "https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss",
-      "summary": "In this week's \"STATus Report,\" STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview.",
-      "publishedAt": "2026-10-30T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: How Congress can fix expert advisory committees",
-      "titleZh": "意见：国会如何修复专家咨询委员会",
-      "link": "https://www.statnews.com/2026/10/30/scientific-expert-advisory-committees-fda-hhs-congress/?utm_campaign=rss",
-      "summary": "“This evisceration of scientific advice is untenable,” write C. Joseph Ross Daval and Aaron S. Kesselheim.",
-      "publishedAt": "2026-10-30T08:30:00+00:00"
     },
     {
       "id": "stat-news-17",
@@ -824,14 +896,38 @@
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
-      "title": "STAT+: How a simple UTI turns into a $1,756 bill",
-      "titleZh": "STAT + ：简单的UTI如何变成$ 1,756的账单",
-      "link": "https://www.statnews.com/2026/10/30/hybrid-er-urgent-care-clinics-hidden-billing-complaints-intuitive-health/?utm_campaign=rss",
-      "summary": "They visited for what they thought were obvious urgent care issues — coughs, congestion, flu — and were shocked to get bills for ER care instead, totaling thousands of dollars.",
+      "title": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
+      "summary": "An 1834 letter about a measles outbreak sheds light on today’s anti-vaccine movement, writes a medical historian.",
       "publishedAt": "2026-10-30T08:30:00+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "stat-news-18",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
+      "summary": "Officials are moving behind the scenes to head off a conflict brewing between states and the federal government over regulating AI.",
+      "publishedAt": "2026-10-30T08:30:00+00:00"
+    },
+    {
+      "id": "stat-news-19",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "The health care issues STAT reporters are watching in the midterms",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss",
+      "summary": "In this week's \"STATus Report,\" STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview.",
+      "publishedAt": "2026-10-30T08:30:00+00:00"
+    },
+    {
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -843,7 +939,7 @@
       "publishedAt": "2026-10-30T06:11:31+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -867,7 +963,7 @@
       "publishedAt": "2026-10-30T00:26:37+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -879,7 +975,7 @@
       "publishedAt": "2026-10-29T20:30:00+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -891,7 +987,7 @@
       "publishedAt": "2026-10-29T19:31:38+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -903,19 +999,7 @@
       "publishedAt": "2026-10-29T19:17:19+00:00"
     },
     {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/?utm_campaign=rss",
-      "summary": "A judge ruled that federal regulators exceeded their authority in narrowing the exceptions to Medicaid work requirements for people with medical issues.",
-      "publishedAt": "2026-10-29T18:57:37+00:00"
-    },
-    {
-      "id": "endpoints-15",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -927,19 +1011,7 @@
       "publishedAt": "2026-10-29T18:33:44+00:00"
     },
     {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "市场",
-      "title": "First Whole-Body Single-Cell Atlas of Adult Vertebrate Generated in Danionella cerebrum",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/omics/first-whole-body-single-cell-atlas-of-adult-vertebrate-generated-in-danionella-cerebrum/",
-      "summary": "Researchers created the first comprehensive whole-body single-cell atlas of an adult vertebrate, the tiny, transparent fish Danionella cerebrum, offering a new resource for studying brain regeneration, cellular diversity, and investigating how different tissues function together. The post First Whol",
-      "publishedAt": "2026-10-29T18:28:44+00:00"
-    },
-    {
-      "id": "endpoints-16",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -951,19 +1023,7 @@
       "publishedAt": "2026-10-29T18:00:02+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: New federal rule will require prescription drug middlemen to share secret payments data",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss",
-      "summary": "A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private.",
-      "publishedAt": "2026-10-29T16:44:05+00:00"
-    },
-    {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -973,66 +1033,6 @@
       "link": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
       "summary": "The drugmaker&rsquo;s market value swelled by more than $7 billion on findings suggesting a recently-acquired medicine could become a new treatment standard for a form of head and neck cancer.",
       "publishedAt": "2026-10-29T16:06:00+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "UK lands £500M in biopharma pledges; Teva to shutter New Jersey site",
-      "titleZh": "",
-      "link": "https://endpoints.news/uk-lands-500m-in-biopharma-pledges-teva-to-shutter-new-jersey-site/",
-      "summary": "Plus, news about Esteve and Regeneron. UK pulls in £500M investment: As part of the UK’s Autumn budget, Vertex Pharmaceuticals said it will invest over £300 million in a new R&amp;D site in Oxford, UK ...",
-      "publishedAt": "2026-10-29T15:31:16+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Ono's five failures; Lenz and Molecular Partners to lay off staff",
-      "titleZh": "",
-      "link": "https://endpoints.news/onos-five-failures-lenz-and-molecular-partners-to-lay-off-staff/",
-      "summary": "Plus, news about GSK, Ascletis, BioMarin, Rigerna and Hisun. Ono Pharma’s endocannabinoid modulator flunks five trials: The biotech’s ONO-1110 did not meet the primary endpoint in five separate Phase 2 studies ...",
-      "publishedAt": "2026-10-29T15:08:22+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genmab's stock rises on cancer data, while Iovance, Coherus tumble",
-      "titleZh": "",
-      "link": "https://endpoints.news/genmabs-stock-rises-on-cancer-data-while-iovance-and-coherus-tumble/",
-      "summary": "Cancer trial news drove a number of stock moves in both directions over the past 24 hours. Here's a summary of key results and their impact: Genmab shares rise on head and neck cancer data: ...",
-      "publishedAt": "2026-10-29T15:06:45+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "HHS to allow compounders to make 6 unapproved peptides",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/hhs-peptides-rfk-fda-compounders/873141/",
-      "summary": "RFK Jr. has given notice that the agency won&rsquo;t take enforcement action on six peptides that controversially won a contested recommendation from outside advisers to the FDA in July.",
-      "publishedAt": "2026-10-29T14:52:00+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "审批",
-      "title": "Building the Future of AAV Gene Therapy",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/resources/ebooks/building-the-future-of-aav-gene-therapy/",
-      "summary": "This eBook brings together perspectives from across the AAV development and manufacturing continuum. It explores how early commercial planning can help avoid costly delays, how standardized platform approaches and off-the-shelf plasmids can streamline development, and how next-generation innovations",
-      "publishedAt": "2026-10-29T14:45:45+00:00"
     },
     {
       "id": "science-daily-health-15",
@@ -1172,6 +1172,18 @@
       "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
+      "title": "Global, regional and national burden of cervical cancer in 1990–2023 with forecasts to 2050: a Global Burden of Disease study",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04729-4",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
       "title": "Neoadjuvant botensilimab with or without balstilimab in pMMR and dMMR colon cancer: the phase 2 UNICORN trial",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04710-1",
@@ -1179,7 +1191,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "A clinical multimodal vision language foundation model with fine-grain explainability",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04655-5",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Insights into early-onset colorectal cancer from a single-nucleus RNA-seq atlas of colorectal cancer across the age continuum",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04721-y",
       "summary": "",
       "publishedAt": ""
     }
