@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-03T06:37:51.208008+00:00",
+  "updatedAt": "2026-11-03T15:01:53.750560+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,21 @@
   ],
   "failedSources": [],
   "translations": {
+    "Novartis ends BioArctic pact; Two VC firms raise inaugural funds": "诺华终止BioArctic协议；两家风险投资公司筹集首批资金",
+    "STAT+: FDA, CMS look to collaborate with states on health AI": "STAT + ： FDA、CMS希望与各州在健康AI方面开展合作",
+    "STAT+: Pharmalittle: We’re reading about a generic HIV prevention shot, Lonza buying U.S. facilities, and more": "STAT + ： Pharmalittle ：我们正在阅读有关通用HIV预防注射、Lonza购买美国设施等信息",
+    "Child dies of measles in New York’s first such death in 30 years": "纽约儿童30年来首次死于麻疹",
+    "Medicare Part D premiums are spiking 50% on average next year, KFF finds": "KFF发现，明年Medicare D部分保费平均飙升50 ％",
+    "The brain’s hidden fear mechanism may explain anxiety and PTSD": "大脑隐藏的恐惧机制可以解释焦虑和创伤后应激障碍",
+    "First U.S. bird flu death of the year after cattle exposure": "美国牛暴露后首例禽流感死亡",
+    "Scientists discover a surprising clue to autism's origins hidden in the placenta": "科学家发现隐藏在胎盘中的自闭症起源的令人惊讶的线索",
+    "Scientists discover surprising heart benefits of eating avocado and mango every day": "科学家发现每天吃鳄梨和芒果对心脏的惊人好处",
+    "Scientists identify two overlooked skills that predict reading success": "科学家发现了两种被忽视的预测阅读成功的技能",
+    "Bayer CEO says company is ‘working on’ MFN in the US": "拜耳首席执行官表示，公司正在美国“致力于”最惠国待遇",
+    "Updated: Merck KGaA is selling its CDMO business in the US to Lonza": "更新： Merck KGaA将其在美国的CDMO业务出售给Lonza",
+    "Opinion: What the 2024 electoral map reveals about America’s mortality divide": "观点： 2024年选举地图揭示了美国的死亡率差距",
+    "Opinion: How meditation helped me become a better doctor overnight": "意见：冥想如何帮助我一夜之间成为一名更好的医生",
+    "‘Three-parent IVF’ was supposed to prevent mitochondrial disease. Studies are raising doubts": "“三亲试管婴儿”应该可以预防线粒体疾病。研究提出了疑问",
     "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation": "科学家发现新的阿尔茨海默氏症药物可修复DNA损伤并减少脑部炎症",
     "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half": "科学家逆转肝细胞衰老，将阿尔茨海默氏症相关蛋白减半",
     "Washington state resident dies from bird flu following exposure to infected cattle": "华盛顿州居民在接触受感染的牛后死于禽流感",
@@ -59,7 +74,7 @@
     "STAT+: The health care affordability midterms, and billing urgent care as ER": "STAT + ：医疗保健负担能力期中考试，并以急诊室的身份收取紧急护理费用",
     "STAT+: Psilocybin’s lasting benefits prove elusive in mice": "STAT + ：裸盖菇素的持久益处在小鼠中难以捉摸",
     "STAT+: FDA OKs generic HIV prevention shot, widening access for lower-income countries": "STAT + ： FDA确定通用HIV预防注射，扩大低收入国家的可及性",
-    "UniQure gets review date and adcomm; Inovia's stock surges after approval": "UniQure获得审核日期和广告通告； Inovia的股票在批准后激增",
+    "UniQure gets review date and adcomm; Inovio's stock surges after approval": "UniQure获得审核日期和广告； Inovio的股票在批准后激增",
     "Karyopharm plans to merge with Ayrmid, the company that tried buying bluebird": "Karyopharm计划与试图收购蓝鸟的公司Ayrmid合并",
     "FDA puts Bright Minds drug on partial hold, stock tanks": "FDA将Bright Minds药物置于部分搁置状态，储备罐",
     "Sentira Brings Claude’s AI to 10x Genomics’ Chromium Platform": "Sentira将Claude的AI引入10x Genomics的Chromium平台",
@@ -89,29 +104,194 @@
     "Scientists discover a hidden driver of high cholesterol and a way to stop it": "科学家发现了高胆固醇的隐藏驱动因素和阻止它的方法",
     "Scientists finally discover how a common gut bacterium can trigger colon cancer": "科学家们终于发现了一种常见的肠道细菌如何引发结肠癌",
     "STAT+: The 4 biggest ways the midterms could change health policy, according to policymakers, lobbyists, and experts": "STAT + ：根据政策制定者、游说者和专家的说法，中期改变卫生政策的4大方式",
-    "Scientists discover a bacterial defense so strange they thought it was broken": "科学家发现了一种奇怪的细菌防御，他们认为它被打破了",
     "Anthropic’s one-person biotech buy; Jake Van Naarden’s dealmaking strategy; and more": "Anthropic的单人生物技术收购； Jake Van Naarden的交易策略；以及更多",
-    "A surprising vitamin A discovery is changing what scientists know about vision": "一项令人惊讶的维生素A发现正在改变科学家对视力的了解",
     "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms": "简单的血液测试可以在症状出现前10年揭示阿尔茨海默氏症的风险",
     "Opentrons Raises $40M in Series E to Expand Its Robotics, Software, Data Infrastructure": "Opentrons在E轮融资中筹集了4000万美元$ ，以扩展其机器人、软件和数据基础设施",
-    "100 Million-Cell AI-Ready Dataset with Single-Cell and Proteomic Data Created by Parse and Nomic": "使用Parse和Nomic创建的单细胞和蛋白质组数据的1亿细胞AI就绪数据集",
-    "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal": "根据特朗普协议，赛诺菲可能会寻求更高的欧洲药品价格，而不是拒绝上市",
-    "This week in charts: ESMO’s winners and losers": "本周排行榜： ESMO的赢家和输家",
-    "Gilead CAR-T on partial clinical hold; Agios' PDUFA date pushed back": "Gilead CAR-T处于部分临床保留状态； Agios的PDUFA日期推迟",
-    "Blocking Protein Slows Pancreatic Tumor Growth and Reduces Immune Suppression in Mice": "阻断蛋白质减缓小鼠胰腺肿瘤生长并降低免疫抑制",
-    "No Nonsense: David Liu Lauds Progress in Disease-Agnostic Gene Editing at ESGCT": "无稽之谈： David Liu称赞ESGCT在疾病无关基因编辑方面取得的进展",
-    "AstraZeneca says reorg could mean R&D cuts and trials shifted to emerging markets": "阿斯利康表示，重组可能意味着研发削减和试验转移到新兴市场",
-    "STAT+: Up and down the ladder: The latest comings and goings": "STAT + ：上下阶梯：最新动态",
-    "How Election Day can affect your heart": "选举日如何影响您的心脏",
-    "Assessing Merck and Moderna’s mRNA cancer vaccine": "评估Merck和Moderna的mRNA癌症疫苗",
-    "STAT+: Pharmalittle: We’re reading about AstraZeneca cost-cutting, Sun Pharma facility problems, and more": "STAT + ： Pharmalittle ：我们正在阅读有关阿斯利康削减成本、Sun Pharma设施问题等的信息",
-    "The persisting paradox of men’s health": "持续存在的男性健康悖论",
-    "Anthropic's Nathan Frey on biopharma partners, M&A and pipeline": "Anthropic的Nathan Frey ，生物制药合作伙伴、并购和管道",
-    "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months": "2型糖尿病取得突破， 54%在短短6个月内获得缓解"
+    "100 Million-Cell AI-Ready Dataset with Single-Cell and Proteomic Data Created by Parse and Nomic": "使用Parse和Nomic创建的单细胞和蛋白质组数据的1亿细胞AI就绪数据集"
   },
   "items": [
     {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "Novartis ends BioArctic pact; Two VC firms raise inaugural funds",
+      "titleZh": "诺华终止BioArctic协议；两家风险投资公司筹集首批资金",
+      "link": "https://endpoints.news/novartis-ends-bioarctic-pact-two-vc-firms-raise-inaugural-funds/",
+      "summary": "Plus news about Teva, Ultragenyx and Specific Biologics. Novartis cans BioArctic collab: The Swiss pharma axed its discovery-stage work with the Swedish biotech, which created the Alzheimer’s drug Leqembi. The neurodegeneration-focused ...",
+      "publishedAt": "2026-11-03T14:56:47+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: FDA, CMS look to collaborate with states on health AI",
+      "titleZh": "STAT + ： FDA、CMS希望与各州在健康AI方面开展合作",
+      "link": "https://www.statnews.com/2026/11/03/fda-cms-collaborate-with-states-on-ai-heath-tech/?utm_campaign=rss",
+      "summary": "In this edition of STAT Health Tech: Federal officials look to work with states on regulating AI, protecting doctors from AI liability, and more.",
+      "publishedAt": "2026-11-03T14:51:12+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Pharmalittle: We’re reading about a generic HIV prevention shot, Lonza buying U.S. facilities, and more",
+      "titleZh": "STAT + ： Pharmalittle ：我们正在阅读有关通用HIV预防注射、Lonza购买美国设施等信息",
+      "link": "https://www.statnews.com/pharmalot/2026/11/03/generic-hiv-prevention-shot-lonza-buying-facilities-in-us/?utm_campaign=rss",
+      "summary": "The FDA gave tentative approval to Dr. Reddy’s Laboratories to make a generic version of a groundbreaking HIV prevention medicine",
+      "publishedAt": "2026-11-03T14:44:54+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Child dies of measles in New York’s first such death in 30 years",
+      "titleZh": "纽约儿童30年来首次死于麻疹",
+      "link": "https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/?utm_campaign=rss",
+      "summary": "A child in rural northern New York has died after contracting measles, marking the state's first death from the disease in 30 years.",
+      "publishedAt": "2026-11-03T13:48:16+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "研发",
+      "title": "Medicare Part D premiums are spiking 50% on average next year, KFF finds",
+      "titleZh": "KFF发现，明年Medicare D部分保费平均飙升50 ％",
+      "link": "https://www.biopharmadive.com/news/medicare-part-d-premiums-skyrocket-2027-kff/873552/",
+      "summary": "The health policy think tank urged seniors to shop carefully for prescription drug coverage during Medicare open enrollment, given skyrocketing premiums and wide variance in costs between plans.",
+      "publishedAt": "2026-11-03T13:46:00+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
+      "titleZh": "大脑隐藏的恐惧机制可以解释焦虑和创伤后应激障碍",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
+      "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scientists found that memories of threatening and harmless environments began to overla",
+      "publishedAt": "2026-11-03T13:03:02+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "First U.S. bird flu death of the year after cattle exposure",
+      "titleZh": "美国牛暴露后首例禽流感死亡",
+      "link": "https://www.statnews.com/2026/11/03/health-news-first-us-bird-flu-death-after-cattle-exposure-2026/?utm_campaign=rss",
+      "summary": "A person in Washington state has died from complications of the bird flu, the AP reported yesterday. It’s the first such death this year in the U.S., and the third&#8230;",
+      "publishedAt": "2026-11-03T12:52:30+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Scientists discover a surprising clue to autism's origins hidden in the placenta",
+      "titleZh": "科学家发现隐藏在胎盘中的自闭症起源的令人惊讶的线索",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202824.htm",
+      "summary": "Scientists have uncovered an unexpected connection between inflammation during pregnancy, placental damage, and autism-like traits in male mice, while females appeared naturally protected. The discovery could help explain why autism is diagnosed more frequently in boys and reveal new opportunities f",
+      "publishedAt": "2026-11-03T12:41:49+00:00"
+    },
+    {
+      "id": "science-daily-health-6",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover surprising heart benefits of eating avocado and mango every day",
+      "titleZh": "科学家发现每天吃鳄梨和芒果对心脏的惊人好处",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221215.htm",
+      "summary": "Eating an avocado and a cup of mango every day may provide surprising benefits for heart health, according to a new study involving adults with prediabetes. After just eight weeks, participants experienced significant improvements in blood vessel function and diastolic blood pressure, particularly a",
+      "publishedAt": "2026-11-03T12:27:14+00:00"
+    },
+    {
       "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists identify two overlooked skills that predict reading success",
+      "titleZh": "科学家发现了两种被忽视的预测阅读成功的技能",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
+      "summary": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how t",
+      "publishedAt": "2026-11-03T12:15:18+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "Bayer CEO says company is ‘working on’ MFN in the US",
+      "titleZh": "拜耳首席执行官表示，公司正在美国“致力于”最惠国待遇",
+      "link": "https://endpoints.news/bayer-signals-it-is-working-on-mfn-deal-in-the-us-ceo-says/",
+      "summary": "Bayer CEO Bill Anderson said the drugmaker is “working on” a most favored nation agreement, signaling that it is in talks with President Donald Trump’s administration. The German drugmaker was not part ...",
+      "publishedAt": "2026-11-03T12:01:37+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Updated: Merck KGaA is selling its CDMO business in the US to Lonza",
+      "titleZh": "更新： Merck KGaA将其在美国的CDMO业务出售给Lonza",
+      "link": "https://endpoints.news/merck-kgaa-to-exit-cdmo-business-divesting-us-sites-to-lonza/",
+      "summary": "Merck KGaA is set to hand over its US CDMO business to Lonza, with the deal covering five manufacturing facilities and about 1,100 employees. While the finer financial details of the pact were kept under ...",
+      "publishedAt": "2026-11-03T09:54:12+00:00"
+    },
+    {
+      "id": "stat-news-4",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: What the 2024 electoral map reveals about America’s mortality divide",
+      "titleZh": "观点： 2024年选举地图揭示了美国的死亡率差距",
+      "link": "https://www.statnews.com/2026/11/03/electoral-map-reveals-red-state-blue-state-mortality-gap/?utm_campaign=rss",
+      "summary": "Leading drivers of mortality look different according to political geography, experts write.",
+      "publishedAt": "2026-11-03T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-5",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: How meditation helped me become a better doctor overnight",
+      "titleZh": "意见：冥想如何帮助我一夜之间成为一名更好的医生",
+      "link": "https://www.statnews.com/2026/11/03/traumatic-eye-injuries-ophthalmologist-meditation-psychology/?utm_campaign=rss",
+      "summary": "“The inner work of meditation and self-inquiry can support the outer work of patient care,” writes a physician.",
+      "publishedAt": "2026-11-03T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-6",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "‘Three-parent IVF’ was supposed to prevent mitochondrial disease. Studies are raising doubts",
+      "titleZh": "“三亲试管婴儿”应该可以预防线粒体疾病。研究提出了疑问",
+      "link": "https://www.statnews.com/2026/11/03/three-parent-ivf-safety-ethics-questions-mitochondrial-replacement-technology/?utm_campaign=rss",
+      "summary": "Scientists and ethicists are rethinking the potential risks and benefits of a technology to prevent babies from inheriting rare mitochondrial diseases.",
+      "publishedAt": "2026-11-03T09:30:00+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -123,7 +303,7 @@
       "publishedAt": "2026-11-03T04:11:58+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -135,7 +315,7 @@
       "publishedAt": "2026-11-03T00:34:59+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +327,7 @@
       "publishedAt": "2026-11-02T20:44:40+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -155,11 +335,11 @@
       "title": "AbbVie, Brise disclose deal for two preclinical migraine meds",
       "titleZh": "AbbVie, Brise披露两种临床前偏头痛药物的交易",
       "link": "https://endpoints.news/abbvie-brise-disclose-deal-for-two-preclinical-migraine-meds/",
-      "summary": "AbbVie has agreed to a discovery and commercialization deal with Brise Pharma for two preclinical migraine programs. The Beijing-based partner said Monday the agreement actually stemmed from 2024. An investor relations ...",
+      "summary": "AbbVie has agreed to a discovery and commercialization deal with Brise Pharmaceuticals for two preclinical migraine programs. The Beijing-based partner said Monday the agreement actually stemmed from 2024. An investor relations ...",
       "publishedAt": "2026-11-02T19:43:03+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +375,7 @@
       "publishedAt": "2026-11-02T17:56:05+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -207,7 +387,7 @@
       "publishedAt": "2026-11-02T17:07:00+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +399,7 @@
       "publishedAt": "2026-11-02T17:05:28+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +411,7 @@
       "publishedAt": "2026-11-02T16:47:33+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,19 +423,19 @@
       "publishedAt": "2026-11-02T16:13:46+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
-      "title": "UniQure gets review date and adcomm; Inovia's stock surges after approval",
-      "titleZh": "UniQure获得审核日期和广告通告； Inovia的股票在批准后激增",
+      "title": "UniQure gets review date and adcomm; Inovio's stock surges after approval",
+      "titleZh": "UniQure获得审核日期和广告； Inovio的股票在批准后激增",
       "link": "https://endpoints.news/uniqure-gets-review-date-and-adcomm-inovias-stock-surges-after-approval/",
-      "summary": "Plus news about AbbVie, Gilead and Tiziana Life Sciences. FDA gives uniQure a review date and adcomm: The agency will decide whether or not to approve UniQure’s high-profile Huntington’s disease gene therapy by May 1 ...",
+      "summary": "Plus news about AbbVie, Gilead and Tiziana Life Sciences. FDA gives uniQure a review date and adcomm: The agency will decide whether or not to approve uniQure’s high-profile Huntington’s disease gene therapy by May 1 ...",
       "publishedAt": "2026-11-02T16:10:20+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +447,7 @@
       "publishedAt": "2026-11-02T15:28:10+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +471,7 @@
       "publishedAt": "2026-11-02T15:08:21+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -303,7 +483,7 @@
       "publishedAt": "2026-11-02T14:34:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +507,7 @@
       "publishedAt": "2026-11-02T14:07:56+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -339,7 +519,7 @@
       "publishedAt": "2026-11-02T14:00:00+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -351,7 +531,7 @@
       "publishedAt": "2026-11-02T13:55:28+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -363,7 +543,7 @@
       "publishedAt": "2026-11-02T13:10:42+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +555,7 @@
       "publishedAt": "2026-11-02T13:08:42+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -387,7 +567,7 @@
       "publishedAt": "2026-11-02T12:47:18+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -399,7 +579,7 @@
       "publishedAt": "2026-11-02T12:13:03+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +591,7 @@
       "publishedAt": "2026-11-02T12:00:45+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -423,7 +603,7 @@
       "publishedAt": "2026-11-02T10:00:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +615,7 @@
       "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +627,7 @@
       "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +639,7 @@
       "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +651,7 @@
       "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +663,7 @@
       "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -495,7 +675,7 @@
       "publishedAt": "2026-11-02T04:12:24+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -503,7 +683,7 @@
       "title": "Scientists find surprisingly little evidence that medical cannabis helps you sleep",
       "titleZh": "科学家发现几乎没有证据表明医用大麻有助于睡眠",
       "link": "https://www.sciencedaily.com/releases/2026/10/261031221157.htm",
-      "summary": "A major new review challenges the growing enthusiasm for medical cannabis as an insomnia treatment, finding little reliable evidence that it improves sleep quality, sleep duration, or daytime functioning. Researchers caution that this doesn&#039;t mean cannabis is ineffective, only that existing stu",
+      "summary": "A major new review challenges the growing enthusiasm for medical cannabis as an insomnia treatment, finding little reliable evidence that it improves sleep quality, sleep duration, or daytime functioning. Researchers caution that this doesn't mean cannabis is ineffective, only that existing studies ",
       "publishedAt": "2026-11-02T01:46:26+00:00"
     },
     {
@@ -519,7 +699,7 @@
       "publishedAt": "2026-11-01T19:03:24+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -531,7 +711,7 @@
       "publishedAt": "2026-11-01T13:24:51+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -539,11 +719,11 @@
       "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
       "titleZh": "与帕金森病风险2.5倍相关的常见杀虫剂",
       "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
-      "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson&#039;s disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect them.",
+      "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect them.",
       "publishedAt": "2026-11-01T12:33:13+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -555,7 +735,7 @@
       "publishedAt": "2026-11-01T11:29:04+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -567,7 +747,7 @@
       "publishedAt": "2026-11-01T10:49:13+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -575,11 +755,11 @@
       "title": "Scientists discover a hidden driver of high cholesterol and a way to stop it",
       "titleZh": "科学家发现了高胆固醇的隐藏驱动因素和阻止它的方法",
       "link": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
-      "summary": "Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body&#039;s natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an experimental drug targeting this pathway has already passed an earl",
+      "summary": "Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body's natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an experimental drug targeting this pathway has already passed an early hum",
       "publishedAt": "2026-11-01T01:57:50+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -591,7 +771,7 @@
       "publishedAt": "2026-10-31T13:49:23+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,19 +783,7 @@
       "publishedAt": "2026-10-31T11:00:00+00:00"
     },
     {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover a bacterial defense so strange they thought it was broken",
-      "titleZh": "科学家发现了一种奇怪的细菌防御，他们认为它被打破了",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
-      "summary": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus attacks, this unusual mechanism waits until an infection begins before producing",
-      "publishedAt": "2026-10-31T10:38:30+00:00"
-    },
-    {
-      "id": "endpoints-6",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -628,18 +796,6 @@
     },
     {
       "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "A surprising vitamin A discovery is changing what scientists know about vision",
-      "titleZh": "一项令人惊讶的维生素A发现正在改变科学家对视力的了解",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
-      "summary": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas grown in the lab, researchers discovered that a vitamin A derivative and thyroid h",
-      "publishedAt": "2026-10-31T04:31:41+00:00"
-    },
-    {
-      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -675,37 +831,37 @@
       "publishedAt": "2026-10-30T19:13:34+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "市场",
       "title": "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal",
-      "titleZh": "根据特朗普协议，赛诺菲可能会寻求更高的欧洲药品价格，而不是拒绝上市",
+      "titleZh": "",
       "link": "https://endpoints.news/sanofi-may-seek-higher-european-drug-prices-not-withhold-launches-under-trump-deal/",
       "summary": "While some of Europe’s biggest drugmakers have warned that President Donald Trump’s pricing policies could leave European patients waiting longer for new medicines, Sanofi is taking a different approach. ...",
       "publishedAt": "2026-10-30T16:16:51+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "研发",
       "title": "This week in charts: ESMO’s winners and losers",
-      "titleZh": "本周排行榜： ESMO的赢家和输家",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/biotech-charts-esmo-2026-winners-losers/873281/",
       "summary": "The latest installment in BioPharma Dive&rsquo;s visualization-focused series looks at Wall Street&rsquo;s response to a trio of closely watched presentations at a top meeting for cancer drugs.",
       "publishedAt": "2026-10-30T16:00:00+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
       "title": "Gilead CAR-T on partial clinical hold; Agios' PDUFA date pushed back",
-      "titleZh": "Gilead CAR-T处于部分临床保留状态； Agios的PDUFA日期推迟",
+      "titleZh": "",
       "link": "https://endpoints.news/gilead-car-t-on-partial-clinical-hold-agios-pdufa-date-pushed-back/",
       "summary": "Plus news about Acumen, Bristol Myers Squibb, Regeneron, Aer Therapeutics and Hemay Pharmaceutical. Gilead pauses CAR-T after ICANS: After several cases of the neurological condition known as ICANS, Gilead said in ...",
       "publishedAt": "2026-10-30T15:47:13+00:00"
@@ -717,7 +873,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Blocking Protein Slows Pancreatic Tumor Growth and Reduces Immune Suppression in Mice",
-      "titleZh": "阻断蛋白质减缓小鼠胰腺肿瘤生长并降低免疫抑制",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/cancer/blocking-protein-slows-pancreatic-tumor-growth-and-reduces-immune-suppression-in-mice/",
       "summary": "Scientists identified a potential therapeutic target for pancreatic ductal cell adenocarcinoma, discovering that the protein ANO6 is involved in a process helping pancreatic cancer cells obtain nutrients from surrounding cells, while suppressing the immune system’s ability to fight tumors. The post ",
       "publishedAt": "2026-10-30T15:47:11+00:00"
@@ -729,109 +885,61 @@
       "lang": "en",
       "category": "审批",
       "title": "No Nonsense: David Liu Lauds Progress in Disease-Agnostic Gene Editing at ESGCT",
-      "titleZh": "无稽之谈： David Liu称赞ESGCT在疾病无关基因编辑方面取得的进展",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/genome-editing/no-nonsense-david-liu-lauds-progress-in-disease-agnostic-gene-editing-at-esgct/",
       "summary": "Liu ensured that his return visit to ESGCT (having spoken at the congress in Barcelona in 2019) would be one of the highlights of the conference. The “meta lesson” of the past few years in therapeutic genome editing is that different scientific approaches and applications can synergize with regulato",
       "publishedAt": "2026-10-30T15:38:49+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "市场",
       "title": "AstraZeneca says reorg could mean R&D cuts and trials shifted to emerging markets",
-      "titleZh": "阿斯利康表示，重组可能意味着研发削减和试验转移到新兴市场",
+      "titleZh": "",
       "link": "https://endpoints.news/astrazeneca-says-reorg-could-mean-rd-cuts-and-trials-shifted-to-emerging-markets/",
       "summary": "AstraZeneca’s leadership hinted at where the cost cuts and job losses from the company’s new restructuring program might fall on a call with journalists Friday. “We are losing patent protection for Farxiga ...",
       "publishedAt": "2026-10-30T15:36:16+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
       "title": "STAT+: Up and down the ladder: The latest comings and goings",
-      "titleZh": "STAT + ：上下阶梯：最新动态",
+      "titleZh": "",
       "link": "https://www.statnews.com/pharmalot/2026/10/30/up-and-down-the-ladder-jobs-pharma-biotech-lilly/?utm_campaign=rss",
       "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
       "publishedAt": "2026-10-30T14:45:50+00:00"
     },
     {
-      "id": "stat-news-13",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "How Election Day can affect your heart",
-      "titleZh": "选举日如何影响您的心脏",
-      "link": "https://www.statnews.com/2026/10/30/election-stress-heart-attack-risk/?utm_campaign=rss",
-      "summary": "Political campaigns can do more than raise your blood pressure. Studies link election stress to irregular heartbeats and an increase in heart attacks.",
-      "publishedAt": "2026-10-30T14:07:14+00:00"
-    },
-    {
-      "id": "stat-news-14",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Assessing Merck and Moderna’s mRNA cancer vaccine",
-      "titleZh": "评估Merck和Moderna的mRNA癌症疫苗",
-      "link": "https://www.statnews.com/2026/10/30/readout-loud-podcast-oncology-cancer-vaccine-moderna-merck-amgen-roche/?utm_campaign=rss",
-      "summary": "On this week's “The Readout LOUD,” we discuss the latest cancer data presented at the annual meeting of the European Society for Medical Oncology.",
-      "publishedAt": "2026-10-30T13:33:55+00:00"
-    },
-    {
-      "id": "stat-news-15",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: Pharmalittle: We’re reading about AstraZeneca cost-cutting, Sun Pharma facility problems, and more",
-      "titleZh": "STAT + ： Pharmalittle ：我们正在阅读有关阿斯利康削减成本、Sun Pharma设施问题等的信息",
-      "link": "https://www.statnews.com/pharmalot/2026/10/30/astrazeneca-cost-cutting-sun-pharma-facility-problems/?utm_campaign=rss",
-      "summary": "AstraZeneca has launched a three-year cost-cutting program that aims to slice off $1.5 billion a year, with the savings reinvested in R&#038;D.",
-      "publishedAt": "2026-10-30T13:22:49+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "The persisting paradox of men’s health",
-      "titleZh": "持续存在的男性健康悖论",
-      "link": "https://www.statnews.com/2026/10/30/health-news-the-paradox-of-men-health/?utm_campaign=rss",
-      "summary": "A new series in The Lancet argues for the need to investigate a paradox of men’s health: why men experience worse health outcomes than women, even though they hold undeniable&#8230;",
-      "publishedAt": "2026-10-30T13:12:49+00:00"
-    },
-    {
-      "id": "endpoints-10",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "市场",
       "title": "Anthropic's Nathan Frey on biopharma partners, M&A and pipeline",
-      "titleZh": "Anthropic的Nathan Frey ，生物制药合作伙伴、并购和管道",
+      "titleZh": "",
       "link": "https://endpoints.news/anthropics-nathan-frey-on-biopharma-partners-ma-and-pipeline/",
       "summary": "Nathan Frey has stayed busy since Anthropic acquired his biotech startup Coefficient Bio this spring. The former Genentech machine-learning scientist now leads drug discovery and development research at the tech giant. Endpoints News exclusively interviewed ...",
       "publishedAt": "2026-10-30T13:00:09+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
-      "titleZh": "2型糖尿病取得突破， 54%在短短6个月内获得缓解",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
       "summary": "A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercis",
       "publishedAt": "2026-10-30T12:12:46+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -843,7 +951,7 @@
       "publishedAt": "2026-10-30T11:50:00+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -855,7 +963,7 @@
       "publishedAt": "2026-10-30T11:12:36+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -867,7 +975,7 @@
       "publishedAt": "2026-10-30T11:00:55+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -879,7 +987,7 @@
       "publishedAt": "2026-10-30T10:30:35+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -891,19 +999,7 @@
       "publishedAt": "2026-10-30T10:30:00+00:00"
     },
     {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Why some “lower-risk” childhood cancers turn deadly",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232717.htm",
-      "summary": "Scientists have uncovered hidden aggressive cancer cells in children whose tumors were previously considered lower risk, revealing why some cases of rhabdomyosarcoma become unexpectedly deadly. The discovery could help doctors identify dangerous tumors earlier and develop personalized treatments tha",
-      "publishedAt": "2026-10-30T10:15:28+00:00"
-    },
-    {
-      "id": "endpoints-14",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -915,7 +1011,7 @@
       "publishedAt": "2026-10-30T10:00:25+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -927,43 +1023,7 @@
       "publishedAt": "2026-10-30T09:49:35+00:00"
     },
     {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
-      "summary": "An 1834 letter about a measles outbreak sheds light on today’s anti-vaccine movement, writes a medical historian.",
-      "publishedAt": "2026-10-30T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
-      "summary": "Officials are moving behind the scenes to head off a conflict brewing between states and the federal government over regulating AI.",
-      "publishedAt": "2026-10-30T08:30:00+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "The health care issues STAT reporters are watching in the midterms",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss",
-      "summary": "In this week's \"STATus Report,\" STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview.",
-      "publishedAt": "2026-10-30T08:30:00+00:00"
-    },
-    {
-      "id": "endpoints-16",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -975,7 +1035,7 @@
       "publishedAt": "2026-10-30T06:11:31+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -987,7 +1047,7 @@
       "publishedAt": "2026-10-30T02:38:00+00:00"
     },
     {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -997,18 +1057,6 @@
       "link": "https://www.biopharmadive.com/news/pbm-transparency-final-rule-labor-department-employer/873254/",
       "summary": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with self-funded employer clients. Employers cheered the rule, while PBMs slammed it as government overreach.",
       "publishedAt": "2026-10-29T20:30:00+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "For Lilly, cash-pay is key in the US and, increasingly, abroad",
-      "titleZh": "",
-      "link": "https://endpoints.news/for-lilly-cash-pay-is-key-in-the-us-and-increasingly-abroad/",
-      "summary": "Eli Lilly already knows Americans are willing to shell out hundreds of dollars a month for obesity drugs. Its bet on selling directly to patients helped it build a substantial",
-      "publishedAt": "2026-10-29T19:31:38+00:00"
     },
     {
       "id": "gen-9",
@@ -1023,55 +1071,19 @@
       "publishedAt": "2026-10-29T19:17:19+00:00"
     },
     {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Bristol Myers defends pipeline, reinforces later-stage BD interest",
-      "titleZh": "",
-      "link": "https://endpoints.news/bristol-myers-defends-pipeline-reinforces-later-stage-bd-interest/",
-      "summary": "Bristol Myers Squibb is reemphasizing its plan to stave off one of the industry’s most daunting patent cliffs. Speaking to analysts on its earnings call on Thursday, executives at the New Jersey pharma company touted ...",
-      "publishedAt": "2026-10-29T18:33:44+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "R&D chief Dean Li says Merck outflanked rivals with its sac-TMT cancer program",
-      "titleZh": "",
-      "link": "https://endpoints.news/rd-chief-dean-li-says-merck-outflanked-rivals-with-its-sac-tmt-cancer-program/",
-      "summary": "Merck's R&amp;D head Dean Li believes he’s outfoxed his competition for the next generation of oncology drugs, jumping into a wide set of indications that could help it expand the potential of its antibody-drug conjugate ...",
-      "publishedAt": "2026-10-29T18:00:02+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "Genmab soars to record highs after cancer drug succeeds in key trial",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
-      "summary": "The drugmaker&rsquo;s market value swelled by more than $7 billion on findings suggesting a recently-acquired medicine could become a new treatment standard for a form of head and neck cancer.",
-      "publishedAt": "2026-10-29T16:06:00+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Six popular sugar substitutes linked to faster brain aging",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
-      "summary": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular sweeteners were linked to faster cognitive decline, raising concerns",
-      "publishedAt": "2026-10-29T13:04:04+00:00"
-    },
-    {
       "id": "nature-biotech-0",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Editor’s Pick: Wild Bioscience",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03377-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-1",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1083,7 +1095,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-1",
+      "id": "nature-biotech-2",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1095,7 +1107,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-2",
+      "id": "nature-biotech-3",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1107,7 +1119,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-3",
+      "id": "nature-biotech-4",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1119,7 +1131,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-4",
+      "id": "nature-biotech-5",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1131,7 +1143,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-5",
+      "id": "nature-biotech-6",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1143,7 +1155,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-6",
+      "id": "nature-biotech-7",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1155,19 +1167,31 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
+      "id": "nature-medicine-0",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
-      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
+      "title": "Heterogeneity of microbiome responses to menopausal hormone therapy among perimenopausal women",
       "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03360-5",
+      "link": "https://www.nature.com/articles/s41591-026-04737-4",
       "summary": "",
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-0",
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "审批",
+      "title": "A live biotherapeutic product for adult allogeneic hematopoietic cell transplantation recipients: a partially randomized, placebo-controlled phase 1b trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04686-y",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1179,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1235,30 +1259,6 @@
       "title": "A small-molecule TREM2 agonist for Alzheimer’s disease",
       "titleZh": "",
       "link": "https://www.nature.com/articles/d41591-026-00055-x",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "5-year outcomes of chemotherapy de-escalation in HER2-positive early breast cancer and exploratory circulating tumor DNA analyses from the randomized phase 2 PHERGain trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04723-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "审批",
-      "title": "A clinical multimodal vision language foundation model with fine-grain explainability",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04655-5",
       "summary": "",
       "publishedAt": ""
     }
