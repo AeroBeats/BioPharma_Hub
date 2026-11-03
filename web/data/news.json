@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-02T23:27:06.076685+00:00",
+  "updatedAt": "2026-11-03T06:37:51.208008+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,8 @@
   ],
   "failedSources": [],
   "translations": {
+    "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation": "科学家发现新的阿尔茨海默氏症药物可修复DNA损伤并减少脑部炎症",
+    "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half": "科学家逆转肝细胞衰老，将阿尔茨海默氏症相关蛋白减半",
     "Washington state resident dies from bird flu following exposure to infected cattle": "华盛顿州居民在接触受感染的牛后死于禽流感",
     "AbbVie, Brise disclose deal for two preclinical migraine meds": "AbbVie, Brise披露两种临床前偏头痛药物的交易",
     "WuXi Biologics, Fresenius partner ahead of biosimilar boom": "无锡生物制药，费森尤斯在生物仿制药热潮之前的合作伙伴",
@@ -65,6 +67,7 @@
     "STAT+: Pharmalittle: We’re reading about payments to Russian middlemen, a possible Dupixent rival, and more": "STAT + ： Pharmalittle ：我们正在阅读有关向俄罗斯中间商、可能的Dupixent竞争对手等付款的信息",
     "FDA Delays PDUFA Action on Agios’ Mitapivat sNDA for SCD": "FDA推迟对Agios的Mitapivat sNDA用于SCD的PDUFA行动",
     "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience": "收益综述：阿斯利康的成本削减、Alnylam的低迷和Regeneron的弹性",
+    "Extra weight may be aging your brain faster than you think": "额外的体重可能会使您的大脑老化得比您想象的要快",
     "Experts say high blood pressure guidelines are missing half the equation": "专家说，高血压指南缺少一半",
     "A STAT reporter on covering MRT as an experimental fertility treatment": "报道MRT作为实验性生育治疗的STAT报告者",
     "New diabetes implant uses electricity to lower blood sugar and promote weight loss": "新的糖尿病植入物使用电力来降低血糖并促进体重减轻",
@@ -104,12 +107,33 @@
     "STAT+: Pharmalittle: We’re reading about AstraZeneca cost-cutting, Sun Pharma facility problems, and more": "STAT + ： Pharmalittle ：我们正在阅读有关阿斯利康削减成本、Sun Pharma设施问题等的信息",
     "The persisting paradox of men’s health": "持续存在的男性健康悖论",
     "Anthropic's Nathan Frey on biopharma partners, M&A and pipeline": "Anthropic的Nathan Frey ，生物制药合作伙伴、并购和管道",
-    "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months": "2型糖尿病取得突破， 54%在短短6个月内获得缓解",
-    "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game": "盈利综述：礼来的坚定势头、诺华的反弹和葛兰素史克的等待",
-    "Sanofi has no plans for 'major restructuring' as Dupixent's patent cliff looms": "由于Dupixent的专利悬崖迫在眉睫，赛诺菲没有“重大重组”的计划",
-    "After Be Bio shutdown, its CEO heads to Orbis; Enanta's longtime chief Jay Luly to retire": "Be Bio关闭后，其首席执行官前往奥比斯； Enanta的长期首席执行官Jay Luly退休"
+    "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months": "2型糖尿病取得突破， 54%在短短6个月内获得缓解"
   },
   "items": [
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
+      "titleZh": "科学家发现新的阿尔茨海默氏症药物可修复DNA损伤并减少脑部炎症",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
+      "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimental treatment could offer a faster path toward therapies that ",
+      "publishedAt": "2026-11-03T04:11:58+00:00"
+    },
+    {
+      "id": "science-daily-health-6",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half",
+      "titleZh": "科学家逆转肝细胞衰老，将阿尔茨海默氏症相关蛋白减半",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
+      "summary": "A surprising discovery suggests that rejuvenating the liver could help protect against Alzheimer’s disease and heart disease. USC researchers found that an experimental drug restored aging liver cells in rats, cutting levels of an Alzheimer’s-linked protein in half and bringing bad cholesterol down ",
+      "publishedAt": "2026-11-03T00:34:59+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
@@ -315,7 +339,19 @@
       "publishedAt": "2026-11-02T14:00:00+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Extra weight may be aging your brain faster than you think",
+      "titleZh": "额外的体重可能会使您的大脑老化得比您想象的要快",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010559.htm",
+      "summary": "A major 24-year study involving more than 8,200 adults suggests that excess body weight may accelerate brain aging, leading to faster declines in memory, concentration, and decision-making skills. The connection was particularly strong among people over 65, raising concerns about the long-term effec",
+      "publishedAt": "2026-11-02T13:55:28+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -339,7 +375,7 @@
       "publishedAt": "2026-11-02T13:08:42+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -351,7 +387,7 @@
       "publishedAt": "2026-11-02T12:47:18+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -447,7 +483,7 @@
       "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -459,7 +495,7 @@
       "publishedAt": "2026-11-02T04:12:24+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -467,7 +503,7 @@
       "title": "Scientists find surprisingly little evidence that medical cannabis helps you sleep",
       "titleZh": "科学家发现几乎没有证据表明医用大麻有助于睡眠",
       "link": "https://www.sciencedaily.com/releases/2026/10/261031221157.htm",
-      "summary": "A major new review challenges the growing enthusiasm for medical cannabis as an insomnia treatment, finding little reliable evidence that it improves sleep quality, sleep duration, or daytime functioning. Researchers caution that this doesn't mean cannabis is ineffective, only that existing studies ",
+      "summary": "A major new review challenges the growing enthusiasm for medical cannabis as an insomnia treatment, finding little reliable evidence that it improves sleep quality, sleep duration, or daytime functioning. Researchers caution that this doesn&#039;t mean cannabis is ineffective, only that existing stu",
       "publishedAt": "2026-11-02T01:46:26+00:00"
     },
     {
@@ -483,7 +519,7 @@
       "publishedAt": "2026-11-01T19:03:24+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -495,7 +531,7 @@
       "publishedAt": "2026-11-01T13:24:51+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -503,11 +539,11 @@
       "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
       "titleZh": "与帕金森病风险2.5倍相关的常见杀虫剂",
       "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
-      "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect them.",
+      "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson&#039;s disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect them.",
       "publishedAt": "2026-11-01T12:33:13+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -519,7 +555,7 @@
       "publishedAt": "2026-11-01T11:29:04+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -531,7 +567,7 @@
       "publishedAt": "2026-11-01T10:49:13+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -539,11 +575,11 @@
       "title": "Scientists discover a hidden driver of high cholesterol and a way to stop it",
       "titleZh": "科学家发现了高胆固醇的隐藏驱动因素和阻止它的方法",
       "link": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
-      "summary": "Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body's natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an experimental drug targeting this pathway has already passed an early hum",
+      "summary": "Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body&#039;s natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an experimental drug targeting this pathway has already passed an earl",
       "publishedAt": "2026-11-01T01:57:50+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -567,7 +603,7 @@
       "publishedAt": "2026-10-31T11:00:00+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -591,7 +627,7 @@
       "publishedAt": "2026-10-31T10:00:28+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -603,7 +639,7 @@
       "publishedAt": "2026-10-31T04:31:41+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -783,7 +819,7 @@
       "publishedAt": "2026-10-30T13:00:09+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -801,7 +837,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game",
-      "titleZh": "盈利综述：礼来的坚定势头、诺华的反弹和葛兰素史克的等待",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/biopharma-earnings-q3-2026-lilly-novartis-gsk/873167/",
       "summary": "Lilly&rsquo;s better-than-expected results allayed concerns&nbsp;&mdash; for now&nbsp;&mdash; over GLP-1 pricing pressure. Elsewhere, Novartis withstood a tumultuous quarter and GSK battled investor angst.",
       "publishedAt": "2026-10-30T11:50:00+00:00"
@@ -813,7 +849,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Sanofi has no plans for 'major restructuring' as Dupixent's patent cliff looms",
-      "titleZh": "由于Dupixent的专利悬崖迫在眉睫，赛诺菲没有“重大重组”的计划",
+      "titleZh": "",
       "link": "https://endpoints.news/sanofi-has-no-plans-for-a-major-overhaul-as-dupixents-patent-cliff-looms/",
       "summary": "It’s been six months since Belén Garijo took over as the CEO of Sanofi, and the French drugmaker said Friday it is not planning “major” changes to its business or R&amp;D pipeline as the early ...",
       "publishedAt": "2026-10-30T11:12:36+00:00"
@@ -825,7 +861,7 @@
       "lang": "en",
       "category": "市场",
       "title": "After Be Bio shutdown, its CEO heads to Orbis; Enanta's longtime chief Jay Luly to retire",
-      "titleZh": "Be Bio关闭后，其首席执行官前往奥比斯； Enanta的长期首席执行官Jay Luly退休",
+      "titleZh": "",
       "link": "https://endpoints.news/after-be-bio-shutdown-its-ceo-heads-to-orbis-enantas-longtime-chief-jay-luly-to-retire/",
       "summary": "→ Former Be Biopharma chief Joanne Smith-Farrell has landed at Orbis Medicines, an Eli Lilly- and Novo-backed startup that's developing oral macrocycles. Smith-Farrell replaces co-founder Morten Graugaard as CEO of Orbis ...",
       "publishedAt": "2026-10-30T11:00:55+00:00"
@@ -855,7 +891,7 @@
       "publishedAt": "2026-10-30T10:30:00+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -951,18 +987,6 @@
       "publishedAt": "2026-10-30T02:38:00+00:00"
     },
     {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover why chronic back pain feels so personal",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
-      "summary": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typ",
-      "publishedAt": "2026-10-30T00:26:37+00:00"
-    },
-    {
       "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
@@ -1035,7 +1059,7 @@
       "publishedAt": "2026-10-29T16:06:00+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1045,30 +1069,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
       "summary": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular sweeteners were linked to faster cognitive decline, raising concerns",
       "publishedAt": "2026-10-29T13:04:04+00:00"
-    },
-    {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
-      "summary": "Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk of dementia, with longer exposure to bright light linked to even greater reducti",
-      "publishedAt": "2026-10-29T11:30:32+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover that cranberry juice may help fight tooth decay",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
-      "summary": "Cranberry juice may offer an unexpected benefit beyond its reputation for helping prevent urinary tract infections: protecting teeth from decay. Researchers at the University of Illinois Chicago discovered that pure, unsweetened cranberry juice slowed the regrowth of dental plaque bacteria and reduc",
-      "publishedAt": "2026-10-29T11:12:06+00:00"
     },
     {
       "id": "nature-biotech-0",
