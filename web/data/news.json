@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-04T17:09:58.593982+00:00",
+  "updatedAt": "2026-11-04T23:35:32.802344+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,11 +48,23 @@
   ],
   "failedSources": [],
   "translations": {
-    "STAT+: Where does MAHA go from here? Three possible futures": "STAT + ： MAHA从何而来？三种可能的未来",
+    "Beyond Outsourcing: Building Better CDMO Partnerships": "超越外包：建立更好的CDMO合作伙伴关系",
+    "Lonza Expanding U.S. CDMO Footprint with Purchase of Five Merck KGaA Sites": "Lonza收购五家Merck KGaA工厂，扩大美国CDMO足迹",
+    "Multiomic Human Glioblastoma Cell Atlas Could Act as Compass to Guide Future Treatment Approaches": "多组分人胶质母细胞瘤细胞图谱可以作为指导未来治疗方法的指南针",
+    "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill": "STAT + ：制药评论家伯尼·桑德斯（ Bernie Sanders ）将对FDA的资金法案产生重大影响",
+    "Gene That Preserves Bone Stem Cell Supply Throughout Life Identified": "鉴定出在整个生命周期中保留骨干细胞供应的基因",
+    "As Therapeutic Modalities Expand, Genomic Profiling Must Keep Pace": "随着治疗方式的扩展，基因组分析必须跟上步伐",
+    "Rethinking the Clone-First Paradigm for First-in-Human Biologics": "重新思考人体首创生物制剂的克隆第一范式",
+    "Kamau shares first data from revamped sickle cell gene editing therapy": "Kamau分享了来自改良镰状细胞基因编辑疗法的首批数据",
+    "STAT+: Mass. marijuana consumers, workers high on victory after repeal of recreational weed sales fails in a rout": "STAT + ：大量大麻消费者，在废除娱乐性杂草销售后取得胜利的工人在溃败中失败",
+    "HIV-Blocking Antibody Shows Promise, but Resistant Strains Break Through": "HIV阻断抗体显示出希望，但耐药菌株突破",
+    "Novo’s race to catch Eli Lilly may already be lost": "Novo追赶礼来的比赛可能已经失败",
+    "STAT+: Democratic doctors and scientists ride the blue wave": "STAT + ：民主党医生和科学家驾驭蓝色浪潮",
+    "Building Custom DNA without Bacterial Constraints": "构建无细菌限制的自定义DNA",
+    "Sanofi stops development of Nurix-partnered immune drug": "赛诺菲停止开发与Nurix合作的免疫药物",
+    "STAT+: Where does MAHA go from here? 3 possible futures": "STAT + ： MAHA从何而来？ 3种可能的未来",
     "Standardized Apheresis Processes Would Help Cell Therapy Sector": "标准化的分离置换过程将有助于细胞治疗领域",
     "Small Bioprocess Monitoring Hits the Goldilocks Zone": "小型生物过程监测击中金发姑娘区",
-    "Suspended Vials Help Optimize Continuous Freeze-Drying": "悬浮小瓶有助于优化连续冷冻干燥",
-    "Greener Biomanufacturing Starts Beyond the Bioreactor": "更绿色的生物制造开始于生物反应器之外",
     "STAT+: CVS Health to split, reversing years of deal-making to combine pharmacies and insurance": "STAT + ： CVS Health拆分，扭转多年的交易，将药房和保险结合起来",
     "Novo gets much-needed lift as Wegovy pill tops Wall Street forecasts": "由于Wegovy药丸高于华尔街的预测， NOVO获得了急需的提升",
     "Sanofi ends development of Nurix's STAT6 degrader": "赛诺菲终止开发Nurix的STAT6降解器",
@@ -66,8 +78,6 @@
     "First wave of #ASH26 abstracts is here, with data from J&J, Servier and AstraZeneca": "第一波# ASH26摘要现已发布，数据来自强生、施维雅和阿斯利康",
     "Spyre’s arthritis misses; Ideaya ends eye cancer trial": "Spyre关节炎失误； Ideaya结束眼癌试验",
     "STAT+: Pharmalittle: We’re reading about CVS plans to split up, FDA inspections in India and China and more": "STAT + ： Pharmalittle ：我们正在阅读CVS分拆计划、FDA在印度和中国的检查等信息",
-    "Kamau Therapeutics Releases Encouraging Sickle Cell Clinical Data Ahead of ASH Meeting": "Kamau Therapeutics在ASH会议前发布令人鼓舞的镰状细胞临床数据",
-    "How Epigenomics Is Transforming Drug Discovery and Development": "表观基因组学如何改变药物发现和开发",
     "Boehringer Ingelheim strikes $7B backloaded ADC, TCE cancer deal with China's Sino": "勃林格殷格翰罢工$ 70亿回载ADC ， TCE癌症交易与中国的中国",
     "STAT+: Sens. Wyden and Sanders, backers of ‘Medicare for All,’ set to take charge of key committees": "STAT + ：参议员怀登和桑德斯， “全民医保”的支持者，将负责关键委员会",
     "A surprising discovery could help aging muscles repair themselves": "一个令人惊讶的发现可以帮助衰老的肌肉自我修复",
@@ -86,44 +96,202 @@
     "Gene editing could replace a lifetime of medication, but there's a catch": "基因编辑可以取代一生的药物治疗，但有一个问题",
     "Scientists trick cancer cells into making the drugs that kill them": "科学家欺骗癌细胞制造杀死它们的药物",
     "Kids who eat more ultra-processed foods show a troubling brain response": "吃更多超加工食品的孩子表现出令人不安的大脑反应",
-    "Alamar, Nightingale Health Team up on UK Biobank Neurodegeneration Protein Study": "Alamar和Nightingale Health合作开展英国生物样本库神经变性蛋白质研究",
     "Ultragenyx to lay off 20% of employees, scrap a Wilson disease gene therapy": "Ultragenyx将裁员20% ，废弃Wilson病基因疗法",
     "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test": "STAT + ：施维雅的$ 15.5亿肌营养不良药物未能通过首次重大测试",
     "STAT+: Amid Mass General Brigham layoffs, CEO pens vague letter, stirring staff anxiety": "STAT + ：在马萨诸塞州布里格姆将军裁员期间，首席执行官写了一封模糊的信，激起了员工的焦虑",
-    "Precision Automation Meets Biology": "精密自动化与生物学相遇",
     "Servier's $1.5B bet on Edgewise drug fails five months in": "施维雅对Edgewise药物的$ 15亿赌注在五个月内失败",
     "Bourla expects no changes to MFN deals after midterms": "Bourla预计中期后最惠国待遇交易不会发生变化",
     "Post-Hoc Live: What the US midterm elections mean for biopharma": "事后直播：美国中期选举对生物制药意味着什么",
-    "Recursion Eyes H2 2027 Pivotal Trial for Lead Candidate After Positive Phase II FAP Data": "II期FAP数据阳性后潜在候选人的2027年H2递归眼枢纽试验",
     "Vertex, ahead of FDA decision, calms fears surrounding kidney drug": "Vertex ，在FDA决定之前，平息对肾脏药物的恐惧",
-    "Lost and Found: Neural Pathway for Forgetting Found in C. elegans": "失物招领：秀丽隐杆线虫遗忘的神经通路",
     "The biggest conversations in health tech": "医疗技术领域最大的对话",
     "STAT+: Who will get the first psychedelic approved?": "STAT + ：谁将获得第一个迷幻药的批准？",
     "STAT+: What do the midterms mean for health care?": "STAT + ：期中考试对医疗保健意味着什么？",
     "Pfizer lifts 2026 guidance as cancer, migraine sales offset Covid slide": "辉瑞将2026年指引提升为癌症，偏头痛销售抵消了新冠肺炎疫情的影响",
-    "Novartis ends BioArctic pact; Two VC firms raise inaugural funds": "诺华终止BioArctic协议；两家风险投资公司筹集首批资金",
-    "STAT+: FDA, CMS look to collaborate with states on health AI": "STAT + ： FDA、CMS希望与各州在健康AI方面开展合作",
-    "STAT+: Pharmalittle: We’re reading about a generic HIV prevention shot, Lonza buying U.S. facilities, and more": "STAT + ： Pharmalittle ：我们正在阅读有关通用HIV预防注射、Lonza购买美国设施等信息",
-    "Child dies of measles in New York’s first such death in 30 years": "纽约儿童30年来首次死于麻疹",
-    "Medicare Part D premiums are spiking 50% on average next year, KFF finds": "KFF发现，明年Medicare D部分保费平均飙升50 ％",
-    "UniQure gets an FDA decision date; Teva scraps brain drug study": "UniQure获得FDA决定日期； Teva废弃脑药物研究",
-    "The brain’s hidden fear mechanism may explain anxiety and PTSD": "大脑隐藏的恐惧机制可以解释焦虑和创伤后应激障碍"
+    "Novartis ends BioArctic pact; Two VC firms raise inaugural funds": "诺华终止BioArctic协议；两家风险投资公司筹集首批资金"
   },
   "items": [
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "审批",
+      "title": "Beyond Outsourcing: Building Better CDMO Partnerships",
+      "titleZh": "超越外包：建立更好的CDMO合作伙伴关系",
+      "link": "https://www.genengnews.com/sponsored/beyond-outsourcing-building-better-cdmo-partnerships/",
+      "summary": "Rose BioSolutions CEO David Enloe argues that advanced therapies demand deeper scientific collaboration, earlier problem-solving, and shared accountability The post Beyond Outsourcing: Building Better CDMO Partnerships appeared first on GEN - Genetic Engineering and Biotechnology News.",
+      "publishedAt": "2026-11-04T21:43:03+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "Lonza Expanding U.S. CDMO Footprint with Purchase of Five Merck KGaA Sites",
+      "titleZh": "Lonza收购五家Merck KGaA工厂，扩大美国CDMO足迹",
+      "link": "https://www.genengnews.com/topics/bioprocessing/lonza-expanding-u-s-cdmo-footprint-with-purchase-of-five-merck-kgaa-sites/",
+      "summary": "The deal would expand Lonza’s U.S. CDMO network from four to nine sites and grow the company’s U.S. workforce nearly 25% by adding approximately 1,100 employees, resulting in a combined headcount of more than 6,000 employees. The post Lonza Expanding U.S. CDMO Footprint with Purchase of Five Merck K",
+      "publishedAt": "2026-11-04T21:34:47+00:00"
+    },
+    {
+      "id": "gen-2",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "审批",
+      "title": "Multiomic Human Glioblastoma Cell Atlas Could Act as Compass to Guide Future Treatment Approaches",
+      "titleZh": "多组分人胶质母细胞瘤细胞图谱可以作为指导未来治疗方法的指南针",
+      "link": "https://www.genengnews.com/topics/cancer/multiomic-human-glioblastoma-cell-atlas-could-act-as-compass-to-guide-future-treatment-approaches/",
+      "summary": "Researchers mapped more than a million cells across glioblastoma tumors, categorizing cancer cells at different stages of their journey within the different environments in glioblastoma tumors, and showing that the cancer cells organize themselves according to a consistent, predictable structural pa",
+      "publishedAt": "2026-11-04T21:19:16+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
+      "titleZh": "STAT + ：制药评论家伯尼·桑德斯（ Bernie Sanders ）将对FDA的资金法案产生重大影响",
+      "link": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
+      "summary": "Sanders could use his role in crafting the FDA funding bill to push for reforms.",
+      "publishedAt": "2026-11-04T21:17:19+00:00"
+    },
+    {
+      "id": "gen-3",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
       "category": "研发",
-      "title": "STAT+: Where does MAHA go from here? Three possible futures",
-      "titleZh": "STAT + ： MAHA从何而来？三种可能的未来",
+      "title": "Gene That Preserves Bone Stem Cell Supply Throughout Life Identified",
+      "titleZh": "鉴定出在整个生命周期中保留骨干细胞供应的基因",
+      "link": "https://www.genengnews.com/topics/translational-medicine/gene-that-preserves-bone-stem-cell-supply-throughout-life-identified/",
+      "summary": "Researchers found that the HOXA10 gene preserves bone stem cell supply throughout life, and say the discovery advances understanding of stem cell biology and could indicate potential therapeutic approaches to improve bone healing and regeneration in aging and disease. The post Gene That Preserves Bo",
+      "publishedAt": "2026-11-04T21:06:59+00:00"
+    },
+    {
+      "id": "gen-4",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "审批",
+      "title": "As Therapeutic Modalities Expand, Genomic Profiling Must Keep Pace",
+      "titleZh": "随着治疗方式的扩展，基因组分析必须跟上步伐",
+      "link": "https://www.genengnews.com/sponsored/as-therapeutic-modalities-expand-genomic-profiling-must-keep-pace/",
+      "summary": "The boundaries of what’s considered “druggable” are shifting as advances in cell and gene therapies expand the possibilities for cancer treatment. Expanded insights can open new avenues for biomarker research and therapeutic discovery. The post As Therapeutic Modalities Expand, Genomic Profiling Mus",
+      "publishedAt": "2026-11-04T20:49:13+00:00"
+    },
+    {
+      "id": "gen-5",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Rethinking the Clone-First Paradigm for First-in-Human Biologics",
+      "titleZh": "重新思考人体首创生物制剂的克隆第一范式",
+      "link": "https://www.genengnews.com/topics/bioprocessing/rethinking-the-clone-first-paradigm-for-first-in-human-biologics/",
+      "summary": "A stable-pool strategy can move cell line development off the critical path to Phase I while preserving a path to a conventional clonal cell line as a program matures. The post Rethinking the Clone-First Paradigm for First-in-Human Biologics appeared first on GEN - Genetic Engineering and Biotechnol",
+      "publishedAt": "2026-11-04T20:12:00+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "Kamau shares first data from revamped sickle cell gene editing therapy",
+      "titleZh": "Kamau分享了来自改良镰状细胞基因编辑疗法的首批数据",
+      "link": "https://endpoints.news/kamau-shares-first-data-from-revamped-sickle-cell-gene-editing-therapy/",
+      "summary": "Kamau Therapeutics, which has stayed relatively quiet since its 2023 emergence, is sharing clinical data from its revamped sickle cell gene editing program for the first time. The startup is giving a ...",
+      "publishedAt": "2026-11-04T20:05:28+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "市场",
+      "title": "STAT+: Mass. marijuana consumers, workers high on victory after repeal of recreational weed sales fails in a rout",
+      "titleZh": "STAT + ：大量大麻消费者，在废除娱乐性杂草销售后取得胜利的工人在溃败中失败",
+      "link": "https://www.statnews.com/2026/11/04/massachusetts-marijuana-question-8-results-recreational-cannabis/?utm_campaign=rss",
+      "summary": "Massachusetts voters decisively shot down a ballot initiative that would have dismantled the state’s recreational cannabis industry.",
+      "publishedAt": "2026-11-04T19:40:32+00:00"
+    },
+    {
+      "id": "gen-6",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "HIV-Blocking Antibody Shows Promise, but Resistant Strains Break Through",
+      "titleZh": "HIV阻断抗体显示出希望，但耐药菌株突破",
+      "link": "https://www.genengnews.com/topics/infectious-diseases/hiv-blocking-antibody-shows-promise-but-resistant-strains-break-through/",
+      "summary": "A new study finds that the VRC01 antibody initially protects against HIV infection, but resistant strains can cause breakthrough infections as antibody levels decline, highlighting the need for multiple antibodies. The post HIV-Blocking Antibody Shows Promise, but Resistant Strains Break Through app",
+      "publishedAt": "2026-11-04T19:00:41+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Novo’s race to catch Eli Lilly may already be lost",
+      "titleZh": "Novo追赶礼来的比赛可能已经失败",
+      "link": "https://endpoints.news/novos-race-to-catch-eli-lilly-may-already-be-lost/",
+      "summary": "A year ago, the rivalry between Eli Lilly and Novo was the fiercest in the industry. Now, it looks increasingly one-sided. The best evidence might be investors' reactions to each company's third-quarter results. Both stocks ...",
+      "publishedAt": "2026-11-04T18:47:01+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Democratic doctors and scientists ride the blue wave",
+      "titleZh": "STAT + ：民主党医生和科学家驾驭蓝色浪潮",
+      "link": "https://www.statnews.com/2026/11/04/midterms-democrat-winners-doctors-scientists-medical-professionals/?utm_campaign=rss",
+      "summary": "The clinicians and researchers who will take office are ready to tackle the U.S. health care system.",
+      "publishedAt": "2026-11-04T18:46:45+00:00"
+    },
+    {
+      "id": "gen-7",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Building Custom DNA without Bacterial Constraints",
+      "titleZh": "构建无细菌限制的自定义DNA",
+      "link": "https://www.genengnews.com/sponsored/building-custom-dna-without-bacterial-constraints/",
+      "summary": "Moving high-fidelity DNA assembly from the production queue to the lab bench and the science can start sooner. The post Building Custom DNA without Bacterial Constraints appeared first on GEN - Genetic Engineering and Biotechnology News.",
+      "publishedAt": "2026-11-04T18:45:05+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "Sanofi stops development of Nurix-partnered immune drug",
+      "titleZh": "赛诺菲停止开发与Nurix合作的免疫药物",
+      "link": "https://www.biopharmadive.com/news/sanofi-discontinue-development-nurix-stat6-degrader-eczema/873697/",
+      "summary": "The decision sparked a sell-off in Nurix shares as well as analyst debate about the prospects of drugs designed to degrade a tough-to-reach protein called STAT6.&nbsp;",
+      "publishedAt": "2026-11-04T17:18:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Where does MAHA go from here? 3 possible futures",
+      "titleZh": "STAT + ： MAHA从何而来？ 3种可能的未来",
       "link": "https://www.statnews.com/2026/11/04/maha-movement-future-after-midterm-losses/?utm_campaign=rss",
       "summary": "Republican losses leave Robert F. Kennedy Jr.’s MAHA movement with three possible futures.",
       "publishedAt": "2026-11-04T17:09:44+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -135,7 +303,7 @@
       "publishedAt": "2026-11-04T17:00:51+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -147,31 +315,7 @@
       "publishedAt": "2026-11-04T17:00:35+00:00"
     },
     {
-      "id": "gen-2",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Suspended Vials Help Optimize Continuous Freeze-Drying",
-      "titleZh": "悬浮小瓶有助于优化连续冷冻干燥",
-      "link": "https://www.genengnews.com/topics/bioprocessing/suspended-vials-help-optimize-continuous-freeze-drying/",
-      "summary": "Researchers have developed a process with suspended vials accompanied by a digital twin for optimized continuous and autonomous freeze-drying. It offers more uniform and better-quality products, and higher yields. The post Suspended Vials Help Optimize Continuous Freeze-Drying appeared first on GEN ",
-      "publishedAt": "2026-11-04T17:00:31+00:00"
-    },
-    {
-      "id": "gen-3",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Greener Biomanufacturing Starts Beyond the Bioreactor",
-      "titleZh": "更绿色的生物制造开始于生物反应器之外",
-      "link": "https://www.genengnews.com/topics/bioprocessing/greener-biomanufacturing-starts-beyond-the-bioreactor/",
-      "summary": "A new modeling study finds that buildings, not bioreactors, dominate energy consumption in antibody manufacturing. Continuous processing and smarter facility design could reduce emissions, but water and disposable materials complicate sustainability decisions for manufacturers worldwide. The post Gr",
-      "publishedAt": "2026-11-04T17:00:06+00:00"
-    },
-    {
-      "id": "stat-news-1",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +327,7 @@
       "publishedAt": "2026-11-04T16:30:06+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -195,7 +339,7 @@
       "publishedAt": "2026-11-04T16:13:00+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +351,7 @@
       "publishedAt": "2026-11-04T16:05:02+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +363,7 @@
       "publishedAt": "2026-11-04T15:55:54+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -231,7 +375,7 @@
       "publishedAt": "2026-11-04T15:47:46+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +387,7 @@
       "publishedAt": "2026-11-04T15:38:13+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +399,7 @@
       "publishedAt": "2026-11-04T15:35:37+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -267,7 +411,7 @@
       "publishedAt": "2026-11-04T15:28:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +423,7 @@
       "publishedAt": "2026-11-04T15:15:21+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +435,7 @@
       "publishedAt": "2026-11-04T14:46:46+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -303,7 +447,7 @@
       "publishedAt": "2026-11-04T14:42:50+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -315,7 +459,7 @@
       "publishedAt": "2026-11-04T14:39:42+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,31 +471,7 @@
       "publishedAt": "2026-11-04T14:20:46+00:00"
     },
     {
-      "id": "gen-4",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "审批",
-      "title": "Kamau Therapeutics Releases Encouraging Sickle Cell Clinical Data Ahead of ASH Meeting",
-      "titleZh": "Kamau Therapeutics在ASH会议前发布令人鼓舞的镰状细胞临床数据",
-      "link": "https://www.genengnews.com/topics/genome-editing/kamau-therapeutics-releases-encouraging-sickle-cell-clinical-data-ahead-of-ash-meeting/",
-      "summary": "The findings, part of a trove of abstracts that will be presented at next month’s American Society of Hematology (ASH) conference, show precise correction of the SCD mutation in the β-globin gene in three SCD patients as well as restored expression of adult hemoglobin (HbA). The post Kamau Therapeut",
-      "publishedAt": "2026-11-04T14:19:47+00:00"
-    },
-    {
-      "id": "gen-5",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "How Epigenomics Is Transforming Drug Discovery and Development",
-      "titleZh": "表观基因组学如何改变药物发现和开发",
-      "link": "https://www.genengnews.com/resources/ebooks/how-epigenomics-is-transforming-drug-discovery-and-development/",
-      "summary": "In this GEN eBook readers will discover how epigenomic insights are improving every stage of the drug discovery pipeline, from target identification and validation to mechanism-of-action studies and therapeutic optimization. The post How Epigenomics Is Transforming Drug Discovery and Development app",
-      "publishedAt": "2026-11-04T14:19:11+00:00"
-    },
-    {
-      "id": "endpoints-5",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +483,7 @@
       "publishedAt": "2026-11-04T13:57:21+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +519,7 @@
       "publishedAt": "2026-11-04T13:24:52+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +543,7 @@
       "publishedAt": "2026-11-04T12:50:48+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +555,7 @@
       "publishedAt": "2026-11-04T12:30:43+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +567,7 @@
       "publishedAt": "2026-11-04T12:15:08+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -459,7 +579,7 @@
       "publishedAt": "2026-11-04T12:03:29+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -471,7 +591,7 @@
       "publishedAt": "2026-11-04T11:47:26+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -483,7 +603,7 @@
       "publishedAt": "2026-11-04T10:30:55+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +615,7 @@
       "publishedAt": "2026-11-04T09:30:00+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -519,7 +639,7 @@
       "publishedAt": "2026-11-04T06:57:06+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -567,19 +687,7 @@
       "publishedAt": "2026-11-04T01:00:13+00:00"
     },
     {
-      "id": "gen-6",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Alamar, Nightingale Health Team up on UK Biobank Neurodegeneration Protein Study",
-      "titleZh": "Alamar和Nightingale Health合作开展英国生物样本库神经变性蛋白质研究",
-      "link": "https://www.genengnews.com/topics/omics/alamar-nightingale-health-team-up-on-uk-biobank-neurodegeneration-protein-study/",
-      "summary": "Nightingale Health will run the measurements in its labs using Alamar’s NULISA platform to quantify hundreds of blood proteins in 80,000 UK Biobank samples, seeking early molecular signs of neurodegeneration. The post Alamar, Nightingale Health Team up on UK Biobank Neurodegeneration Protein Study a",
-      "publishedAt": "2026-11-03T22:43:52+00:00"
-    },
-    {
-      "id": "endpoints-10",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -591,7 +699,7 @@
       "publishedAt": "2026-11-03T21:55:33+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +711,7 @@
       "publishedAt": "2026-11-03T20:53:20+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -615,19 +723,7 @@
       "publishedAt": "2026-11-03T20:33:22+00:00"
     },
     {
-      "id": "gen-7",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Precision Automation Meets Biology",
-      "titleZh": "精密自动化与生物学相遇",
-      "link": "https://www.genengnews.com/topics/omics/precision-automation-meets-biology/",
-      "summary": "In this GEN podcast, a cellular workflow automation specialist from Molecular Devices explores what precision automation means for working biologists and how purpose-built instruments, software, and expertise can support it. The conversation covers where variability creeps into cell-based work, how ",
-      "publishedAt": "2026-11-03T20:33:02+00:00"
-    },
-    {
-      "id": "endpoints-11",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,7 +735,7 @@
       "publishedAt": "2026-11-03T19:27:54+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +747,7 @@
       "publishedAt": "2026-11-03T19:18:32+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -659,23 +755,11 @@
       "title": "Post-Hoc Live: What the US midterm elections mean for biopharma",
       "titleZh": "事后直播：美国中期选举对生物制药意味着什么",
       "link": "https://endpoints.news/post-hoc-live-what-the-us-midterm-elections-mean-for-biopharma/",
-      "summary": "🗳️ Live Wednesday at 1:30 pm ET! 🎙️ Democrats appear to have won control of Congress in a wave election, and the results could have wide-ranging implications for biotech and pharma ...",
+      "summary": "Democrats appear to have won control of Congress in a wave election, and the results could have wide-ranging implications for biotech and pharma. It likely means scrutiny of the Trump administration’s “most favored nation” deals ...",
       "publishedAt": "2026-11-03T18:44:00+00:00"
     },
     {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Recursion Eyes H2 2027 Pivotal Trial for Lead Candidate After Positive Phase II FAP Data",
-      "titleZh": "II期FAP数据阳性后潜在候选人的2027年H2递归眼枢纽试验",
-      "link": "https://www.genengnews.com/topics/artificial-intelligence/recursion-eyes-h2-2027-pivotal-trial-for-lead-candidate-after-positive-phase-ii-fap-data/",
-      "summary": "Following 12 weeks of treatment, Recursion said, 87% of patients (13 of 15) had a reduction in total polyp burden, with a 47% median reduction. Approximately one in three patients achieved reductions of ≥65%. The post Recursion Eyes H2 2027 Pivotal Trial for Lead Candidate After Positive Phase II FA",
-      "publishedAt": "2026-11-03T18:33:50+00:00"
-    },
-    {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -687,19 +771,7 @@
       "publishedAt": "2026-11-03T17:32:00+00:00"
     },
     {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "审批",
-      "title": "Lost and Found: Neural Pathway for Forgetting Found in C. elegans",
-      "titleZh": "失物招领：秀丽隐杆线虫遗忘的神经通路",
-      "link": "https://www.genengnews.com/topics/translational-medicine/lost-and-found-neural-pathway-for-forgetting-found-in-c-elegans/",
-      "summary": "Researchers identified the key molecular and neural pathways that cause the nematode Caenorhabditis elegans to actively forget a specific odor it previously remembered, providing a framework for understanding how specific memories are differentially eliminated. The post Lost and Found: Neural Pathwa",
-      "publishedAt": "2026-11-03T15:41:01+00:00"
-    },
-    {
-      "id": "endpoints-14",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -711,7 +783,7 @@
       "publishedAt": "2026-11-03T15:37:30+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -723,7 +795,7 @@
       "publishedAt": "2026-11-03T15:36:21+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -735,7 +807,7 @@
       "publishedAt": "2026-11-03T15:29:07+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -747,7 +819,7 @@
       "publishedAt": "2026-11-03T15:04:17+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -759,61 +831,37 @@
       "publishedAt": "2026-11-03T14:56:47+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "审批",
       "title": "STAT+: FDA, CMS look to collaborate with states on health AI",
-      "titleZh": "STAT + ： FDA、CMS希望与各州在健康AI方面开展合作",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/11/03/fda-cms-collaborate-with-states-on-ai-heath-tech/?utm_campaign=rss",
       "summary": "In this edition of STAT Health Tech: Federal officials look to work with states on regulating AI, protecting doctors from AI liability, and more.",
       "publishedAt": "2026-11-03T14:51:12+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Pharmalittle: We’re reading about a generic HIV prevention shot, Lonza buying U.S. facilities, and more",
-      "titleZh": "STAT + ： Pharmalittle ：我们正在阅读有关通用HIV预防注射、Lonza购买美国设施等信息",
-      "link": "https://www.statnews.com/pharmalot/2026/11/03/generic-hiv-prevention-shot-lonza-buying-facilities-in-us/?utm_campaign=rss",
-      "summary": "The FDA gave tentative approval to Dr. Reddy’s Laboratories to make a generic version of a groundbreaking HIV prevention medicine",
-      "publishedAt": "2026-11-03T14:44:54+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Child dies of measles in New York’s first such death in 30 years",
-      "titleZh": "纽约儿童30年来首次死于麻疹",
-      "link": "https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/?utm_campaign=rss",
-      "summary": "A child in rural northern New York has died after contracting measles, marking the state's first death from the disease in 30 years.",
-      "publishedAt": "2026-11-03T13:48:16+00:00"
-    },
-    {
-      "id": "biopharma-dive-4",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "研发",
-      "title": "Medicare Part D premiums are spiking 50% on average next year, KFF finds",
-      "titleZh": "KFF发现，明年Medicare D部分保费平均飙升50 ％",
-      "link": "https://www.biopharmadive.com/news/medicare-part-d-premiums-skyrocket-2027-kff/873552/",
-      "summary": "The health policy think tank urged seniors to shop carefully for prescription drug coverage during Medicare open enrollment, given skyrocketing premiums and wide variance in costs between plans.",
-      "publishedAt": "2026-11-03T13:46:00+00:00"
     },
     {
       "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
+      "category": "研发",
+      "title": "Medicare Part D premiums are spiking 50% on average next year, KFF finds",
+      "titleZh": "",
+      "link": "https://www.biopharmadive.com/news/medicare-part-d-premiums-skyrocket-2027-kff/873552/",
+      "summary": "The health policy think tank urged seniors to shop carefully for prescription drug coverage during Medicare open enrollment, given skyrocketing premiums and wide variance in costs between plans.",
+      "publishedAt": "2026-11-03T13:46:00+00:00"
+    },
+    {
+      "id": "biopharma-dive-6",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
       "category": "审批",
       "title": "UniQure gets an FDA decision date; Teva scraps brain drug study",
-      "titleZh": "UniQure获得FDA决定日期； Teva废弃脑药物研究",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/uniqure-fda-bright-minds-specific-teva-cinrock/873455/",
       "summary": "The FDA appears likely to hold an advisory committee for UniQure&rsquo;s closely watched Huntington&rsquo;s disease gene therapy. Elsewhere, a biotech&rsquo;s share price was cut in half following a regulatory setback.&nbsp;",
       "publishedAt": "2026-11-03T13:41:00+00:00"
@@ -825,22 +873,10 @@
       "lang": "en",
       "category": "研发",
       "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
-      "titleZh": "大脑隐藏的恐惧机制可以解释焦虑和创伤后应激障碍",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
       "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scientists found that memories of threatening and harmless environments began to overla",
       "publishedAt": "2026-11-03T13:03:02+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "First U.S. bird flu death of the year after cattle exposure",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/11/03/health-news-first-us-bird-flu-death-after-cattle-exposure-2026/?utm_campaign=rss",
-      "summary": "A person in Washington state has died from complications of the bird flu, the AP reported yesterday. It’s the first such death this year in the U.S., and the third&#8230;",
-      "publishedAt": "2026-11-03T12:52:30+00:00"
     },
     {
       "id": "science-daily-health-7",
@@ -879,7 +915,7 @@
       "publishedAt": "2026-11-03T12:15:18+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -889,18 +925,6 @@
       "link": "https://endpoints.news/bayer-signals-it-is-working-on-mfn-deal-in-the-us-ceo-says/",
       "summary": "Bayer CEO Bill Anderson said the drugmaker is “working on” a most favored nation agreement, signaling that it is in talks with President Donald Trump’s administration. The German drugmaker was not part ...",
       "publishedAt": "2026-11-03T12:01:37+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Updated: Merck KGaA is selling its CDMO business in the US to Lonza",
-      "titleZh": "",
-      "link": "https://endpoints.news/merck-kgaa-to-exit-cdmo-business-divesting-us-sites-to-lonza/",
-      "summary": "Merck KGaA is set to hand over its US CDMO business to Lonza, with the deal covering five manufacturing facilities and about 1,100 employees. While the finer financial details of the pact were kept under ...",
-      "publishedAt": "2026-11-03T09:54:12+00:00"
     },
     {
       "id": "science-daily-health-8",
@@ -927,19 +951,7 @@
       "publishedAt": "2026-11-03T00:34:59+00:00"
     },
     {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "AbbVie, Brise disclose deal for two preclinical migraine meds",
-      "titleZh": "",
-      "link": "https://endpoints.news/abbvie-brise-disclose-deal-for-two-preclinical-migraine-meds/",
-      "summary": "AbbVie has agreed to a discovery and commercialization deal with Brise Pharmaceuticals for two preclinical migraine programs. The Beijing-based partner said Monday the agreement actually stemmed from 2024. An investor relations ...",
-      "publishedAt": "2026-11-02T19:43:03+00:00"
-    },
-    {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -951,7 +963,7 @@
       "publishedAt": "2026-11-02T17:07:00+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -963,7 +975,7 @@
       "publishedAt": "2026-11-02T14:34:00+00:00"
     },
     {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -1009,18 +1021,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261031221151.htm",
       "summary": "Researchers have developed a remarkable new electronic implant that could transform type 2 diabetes treatment by lowering blood sugar without insulin or traditional drugs. The device uses a special electrically powered catalyst to convert excess glucose into a substance that the body eliminates thro",
       "publishedAt": "2026-11-02T12:47:18+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/spons/breaking-the-silos-what-effective-scenario-modeling-looks-like-in-2026-and/872840/",
-      "summary": "Explore how integrated scenario modeling helps pharma leaders navigate pricing uncertainty and the complexity of global launches.",
-      "publishedAt": "2026-11-02T10:00:00+00:00"
     },
     {
       "id": "science-daily-health-15",
@@ -1172,6 +1172,18 @@
       "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
+      "title": "Global temperature-related mortality associated with El-Nino Southern Oscillation",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04793-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
       "title": "A tumor transcriptomic atlas across eight decades of life reveals distinct features of early-onset colorectal cancer",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04771-2",
@@ -1179,7 +1191,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "A live biotherapeutic product for adult allogeneic hematopoietic cell transplantation recipients: a partially randomized, placebo-controlled phase 1b trial",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04686-y",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Global, regional and national burden of cervical cancer in 1990–2023 with forecasts to 2050: a Global Burden of Disease study",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04729-4",
       "summary": "",
       "publishedAt": ""
     }
