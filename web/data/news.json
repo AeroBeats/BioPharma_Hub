@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-03T20:56:59.397809+00:00",
+  "updatedAt": "2026-11-04T01:16:06.607599+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,8 @@
   ],
   "failedSources": [],
   "translations": {
+    "Alamar, Nightingale Health Team up on UK Biobank Neurodegeneration Protein Study": "Alamar和Nightingale Health合作开展英国生物样本库神经变性蛋白质研究",
+    "Ultragenyx to lay off 20% of employees, scrap a Wilson disease gene therapy": "Ultragenyx将裁员20% ，废弃Wilson病基因疗法",
     "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test": "STAT + ：施维雅的$ 15.5亿肌营养不良药物未能通过首次重大测试",
     "STAT+: Amid Mass General Brigham layoffs, CEO pens vague letter, stirring staff anxiety": "STAT + ：在马萨诸塞州布里格姆将军裁员期间，首席执行官写了一封模糊的信，激起了员工的焦虑",
     "Precision Automation Meets Biology": "精密自动化与生物学相遇",
@@ -105,11 +107,33 @@
     "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond": "打破孤岛： 2026年及以后的有效场景建模是什么样的",
     "Are you pursuing MRT as a treatment for infertility? Tell us about your experience": "您是否正在寻求MRT作为不孕症的治疗方法？请向我们介绍一下您的体验",
     "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent": "STAT + ： Kymera湿疹试验即将宣读，这是竞标竞争对手Dupixent的一个高风险时刻",
-    "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be": "意见：癌症患者经常被迫提前终止妊娠。他们不应该",
-    "Even moderate drinking linked to cancer and early death, major study finds": "主要研究发现，即使适度饮酒也与癌症和早逝有关",
-    "Scientists find surprisingly little evidence that medical cannabis helps you sleep": "科学家发现几乎没有证据表明医用大麻有助于睡眠"
+    "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be": "意见：癌症患者经常被迫提前终止妊娠。他们不应该"
   },
   "items": [
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Alamar, Nightingale Health Team up on UK Biobank Neurodegeneration Protein Study",
+      "titleZh": "Alamar和Nightingale Health合作开展英国生物样本库神经变性蛋白质研究",
+      "link": "https://www.genengnews.com/topics/omics/alamar-nightingale-health-team-up-on-uk-biobank-neurodegeneration-protein-study/",
+      "summary": "Nightingale Health will run the measurements in its labs using Alamar’s NULISA platform to quantify hundreds of blood proteins in 80,000 UK Biobank samples, seeking early molecular signs of neurodegeneration. The post Alamar, Nightingale Health Team up on UK Biobank Neurodegeneration Protein Study a",
+      "publishedAt": "2026-11-03T22:43:52+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Ultragenyx to lay off 20% of employees, scrap a Wilson disease gene therapy",
+      "titleZh": "Ultragenyx将裁员20% ，废弃Wilson病基因疗法",
+      "link": "https://endpoints.news/ultragenyx-to-lay-off-20-of-employees-scrap-a-wilson-disease-gene-therapy/",
+      "summary": "After a whirlwind third quarter that saw two FDA approvals but a major setback in Angelman syndrome, Ultragenyx is laying off staff for the second time this year. The California biopharma",
+      "publishedAt": "2026-11-03T21:55:33+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
@@ -135,7 +159,7 @@
       "publishedAt": "2026-11-03T20:33:22+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -147,7 +171,7 @@
       "publishedAt": "2026-11-03T20:33:02+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -159,7 +183,7 @@
       "publishedAt": "2026-11-03T19:27:54+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +195,7 @@
       "publishedAt": "2026-11-03T19:18:32+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +207,7 @@
       "publishedAt": "2026-11-03T18:44:00+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -207,7 +231,7 @@
       "publishedAt": "2026-11-03T17:32:00+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -219,7 +243,7 @@
       "publishedAt": "2026-11-03T15:41:01+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +279,7 @@
       "publishedAt": "2026-11-03T15:29:07+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +291,7 @@
       "publishedAt": "2026-11-03T15:04:17+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -399,7 +423,7 @@
       "publishedAt": "2026-11-03T12:15:18+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +435,7 @@
       "publishedAt": "2026-11-03T12:01:37+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +519,7 @@
       "publishedAt": "2026-11-02T20:44:40+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -507,7 +531,7 @@
       "publishedAt": "2026-11-02T19:43:03+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -519,7 +543,7 @@
       "publishedAt": "2026-11-02T18:44:22+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -531,7 +555,7 @@
       "publishedAt": "2026-11-02T18:13:13+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -591,7 +615,7 @@
       "publishedAt": "2026-11-02T16:13:46+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -603,7 +627,7 @@
       "publishedAt": "2026-11-02T16:10:20+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -615,7 +639,7 @@
       "publishedAt": "2026-11-02T15:28:10+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +651,7 @@
       "publishedAt": "2026-11-02T15:11:58+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -663,7 +687,7 @@
       "publishedAt": "2026-11-02T14:22:08+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -747,7 +771,7 @@
       "publishedAt": "2026-11-02T12:13:03+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -813,7 +837,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Even moderate drinking linked to cancer and early death, major study finds",
-      "titleZh": "主要研究发现，即使适度饮酒也与癌症和早逝有关",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261031221159.htm",
       "summary": "A major new study challenges the idea that moderate drinking is safe, finding that even relatively small amounts of alcohol increase the risk of cancer, heart disease, and premature death. Researchers found no overall health benefits from drinking and warn that consuming more than one alcoholic beve",
       "publishedAt": "2026-11-02T04:12:24+00:00"
@@ -825,13 +849,13 @@
       "lang": "en",
       "category": "研发",
       "title": "Scientists find surprisingly little evidence that medical cannabis helps you sleep",
-      "titleZh": "科学家发现几乎没有证据表明医用大麻有助于睡眠",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/10/261031221157.htm",
       "summary": "A major new review challenges the growing enthusiasm for medical cannabis as an insomnia treatment, finding little reliable evidence that it improves sleep quality, sleep duration, or daytime functioning. Researchers caution that this doesn't mean cannabis is ineffective, only that existing studies ",
       "publishedAt": "2026-11-02T01:46:26+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -915,7 +939,7 @@
       "publishedAt": "2026-10-31T13:49:23+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -939,7 +963,7 @@
       "publishedAt": "2026-10-31T00:59:52+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -951,19 +975,7 @@
       "publishedAt": "2026-10-30T19:17:01+00:00"
     },
     {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "市场",
-      "title": "100 Million-Cell AI-Ready Dataset with Single-Cell and Proteomic Data Created by Parse and Nomic",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/omics/100-million-cell-ai-ready-dataset-with-single-cell-and-proteomic-data-created-by-parse-and-nomic/",
-      "summary": "Parse Biosciences and Nomic Bio are partnering to create Cascade, a 100-million-cell multimodal dataset combining single-cell and proteomic data to advance AI-driven immune modeling, drug discovery, and therapeutic target identification. The post 100 Million-Cell AI-Ready Dataset with Single-Cell an",
-      "publishedAt": "2026-10-30T19:13:34+00:00"
-    },
-    {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -987,7 +999,7 @@
       "publishedAt": "2026-10-30T16:00:00+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -999,7 +1011,7 @@
       "publishedAt": "2026-10-30T15:47:13+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -1011,7 +1023,7 @@
       "publishedAt": "2026-10-30T15:36:16+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -1045,18 +1057,6 @@
       "link": "https://www.biopharmadive.com/news/biopharma-earnings-q3-2026-lilly-novartis-gsk/873167/",
       "summary": "Lilly&rsquo;s better-than-expected results allayed concerns&nbsp;&mdash; for now&nbsp;&mdash; over GLP-1 pricing pressure. Elsewhere, Novartis withstood a tumultuous quarter and GSK battled investor angst.",
       "publishedAt": "2026-10-30T11:50:00+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Sanofi has no plans for 'major restructuring' as Dupixent's patent cliff looms",
-      "titleZh": "",
-      "link": "https://endpoints.news/sanofi-has-no-plans-for-a-major-overhaul-as-dupixents-patent-cliff-looms/",
-      "summary": "It’s been six months since Belén Garijo took over as the CEO of Sanofi, and the French drugmaker said Friday it is not planning “major” changes to its business or R&amp;D pipeline as the early ...",
-      "publishedAt": "2026-10-30T11:12:36+00:00"
     },
     {
       "id": "biopharma-dive-9",
