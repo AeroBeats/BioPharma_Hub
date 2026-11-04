@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-04T01:16:06.607599+00:00",
+  "updatedAt": "2026-11-04T09:02:08.396812+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,11 @@
   ],
   "failedSources": [],
   "translations": {
+    "China biotech Minghui does thyroid eye disease deal for $110M upfront": "中国生物科技明辉预付$ 1.1亿甲状腺眼病交易",
+    "STAT+: Democrats win power to push back on Trump’s health care moves": "STAT + ：民主党赢得权力，推翻特朗普的医疗保健举措",
+    "Gene editing could replace a lifetime of medication, but there's a catch": "基因编辑可以取代一生的药物治疗，但有一个问题",
+    "Scientists trick cancer cells into making the drugs that kill them": "科学家欺骗癌细胞制造杀死它们的药物",
+    "Kids who eat more ultra-processed foods show a troubling brain response": "吃更多超加工食品的孩子表现出令人不安的大脑反应",
     "Alamar, Nightingale Health Team up on UK Biobank Neurodegeneration Protein Study": "Alamar和Nightingale Health合作开展英国生物样本库神经变性蛋白质研究",
     "Ultragenyx to lay off 20% of employees, scrap a Wilson disease gene therapy": "Ultragenyx将裁员20% ，废弃Wilson病基因疗法",
     "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test": "STAT + ：施维雅的$ 15.5亿肌营养不良药物未能通过首次重大测试",
@@ -102,14 +107,69 @@
     "Experts say high blood pressure guidelines are missing half the equation": "专家说，高血压指南缺少一半",
     "A STAT reporter on covering MRT as an experimental fertility treatment": "报道MRT作为实验性生育治疗的STAT报告者",
     "New diabetes implant uses electricity to lower blood sugar and promote weight loss": "新的糖尿病植入物使用电力来降低血糖并促进体重减轻",
-    "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice": "科学家发现一些“不健康”的饮食可以促进小鼠的癌症免疫治疗",
-    "CinRx teams with Sam Waksal's Graviton on ROCK2 for PAH, other cardio conditions": "CinRx与Sam Waksal的Graviton在ROCK2 for PAH、其他有氧运动条件下合作",
-    "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond": "打破孤岛： 2026年及以后的有效场景建模是什么样的",
-    "Are you pursuing MRT as a treatment for infertility? Tell us about your experience": "您是否正在寻求MRT作为不孕症的治疗方法？请向我们介绍一下您的体验",
-    "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent": "STAT + ： Kymera湿疹试验即将宣读，这是竞标竞争对手Dupixent的一个高风险时刻",
-    "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be": "意见：癌症患者经常被迫提前终止妊娠。他们不应该"
+    "CinRx teams with Sam Waksal's Graviton on ROCK2 for PAH, other cardio conditions": "CinRx与Sam Waksal的Graviton在ROCK2 for PAH、其他有氧运动条件下合作"
   },
   "items": [
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "China biotech Minghui does thyroid eye disease deal for $110M upfront",
+      "titleZh": "中国生物科技明辉预付$ 1.1亿甲状腺眼病交易",
+      "link": "https://endpoints.news/china-biotech-minghui-does-thyroid-eye-disease-deal-for-110m-upfront/",
+      "summary": "A Chinese biotech is selling the Japanese rights for its Phase 3 thyroid eye disease drug to a 106-year-old specialty pharma long known for its thyroid hormone business. Shanghai-based Minghui Pharmaceutical will ...",
+      "publishedAt": "2026-11-04T07:04:40+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Democrats win power to push back on Trump’s health care moves",
+      "titleZh": "STAT + ：民主党赢得权力，推翻特朗普的医疗保健举措",
+      "link": "https://www.statnews.com/2026/11/03/midterm-elections-what-democratic-control-senate-means-healthcare/?utm_campaign=rss",
+      "summary": "Democrats win Senate control, and with it the power to push back on Trump’s health care moves.",
+      "publishedAt": "2026-11-04T04:38:26+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "Gene editing could replace a lifetime of medication, but there's a catch",
+      "titleZh": "基因编辑可以取代一生的药物治疗，但有一个问题",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm",
+      "summary": "A single gene-editing treatment could someday protect against heart disease, high cholesterol, and other common conditions for decades, potentially replacing lifelong medications. But scientists warn that permanently altering genes introduces risks that could take years to emerge, making long-term s",
+      "publishedAt": "2026-11-04T04:30:57+00:00"
+    },
+    {
+      "id": "science-daily-health-7",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "Scientists trick cancer cells into making the drugs that kill them",
+      "titleZh": "科学家欺骗癌细胞制造杀死它们的药物",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010552.htm",
+      "summary": "Scientists have developed a promising new cancer-fighting strategy that uses carbon monoxide naturally produced by tumor cells to manufacture powerful drugs inside the cancer cells themselves. Early laboratory experiments suggest the technique could selectively attack cancer while sparing healthy ce",
+      "publishedAt": "2026-11-04T04:05:31+00:00"
+    },
+    {
+      "id": "science-daily-health-8",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Kids who eat more ultra-processed foods show a troubling brain response",
+      "titleZh": "吃更多超加工食品的孩子表现出令人不安的大脑反应",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
+      "summary": "A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain. Researchers from USC studied 46 children ages 7 to 10 and found that those who ate more ultra-processed foods showed stronger activity in the brain's reward system when view",
+      "publishedAt": "2026-11-04T01:00:13+00:00"
+    },
     {
       "id": "gen-0",
       "source": "GEN",
@@ -123,7 +183,7 @@
       "publishedAt": "2026-11-03T22:43:52+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -135,7 +195,7 @@
       "publishedAt": "2026-11-03T21:55:33+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +207,7 @@
       "publishedAt": "2026-11-03T20:53:20+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -171,7 +231,7 @@
       "publishedAt": "2026-11-03T20:33:02+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +243,7 @@
       "publishedAt": "2026-11-03T19:27:54+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +255,7 @@
       "publishedAt": "2026-11-03T19:18:32+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -203,7 +263,7 @@
       "title": "Post-Hoc Live: What the US midterm elections mean for biopharma",
       "titleZh": "事后直播：美国中期选举对生物制药意味着什么",
       "link": "https://endpoints.news/post-hoc-live-what-the-us-midterm-elections-mean-for-biopharma/",
-      "summary": "🗳️ Live Wednesday at 1:30 pm ET! 🎙️ It’s Election Day in the US, and the results could have wide-ranging implications for biotech and pharma. Democratic control of Congress would mean ...",
+      "summary": "🗳️ Live Wednesday at 1:30 pm ET! 🎙️ Democrats appear to have won control of Congress in a wave election, and the results could have wide-ranging implications for biotech and pharma ...",
       "publishedAt": "2026-11-03T18:44:00+00:00"
     },
     {
@@ -243,7 +303,7 @@
       "publishedAt": "2026-11-03T15:41:01+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +315,7 @@
       "publishedAt": "2026-11-03T15:37:30+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +327,7 @@
       "publishedAt": "2026-11-03T15:36:21+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +339,7 @@
       "publishedAt": "2026-11-03T15:29:07+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +351,7 @@
       "publishedAt": "2026-11-03T15:04:17+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -303,7 +363,7 @@
       "publishedAt": "2026-11-03T14:56:47+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +375,7 @@
       "publishedAt": "2026-11-03T14:51:12+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +387,7 @@
       "publishedAt": "2026-11-03T14:44:54+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +435,7 @@
       "publishedAt": "2026-11-03T13:03:02+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +447,7 @@
       "publishedAt": "2026-11-03T12:52:30+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -399,7 +459,7 @@
       "publishedAt": "2026-11-03T12:41:49+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -423,7 +483,7 @@
       "publishedAt": "2026-11-03T12:15:18+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +495,7 @@
       "publishedAt": "2026-11-03T12:01:37+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -447,7 +507,7 @@
       "publishedAt": "2026-11-03T09:54:12+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +519,7 @@
       "publishedAt": "2026-11-03T09:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +531,7 @@
       "publishedAt": "2026-11-03T09:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +543,7 @@
       "publishedAt": "2026-11-03T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -495,7 +555,7 @@
       "publishedAt": "2026-11-03T04:11:58+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -507,7 +567,7 @@
       "publishedAt": "2026-11-03T00:34:59+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +579,7 @@
       "publishedAt": "2026-11-02T20:44:40+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -531,7 +591,7 @@
       "publishedAt": "2026-11-02T19:43:03+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -579,7 +639,7 @@
       "publishedAt": "2026-11-02T17:07:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +651,7 @@
       "publishedAt": "2026-11-02T17:05:28+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +663,7 @@
       "publishedAt": "2026-11-02T16:47:33+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -615,7 +675,7 @@
       "publishedAt": "2026-11-02T16:13:46+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +687,7 @@
       "publishedAt": "2026-11-02T16:10:20+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,7 +699,7 @@
       "publishedAt": "2026-11-02T15:28:10+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -675,7 +735,7 @@
       "publishedAt": "2026-11-02T14:34:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -711,7 +771,7 @@
       "publishedAt": "2026-11-02T14:00:00+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -723,7 +783,7 @@
       "publishedAt": "2026-11-02T13:55:28+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -735,7 +795,7 @@
       "publishedAt": "2026-11-02T13:10:42+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -747,7 +807,7 @@
       "publishedAt": "2026-11-02T13:08:42+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -759,19 +819,7 @@
       "publishedAt": "2026-11-02T12:47:18+00:00"
     },
     {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice",
-      "titleZh": "科学家发现一些“不健康”的饮食可以促进小鼠的癌症免疫治疗",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072132.htm",
-      "summary": "In a surprising discovery, scientists found that certain diets associated with obesity can make cancer immunotherapy more effective in mice, challenging traditional assumptions about diet and cancer treatment. The findings suggest that the secret may lie in how food interacts with gut bacteria to st",
-      "publishedAt": "2026-11-02T12:13:03+00:00"
-    },
-    {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -789,33 +837,21 @@
       "lang": "en",
       "category": "审批",
       "title": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond",
-      "titleZh": "打破孤岛： 2026年及以后的有效场景建模是什么样的",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/spons/breaking-the-silos-what-effective-scenario-modeling-looks-like-in-2026-and/872840/",
       "summary": "Explore how integrated scenario modeling helps pharma leaders navigate pricing uncertainty and the complexity of global launches.",
       "publishedAt": "2026-11-02T10:00:00+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Are you pursuing MRT as a treatment for infertility? Tell us about your experience",
-      "titleZh": "您是否正在寻求MRT作为不孕症的治疗方法？请向我们介绍一下您的体验",
-      "link": "https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/?utm_campaign=rss",
-      "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you",
-      "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
       "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent",
-      "titleZh": "STAT + ： Kymera湿疹试验即将宣读，这是竞标竞争对手Dupixent的一个高风险时刻",
-      "link": "https://www.statnews.com/2026/11/02/kymera-therapeutics-trial-results-eczema-dupixent-rival/?utm_campaign=rss",
-      "summary": "Investors and doctors are intensely awaiting mid-stage results of an experimental Kymera therapy positioned to rival Dupixent.",
+      "category": "研发",
+      "title": "Are you pursuing MRT as a treatment for infertility? Tell us about your experience",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/?utm_campaign=rss",
+      "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you",
       "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
@@ -823,15 +859,15 @@
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
-      "category": "研发",
-      "title": "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be",
-      "titleZh": "意见：癌症患者经常被迫提前终止妊娠。他们不应该",
-      "link": "https://www.statnews.com/2026/11/02/pregnant-cancer-patients-abortion-early-labor-research/?utm_campaign=rss",
-      "summary": "Women can be safely treated for many cancers during pregnancy, a maternal fetal medicine specialist writes.",
+      "category": "审批",
+      "title": "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/11/02/kymera-therapeutics-trial-results-eczema-dupixent-rival/?utm_campaign=rss",
+      "summary": "Investors and doctors are intensely awaiting mid-stage results of an experimental Kymera therapy positioned to rival Dupixent.",
       "publishedAt": "2026-11-02T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -843,7 +879,7 @@
       "publishedAt": "2026-11-02T04:12:24+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -867,7 +903,7 @@
       "publishedAt": "2026-11-01T19:03:24+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -879,7 +915,7 @@
       "publishedAt": "2026-11-01T13:24:51+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,7 +927,7 @@
       "publishedAt": "2026-11-01T12:33:13+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -903,7 +939,7 @@
       "publishedAt": "2026-11-01T11:29:04+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,7 +951,7 @@
       "publishedAt": "2026-11-01T10:49:13+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,7 +963,7 @@
       "publishedAt": "2026-11-01T01:57:50+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -939,7 +975,7 @@
       "publishedAt": "2026-10-31T13:49:23+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -949,18 +985,6 @@
       "link": "https://endpoints.news/anthropics-one-person-biotech-buy-jake-van-naardens-dealmaking-strategy-and-more/",
       "summary": "Hello and welcome back to a spooky Halloween edition of Endpoints Weekly! Sorry to all the candy corn lovers out there, but just noting that they’re actually made with bug secretions. The Atlantic has all ...",
       "publishedAt": "2026-10-31T10:00:28+00:00"
-    },
-    {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
-      "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the ",
-      "publishedAt": "2026-10-31T00:59:52+00:00"
     },
     {
       "id": "gen-9",
@@ -975,7 +999,7 @@
       "publishedAt": "2026-10-30T19:17:01+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -999,7 +1023,7 @@
       "publishedAt": "2026-10-30T16:00:00+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -1011,7 +1035,7 @@
       "publishedAt": "2026-10-30T15:47:13+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -1021,30 +1045,6 @@
       "link": "https://endpoints.news/astrazeneca-says-reorg-could-mean-rd-cuts-and-trials-shifted-to-emerging-markets/",
       "summary": "AstraZeneca’s leadership hinted at where the cost cuts and job losses from the company’s new restructuring program might fall on a call with journalists Friday. “We are losing patent protection for Farxiga ...",
       "publishedAt": "2026-10-30T15:36:16+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Anthropic's Nathan Frey on biopharma partners, M&A and pipeline",
-      "titleZh": "",
-      "link": "https://endpoints.news/anthropics-nathan-frey-on-biopharma-partners-ma-and-pipeline/",
-      "summary": "Nathan Frey has stayed busy since Anthropic acquired his biotech startup Coefficient Bio this spring. The former Genentech machine-learning scientist now leads drug discovery and development research at the tech giant. Endpoints News exclusively interviewed ...",
-      "publishedAt": "2026-10-30T13:00:09+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
-      "summary": "A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercis",
-      "publishedAt": "2026-10-30T12:12:46+00:00"
     },
     {
       "id": "biopharma-dive-8",
