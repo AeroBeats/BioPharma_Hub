@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-06T17:54:38.633307+00:00",
+  "updatedAt": "2026-11-06T23:01:48.378948+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,10 @@
   ],
   "failedSources": [],
   "translations": {
+    "The Aging Proteome: Clocks, Cohorts, and Clinical Trials": "衰老蛋白质组：时钟、队列和临床试验",
+    "STAT+: States sue Trump administration again to delay Medicaid work requirements": "STAT + ：各州再次起诉特朗普政府推迟医疗补助工作要求",
+    "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry": "STAT + ： MAHA领导人Calley指责白宫官员屈服于行业",
+    "Two incoming lawmakers plan to defend health equity from Trump administration cuts": "两名即将上任的立法者计划从特朗普政府的削减中捍卫健康公平",
     "STAT+: Democrats’ midterm landslide spells relief for hospitals": "STAT + ：民主党中期压倒性优势为医院带来缓解",
     "Democrats’ midterm victory, and a questionable fertility procedure": "民主党的中期胜利和可疑的生育程序",
     "#SITC26: Immunocore reports early data for brenetafusp plus Kimmtrak in uveal melanoma": "# SITC26 ： Immunocore报告了葡萄膜黑色素瘤中brenetafusp和Kimmtrak的早期数据",
@@ -88,15 +92,11 @@
     "Orphan Therapeutics Accelerator In-Licenses Its First Gene Therapy, Eyes Pipeline Expansion": "Orphan Therapeutics Accelerator许可其首个基因疗法，眼睛管道扩张",
     "STAT+: Stunning $6M defamation verdict reverberates at MIT campus, global scientific community": "STAT + ：令人震惊的600万美元诽谤判决在麻省理工学院校园和全球科学界引起反响",
     "STAT+: Two No Surprises Act arbitrators lose government contracts to decide payment disputes": "STAT + ：两名《无意外法案》仲裁员失去政府合同来裁决付款纠纷",
-    "Opinion: MAHA 1.0 is dead. MAHA 2.0 is born": "观点： MAHA 1.0已死。MAHA 2.0诞生",
     "At ASH, drugmakers to showcase early data for three-pronged cancer therapies": "在ASH ，制药商展示三管齐下的癌症治疗的早期数据",
     "Tissue Engineering Takes Shape": "组织工程学成形",
     "Beyond Conventional CRISPR": "超越常规CRISPR",
-    "STAT+: A possible comeback for a failed sickle cell gene therapy": "STAT + ：失败的镰状细胞基因治疗可能卷土重来",
     "Revolution’s Rasonque off to best cancer drug launch ‘in history’": "Revolution的Rasonque获得“历史上”最佳抗癌药物",
-    "Oral Sleep Apnea Therapy Poised to Expand Treatment Options": "口服睡眠呼吸暂停疗法有望扩大治疗选择",
     "Rasonque sales drive RevMed's stock; whistleblower sues Madrigal over MASH": "Rasonque的销售推动了RevMed的股票；举报人就MASH起诉Madrigal",
-    "STAT+: Winners, losers, and MAHA": "STAT + ：赢家、输家和MAHA",
     "Caldera, Evommune sign China licensing deals for autoimmune drugs": "Evommune的Caldera签署了自身免疫药物的中国许可协议",
     "#AASLD26: Merck unwraps biopsy data for MASH drug it got from South Korea's Hanmi": "# AASLD26 ：默克解开从韩国Hanmi获得的MASH药物的活检数据",
     "Ellipsis Health buys Kouper Health to act on AI voice calls": "Ellipsis Health收购Kouper Health ，对AI语音通话采取行动",
@@ -111,7 +111,55 @@
   },
   "items": [
     {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "The Aging Proteome: Clocks, Cohorts, and Clinical Trials",
+      "titleZh": "衰老蛋白质组：时钟、队列和临床试验",
+      "link": "https://www.genengnews.com/multimedia/webinars/the-aging-proteome-clocks-cohorts-and-clinical-trials/",
+      "summary": "In this GEN webinar, two experts will show how ultra-sensitive, multiplexed proteomics can measure both the pace of aging and the effects of interventions designed to change it. The post The Aging Proteome: Clocks, Cohorts, and Clinical Trials appeared first on GEN - Genetic Engineering and Biotechn",
+      "publishedAt": "2026-11-06T22:23:01+00:00"
+    },
+    {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
+      "titleZh": "STAT + ：各州再次起诉特朗普政府推迟医疗补助工作要求",
+      "link": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss",
+      "summary": "The Trump administration is facing another lawsuit over its sweeping changes to Medicaid less than a week after a federal judge ruled that implementation of work requirements would cause “irreparable&#8230;",
+      "publishedAt": "2026-11-06T22:05:39+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry",
+      "titleZh": "STAT + ： MAHA领导人Calley指责白宫官员屈服于行业",
+      "link": "https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss",
+      "summary": "Calley Means, a MAHA leader who just resigned from the Trump administration, says Americans \"are being duped and gaslighted and lied to.\"",
+      "publishedAt": "2026-11-06T21:55:21+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Two incoming lawmakers plan to defend health equity from Trump administration cuts",
+      "titleZh": "两名即将上任的立法者计划从特朗普政府的削减中捍卫健康公平",
+      "link": "https://www.statnews.com/2026/11/06/abdul-el-sayed-jasmine-clark-defend-health-equity-from-cuts/?utm_campaign=rss",
+      "summary": "Two newly elected lawmakers with science backgrounds hope to push back against Trump administration cuts to health equity programs.",
+      "publishedAt": "2026-11-06T21:46:55+00:00"
+    },
+    {
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -123,7 +171,7 @@
       "publishedAt": "2026-11-06T17:46:16+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +195,7 @@
       "publishedAt": "2026-11-06T17:00:22+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -183,7 +231,7 @@
       "publishedAt": "2026-11-06T16:51:00+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +243,7 @@
       "publishedAt": "2026-11-06T16:43:49+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -207,7 +255,7 @@
       "publishedAt": "2026-11-06T16:42:35+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +279,7 @@
       "publishedAt": "2026-11-06T16:08:42+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +291,7 @@
       "publishedAt": "2026-11-06T15:14:53+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +303,7 @@
       "publishedAt": "2026-11-06T14:59:42+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +327,7 @@
       "publishedAt": "2026-11-06T14:10:47+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -351,7 +399,7 @@
       "publishedAt": "2026-11-06T10:59:18+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +411,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +423,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +435,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +459,7 @@
       "publishedAt": "2026-11-06T05:51:36+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -435,7 +483,7 @@
       "publishedAt": "2026-11-06T01:11:19+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +495,7 @@
       "publishedAt": "2026-11-05T21:36:52+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -495,7 +543,7 @@
       "publishedAt": "2026-11-05T20:52:52+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +555,7 @@
       "publishedAt": "2026-11-05T20:49:33+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +567,7 @@
       "publishedAt": "2026-11-05T20:31:24+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -543,7 +591,7 @@
       "publishedAt": "2026-11-05T19:19:22+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +603,7 @@
       "publishedAt": "2026-11-05T18:53:34+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -567,7 +615,7 @@
       "publishedAt": "2026-11-05T18:29:40+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +627,7 @@
       "publishedAt": "2026-11-05T18:19:08+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -589,18 +637,6 @@
       "link": "https://www.statnews.com/2026/11/05/no-surprises-act-arbitrators-idr-ipro-network-medical-review-lose-contracts/?utm_campaign=rss",
       "summary": "The Trump administration is cutting off two groups tasked with arbitrating disputes over surprise medical bills, citing a failure “to meet minimum performance standards.”",
       "publishedAt": "2026-11-05T18:09:39+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "Opinion: MAHA 1.0 is dead. MAHA 2.0 is born",
-      "titleZh": "观点： MAHA 1.0已死。MAHA 2.0诞生",
-      "link": "https://www.statnews.com/2026/11/05/end-of-maha-2026-midterms-losses-democrats-aoc-cory-booker/?utm_campaign=rss",
-      "summary": "MAHA 1.0 is dead. MAHA 2.0 is born, write “Why Should I Trust You?” hosts Brinda Adhikari and Tom W. Johnson",
-      "publishedAt": "2026-11-05T18:00:23+00:00"
     },
     {
       "id": "biopharma-dive-4",
@@ -615,7 +651,7 @@
       "publishedAt": "2026-11-05T17:09:00+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -627,7 +663,7 @@
       "publishedAt": "2026-11-05T17:05:03+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -637,18 +673,6 @@
       "link": "https://www.genengnews.com/insights/beyond-conventional-crispr/",
       "summary": "Genome editing is not designed to replace neurons or retinal cells that have already been lost. In this article, experts from four companies—eGenesis, Epicrispr, KOMO Biosciences, and Sumitomo Pharma America—discuss how they are moving beyond conventional CRISPR to develop novel approaches for treat",
       "publishedAt": "2026-11-05T17:04:30+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: A possible comeback for a failed sickle cell gene therapy",
-      "titleZh": "STAT + ：失败的镰状细胞基因治疗可能卷土重来",
-      "link": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
-      "summary": "Three years ago, a trial for a sickle cell gene-editing therapy a decade in the making ended abruptly after the first patient suffered a serious adverse event. Now, the therapy&#8230;",
-      "publishedAt": "2026-11-05T16:22:53+00:00"
     },
     {
       "id": "biopharma-dive-5",
@@ -663,18 +687,6 @@
       "publishedAt": "2026-11-05T16:21:00+00:00"
     },
     {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Oral Sleep Apnea Therapy Poised to Expand Treatment Options",
-      "titleZh": "口服睡眠呼吸暂停疗法有望扩大治疗选择",
-      "link": "https://www.genengnews.com/topics/translational-medicine/oral-sleep-apnea-therapy-poised-to-expand-treatment-options/",
-      "summary": "An oral obstructive sleep apnea therapy targeting multiple pathways is poised to improve patient compliance and, possibly, outcomes. The post Oral Sleep Apnea Therapy Poised to Expand Treatment Options appeared first on GEN - Genetic Engineering and Biotechnology News.",
-      "publishedAt": "2026-11-05T16:06:00+00:00"
-    },
-    {
       "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
@@ -685,18 +697,6 @@
       "link": "https://endpoints.news/rasonque-sales-drive-up-revmeds-stock-whistleblower-sues-madrigal-over-mash/",
       "summary": "Plus news about Rezera, ANI Pharmaceuticals, Cloudbreak Pharma and Anaheim Bio. RevMed’s stock jumps on early Rasonque sales: The RAS drug developer reported sales of its pancreatic cancer therapy Rasonque for the first time, netting ...",
       "publishedAt": "2026-11-05T15:59:19+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Winners, losers, and MAHA",
-      "titleZh": "STAT + ：赢家、输家和MAHA",
-      "link": "https://www.statnews.com/2026/11/05/midterm-election-health-care-takeaways-maha-rfk-medicare-for-all/?utm_campaign=rss",
-      "summary": "Democratic doctors won big, MAHA faces an uncertain future, and what the election could mean for Medicare for All.",
-      "publishedAt": "2026-11-05T15:41:24+00:00"
     },
     {
       "id": "endpoints-10",
