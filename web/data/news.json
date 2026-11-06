@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-06T02:18:53.544970+00:00",
+  "updatedAt": "2026-11-06T10:43:46.860805+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,9 +48,14 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: After Medicare punts RPM overhaul to 2029, advocates see window to fight back": "STAT + ：在Medicare将RPM大修推迟到2029年后，倡导者看到了反击的窗口",
+    "Opinion: AI depends on medical records that don’t always tell the full truth about women": "意见：人工智能依赖于并不总是能说明女性全部真相的医疗记录",
+    "Most people haven’t heard of kratom. What is it, and who’s using it?": "大多数人都没有听说过kratom。它是什么，谁在使用它？",
+    "Opinion: What it’s like to live with cognitively unimpaired Alzheimer’s disease": "观点：与认知功能不受损的阿尔茨海默病共存是什么感觉",
+    "Where DNA Copying Fails Can Decide How Cancer Cells Respond to PARP Inhibitors": "DNA复制失败的地方可以决定癌细胞对PARP抑制剂的反应",
     "STAT+: Pharma’s trade group spent heavily on search ads to sway public opinion": "STAT + ：制药公司的贸易集团在搜索广告上投入巨资，以影响公众舆论",
     "Boehringer Ingelheim Inks Up-to-$7.4B+ Cancer Drug Collaboration with Sino Biopharmaceutical": "勃林格殷格翰与中国生物制药达成高达74亿$ +的抗癌药物合作",
-    "Seven new tumor cases reported in Zolgensma patients": "Zolgensma患者中报告的7例新肿瘤病例",
+    "Seven new tumor cases reported among patients on Novartis' Zolgensma gene therapy": "诺华Zolgensma基因治疗患者中报告的7例新肿瘤病例",
     "Medicare will cut billions from 340B, expand site-neutral payments in 2027": "Medicare将从340B削减数十亿美元，在2027年扩大站点中立支付",
     "Preeclampsia almost took her life and her baby's. Drugs are finally underway": "子痫前期几乎夺去了她的生命和婴儿的生命。毒品终于开始了",
     "Ballot measures affirm divisions over abortion and transgender issues": "投票措施肯定了在堕胎和跨性别问题上的分歧",
@@ -73,7 +78,6 @@
     "What Biotech Licensing Really Buys": "生物技术许可真正购买的是什么",
     "Rasonque sales drive RevMed's stock; whistleblower sues Madrigal over MASH": "Rasonque的销售推动了RevMed的股票；举报人就MASH起诉Madrigal",
     "STAT+: Winners, losers, and MAHA": "STAT + ：赢家、输家和MAHA",
-    "Modernizing the Western Blot for the 21st Century: More Than Just Automation": "21世纪西方印迹的现代化：不仅仅是自动化",
     "Caldera, Evommune sign China licensing deals for autoimmune drugs": "Evommune的Caldera签署了自身免疫药物的中国许可协议",
     "#AASLD26: Merck unwraps biopsy data for MASH drug it got from South Korea's Hanmi": "# AASLD26 ：默克解开从韩国Hanmi获得的MASH药物的活检数据",
     "STAT+: Pharmalittle: We’re reading about India’s new manufacturing rules, clinical trials in China, and more": "STAT + ： Pharmalittle ：我们正在阅读印度的新制造规则、中国的临床试验等",
@@ -88,14 +92,10 @@
     "STAT+: A closer look at ProMis Neurosciences and its Alzheimer’s drug": "STAT + ：深入了解ProMis Neurosciences及其阿尔茨海默氏症药物",
     "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation": "科学家解开了30年的谜团，发现了抵御炎症的隐藏防御",
     "STAT+: What the midterms could mean for the future of health AI": "STAT + ：期中考试对健康人工智能的未来意味着什么",
-    "STAT+: As more doctors consult chatbots, health systems can block them — or buy in": "STAT + ：随着越来越多的医生咨询聊天机器人，卫生系统可以阻止它们—或购买",
-    "STAT+: In China, a flood of controversial clinical trials slows to a trickle": "STAT + ：在中国，大量有争议的临床试验进展缓慢",
-    "Opinion: I’m a neurosurgeon. I’ve learned pain and suffering are very different things": "意见：我是一名神经外科医生。我了解到疼痛和痛苦是非常不同的东西",
     "Alethio clinches $90M to advance antibody for essential thrombocythemia": "Alethio获得9000万美元$ ，用于推进抗原性血小板增多症的抗体",
     "Alethio raises $90M to target rare blood cancers": "Alethio筹集了$ 9000万用于靶向罕见血癌",
     "T-Therapeutics secures $133M for cancer, autoimmune TCRs": "T-Therapeutics为癌症、自身免疫性TCRs筹集了1.33亿美元$",
     "Scientists turn viruses into weapons against deadly superbugs": "科学家将病毒转化为对抗致命超级细菌的武器",
-    "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill": "STAT + ：制药评论家伯尼·桑德斯（ Bernie Sanders ）将对FDA的资金法案产生重大影响",
     "#ASH26: Kamau shares first data from revamped sickle cell gene editing therapy": "# ASH26 ： Kamau分享来自改良镰状细胞基因编辑疗法的首批数据",
     "Novo’s race to catch Eli Lilly may already be lost": "Novo追赶礼来的比赛可能已经失败",
     "Sanofi stops development of Nurix-partnered immune drug": "赛诺菲停止开发与Nurix合作的免疫药物",
@@ -116,6 +116,66 @@
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
+      "title": "STAT+: After Medicare punts RPM overhaul to 2029, advocates see window to fight back",
+      "titleZh": "STAT + ：在Medicare将RPM大修推迟到2029年后，倡导者看到了反击的窗口",
+      "link": "https://www.statnews.com/2026/11/06/new-medicare-overhaul-of-remote-patient-monitoring-hospital-pushback/?utm_campaign=rss",
+      "summary": "Medicare pushed forward a controversial plan to ban hospitals from using third parties to deliver remote patient monitoring services, despite overwhelming opposition.",
+      "publishedAt": "2026-11-06T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
+      "title": "Opinion: AI depends on medical records that don’t always tell the full truth about women",
+      "titleZh": "意见：人工智能依赖于并不总是能说明女性全部真相的医疗记录",
+      "link": "https://www.statnews.com/2026/11/06/women-medical-records-artificial-intelligence-diagnosis-mental-health-pain/?utm_campaign=rss",
+      "summary": "“For AI to achieve its full potential in women’s health, medical records need to tell the complete story,” experts write.",
+      "publishedAt": "2026-11-06T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Most people haven’t heard of kratom. What is it, and who’s using it?",
+      "titleZh": "大多数人都没有听说过kratom。它是什么，谁在使用它？",
+      "link": "https://www.statnews.com/2026/11/06/what-is-kratom-addiction-risks-explained-7-oh/?utm_campaign=rss",
+      "summary": "Few Americans are familiar with kratom, despite public health messaging and rising use. So what is it, and who's using it?",
+      "publishedAt": "2026-11-06T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: What it’s like to live with cognitively unimpaired Alzheimer’s disease",
+      "titleZh": "观点：与认知功能不受损的阿尔茨海默病共存是什么感觉",
+      "link": "https://www.statnews.com/2026/11/06/pre-clinical-alzheimers-disease-biomarkers-tests-mental-health/?utm_campaign=rss",
+      "summary": "People with cognitively unimpaired Alzheimer’s “may be asymptomatic, but they do have a disease experience,” writes Jason Karlawish.",
+      "publishedAt": "2026-11-06T09:30:00+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Where DNA Copying Fails Can Decide How Cancer Cells Respond to PARP Inhibitors",
+      "titleZh": "DNA复制失败的地方可以决定癌细胞对PARP抑制剂的反应",
+      "link": "https://www.genengnews.com/topics/cancer/where-dna-copying-fails-can-decide-how-cancer-cells-respond-to-parp-inhibitors/",
+      "summary": "NYU Grossman School of Medicine researchers found that DNA-copying problems at a small set of chromosome sites can determine how cancer cells respond to PARP inhibitors, pointing to possible biomarkers of drug sensitivity. The post Where DNA Copying Fails Can Decide How Cancer Cells Respond to PARP ",
+      "publishedAt": "2026-11-06T03:46:43+00:00"
+    },
+    {
+      "id": "stat-news-4",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
       "title": "STAT+: Pharma’s trade group spent heavily on search ads to sway public opinion",
       "titleZh": "STAT + ：制药公司的贸易集团在搜索广告上投入巨资，以影响公众舆论",
       "link": "https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss",
@@ -123,7 +183,7 @@
       "publishedAt": "2026-11-05T21:36:52+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -140,10 +200,10 @@
       "sourceId": "endpoints",
       "lang": "en",
       "category": "研发",
-      "title": "Seven new tumor cases reported in Zolgensma patients",
-      "titleZh": "Zolgensma患者中报告的7例新肿瘤病例",
+      "title": "Seven new tumor cases reported among patients on Novartis' Zolgensma gene therapy",
+      "titleZh": "诺华Zolgensma基因治疗患者中报告的7例新肿瘤病例",
       "link": "https://endpoints.news/seven-new-tumor-cases-reported-in-zolgensma-patients/",
-      "summary": "Nine patients who have received Novartis' spinal muscular gene therapy Zolgensma have developed tumors following their treatment, the company confirmed Thursday. Seven of those cases were disclosed for the first time. Two may be linked ...",
+      "summary": "Nine patients who have received Novartis' spinal muscular atrophy gene therapy Zolgensma have developed tumors following their treatment, the company confirmed Thursday. Seven of those cases were disclosed for the first time. Two may be ...",
       "publishedAt": "2026-11-05T21:08:43+00:00"
     },
     {
@@ -171,7 +231,7 @@
       "publishedAt": "2026-11-05T20:52:52+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +243,7 @@
       "publishedAt": "2026-11-05T20:49:33+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +255,7 @@
       "publishedAt": "2026-11-05T20:31:24+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -219,7 +279,7 @@
       "publishedAt": "2026-11-05T19:19:22+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +291,7 @@
       "publishedAt": "2026-11-05T18:53:34+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -243,7 +303,7 @@
       "publishedAt": "2026-11-05T18:29:40+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +315,7 @@
       "publishedAt": "2026-11-05T18:19:08+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +327,7 @@
       "publishedAt": "2026-11-05T18:09:39+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +351,7 @@
       "publishedAt": "2026-11-05T17:09:00+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -303,7 +363,7 @@
       "publishedAt": "2026-11-05T17:05:03+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -315,7 +375,7 @@
       "publishedAt": "2026-11-05T17:04:30+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +399,7 @@
       "publishedAt": "2026-11-05T16:21:00+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -351,7 +411,7 @@
       "publishedAt": "2026-11-05T16:06:00+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -363,7 +423,7 @@
       "publishedAt": "2026-11-05T16:05:56+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -375,7 +435,7 @@
       "publishedAt": "2026-11-05T16:04:43+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -399,7 +459,7 @@
       "publishedAt": "2026-11-05T15:59:19+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -409,18 +469,6 @@
       "link": "https://www.statnews.com/2026/11/05/midterm-election-health-care-takeaways-maha-rfk-medicare-for-all/?utm_campaign=rss",
       "summary": "Democratic doctors won big, MAHA faces an uncertain future, and what the election could mean for Medicare for All.",
       "publishedAt": "2026-11-05T15:41:24+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Modernizing the Western Blot for the 21st Century: More Than Just Automation",
-      "titleZh": "21世纪西方印迹的现代化：不仅仅是自动化",
-      "link": "https://www.genengnews.com/sponsored/modernizing-the-western-blot-for-the-21st-century-more-than-just-automation/",
-      "summary": "Traditional Western blotting can confirm whether a protein is present, but it is often treated as semi-quantitative. It can be difficult to determine how much protein is present, compare results across experiments, or distinguish a true biological difference from technical errors. The case for autom",
-      "publishedAt": "2026-11-05T15:31:46+00:00"
     },
     {
       "id": "endpoints-4",
@@ -447,7 +495,7 @@
       "publishedAt": "2026-11-05T15:00:22+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +519,7 @@
       "publishedAt": "2026-11-05T14:00:40+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +531,7 @@
       "publishedAt": "2026-11-05T14:00:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +543,7 @@
       "publishedAt": "2026-11-05T13:04:15+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +579,7 @@
       "publishedAt": "2026-11-05T12:50:34+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +603,7 @@
       "publishedAt": "2026-11-05T11:37:26+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +627,7 @@
       "publishedAt": "2026-11-05T11:05:46+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -588,42 +636,6 @@
       "titleZh": "STAT + ：期中考试对健康人工智能的未来意味着什么",
       "link": "https://www.statnews.com/2026/11/05/midterms-shape-future-ai-in-health-care-fda/?utm_campaign=rss",
       "summary": "The midterms highlighted the negative sentiment around AI across the U.S. How will those attitudes trickle down to legislating AI use in health care?",
-      "publishedAt": "2026-11-05T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "技术",
-      "title": "STAT+: As more doctors consult chatbots, health systems can block them — or buy in",
-      "titleZh": "STAT + ：随着越来越多的医生咨询聊天机器人，卫生系统可以阻止它们—或购买",
-      "link": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/?utm_campaign=rss",
-      "summary": "As hundreds of thousands of doctors consult AI chatbots to make care decisions, health systems see new risks to patients' health data.",
-      "publishedAt": "2026-11-05T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: In China, a flood of controversial clinical trials slows to a trickle",
-      "titleZh": "STAT + ：在中国，大量有争议的临床试验进展缓慢",
-      "link": "https://www.statnews.com/2026/11/05/china-biotech-restrictions-impact-rare-disease-investigator-initiated-trial/?utm_campaign=rss",
-      "summary": "Following patient deaths, China restricts investigator-initiated biotech trials, leaving rare disease families and US investors facing an uncertain future.",
-      "publishedAt": "2026-11-05T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: I’m a neurosurgeon. I’ve learned pain and suffering are very different things",
-      "titleZh": "意见：我是一名神经外科医生。我了解到疼痛和痛苦是非常不同的东西",
-      "link": "https://www.statnews.com/2026/11/05/neurosurgeon-difference-between-pain-suffering-assisted-dying/?utm_campaign=rss",
-      "summary": "“The cruelest response to suffering is to attempt to explain it away,” writes neurosurgeon Stephen Doran.",
       "publishedAt": "2026-11-05T09:30:00+00:00"
     },
     {
@@ -673,18 +685,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm",
       "summary": "Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria. An international team has released the first coordinated guidelines for personalized phage therapy, offering a roadmap for safely bringing this e",
       "publishedAt": "2026-11-05T02:40:33+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
-      "titleZh": "STAT + ：制药评论家伯尼·桑德斯（ Bernie Sanders ）将对FDA的资金法案产生重大影响",
-      "link": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
-      "summary": "Sanders could use his role in crafting the FDA funding bill to push for reforms.",
-      "publishedAt": "2026-11-04T21:17:19+00:00"
     },
     {
       "id": "endpoints-9",
@@ -1171,6 +1171,18 @@
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
+      "category": "审批",
+      "title": "A gait foundation model for prediction of multisystem health phenotypes from 3D skeletal motion",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04724-9",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
       "category": "研发",
       "title": "Digital readiness for cardiovascular care in high-burden US communities with cardiology workforce constraints",
       "titleZh": "",
@@ -1179,7 +1191,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "Publisher Correction: Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04792-x",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "审批",
-      "title": "Regulatable membrane-bound IL-15 engineered TIL cell therapy for immune checkpoint inhibitor-resistant advanced melanoma: pooled analysis of phase 1 and 1/2 trials",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04743-6",
       "summary": "",
       "publishedAt": ""
     }
