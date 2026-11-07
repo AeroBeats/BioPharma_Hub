@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-06T23:01:48.378948+00:00",
+  "updatedAt": "2026-11-07T02:44:51.475537+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "Church quits role at AI startup Radical, claims ‘sleazy’ behavior stole credit from partner": "Church辞去了在人工智能初创公司Radical的角色，声称“下流”的行为窃取了合作伙伴的信用",
     "The Aging Proteome: Clocks, Cohorts, and Clinical Trials": "衰老蛋白质组：时钟、队列和临床试验",
     "STAT+: States sue Trump administration again to delay Medicaid work requirements": "STAT + ：各州再次起诉特朗普政府推迟医疗补助工作要求",
     "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry": "STAT + ： MAHA领导人Calley指责白宫官员屈服于行业",
@@ -106,10 +107,21 @@
     "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation": "科学家解开了30年的谜团，发现了抵御炎症的隐藏防御",
     "Alethio clinches $90M to advance antibody for essential thrombocythemia": "Alethio获得9000万美元$ ，用于推进抗原性血小板增多症的抗体",
     "Alethio raises $90M to target rare blood cancers": "Alethio筹集了$ 9000万用于靶向罕见血癌",
-    "T-Therapeutics secures $133M for cancer, autoimmune TCRs": "T-Therapeutics为癌症、自身免疫性TCRs筹集了1.33亿美元$",
-    "Scientists turn viruses into weapons against deadly superbugs": "科学家将病毒转化为对抗致命超级细菌的武器"
+    "T-Therapeutics secures $133M for cancer, autoimmune TCRs": "T-Therapeutics为癌症、自身免疫性TCRs筹集了1.33亿美元$"
   },
   "items": [
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Church quits role at AI startup Radical, claims ‘sleazy’ behavior stole credit from partner",
+      "titleZh": "Church辞去了在人工智能初创公司Radical的角色，声称“下流”的行为窃取了合作伙伴的信用",
+      "link": "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
+      "summary": "George Church, the famed Harvard scientist, has advised startups pursuing everything from resurrecting extinct species to putting pig organs in humans. But he hasn’t witnessed anything quite like a bizarre fight to steal scientific credit ...",
+      "publishedAt": "2026-11-07T00:52:09+00:00"
+    },
     {
       "id": "gen-0",
       "source": "GEN",
@@ -183,7 +195,7 @@
       "publishedAt": "2026-11-06T17:02:18+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +219,7 @@
       "publishedAt": "2026-11-06T16:58:32+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +279,7 @@
       "publishedAt": "2026-11-06T16:14:40+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -315,7 +327,7 @@
       "publishedAt": "2026-11-06T14:41:03+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +363,7 @@
       "publishedAt": "2026-11-06T13:13:00+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +375,7 @@
       "publishedAt": "2026-11-06T13:02:48+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -507,7 +519,7 @@
       "publishedAt": "2026-11-05T21:20:38+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -531,7 +543,7 @@
       "publishedAt": "2026-11-05T21:06:00+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -579,7 +591,7 @@
       "publishedAt": "2026-11-05T19:57:23+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +699,7 @@
       "publishedAt": "2026-11-05T16:21:00+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,7 +711,7 @@
       "publishedAt": "2026-11-05T15:59:19+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -711,7 +723,7 @@
       "publishedAt": "2026-11-05T15:27:30+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -723,7 +735,7 @@
       "publishedAt": "2026-11-05T15:00:22+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -783,7 +795,7 @@
       "publishedAt": "2026-11-05T11:05:46+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -807,7 +819,7 @@
       "publishedAt": "2026-11-05T08:00:00+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -825,13 +837,13 @@
       "lang": "en",
       "category": "研发",
       "title": "Scientists turn viruses into weapons against deadly superbugs",
-      "titleZh": "科学家将病毒转化为对抗致命超级细菌的武器",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm",
       "summary": "Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria. An international team has released the first coordinated guidelines for personalized phage therapy, offering a roadmap for safely bringing this e",
       "publishedAt": "2026-11-05T02:40:33+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -843,7 +855,7 @@
       "publishedAt": "2026-11-04T20:05:28+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -879,7 +891,7 @@
       "publishedAt": "2026-11-04T16:13:00+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -891,7 +903,7 @@
       "publishedAt": "2026-11-04T16:05:02+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -901,18 +913,6 @@
       "link": "https://endpoints.news/cvs-to-break-up-splitting-pharmacy-business-from-insurance/",
       "summary": "CVS Health is splitting into two publicly traded companies as the healthcare giant fights rising costs, retail competition, regulatory scrutiny and other pressures. The first company, to be named CVS Health, will host its insurance ...",
       "publishedAt": "2026-11-04T15:38:13+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "China climbed biotech's worry list, while Big Pharma kept shopping",
-      "titleZh": "",
-      "link": "https://endpoints.news/china-climbed-biotechs-worry-list-while-big-pharma-kept-shopping/",
-      "summary": "In the months leading up to the Treasury Department's release of draft rules that would limit US investment in Chinese biopharma, the industry's view of China was already in a downward sentiment ...",
-      "publishedAt": "2026-11-04T15:35:37+00:00"
     },
     {
       "id": "science-daily-health-3",
