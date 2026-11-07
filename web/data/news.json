@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-07T16:21:40.332127+00:00",
+  "updatedAt": "2026-11-07T20:49:57.710672+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries": "STAT + ： BIO加入了针对将药品价格与同行国家联系起来的Medicare试点的法律斗争",
     "#AHA26: The similar, surprising Novo and Novartis heart drug failures spelled out": "# AHA26 ：类似的、令人惊讶的诺和诺华心脏药物失败",
     "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy": "STAT + ：诺华Lp (a)药物的失败引发了有关心血管策略的问题",
     "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories": "STAT + ：尽管NOVO药物失败了，但心脏病专家表示他们仍将寻求消炎药",
@@ -96,7 +97,6 @@
     "Child dies of measles in Wisconsin’s first such death since 1990": "威斯康星州自1990年以来首次死于麻疹",
     "Bird Flu Vaccine Developed Using AI Outperforms Current Stockpiled Vaccines in Preclinical Tests": "在临床前测试中，使用人工智能开发的禽流感疫苗优于当前储存的疫苗",
     "Head of family physician group seeks ACIP 'guardrails'": "家庭医生小组负责人寻求ACIP的“护栏”",
-    "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy": "STAT + ：诺华公司列举了以前未知的肿瘤病例，这些肿瘤可能与其SMA基因治疗有关",
     "Orphan Therapeutics Accelerator In-Licenses Its First Gene Therapy, Eyes Pipeline Expansion": "Orphan Therapeutics Accelerator许可其首个基因疗法，眼睛管道扩张",
     "At ASH, drugmakers to showcase early data for three-pronged cancer therapies": "在ASH ，制药商展示三管齐下的癌症治疗的早期数据",
     "Tissue Engineering Takes Shape": "组织工程学成形",
@@ -111,6 +111,18 @@
   },
   "items": [
     {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+      "titleZh": "STAT + ： BIO加入了针对将药品价格与同行国家联系起来的Medicare试点的法律斗争",
+      "link": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+      "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
+      "publishedAt": "2026-11-07T16:57:13+00:00"
+    },
+    {
       "id": "endpoints-0",
       "source": "Endpoints News",
       "sourceId": "endpoints",
@@ -123,7 +135,7 @@
       "publishedAt": "2026-11-07T14:50:59+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +147,7 @@
       "publishedAt": "2026-11-07T14:50:00+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +231,7 @@
       "publishedAt": "2026-11-06T22:23:01+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +243,7 @@
       "publishedAt": "2026-11-06T22:05:39+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +255,7 @@
       "publishedAt": "2026-11-06T21:55:21+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +267,7 @@
       "publishedAt": "2026-11-06T21:46:55+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +279,7 @@
       "publishedAt": "2026-11-06T17:46:16+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +339,7 @@
       "publishedAt": "2026-11-06T16:51:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +363,7 @@
       "publishedAt": "2026-11-06T16:42:35+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +387,7 @@
       "publishedAt": "2026-11-06T16:08:42+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +399,7 @@
       "publishedAt": "2026-11-06T15:14:53+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +411,7 @@
       "publishedAt": "2026-11-06T14:59:42+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +507,7 @@
       "publishedAt": "2026-11-06T10:59:18+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +519,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +531,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +543,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +591,7 @@
       "publishedAt": "2026-11-06T01:11:19+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -639,7 +651,7 @@
       "publishedAt": "2026-11-05T20:52:52+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +663,7 @@
       "publishedAt": "2026-11-05T20:49:33+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -685,18 +697,6 @@
       "link": "https://endpoints.news/head-of-family-physician-group-seeks-acip-guardrails/",
       "summary": "After more than a year of turmoil for CDC’s panel of vaccine experts, one external member is calling on Congress to fortify it. Shawn Martin, CEO of the American Academy of Family Physicians, plans to ...",
       "publishedAt": "2026-11-05T19:19:22+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
-      "titleZh": "STAT + ：诺华公司列举了以前未知的肿瘤病例，这些肿瘤可能与其SMA基因治疗有关",
-      "link": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
-      "summary": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma.",
-      "publishedAt": "2026-11-05T18:53:34+00:00"
     },
     {
       "id": "gen-7",
