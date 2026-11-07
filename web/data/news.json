@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-07T09:56:52.494306+00:00",
+  "updatedAt": "2026-11-07T16:21:40.332127+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,7 +48,14 @@
   ],
   "failedSources": [],
   "translations": {
+    "#AHA26: The similar, surprising Novo and Novartis heart drug failures spelled out": "# AHA26 ：类似的、令人惊讶的诺和诺华心脏药物失败",
+    "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy": "STAT + ：诺华Lp (a)药物的失败引发了有关心血管策略的问题",
+    "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories": "STAT + ：尽管NOVO药物失败了，但心脏病专家表示他们仍将寻求消炎药",
+    "Novo’s race to catch Lilly; Q3 earnings recap; and more": "NOVO追赶礼来的竞赛；第三季度收入回顾；以及更多",
+    "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk": "每天喝2–3杯咖啡，可显著降低痴呆风险",
     "Church quits role at AI startup Radical, claims ‘sleazy’ behavior stole credit from partner": "Church辞去了在人工智能初创公司Radical的角色，声称“下流”的行为窃取了合作伙伴的信用",
+    "Magic mushrooms rewire the brain in a way scientists didn't expect": "神奇蘑菇以科学家意想不到的方式重新连接大脑",
+    "A compound hidden in broccoli could help fight a devastating genetic disease": "隐藏在西兰花中的化合物可以帮助对抗毁灭性的遗传疾病",
     "The Aging Proteome: Clocks, Cohorts, and Clinical Trials": "衰老蛋白质组：时钟、队列和临床试验",
     "STAT+: States sue Trump administration again to delay Medicaid work requirements": "STAT + ：各州再次起诉特朗普政府推迟医疗补助工作要求",
     "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry": "STAT + ： MAHA领导人Calley指责白宫官员屈服于行业",
@@ -91,8 +98,6 @@
     "Head of family physician group seeks ACIP 'guardrails'": "家庭医生小组负责人寻求ACIP的“护栏”",
     "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy": "STAT + ：诺华公司列举了以前未知的肿瘤病例，这些肿瘤可能与其SMA基因治疗有关",
     "Orphan Therapeutics Accelerator In-Licenses Its First Gene Therapy, Eyes Pipeline Expansion": "Orphan Therapeutics Accelerator许可其首个基因疗法，眼睛管道扩张",
-    "STAT+: Stunning $6M defamation verdict reverberates at MIT campus, global scientific community": "STAT + ：令人震惊的600万美元诽谤判决在麻省理工学院校园和全球科学界引起反响",
-    "STAT+: Two No Surprises Act arbitrators lose government contracts to decide payment disputes": "STAT + ：两名《无意外法案》仲裁员失去政府合同来裁决付款纠纷",
     "At ASH, drugmakers to showcase early data for three-pronged cancer therapies": "在ASH ，制药商展示三管齐下的癌症治疗的早期数据",
     "Tissue Engineering Takes Shape": "组织工程学成形",
     "Beyond Conventional CRISPR": "超越常规CRISPR",
@@ -102,16 +107,71 @@
     "#AASLD26: Merck unwraps biopsy data for MASH drug it got from South Korea's Hanmi": "# AASLD26 ：默克解开从韩国Hanmi获得的MASH药物的活检数据",
     "Ellipsis Health buys Kouper Health to act on AI voice calls": "Ellipsis Health收购Kouper Health ，对AI语音通话采取行动",
     "T-Therapeutics reloads with a $133M megaround for bispecifics": "T-Therapeutics为双特异性重装1.33亿美元",
-    "Scientists discover mysterious “lonely” brain waves linked to memory loss": "科学家发现与记忆丧失有关的神秘“孤独”脑电波",
-    "Goodbye, cavities? Scientists create gel that could regrow tooth enamel": "再见，蛀牙？科学家们创造了可以再生牙釉质的凝胶",
-    "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation": "科学家解开了30年的谜团，发现了抵御炎症的隐藏防御",
-    "Alethio clinches $90M to advance antibody for essential thrombocythemia": "Alethio获得9000万美元$ ，用于推进抗原性血小板增多症的抗体",
-    "Alethio raises $90M to target rare blood cancers": "Alethio筹集了$ 9000万用于靶向罕见血癌",
-    "T-Therapeutics secures $133M for cancer, autoimmune TCRs": "T-Therapeutics为癌症、自身免疫性TCRs筹集了1.33亿美元$"
+    "Scientists discover mysterious “lonely” brain waves linked to memory loss": "科学家发现与记忆丧失有关的神秘“孤独”脑电波"
   },
   "items": [
     {
       "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "#AHA26: The similar, surprising Novo and Novartis heart drug failures spelled out",
+      "titleZh": "# AHA26 ：类似的、令人惊讶的诺和诺华心脏药物失败",
+      "link": "https://endpoints.news/aha26-the-similar-surprising-novo-and-novartis-heart-drug-failures-spelled-out/",
+      "summary": "The heart drug whose failure knocked 9% off Novo’s share price in July had almost no effect at all in its pivotal trial. And data on a cardiovascular candidate from Novartis ...",
+      "publishedAt": "2026-11-07T14:50:59+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+      "titleZh": "STAT + ：诺华Lp (a)药物的失败引发了有关心血管策略的问题",
+      "link": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+      "summary": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.",
+      "publishedAt": "2026-11-07T14:50:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
+      "titleZh": "STAT + ：尽管NOVO药物失败了，但心脏病专家表示他们仍将寻求消炎药",
+      "link": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+      "summary": "“These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\"",
+      "publishedAt": "2026-11-07T14:35:00+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Novo’s race to catch Lilly; Q3 earnings recap; and more",
+      "titleZh": "NOVO追赶礼来的竞赛；第三季度收入回顾；以及更多",
+      "link": "https://endpoints.news/novos-race-to-catch-lilly-q3-earnings-recap-and-more/",
+      "summary": "Welcome back to Endpoints Weekly. Democrats won control of Congress in a wave election on Tuesday. What does that mean for biopharma? Endpoints News’ Max Bayer and Drew Armstrong discussed the results with policy expert ...",
+      "publishedAt": "2026-11-07T11:00:46+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+      "titleZh": "每天喝2–3杯咖啡，可显著降低痴呆风险",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+      "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic risk, but decaffeinated coffee did not show the same association.",
+      "publishedAt": "2026-11-07T10:16:19+00:00"
+    },
+    {
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -121,6 +181,30 @@
       "link": "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
       "summary": "George Church, the famed Harvard scientist, has advised startups pursuing everything from resurrecting extinct species to putting pig organs in humans. But he hasn’t witnessed anything quite like a bizarre fight to steal scientific credit ...",
       "publishedAt": "2026-11-07T00:52:09+00:00"
+    },
+    {
+      "id": "science-daily-health-4",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
+      "titleZh": "神奇蘑菇以科学家意想不到的方式重新连接大脑",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+      "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain ",
+      "publishedAt": "2026-11-07T00:33:47+00:00"
+    },
+    {
+      "id": "science-daily-health-5",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A compound hidden in broccoli could help fight a devastating genetic disease",
+      "titleZh": "隐藏在西兰花中的化合物可以帮助对抗毁灭性的遗传疾病",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm",
+      "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists hope the discovery could lead to an affordable treatment, although clinical trial",
+      "publishedAt": "2026-11-06T23:30:16+00:00"
     },
     {
       "id": "gen-0",
@@ -135,7 +219,7 @@
       "publishedAt": "2026-11-06T22:23:01+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +231,7 @@
       "publishedAt": "2026-11-06T22:05:39+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +243,7 @@
       "publishedAt": "2026-11-06T21:55:21+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -171,7 +255,7 @@
       "publishedAt": "2026-11-06T21:46:55+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +267,7 @@
       "publishedAt": "2026-11-06T17:46:16+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +279,7 @@
       "publishedAt": "2026-11-06T17:02:18+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +303,7 @@
       "publishedAt": "2026-11-06T16:58:32+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +327,7 @@
       "publishedAt": "2026-11-06T16:51:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +351,7 @@
       "publishedAt": "2026-11-06T16:42:35+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +363,7 @@
       "publishedAt": "2026-11-06T16:14:40+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +375,7 @@
       "publishedAt": "2026-11-06T16:08:42+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +387,7 @@
       "publishedAt": "2026-11-06T15:14:53+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +399,7 @@
       "publishedAt": "2026-11-06T14:59:42+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +411,7 @@
       "publishedAt": "2026-11-06T14:41:03+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +447,7 @@
       "publishedAt": "2026-11-06T13:13:00+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -375,7 +459,7 @@
       "publishedAt": "2026-11-06T13:02:48+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +495,7 @@
       "publishedAt": "2026-11-06T10:59:18+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +507,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +519,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +531,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +543,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -483,7 +567,7 @@
       "publishedAt": "2026-11-06T03:46:43+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -495,7 +579,7 @@
       "publishedAt": "2026-11-06T01:11:19+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +603,7 @@
       "publishedAt": "2026-11-05T21:20:38+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -543,7 +627,7 @@
       "publishedAt": "2026-11-05T21:06:00+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -555,7 +639,7 @@
       "publishedAt": "2026-11-05T20:52:52+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -567,7 +651,7 @@
       "publishedAt": "2026-11-05T20:49:33+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +675,7 @@
       "publishedAt": "2026-11-05T19:57:23+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -603,7 +687,7 @@
       "publishedAt": "2026-11-05T19:19:22+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -625,30 +709,6 @@
       "link": "https://www.genengnews.com/topics/translational-medicine/orphan-therapeutics-accelerator-in-licenses-its-first-gene-therapy-eyes-pipeline-expansion/",
       "summary": "The nonprofit biotech evaluates potential therapies based on unmet medical need, clinical evidence of safety and efficacy, and the compatibility of institutional partners. Its funding model combines initial seed investment with commercial revenue and non-traditional funding sources. The post Orphan ",
       "publishedAt": "2026-11-05T18:29:40+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Stunning $6M defamation verdict reverberates at MIT campus, global scientific community",
-      "titleZh": "STAT + ：令人震惊的600万美元诽谤判决在麻省理工学院校园和全球科学界引起反响",
-      "link": "https://www.statnews.com/2026/11/05/david-sabatini-defamation-verdict-reverberates-mit-scientific-community/?utm_campaign=rss",
-      "summary": "The explosive court battle between a former star scientist at the Massachusetts Institute of Technology and a younger colleague continues to roil the campus community.",
-      "publishedAt": "2026-11-05T18:19:08+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Two No Surprises Act arbitrators lose government contracts to decide payment disputes",
-      "titleZh": "STAT + ：两名《无意外法案》仲裁员失去政府合同来裁决付款纠纷",
-      "link": "https://www.statnews.com/2026/11/05/no-surprises-act-arbitrators-idr-ipro-network-medical-review-lose-contracts/?utm_campaign=rss",
-      "summary": "The Trump administration is cutting off two groups tasked with arbitrating disputes over surprise medical bills, citing a failure “to meet minimum performance standards.”",
-      "publishedAt": "2026-11-05T18:09:39+00:00"
     },
     {
       "id": "biopharma-dive-4",
@@ -699,7 +759,7 @@
       "publishedAt": "2026-11-05T16:21:00+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -711,7 +771,7 @@
       "publishedAt": "2026-11-05T15:59:19+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -723,7 +783,7 @@
       "publishedAt": "2026-11-05T15:27:30+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -735,7 +795,7 @@
       "publishedAt": "2026-11-05T15:00:22+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -759,7 +819,7 @@
       "publishedAt": "2026-11-05T12:52:00+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -771,37 +831,25 @@
       "publishedAt": "2026-11-05T12:50:34+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "技术",
       "title": "Goodbye, cavities? Scientists create gel that could regrow tooth enamel",
-      "titleZh": "再见，蛀牙？科学家们创造了可以再生牙釉质的凝胶",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm",
       "summary": "Scientists have developed a revolutionary gel that could regrow lost tooth enamel by harnessing minerals naturally found in saliva, potentially overcoming one of dentistry’s biggest limitations. The regenerated enamel behaves much like healthy enamel, raising hopes for a simple treatment that could ",
       "publishedAt": "2026-11-05T11:37:26+00:00"
     },
     {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
-      "titleZh": "科学家解开了30年的谜团，发现了抵御炎症的隐藏防御",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
-      "summary": "Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation meant to fight infections. The surprising discovery could lead to new approaches for treating cancer, inflammatory bowel disease, and other conditions invo",
-      "publishedAt": "2026-11-05T11:05:46+00:00"
-    },
-    {
-      "id": "endpoints-14",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "研发",
       "title": "Alethio clinches $90M to advance antibody for essential thrombocythemia",
-      "titleZh": "Alethio获得9000万美元$ ，用于推进抗原性血小板增多症的抗体",
+      "titleZh": "",
       "link": "https://endpoints.news/alethio-clinches-90m-to-advance-antibody-for-essential-thrombocythemia/",
       "summary": "About a year after emerging from stealth, University of Oxford spinout Alethio Therapeutics has collected $90 million in a Series A raise to support its lead rare blood cancer program. The ...",
       "publishedAt": "2026-11-05T08:00:50+00:00"
@@ -813,25 +861,25 @@
       "lang": "en",
       "category": "审批",
       "title": "Alethio raises $90M to target rare blood cancers",
-      "titleZh": "Alethio筹集了$ 9000万用于靶向罕见血癌",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
       "summary": "The startup is working on a medicine one of its investors claimed could have a broader reach than other approved drugs for a group of conditions known as&nbsp;myeloproliferative neoplasms.",
       "publishedAt": "2026-11-05T08:00:00+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "市场",
       "title": "T-Therapeutics secures $133M for cancer, autoimmune TCRs",
-      "titleZh": "T-Therapeutics为癌症、自身免疫性TCRs筹集了1.33亿美元$",
+      "titleZh": "",
       "link": "https://endpoints.news/t-therapeutics-secures-133m-for-cancer-autoimmune-tcrs/",
       "summary": "Johnson &amp; Johnson, Merck KGaA and Eli Lilly are joining Sanofi in backing a UK biotech working on T cell receptors for autoimmune conditions and cancer. The pharma companies or their corporate ...",
       "publishedAt": "2026-11-05T07:00:00+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -843,7 +891,7 @@
       "publishedAt": "2026-11-05T02:40:33+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -855,7 +903,7 @@
       "publishedAt": "2026-11-04T20:05:28+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -891,31 +939,7 @@
       "publishedAt": "2026-11-04T16:13:00+00:00"
     },
     {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Sanofi ends development of Nurix's STAT6 degrader",
-      "titleZh": "",
-      "link": "https://endpoints.news/sanofi-ends-development-of-nurixs-stat6-degrader/",
-      "summary": "Sanofi is dropping an experimental drug targeting a pathway that many analysts see as a potential pillar of the next generation of immunology medicine. The company will no longer pursue the program known as SAR448272 ...",
-      "publishedAt": "2026-11-04T16:05:02+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "CVS to break up, splitting pharmacy business from insurance",
-      "titleZh": "",
-      "link": "https://endpoints.news/cvs-to-break-up-splitting-pharmacy-business-from-insurance/",
-      "summary": "CVS Health is splitting into two publicly traded companies as the healthcare giant fights rising costs, retail competition, regulatory scrutiny and other pressures. The first company, to be named CVS Health, will host its insurance ...",
-      "publishedAt": "2026-11-04T15:38:13+00:00"
-    },
-    {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,7 +951,7 @@
       "publishedAt": "2026-11-04T13:26:06+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -939,7 +963,7 @@
       "publishedAt": "2026-11-04T13:24:52+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -951,7 +975,7 @@
       "publishedAt": "2026-11-04T12:50:48+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -963,7 +987,7 @@
       "publishedAt": "2026-11-04T06:57:06+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,31 +999,7 @@
       "publishedAt": "2026-11-04T04:30:57+00:00"
     },
     {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "Scientists trick cancer cells into making the drugs that kill them",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010552.htm",
-      "summary": "Scientists have developed a promising new cancer-fighting strategy that uses carbon monoxide naturally produced by tumor cells to manufacture powerful drugs inside the cancer cells themselves. Early laboratory experiments suggest the technique could selectively attack cancer while sparing healthy ce",
-      "publishedAt": "2026-11-04T04:05:31+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Kids who eat more ultra-processed foods show a troubling brain response",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
-      "summary": "A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain. Researchers from USC studied 46 children ages 7 to 10 and found that those who ate more ultra-processed foods showed stronger activity in the brain's reward system when view",
-      "publishedAt": "2026-11-04T01:00:13+00:00"
-    },
-    {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1011,7 +1011,7 @@
       "publishedAt": "2026-11-03T13:03:02+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1023,7 +1023,7 @@
       "publishedAt": "2026-11-03T12:41:49+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1035,7 +1035,7 @@
       "publishedAt": "2026-11-03T12:15:18+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1047,7 +1047,7 @@
       "publishedAt": "2026-11-03T04:11:58+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1059,7 +1059,7 @@
       "publishedAt": "2026-11-02T13:55:28+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
