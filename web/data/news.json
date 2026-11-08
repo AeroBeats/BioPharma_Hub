@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-08T15:03:51.404316+00:00",
+  "updatedAt": "2026-11-08T19:38:38.924461+00:00",
   "count": 96,
   "sources": [
     {
@@ -1172,6 +1172,30 @@
       "sourceId": "nature-medicine",
       "lang": "en",
       "category": "审批",
+      "title": "Effects of semaglutide on cardiac structure and function in heart failure with preserved ejection fraction and obesity: a pre-specified cardiac magnetic resonance substudy of the CAMEO-SEMA trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04787-8",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "审批",
+      "title": "Hemodynamic effects of semaglutide in individuals with heart failure with preserved ejection fraction and obesity: a placebo-controlled randomized clinical trial",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04762-3",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "审批",
       "title": "A gait foundation model for prediction of multisystem health phenotypes from 3D skeletal motion",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04724-9",
@@ -1179,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1235,30 +1259,6 @@
       "title": "Perioperative ivonescimab with or without chemotherapy in resectable non-small cell lung cancer: a phase 2 trial",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04745-4",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Author Correction: In vivo base editing gene therapy for heterozygous familial hypercholesterolemia: a phase 1 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04786-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Publisher Correction: Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04792-x",
       "summary": "",
       "publishedAt": ""
     }
