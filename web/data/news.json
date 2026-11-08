@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-07T20:49:57.710672+00:00",
+  "updatedAt": "2026-11-08T00:28:42.062012+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,8 @@
   ],
   "failedSources": [],
   "translations": {
+    "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice": "在研究和实践中，降低中风后或糖尿病患者的血压带来了挑战",
+    "FDA launches investigation of Novartis’ Zolgensma after cancer cases": "FDA在癌症病例后启动对诺华Zolgensma的调查",
     "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries": "STAT + ： BIO加入了针对将药品价格与同行国家联系起来的Medicare试点的法律斗争",
     "#AHA26: The similar, surprising Novo and Novartis heart drug failures spelled out": "# AHA26 ：类似的、令人惊讶的诺和诺华心脏药物失败",
     "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy": "STAT + ：诺华Lp (a)药物的失败引发了有关心血管策略的问题",
@@ -94,7 +96,6 @@
     "Medicare will cut billions from 340B, expand site-neutral payments in 2027": "Medicare将从340B削减数十亿美元，在2027年扩大站点中立支付",
     "Preeclampsia almost took her life and her baby's. Drugs are finally underway": "子痫前期几乎夺去了她的生命和婴儿的生命。毒品终于开始了",
     "Ballot measures affirm divisions over abortion and transgender issues": "投票措施肯定了在堕胎和跨性别问题上的分歧",
-    "Child dies of measles in Wisconsin’s first such death since 1990": "威斯康星州自1990年以来首次死于麻疹",
     "Bird Flu Vaccine Developed Using AI Outperforms Current Stockpiled Vaccines in Preclinical Tests": "在临床前测试中，使用人工智能开发的禽流感疫苗优于当前储存的疫苗",
     "Head of family physician group seeks ACIP 'guardrails'": "家庭医生小组负责人寻求ACIP的“护栏”",
     "Orphan Therapeutics Accelerator In-Licenses Its First Gene Therapy, Eyes Pipeline Expansion": "Orphan Therapeutics Accelerator许可其首个基因疗法，眼睛管道扩张",
@@ -106,12 +107,35 @@
     "Caldera, Evommune sign China licensing deals for autoimmune drugs": "Evommune的Caldera签署了自身免疫药物的中国许可协议",
     "#AASLD26: Merck unwraps biopsy data for MASH drug it got from South Korea's Hanmi": "# AASLD26 ：默克解开从韩国Hanmi获得的MASH药物的活检数据",
     "Ellipsis Health buys Kouper Health to act on AI voice calls": "Ellipsis Health收购Kouper Health ，对AI语音通话采取行动",
-    "T-Therapeutics reloads with a $133M megaround for bispecifics": "T-Therapeutics为双特异性重装1.33亿美元",
-    "Scientists discover mysterious “lonely” brain waves linked to memory loss": "科学家发现与记忆丧失有关的神秘“孤独”脑电波"
+    "T-Therapeutics reloads with a $133M megaround for bispecifics": "T-Therapeutics为双特异性重装1.33亿美元"
   },
   "items": [
     {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
+      "titleZh": "在研究和实践中，降低中风后或糖尿病患者的血压带来了挑战",
+      "link": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
+      "summary": "High blood pressure is known as the silent killer. Researchers are finding new ways to fight back.",
+      "publishedAt": "2026-11-07T21:39:02+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA launches investigation of Novartis’ Zolgensma after cancer cases",
+      "titleZh": "FDA在癌症病例后启动对诺华Zolgensma的调查",
+      "link": "https://endpoints.news/fda-launches-investigation-of-novartis-zolgensma-after-cancer-cases/",
+      "summary": "The FDA is looking into a “serious risk” of cancer linked to Novartis’ spinal muscular atrophy gene therapy Zolgensma, the agency said Friday. It follows Novartis' disclosure Thursday ...",
+      "publishedAt": "2026-11-07T21:12:08+00:00"
+    },
+    {
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -123,7 +147,7 @@
       "publishedAt": "2026-11-07T16:57:13+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -135,7 +159,7 @@
       "publishedAt": "2026-11-07T14:50:59+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +171,7 @@
       "publishedAt": "2026-11-07T14:50:00+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +183,7 @@
       "publishedAt": "2026-11-07T14:35:00+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +207,7 @@
       "publishedAt": "2026-11-07T10:16:19+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -231,7 +255,7 @@
       "publishedAt": "2026-11-06T22:23:01+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +267,7 @@
       "publishedAt": "2026-11-06T22:05:39+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +279,7 @@
       "publishedAt": "2026-11-06T21:55:21+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +291,7 @@
       "publishedAt": "2026-11-06T21:46:55+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +303,7 @@
       "publishedAt": "2026-11-06T17:46:16+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +315,7 @@
       "publishedAt": "2026-11-06T17:02:18+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -315,7 +339,7 @@
       "publishedAt": "2026-11-06T16:58:32+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +363,7 @@
       "publishedAt": "2026-11-06T16:51:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +387,7 @@
       "publishedAt": "2026-11-06T16:42:35+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +399,7 @@
       "publishedAt": "2026-11-06T16:14:40+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +411,7 @@
       "publishedAt": "2026-11-06T16:08:42+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +423,7 @@
       "publishedAt": "2026-11-06T15:14:53+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +435,7 @@
       "publishedAt": "2026-11-06T14:59:42+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +447,7 @@
       "publishedAt": "2026-11-06T14:41:03+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -459,7 +483,7 @@
       "publishedAt": "2026-11-06T13:13:00+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -471,7 +495,7 @@
       "publishedAt": "2026-11-06T13:02:48+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -507,7 +531,7 @@
       "publishedAt": "2026-11-06T10:59:18+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +543,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +555,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +567,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +615,7 @@
       "publishedAt": "2026-11-06T01:11:19+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -615,7 +639,7 @@
       "publishedAt": "2026-11-05T21:20:38+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,7 +663,7 @@
       "publishedAt": "2026-11-05T21:06:00+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +675,7 @@
       "publishedAt": "2026-11-05T20:52:52+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -661,18 +685,6 @@
       "link": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss",
       "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
       "publishedAt": "2026-11-05T20:49:33+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Child dies of measles in Wisconsin’s first such death since 1990",
-      "titleZh": "威斯康星州自1990年以来首次死于麻疹",
-      "link": "https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/?utm_campaign=rss",
-      "summary": "An infant in southwestern Wisconsin has died after contracting measles, the state’s first death from the disease in 36 years.",
-      "publishedAt": "2026-11-05T20:31:24+00:00"
     },
     {
       "id": "gen-6",
@@ -687,7 +699,7 @@
       "publishedAt": "2026-11-05T19:57:23+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -759,7 +771,7 @@
       "publishedAt": "2026-11-05T16:21:00+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -771,7 +783,7 @@
       "publishedAt": "2026-11-05T15:59:19+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -783,7 +795,7 @@
       "publishedAt": "2026-11-05T15:27:30+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -795,7 +807,7 @@
       "publishedAt": "2026-11-05T15:00:22+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -825,7 +837,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
-      "titleZh": "科学家发现与记忆丧失有关的神秘“孤独”脑电波",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
       "summary": "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may contribute to age-related memory loss long before Alzheimer’",
       "publishedAt": "2026-11-05T12:50:34+00:00"
@@ -843,7 +855,7 @@
       "publishedAt": "2026-11-05T11:37:26+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -867,7 +879,7 @@
       "publishedAt": "2026-11-05T08:00:00+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -891,7 +903,7 @@
       "publishedAt": "2026-11-05T02:40:33+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -901,18 +913,6 @@
       "link": "https://endpoints.news/kamau-shares-first-data-from-revamped-sickle-cell-gene-editing-therapy/",
       "summary": "Kamau Therapeutics, which has stayed relatively quiet since its 2023 emergence, is sharing clinical data from its revamped sickle cell gene editing program for the first time. The startup is giving a ...",
       "publishedAt": "2026-11-04T20:05:28+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Novo’s race to catch Eli Lilly may already be lost",
-      "titleZh": "",
-      "link": "https://endpoints.news/novos-race-to-catch-eli-lilly-may-already-be-lost/",
-      "summary": "A year ago, the rivalry between Eli Lilly and Novo was the fiercest in the industry. Now, it looks increasingly one-sided. The best evidence might be investors' reactions to each company's third-quarter results. Both stocks ...",
-      "publishedAt": "2026-11-04T18:47:01+00:00"
     },
     {
       "id": "biopharma-dive-8",
