@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-08T07:14:08.580191+00:00",
+  "updatedAt": "2026-11-08T15:03:51.404316+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,13 @@
   ],
   "failedSources": [],
   "translations": {
+    "A 24-hour fast triggers a surprising repair response in the gut": "24小时禁食触发肠道中令人惊讶的修复反应",
+    "MIT scientists turn immune cells into cancer killers inside the body": "麻省理工学院的科学家将免疫细胞转化为体内的癌症杀手",
+    "Low testosterone linked to 18% higher risk of dying from cancer": "低睾酮与癌症死亡风险增加18%相关",
+    "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype": "STAT + ：为什么最新的心脏药物失败应该使我们所有人对人工智能炒作更加怀疑",
+    "Scientists discover hidden brain changes linked to common sleep disorders": "科学家发现隐藏的大脑变化与常见睡眠障碍有关",
+    "Stronger flu shot linked to nearly 55% lower Alzheimer's risk": "更强的流感疫苗与降低近55%的阿尔茨海默氏症风险有关",
+    "Scientists discover a hidden warning sign of cannabis addiction": "科学家发现大麻成瘾的隐藏警告信号",
     "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice": "在研究和实践中，降低中风后或糖尿病患者的血压带来了挑战",
     "FDA launches investigation of Novartis’ Zolgensma after cancer cases": "FDA在癌症病例后启动对诺华Zolgensma的调查",
     "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries": "STAT + ： BIO加入了针对将药品价格与同行国家联系起来的Medicare试点的法律斗争",
@@ -95,23 +102,100 @@
     "Seven new tumor cases reported among patients on Novartis' Zolgensma gene therapy": "诺华Zolgensma基因治疗患者中报告的7例新肿瘤病例",
     "Medicare will cut billions from 340B, expand site-neutral payments in 2027": "Medicare将从340B削减数十亿美元，在2027年扩大站点中立支付",
     "Preeclampsia almost took her life and her baby's. Drugs are finally underway": "子痫前期几乎夺去了她的生命和婴儿的生命。毒品终于开始了",
-    "Ballot measures affirm divisions over abortion and transgender issues": "投票措施肯定了在堕胎和跨性别问题上的分歧",
     "Bird Flu Vaccine Developed Using AI Outperforms Current Stockpiled Vaccines in Preclinical Tests": "在临床前测试中，使用人工智能开发的禽流感疫苗优于当前储存的疫苗",
     "Head of family physician group seeks ACIP 'guardrails'": "家庭医生小组负责人寻求ACIP的“护栏”",
     "Orphan Therapeutics Accelerator In-Licenses Its First Gene Therapy, Eyes Pipeline Expansion": "Orphan Therapeutics Accelerator许可其首个基因疗法，眼睛管道扩张",
     "At ASH, drugmakers to showcase early data for three-pronged cancer therapies": "在ASH ，制药商展示三管齐下的癌症治疗的早期数据",
     "Tissue Engineering Takes Shape": "组织工程学成形",
-    "Beyond Conventional CRISPR": "超越常规CRISPR",
-    "Revolution’s Rasonque off to best cancer drug launch ‘in history’": "Revolution的Rasonque获得“历史上”最佳抗癌药物",
-    "Rasonque sales drive RevMed's stock; whistleblower sues Madrigal over MASH": "Rasonque的销售推动了RevMed的股票；举报人就MASH起诉Madrigal",
-    "Caldera, Evommune sign China licensing deals for autoimmune drugs": "Evommune的Caldera签署了自身免疫药物的中国许可协议",
-    "#AASLD26: Merck unwraps biopsy data for MASH drug it got from South Korea's Hanmi": "# AASLD26 ：默克解开从韩国Hanmi获得的MASH药物的活检数据",
-    "Ellipsis Health buys Kouper Health to act on AI voice calls": "Ellipsis Health收购Kouper Health ，对AI语音通话采取行动",
-    "T-Therapeutics reloads with a $133M megaround for bispecifics": "T-Therapeutics为双特异性重装1.33亿美元"
+    "Beyond Conventional CRISPR": "超越常规CRISPR"
   },
   "items": [
     {
+      "id": "science-daily-health-5",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A 24-hour fast triggers a surprising repair response in the gut",
+      "titleZh": "24小时禁食触发肠道中令人惊讶的修复反应",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
+      "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cancer therapy, potentially without requiring ",
+      "publishedAt": "2026-11-08T11:06:30+00:00"
+    },
+    {
+      "id": "science-daily-health-7",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "MIT scientists turn immune cells into cancer killers inside the body",
+      "titleZh": "麻省理工学院的科学家将免疫细胞转化为体内的癌症杀手",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
+      "summary": "MIT scientists have developed nanoparticles that reprogram immune cells directly inside the body to attack cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments. The breakthrough could make powerful immune therapies dramatically simpler and less expensiv",
+      "publishedAt": "2026-11-08T10:52:31+00:00"
+    },
+    {
+      "id": "science-daily-health-10",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Low testosterone linked to 18% higher risk of dying from cancer",
+      "titleZh": "低睾酮与癌症死亡风险增加18%相关",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012301.htm",
+      "summary": "A major international study tracking more than 26,000 men found that very low testosterone levels were associated with an 18% higher risk of dying from cancer later in life. Surprisingly, testosterone itself showed no clear link to prostate cancer, although two other sex hormones did. Researchers be",
+      "publishedAt": "2026-11-08T10:10:50+00:00"
+    },
+    {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
+      "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
+      "titleZh": "STAT + ：为什么最新的心脏药物失败应该使我们所有人对人工智能炒作更加怀疑",
+      "link": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
+      "summary": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat.",
+      "publishedAt": "2026-11-08T09:30:00+00:00"
+    },
+    {
+      "id": "science-daily-health-9",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover hidden brain changes linked to common sleep disorders",
+      "titleZh": "科学家发现隐藏的大脑变化与常见睡眠障碍有关",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
+      "summary": "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions, potentially explaining why disrupted sleep can affect everyday thinking and behavior. The findings, drawn from 57 brain imaging studies, reve",
+      "publishedAt": "2026-11-08T04:47:52+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+      "titleZh": "更强的流感疫苗与降低近55%的阿尔茨海默氏症风险有关",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
+      "summary": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer's disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 and older and found that those who received a high-dose influenza vaccine had a nearl",
+      "publishedAt": "2026-11-08T02:52:28+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "Scientists discover a hidden warning sign of cannabis addiction",
+      "titleZh": "科学家发现大麻成瘾的隐藏警告信号",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174520.htm",
+      "summary": "A study of more than 17,700 US adults found that people who use cannabis in multiple forms have dramatically higher rates of daily consumption and addiction symptoms than those who stick primarily to one method. Nearly 67% of those who used almost every form met criteria for cannabis use disorder, c",
+      "publishedAt": "2026-11-08T01:27:46+00:00"
+    },
+    {
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +219,7 @@
       "publishedAt": "2026-11-07T21:12:08+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +243,7 @@
       "publishedAt": "2026-11-07T14:50:59+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -171,7 +255,7 @@
       "publishedAt": "2026-11-07T14:50:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +279,7 @@
       "publishedAt": "2026-11-07T11:00:46+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -219,7 +303,7 @@
       "publishedAt": "2026-11-07T00:52:09+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -231,7 +315,7 @@
       "publishedAt": "2026-11-07T00:33:47+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -255,7 +339,7 @@
       "publishedAt": "2026-11-06T22:23:01+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +351,7 @@
       "publishedAt": "2026-11-06T22:05:39+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +363,7 @@
       "publishedAt": "2026-11-06T21:55:21+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +375,7 @@
       "publishedAt": "2026-11-06T21:46:55+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +387,7 @@
       "publishedAt": "2026-11-06T17:46:16+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +447,7 @@
       "publishedAt": "2026-11-06T16:51:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +471,7 @@
       "publishedAt": "2026-11-06T16:42:35+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +495,7 @@
       "publishedAt": "2026-11-06T16:08:42+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +507,7 @@
       "publishedAt": "2026-11-06T15:14:53+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +519,7 @@
       "publishedAt": "2026-11-06T14:59:42+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +603,7 @@
       "publishedAt": "2026-11-06T12:00:00+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -531,7 +615,7 @@
       "publishedAt": "2026-11-06T10:59:18+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +627,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +639,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -567,7 +651,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +663,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -603,7 +687,7 @@
       "publishedAt": "2026-11-06T03:46:43+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -615,7 +699,7 @@
       "publishedAt": "2026-11-06T01:11:19+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -673,18 +757,6 @@
       "link": "https://endpoints.news/preeclampsia-almost-took-her-life-and-her-babys-drugs-are-finally-underway/",
       "summary": "LAS CRUCES, NM — Emily Chaddock had hired a photographer to capture her in the classic maternity pose. But days later, at 27 weeks pregnant, she developed severe preeclampsia. Her blood vessels narrowed and her vision ...",
       "publishedAt": "2026-11-05T20:52:52+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Ballot measures affirm divisions over abortion and transgender issues",
-      "titleZh": "投票措施肯定了在堕胎和跨性别问题上的分歧",
-      "link": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss",
-      "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
-      "publishedAt": "2026-11-05T20:49:33+00:00"
     },
     {
       "id": "gen-6",
@@ -765,7 +837,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Revolution’s Rasonque off to best cancer drug launch ‘in history’",
-      "titleZh": "Revolution的Rasonque获得“历史上”最佳抗癌药物",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/revolution-rasonque-sales-3q-2026-pancreatic-cancer/873839/",
       "summary": "Wall Street analysts are already resetting projections for Rasonque &mdash; but company executives cautioned that it&rsquo;s too early to draw conclusions about the pancreatic cancer drug&rsquo;s launch trajectory.",
       "publishedAt": "2026-11-05T16:21:00+00:00"
@@ -777,7 +849,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Rasonque sales drive RevMed's stock; whistleblower sues Madrigal over MASH",
-      "titleZh": "Rasonque的销售推动了RevMed的股票；举报人就MASH起诉Madrigal",
+      "titleZh": "",
       "link": "https://endpoints.news/rasonque-sales-drive-up-revmeds-stock-whistleblower-sues-madrigal-over-mash/",
       "summary": "Plus news about Rezera, ANI Pharmaceuticals, Cloudbreak Pharma and Anaheim Bio. RevMed’s stock jumps on early Rasonque sales: The RAS drug developer reported sales of its pancreatic cancer therapy Rasonque for the first time, netting ...",
       "publishedAt": "2026-11-05T15:59:19+00:00"
@@ -789,7 +861,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Caldera, Evommune sign China licensing deals for autoimmune drugs",
-      "titleZh": "Evommune的Caldera签署了自身免疫药物的中国许可协议",
+      "titleZh": "",
       "link": "https://endpoints.news/caldera-evommune-sign-china-licensing-deals-for-autoimmune-drugs/",
       "summary": "The biopharma industry was already on pace for one China deal per week for the entire year. Now, another two biotechs have snagged assets from the world's busiest shopping mall for new ...",
       "publishedAt": "2026-11-05T15:27:30+00:00"
@@ -801,7 +873,7 @@
       "lang": "en",
       "category": "市场",
       "title": "#AASLD26: Merck unwraps biopsy data for MASH drug it got from South Korea's Hanmi",
-      "titleZh": "# AASLD26 ：默克解开从韩国Hanmi获得的MASH药物的活检数据",
+      "titleZh": "",
       "link": "https://endpoints.news/aasld26-merck-unwraps-mash-biopsy-data-for-drug-it-got-from-south-koreas-hanmi/",
       "summary": "Merck reported Thursday its dual GLP-1/glucagon agonist cleared a mid-stage trial in the liver disease called MASH, sharing biopsy data on a drug it licensed from Hanmi Pharmaceutical in 2020 for $10 ...",
       "publishedAt": "2026-11-05T15:00:22+00:00"
@@ -813,7 +885,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Ellipsis Health buys Kouper Health to act on AI voice calls",
-      "titleZh": "Ellipsis Health收购Kouper Health ，对AI语音通话采取行动",
+      "titleZh": "",
       "link": "https://endpoints.news/ellipsis-health-buys-kouper-health-to-act-on-ai-voice-calls/",
       "summary": "Ellipsis Health, a startup developing voice AI for healthcare, has acquired another company as demand for AI that can call patients heats up, Endpoints News learned exclusively. Ellipsis, which uses voice AI to screen and ...",
       "publishedAt": "2026-11-05T14:00:40+00:00"
@@ -825,25 +897,13 @@
       "lang": "en",
       "category": "研发",
       "title": "T-Therapeutics reloads with a $133M megaround for bispecifics",
-      "titleZh": "T-Therapeutics为双特异性重装1.33亿美元",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/t-therapeutics-series-b-tces-bispecifics-cancer-autoimmune/873786/",
       "summary": "The startup is built around technology it claims can help get after known, but undruggable&nbsp;cancer targets and design particularly selective autoimmune disease treatments.",
       "publishedAt": "2026-11-05T12:52:00+00:00"
     },
     {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
-      "summary": "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may contribute to age-related memory loss long before Alzheimer’",
-      "publishedAt": "2026-11-05T12:50:34+00:00"
-    },
-    {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,18 +951,6 @@
       "publishedAt": "2026-11-05T07:00:00+00:00"
     },
     {
-      "id": "science-daily-health-14",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists turn viruses into weapons against deadly superbugs",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm",
-      "summary": "Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria. An international team has released the first coordinated guidelines for personalized phage therapy, offering a roadmap for safely bringing this e",
-      "publishedAt": "2026-11-05T02:40:33+00:00"
-    },
-    {
       "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
@@ -939,7 +987,7 @@
       "publishedAt": "2026-11-04T16:13:00+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -951,7 +999,7 @@
       "publishedAt": "2026-11-04T13:26:06+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -963,7 +1011,7 @@
       "publishedAt": "2026-11-04T13:24:52+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,7 +1023,7 @@
       "publishedAt": "2026-11-04T12:50:48+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,7 +1035,7 @@
       "publishedAt": "2026-11-04T06:57:06+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -999,7 +1047,7 @@
       "publishedAt": "2026-11-04T04:30:57+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1011,19 +1059,7 @@
       "publishedAt": "2026-11-03T13:03:02+00:00"
     },
     {
-      "id": "science-daily-health-15",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "Scientists discover a surprising clue to autism's origins hidden in the placenta",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202824.htm",
-      "summary": "Scientists have uncovered an unexpected connection between inflammation during pregnancy, placental damage, and autism-like traits in male mice, while females appeared naturally protected. The discovery could help explain why autism is diagnosed more frequently in boys and reveal new opportunities f",
-      "publishedAt": "2026-11-03T12:41:49+00:00"
-    },
-    {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1033,42 +1069,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
       "summary": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how t",
       "publishedAt": "2026-11-03T12:15:18+00:00"
-    },
-    {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
-      "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimental treatment could offer a faster path toward therapies that ",
-      "publishedAt": "2026-11-03T04:11:58+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Extra weight may be aging your brain faster than you think",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010559.htm",
-      "summary": "A major 24-year study involving more than 8,200 adults suggests that excess body weight may accelerate brain aging, leading to faster declines in memory, concentration, and decision-making skills. The connection was particularly strong among people over 65, raising concerns about the long-term effec",
-      "publishedAt": "2026-11-02T13:55:28+00:00"
-    },
-    {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "Experts say high blood pressure guidelines are missing half the equation",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102075553.htm",
-      "summary": "Scientists are calling for a major rethink of how we manage high blood pressure, suggesting that eating more potassium could be just as important as cutting back on salt. A new report finds that combining increased potassium intake with reduced sodium consumption may offer greater benefits for blood",
-      "publishedAt": "2026-11-02T13:10:42+00:00"
     },
     {
       "id": "nature-biotech-0",
