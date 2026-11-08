@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-08T19:38:38.924461+00:00",
+  "updatedAt": "2026-11-08T23:39:56.397853+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,8 @@
   ],
   "failedSources": [],
   "translations": {
+    "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders": "尽管对旁观者、应急人员进行了培训，但心脏骤停后的生存率并未改善",
+    "Vir says hepatitis D drug combination succeeds in first pivotal study": "Vir称D型肝炎药物联合治疗成功完成首项关键性研究",
     "A 24-hour fast triggers a surprising repair response in the gut": "24小时禁食触发肠道中令人惊讶的修复反应",
     "MIT scientists turn immune cells into cancer killers inside the body": "麻省理工学院的科学家将免疫细胞转化为体内的癌症杀手",
     "Low testosterone linked to 18% higher risk of dying from cancer": "低睾酮与癌症死亡风险增加18%相关",
@@ -97,7 +99,6 @@
     "For decades, we were told to avoid full-fat dairy. New research says otherwise": "几十年来，我们被告知要避免全脂乳制品。新的研究表明并非如此",
     "Where DNA Copying Fails Can Decide How Cancer Cells Respond to PARP Inhibitors": "DNA复制失败的地方可以决定癌细胞对PARP抑制剂的反应",
     "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin": "抗衰老药物可能有助于在阿尔茨海默氏症症状开始之前保护大脑",
-    "STAT+: Pharma’s trade group spent heavily on search ads to sway public opinion": "STAT + ：制药公司的贸易集团在搜索广告上投入巨资，以影响公众舆论",
     "Boehringer Ingelheim Inks Up-to-$7.4B+ Cancer Drug Collaboration with Sino Biopharmaceutical": "勃林格殷格翰与中国生物制药达成高达74亿$ +的抗癌药物合作",
     "Seven new tumor cases reported among patients on Novartis' Zolgensma gene therapy": "诺华Zolgensma基因治疗患者中报告的7例新肿瘤病例",
     "Medicare will cut billions from 340B, expand site-neutral payments in 2027": "Medicare将从340B削减数十亿美元，在2027年扩大站点中立支付",
@@ -106,10 +107,33 @@
     "Head of family physician group seeks ACIP 'guardrails'": "家庭医生小组负责人寻求ACIP的“护栏”",
     "Orphan Therapeutics Accelerator In-Licenses Its First Gene Therapy, Eyes Pipeline Expansion": "Orphan Therapeutics Accelerator许可其首个基因疗法，眼睛管道扩张",
     "At ASH, drugmakers to showcase early data for three-pronged cancer therapies": "在ASH ，制药商展示三管齐下的癌症治疗的早期数据",
-    "Tissue Engineering Takes Shape": "组织工程学成形",
-    "Beyond Conventional CRISPR": "超越常规CRISPR"
+    "Tissue Engineering Takes Shape": "组织工程学成形"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders",
+      "titleZh": "尽管对旁观者、应急人员进行了培训，但心脏骤停后的生存率并未改善",
+      "link": "https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss",
+      "summary": "A new study found survival after sudden cardiac arrest didn’t improve with advance training of responders — but researchers aren't ready to shut the door on the possibility.",
+      "publishedAt": "2026-11-08T22:15:00+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Vir says hepatitis D drug combination succeeds in first pivotal study",
+      "titleZh": "Vir称D型肝炎药物联合治疗成功完成首项关键性研究",
+      "link": "https://endpoints.news/virs-hepatitis-d-drug-succeeds-in-first-pivotal-study/",
+      "summary": "Vir Biotechnology’s chronic hepatitis D treatment has succeeded in the first of three late-stage studies, stoking competition with Gilead and Mirum Pharmaceuticals. Vir said Sunday afternoon that 44% of patients who received once-monthly tobevibart and ...",
+      "publishedAt": "2026-11-08T21:15:33+00:00"
+    },
     {
       "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
@@ -147,7 +171,7 @@
       "publishedAt": "2026-11-08T10:10:50+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +219,7 @@
       "publishedAt": "2026-11-08T01:27:46+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -207,7 +231,7 @@
       "publishedAt": "2026-11-07T21:39:02+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +243,7 @@
       "publishedAt": "2026-11-07T21:12:08+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +255,7 @@
       "publishedAt": "2026-11-07T16:57:13+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +267,7 @@
       "publishedAt": "2026-11-07T14:50:59+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +279,7 @@
       "publishedAt": "2026-11-07T14:50:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +291,7 @@
       "publishedAt": "2026-11-07T14:35:00+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +315,7 @@
       "publishedAt": "2026-11-07T10:16:19+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +363,7 @@
       "publishedAt": "2026-11-06T22:23:01+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +375,7 @@
       "publishedAt": "2026-11-06T22:05:39+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +387,7 @@
       "publishedAt": "2026-11-06T21:55:21+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +399,7 @@
       "publishedAt": "2026-11-06T21:46:55+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +411,7 @@
       "publishedAt": "2026-11-06T17:46:16+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +423,7 @@
       "publishedAt": "2026-11-06T17:02:18+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -423,7 +447,7 @@
       "publishedAt": "2026-11-06T16:58:32+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -447,7 +471,7 @@
       "publishedAt": "2026-11-06T16:51:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +495,7 @@
       "publishedAt": "2026-11-06T16:42:35+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +507,7 @@
       "publishedAt": "2026-11-06T16:14:40+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +519,7 @@
       "publishedAt": "2026-11-06T16:08:42+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +531,7 @@
       "publishedAt": "2026-11-06T15:14:53+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +543,7 @@
       "publishedAt": "2026-11-06T14:59:42+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +555,7 @@
       "publishedAt": "2026-11-06T14:41:03+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -567,7 +591,7 @@
       "publishedAt": "2026-11-06T13:13:00+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -579,7 +603,7 @@
       "publishedAt": "2026-11-06T13:02:48+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -615,7 +639,7 @@
       "publishedAt": "2026-11-06T10:59:18+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +651,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -639,7 +663,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +675,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -699,18 +723,6 @@
       "publishedAt": "2026-11-06T01:11:19+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Pharma’s trade group spent heavily on search ads to sway public opinion",
-      "titleZh": "STAT + ：制药公司的贸易集团在搜索广告上投入巨资，以影响公众舆论",
-      "link": "https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss",
-      "summary": "PhRMA spent an estimated $59 million on search advertising over a recent seven-year period to influence how Americans view prescription drug costs.",
-      "publishedAt": "2026-11-05T21:36:52+00:00"
-    },
-    {
       "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
@@ -723,7 +735,7 @@
       "publishedAt": "2026-11-05T21:20:38+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -747,7 +759,7 @@
       "publishedAt": "2026-11-05T21:06:00+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -771,7 +783,7 @@
       "publishedAt": "2026-11-05T19:57:23+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -825,7 +837,7 @@
       "lang": "en",
       "category": "技术",
       "title": "Beyond Conventional CRISPR",
-      "titleZh": "超越常规CRISPR",
+      "titleZh": "",
       "link": "https://www.genengnews.com/insights/beyond-conventional-crispr/",
       "summary": "Genome editing is not designed to replace neurons or retinal cells that have already been lost. In this article, experts from four companies—eGenesis, Epicrispr, KOMO Biosciences, and Sumitomo Pharma America—discuss how they are moving beyond conventional CRISPR to develop novel approaches for treat",
       "publishedAt": "2026-11-05T17:04:30+00:00"
@@ -843,7 +855,7 @@
       "publishedAt": "2026-11-05T16:21:00+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -855,7 +867,7 @@
       "publishedAt": "2026-11-05T15:59:19+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -867,7 +879,7 @@
       "publishedAt": "2026-11-05T15:27:30+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -879,7 +891,7 @@
       "publishedAt": "2026-11-05T15:00:22+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -915,7 +927,7 @@
       "publishedAt": "2026-11-05T11:37:26+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -939,7 +951,7 @@
       "publishedAt": "2026-11-05T08:00:00+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -949,18 +961,6 @@
       "link": "https://endpoints.news/t-therapeutics-secures-133m-for-cancer-autoimmune-tcrs/",
       "summary": "Johnson &amp; Johnson, Merck KGaA and Eli Lilly are joining Sanofi in backing a UK biotech working on T cell receptors for autoimmune conditions and cancer. The pharma companies or their corporate ...",
       "publishedAt": "2026-11-05T07:00:00+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "#ASH26: Kamau shares first data from revamped sickle cell gene editing therapy",
-      "titleZh": "",
-      "link": "https://endpoints.news/kamau-shares-first-data-from-revamped-sickle-cell-gene-editing-therapy/",
-      "summary": "Kamau Therapeutics, which has stayed relatively quiet since its 2023 emergence, is sharing clinical data from its revamped sickle cell gene editing program for the first time. The startup is giving a ...",
-      "publishedAt": "2026-11-04T20:05:28+00:00"
     },
     {
       "id": "biopharma-dive-8",
