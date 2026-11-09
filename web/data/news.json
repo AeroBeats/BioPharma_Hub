@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-08T23:39:56.397853+00:00",
+  "updatedAt": "2026-11-09T06:08:50.676671+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,7 +48,11 @@
   ],
   "failedSources": [],
   "translations": {
+    "A little-known protein could be a major culprit in type 2 diabetes": "一种鲜为人知的蛋白质可能是2型糖尿病的主要罪魁祸首",
+    "StockWatch: Nurix Nosedives as Sanofi Halts Phase I Immunology Candidate": "StockWatch ： Nurix Nosedives作为赛诺菲暂停I期免疫学候选药物",
+    "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy": "科学家在每只接受新癌症治疗的小鼠身上消灭致命的脑肿瘤",
     "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders": "尽管对旁观者、应急人员进行了培训，但心脏骤停后的生存率并未改善",
+    "Einstein's equations reveal how gravity could break, reconnect, and release energy": "爱因斯坦的方程揭示了引力如何破坏、重新连接和释放能量",
     "Vir says hepatitis D drug combination succeeds in first pivotal study": "Vir称D型肝炎药物联合治疗成功完成首项关键性研究",
     "A 24-hour fast triggers a surprising repair response in the gut": "24小时禁食触发肠道中令人惊讶的修复反应",
     "MIT scientists turn immune cells into cancer killers inside the body": "麻省理工学院的科学家将免疫细胞转化为体内的癌症杀手",
@@ -103,13 +107,45 @@
     "Seven new tumor cases reported among patients on Novartis' Zolgensma gene therapy": "诺华Zolgensma基因治疗患者中报告的7例新肿瘤病例",
     "Medicare will cut billions from 340B, expand site-neutral payments in 2027": "Medicare将从340B削减数十亿美元，在2027年扩大站点中立支付",
     "Preeclampsia almost took her life and her baby's. Drugs are finally underway": "子痫前期几乎夺去了她的生命和婴儿的生命。毒品终于开始了",
-    "Bird Flu Vaccine Developed Using AI Outperforms Current Stockpiled Vaccines in Preclinical Tests": "在临床前测试中，使用人工智能开发的禽流感疫苗优于当前储存的疫苗",
-    "Head of family physician group seeks ACIP 'guardrails'": "家庭医生小组负责人寻求ACIP的“护栏”",
-    "Orphan Therapeutics Accelerator In-Licenses Its First Gene Therapy, Eyes Pipeline Expansion": "Orphan Therapeutics Accelerator许可其首个基因疗法，眼睛管道扩张",
-    "At ASH, drugmakers to showcase early data for three-pronged cancer therapies": "在ASH ，制药商展示三管齐下的癌症治疗的早期数据",
-    "Tissue Engineering Takes Shape": "组织工程学成形"
+    "Bird Flu Vaccine Developed Using AI Outperforms Current Stockpiled Vaccines in Preclinical Tests": "在临床前测试中，使用人工智能开发的禽流感疫苗优于当前储存的疫苗"
   },
   "items": [
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A little-known protein could be a major culprit in type 2 diabetes",
+      "titleZh": "一种鲜为人知的蛋白质可能是2型糖尿病的主要罪魁祸首",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174543.htm",
+      "summary": "Scientists have discovered that a buildup of a protein called Miro1 may be a hidden driver of insulin resistance in Type 2 diabetes, with preclinical experiments showing that removing it restores the muscles’ response to insulin. Exercise was also found to lower Miro1 levels in people with diabetes,",
+      "publishedAt": "2026-11-09T01:45:17+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "StockWatch: Nurix Nosedives as Sanofi Halts Phase I Immunology Candidate",
+      "titleZh": "StockWatch ： Nurix Nosedives作为赛诺菲暂停I期免疫学候选药物",
+      "link": "https://www.genengnews.com/topics/translational-medicine/stockwatch-nurix-nosedives-as-sanofi-halts-phase-i-immunology-candidate/",
+      "summary": "Sanofi halted development of an oral STAT6 degrader that had been under study in a Phase I first-in-human trial in Europe. STAT6, a key drug target in type 2 inflammation, is among the five targets identified by the companies in their collaboration, launched in 2020. The post StockWatch: Nurix Nosed",
+      "publishedAt": "2026-11-09T01:26:46+00:00"
+    },
+    {
+      "id": "science-daily-health-10",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
+      "titleZh": "科学家在每只接受新癌症治疗的小鼠身上消灭致命的脑肿瘤",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm",
+      "summary": "Scientists at UC San Francisco have developed a powerful new cancer therapy that remains inactive until it reaches the brain, where it switches on to attack deadly tumors. The engineered immune cells, called B-SYNC CAR-T cells, completely eliminated diffuse midline glioma (DMG), an aggressive childh",
+      "publishedAt": "2026-11-08T23:24:50+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
@@ -121,6 +157,18 @@
       "link": "https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss",
       "summary": "A new study found survival after sudden cardiac arrest didn’t improve with advance training of responders — but researchers aren't ready to shut the door on the possibility.",
       "publishedAt": "2026-11-08T22:15:00+00:00"
+    },
+    {
+      "id": "science-daily-health-9",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
+      "titleZh": "爱因斯坦的方程揭示了引力如何破坏、重新连接和释放能量",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
+      "summary": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have identified a theoretical process called \"gravitational reconnection",
+      "publishedAt": "2026-11-08T22:14:42+00:00"
     },
     {
       "id": "endpoints-0",
@@ -135,7 +183,7 @@
       "publishedAt": "2026-11-08T21:15:33+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -147,7 +195,7 @@
       "publishedAt": "2026-11-08T11:06:30+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -159,7 +207,7 @@
       "publishedAt": "2026-11-08T10:52:31+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -183,7 +231,7 @@
       "publishedAt": "2026-11-08T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -195,7 +243,7 @@
       "publishedAt": "2026-11-08T04:47:52+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -207,7 +255,7 @@
       "publishedAt": "2026-11-08T02:52:28+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-1",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -303,7 +351,7 @@
       "publishedAt": "2026-11-07T11:00:46+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -327,7 +375,7 @@
       "publishedAt": "2026-11-07T00:52:09+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -339,7 +387,7 @@
       "publishedAt": "2026-11-07T00:33:47+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -351,7 +399,7 @@
       "publishedAt": "2026-11-06T23:30:16+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -435,7 +483,7 @@
       "publishedAt": "2026-11-06T17:00:22+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -483,7 +531,7 @@
       "publishedAt": "2026-11-06T16:43:49+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -567,7 +615,7 @@
       "publishedAt": "2026-11-06T14:10:47+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -627,7 +675,7 @@
       "publishedAt": "2026-11-06T12:00:00+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -687,7 +735,7 @@
       "publishedAt": "2026-11-06T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -699,7 +747,7 @@
       "publishedAt": "2026-11-06T05:51:36+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -711,7 +759,7 @@
       "publishedAt": "2026-11-06T03:46:43+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -723,7 +771,7 @@
       "publishedAt": "2026-11-06T01:11:19+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -771,7 +819,7 @@
       "publishedAt": "2026-11-05T20:52:52+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -789,19 +837,19 @@
       "lang": "en",
       "category": "研发",
       "title": "Head of family physician group seeks ACIP 'guardrails'",
-      "titleZh": "家庭医生小组负责人寻求ACIP的“护栏”",
+      "titleZh": "",
       "link": "https://endpoints.news/head-of-family-physician-group-seeks-acip-guardrails/",
       "summary": "After more than a year of turmoil for CDC’s panel of vaccine experts, one external member is calling on Congress to fortify it. Shawn Martin, CEO of the American Academy of Family Physicians, plans to ...",
       "publishedAt": "2026-11-05T19:19:22+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "市场",
       "title": "Orphan Therapeutics Accelerator In-Licenses Its First Gene Therapy, Eyes Pipeline Expansion",
-      "titleZh": "Orphan Therapeutics Accelerator许可其首个基因疗法，眼睛管道扩张",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/translational-medicine/orphan-therapeutics-accelerator-in-licenses-its-first-gene-therapy-eyes-pipeline-expansion/",
       "summary": "The nonprofit biotech evaluates potential therapies based on unmet medical need, clinical evidence of safety and efficacy, and the compatibility of institutional partners. Its funding model combines initial seed investment with commercial revenue and non-traditional funding sources. The post Orphan ",
       "publishedAt": "2026-11-05T18:29:40+00:00"
@@ -813,22 +861,10 @@
       "lang": "en",
       "category": "研发",
       "title": "At ASH, drugmakers to showcase early data for three-pronged cancer therapies",
-      "titleZh": "在ASH ，制药商展示三管齐下的癌症治疗的早期数据",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/ash-2026-trispecific-multiple-myeloma-johnson-johnson-abbvie/873852/",
       "summary": "J&amp;J and AbbVie are among the companies advancing &ldquo;trispecific&rdquo; antibodies that could become another step forward in treatment for multiple myeloma.",
       "publishedAt": "2026-11-05T17:09:00+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Tissue Engineering Takes Shape",
-      "titleZh": "组织工程学成形",
-      "link": "https://www.genengnews.com/topics/translational-medicine/tissue-engineering-takes-shape/",
-      "summary": "Personalized grafts, bioinks, and off-the-shelf tissues are advancing regenerative medicine toward broader clinical use. The post Tissue Engineering Takes Shape appeared first on GEN - Genetic Engineering and Biotechnology News.",
-      "publishedAt": "2026-11-05T17:05:03+00:00"
     },
     {
       "id": "gen-9",
@@ -836,11 +872,11 @@
       "sourceId": "gen",
       "lang": "en",
       "category": "技术",
-      "title": "Beyond Conventional CRISPR",
+      "title": "Tissue Engineering Takes Shape",
       "titleZh": "",
-      "link": "https://www.genengnews.com/insights/beyond-conventional-crispr/",
-      "summary": "Genome editing is not designed to replace neurons or retinal cells that have already been lost. In this article, experts from four companies—eGenesis, Epicrispr, KOMO Biosciences, and Sumitomo Pharma America—discuss how they are moving beyond conventional CRISPR to develop novel approaches for treat",
-      "publishedAt": "2026-11-05T17:04:30+00:00"
+      "link": "https://www.genengnews.com/topics/translational-medicine/tissue-engineering-takes-shape/",
+      "summary": "Personalized grafts, bioinks, and off-the-shelf tissues are advancing regenerative medicine toward broader clinical use. The post Tissue Engineering Takes Shape appeared first on GEN - Genetic Engineering and Biotechnology News.",
+      "publishedAt": "2026-11-05T17:05:03+00:00"
     },
     {
       "id": "biopharma-dive-5",
@@ -915,7 +951,7 @@
       "publishedAt": "2026-11-05T12:52:00+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,7 +1023,7 @@
       "publishedAt": "2026-11-04T16:13:00+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -999,7 +1035,7 @@
       "publishedAt": "2026-11-04T13:26:06+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1011,7 +1047,7 @@
       "publishedAt": "2026-11-04T13:24:52+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1023,7 +1059,7 @@
       "publishedAt": "2026-11-04T12:50:48+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1033,42 +1069,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
       "summary": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced",
       "publishedAt": "2026-11-04T06:57:06+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "Gene editing could replace a lifetime of medication, but there's a catch",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm",
-      "summary": "A single gene-editing treatment could someday protect against heart disease, high cholesterol, and other common conditions for decades, potentially replacing lifelong medications. But scientists warn that permanently altering genes introduces risks that could take years to emerge, making long-term s",
-      "publishedAt": "2026-11-04T04:30:57+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
-      "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scientists found that memories of threatening and harmless environments began to overla",
-      "publishedAt": "2026-11-03T13:03:02+00:00"
-    },
-    {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists identify two overlooked skills that predict reading success",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
-      "summary": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how t",
-      "publishedAt": "2026-11-03T12:15:18+00:00"
     },
     {
       "id": "nature-biotech-0",
