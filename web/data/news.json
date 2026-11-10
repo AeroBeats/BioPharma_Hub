@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-09T17:24:35.131303+00:00",
+  "updatedAt": "2026-11-10T01:27:40.327014+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,20 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug": "STAT + ： Ionis Pharmaceuticals股价在生物技术公司降甘油三酯药物缓慢推出后暴跌",
+    "Bayer wins FDA approval for stroke prevention drug Sunharbo": "拜耳中风预防药物Sunharbo获得FDA批准",
+    "Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolution Research": "Illumina为MRD、肿瘤进化研究提供早期双重测序",
+    "Bayer wins FDA nod for a new kind of blood thinner": "拜耳赢得FDA对新型血液稀释剂的认可",
+    "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke": "STAT + ： FDA批准新型拜耳药物以减少卒中复发",
+    "How Cancer-Associated Gene Triggers Cell Division Without Unpacking the Genome": "癌症相关基因如何在不解压缩基因组的情况下触发细胞分裂",
+    "STAT+: Trump administration removes WuXi AppTec from its Chinese military list": "STAT + ：特朗普政府将无锡AppTec从中国军方名单中删除",
+    "How early efforts to build autonomous clinical AI tools are approaching regulation": "构建自主临床人工智能工具的早期努力如何接近监管",
+    "Trump’s drug pricing deals force tough choices on launches": "特朗普的药品定价协议迫使在发布时做出艰难的选择",
+    "FDA orders GLP-1 drugmakers to warn of rare eye disease": "FDA命令GLP-1制药商警告罕见眼病",
+    "STAT+: Bill Ackman’s bold plan to transform brain research": "STAT + ：比尔·阿克曼（ Bill Ackman ）改变大脑研究的大胆计划",
+    "US government removes WuXi AppTec from Chinese military list": "美国政府将无锡AppTec从中国军方名单中删除",
+    "Third Rock enters $2B partnership with AI-focused Chinese biotech": "Third Rock与专注于人工智能的中国生物技术公司建立了$ 2B的合作关系",
+    "STAT+: Hospitals win the midterms, and Chopping Very Strategically": "STAT + ：医院赢得期中考试，非常战略性地砍伐",
     "Vir hepatitis D drug succeeds in first pivotal study": "病毒性D型肝炎药物成功完成首项关键性研究",
     "STAT+: Heart association meeting’s readout is trending ‘neutral’": "STAT + ：心脏协会会议的读数呈“中性”趋势",
     "Argenx to buy peptide platform in potentially billion-dollar deal": "Argenx以潜在的十亿美元交易收购多肽平台",
@@ -93,25 +107,179 @@
     "Scientists discover hidden brain changes linked to common sleep disorders": "科学家发现隐藏的大脑变化与常见睡眠障碍有关",
     "Stronger flu shot linked to nearly 55% lower Alzheimer's risk": "更强的流感疫苗与降低近55%的阿尔茨海默氏症风险有关",
     "Scientists discover a hidden warning sign of cannabis addiction": "科学家发现大麻成瘾的隐藏警告信号",
-    "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice": "在研究和实践中，降低中风后或糖尿病患者的血压带来了挑战",
-    "FDA launches investigation of Novartis’ Zolgensma after cancer cases": "FDA在癌症病例后启动对诺华Zolgensma的调查",
-    "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries": "STAT + ： BIO加入了针对将药品价格与同行国家联系起来的Medicare试点的法律斗争",
-    "#AHA26: The similar, surprising Novo and Novartis heart drug failures spelled out": "# AHA26 ：类似的、令人惊讶的诺和诺华心脏药物失败",
-    "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy": "STAT + ：诺华Lp (a)药物的失败引发了有关心血管策略的问题",
-    "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories": "STAT + ：尽管NOVO药物失败了，但心脏病专家表示他们仍将寻求消炎药",
-    "Novo’s race to catch Lilly; Q3 earnings recap; and more": "NOVO追赶礼来的竞赛；第三季度收入回顾；以及更多",
-    "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk": "每天喝2–3杯咖啡，可显著降低痴呆风险",
-    "Church quits role at AI startup Radical, claims ‘sleazy’ behavior stole credit from partner": "Church辞去了在人工智能初创公司Radical的角色，声称“下流”的行为窃取了合作伙伴的信用",
-    "Magic mushrooms rewire the brain in a way scientists didn't expect": "神奇蘑菇以科学家意想不到的方式重新连接大脑",
-    "A compound hidden in broccoli could help fight a devastating genetic disease": "隐藏在西兰花中的化合物可以帮助对抗毁灭性的遗传疾病",
-    "The Aging Proteome: Clocks, Cohorts, and Clinical Trials": "衰老蛋白质组：时钟、队列和临床试验",
-    "STAT+: States sue Trump administration again to delay Medicaid work requirements": "STAT + ：各州再次起诉特朗普政府推迟医疗补助工作要求",
-    "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry": "STAT + ： MAHA领导人Calley指责白宫官员屈服于行业",
-    "Two incoming lawmakers plan to defend health equity from Trump administration cuts": "两名即将上任的立法者计划从特朗普政府的削减中捍卫健康公平"
+    "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice": "在研究和实践中，降低中风后或糖尿病患者的血压带来了挑战"
   },
   "items": [
     {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug",
+      "titleZh": "STAT + ： Ionis Pharmaceuticals股价在生物技术公司降甘油三酯药物缓慢推出后暴跌",
+      "link": "https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/?utm_campaign=rss",
+      "summary": "Ionis Pharmaceuticals lost more than $1 billion in market value on Monday after the company slashed sales projections for a triglyceride-lowering drug.",
+      "publishedAt": "2026-11-10T00:50:50+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Bayer wins FDA approval for stroke prevention drug Sunharbo",
+      "titleZh": "拜耳中风预防药物Sunharbo获得FDA批准",
+      "link": "https://endpoints.news/bayer-wins-fda-approval-for-stroke-prevention-drug-sunharbo/",
+      "summary": "Bayer’s asundexian won FDA approval to reduce the risk of stroke in people who recently had a mild-to-moderate non-cardioembolic ischemic stroke or a high-risk transient ischemic attack. The agency on Monday greenlit the drug in ...",
+      "publishedAt": "2026-11-10T00:12:58+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolution Research",
+      "titleZh": "Illumina为MRD、肿瘤进化研究提供早期双重测序",
+      "link": "https://www.genengnews.com/topics/omics/illumina-offers-early-access-to-duplex-sequencing-for-mrd-tumor-evolution-research/",
+      "summary": "Illumina has announced an early access program to a duplex sequencing workflow that reads both DNA strands to detect trace ctDNA in molecular residual disease and tumor evolution studies. Kits are expected in early 2027. The post Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolu",
+      "publishedAt": "2026-11-09T23:57:15+00:00"
+    },
+    {
       "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "Bayer wins FDA nod for a new kind of blood thinner",
+      "titleZh": "拜耳赢得FDA对新型血液稀释剂的认可",
+      "link": "https://www.biopharmadive.com/news/bayer-sunharbo-asundexian-fda-approve-stroke-factor-xi/872837/",
+      "summary": "Sunharbo&rsquo;s U.S. approval is the first for a &ldquo;Factor XIa&rdquo; inhibitor, an anticipated class of medicines seen as a possible step forward in stroke prevention.&nbsp;",
+      "publishedAt": "2026-11-09T22:40:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
+      "titleZh": "STAT + ： FDA批准新型拜耳药物以减少卒中复发",
+      "link": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss",
+      "summary": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.",
+      "publishedAt": "2026-11-09T22:28:43+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "审批",
+      "title": "How Cancer-Associated Gene Triggers Cell Division Without Unpacking the Genome",
+      "titleZh": "癌症相关基因如何在不解压缩基因组的情况下触发细胞分裂",
+      "link": "https://www.genengnews.com/topics/cancer/how-cancer-associated-gene-triggers-cell-division-without-unpacking-the-genome/",
+      "summary": "A study showed how E2F1 can trigger cell division without having to unpack the cell’s genetic material. Instead, it takes a shortcut path by binding directly to a small area of the DNA that remains tightly packaged inside the cell. The post How Cancer-Associated Gene Triggers Cell Division Without U",
+      "publishedAt": "2026-11-09T21:05:11+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "市场",
+      "title": "STAT+: Trump administration removes WuXi AppTec from its Chinese military list",
+      "titleZh": "STAT + ：特朗普政府将无锡AppTec从中国军方名单中删除",
+      "link": "https://www.statnews.com/pharmalot/2026/11/09/trump-administration-removes-wuxi-apptec-from-its-chinese-military-list/?utm_campaign=rss",
+      "summary": "The Trump administration has removed WuXi AppTec, a key partner for the pharma industry, from its list of “Chinese military companies” operating in the U.S.",
+      "publishedAt": "2026-11-09T20:51:50+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "How early efforts to build autonomous clinical AI tools are approaching regulation",
+      "titleZh": "构建自主临床人工智能工具的早期努力如何接近监管",
+      "link": "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/",
+      "summary": "Multiple teams participating in ARPA-H’s Advocate program have already had an initial informational meeting with the FDA, less than two months after the clinical AI initiative launched, ARPA-H program manager Haider Warraich said on Thursday. ...",
+      "publishedAt": "2026-11-09T20:40:03+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Trump’s drug pricing deals force tough choices on launches",
+      "titleZh": "特朗普的药品定价协议迫使在发布时做出艰难的选择",
+      "link": "https://endpoints.news/trumps-drug-pricing-deals-force-tough-choices-on-launches/",
+      "summary": "Companies that committed to President Donald Trump’s drug pricing policy now face difficult decisions when launching new medicines. The “most favored nation” (MFN) pricing policy seeks to tie US drug prices to those charged in ...",
+      "publishedAt": "2026-11-09T20:00:21+00:00"
+    },
+    {
+      "id": "endpoints-3",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA orders GLP-1 drugmakers to warn of rare eye disease",
+      "titleZh": "FDA命令GLP-1制药商警告罕见眼病",
+      "link": "https://endpoints.news/fda-orders-glp-1-drugmakers-to-warn-of-rare-eye-disease/",
+      "summary": "The FDA told GLP-1 drugmakers to update their product labels to reflect an increased risk of a rare eye condition that could lead to blindness. The agency said it was requiring companies to tack on ...",
+      "publishedAt": "2026-11-09T19:55:30+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Bill Ackman’s bold plan to transform brain research",
+      "titleZh": "STAT + ：比尔·阿克曼（ Bill Ackman ）改变大脑研究的大胆计划",
+      "link": "https://www.statnews.com/2026/11/09/bill-ackman-launches-new-brain-research-institute/?utm_campaign=rss",
+      "summary": "Billionaire Bill Ackman as a bold plan to transform brain research, spurred by a tragic backstory.",
+      "publishedAt": "2026-11-09T19:21:55+00:00"
+    },
+    {
+      "id": "endpoints-4",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "技术",
+      "title": "US government removes WuXi AppTec from Chinese military list",
+      "titleZh": "美国政府将无锡AppTec从中国军方名单中删除",
+      "link": "https://endpoints.news/us-government-removes-wuxi-apptec-from-chinese-military-list/",
+      "summary": "The Pentagon removed WuXi AppTec from its list of Chinese military companies, but there's still the risk of redesignation for the Shanghai service provider. The US deputy secretary of defense has decided to delist WuXi ...",
+      "publishedAt": "2026-11-09T18:54:47+00:00"
+    },
+    {
+      "id": "endpoints-5",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Third Rock enters $2B partnership with AI-focused Chinese biotech",
+      "titleZh": "Third Rock与专注于人工智能的中国生物技术公司建立了$ 2B的合作关系",
+      "link": "https://endpoints.news/third-rock-enters-2b-partnership-with-ai-focused-chinese-biotech/",
+      "summary": "Third Rock Ventures is betting up to $2.16 billion on a little-known Chinese biotech’s AI platform. Funnel Biosciences describes itself as an AI-driven biologics company. Under a research collaboration announced Friday ...",
+      "publishedAt": "2026-11-09T18:54:19+00:00"
+    },
+    {
+      "id": "stat-news-4",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Hospitals win the midterms, and Chopping Very Strategically",
+      "titleZh": "STAT + ：医院赢得期中考试，非常战略性地砍伐",
+      "link": "https://www.statnews.com/2026/11/09/midterm-elections-good-news-for-hospitals-cvs-breakup-explained/?utm_campaign=rss",
+      "summary": "We explain the CVS breakup, and why Democrats' election victories are good news for hospitals.",
+      "publishedAt": "2026-11-09T17:54:13+00:00"
+    },
+    {
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -123,7 +291,7 @@
       "publishedAt": "2026-11-09T17:09:00+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +303,7 @@
       "publishedAt": "2026-11-09T16:53:21+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -147,7 +315,7 @@
       "publishedAt": "2026-11-09T16:27:00+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -159,7 +327,7 @@
       "publishedAt": "2026-11-09T16:13:22+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +339,7 @@
       "publishedAt": "2026-11-09T16:01:05+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +351,7 @@
       "publishedAt": "2026-11-09T15:58:37+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +363,7 @@
       "publishedAt": "2026-11-09T15:56:55+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -207,7 +375,7 @@
       "publishedAt": "2026-11-09T15:37:00+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +387,7 @@
       "publishedAt": "2026-11-09T14:36:12+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -231,7 +399,7 @@
       "publishedAt": "2026-11-09T14:30:34+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +411,7 @@
       "publishedAt": "2026-11-09T14:30:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +423,7 @@
       "publishedAt": "2026-11-09T14:28:42+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +435,7 @@
       "publishedAt": "2026-11-09T14:00:44+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -279,7 +447,7 @@
       "publishedAt": "2026-11-09T14:00:17+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -291,7 +459,7 @@
       "publishedAt": "2026-11-09T13:55:53+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -303,7 +471,7 @@
       "publishedAt": "2026-11-09T13:44:28+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -315,7 +483,7 @@
       "publishedAt": "2026-11-09T13:43:26+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -327,7 +495,7 @@
       "publishedAt": "2026-11-09T13:27:09+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +531,7 @@
       "publishedAt": "2026-11-09T11:32:00+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -371,7 +539,7 @@
       "title": "Argenx to acquire Unnatural Products in deal worth up to $1.15B",
       "titleZh": "Argenx将以高达11.5亿美元的价格收购Unnatural Products",
       "link": "https://endpoints.news/argenx-to-acquire-unnatural-products-in-deal-worth-up-to-1-15b/",
-      "summary": "Argenx said Monday it will buy a macrocycle biotech that started out of a garage in a deal totaling up to about $1.15 billion. Argenx will pay $550 million upfront in cash with as much ...",
+      "summary": "Argenx said Monday it will buy a macrocycle biotech that started out of a garage, paying $550 million upfront in cash for Unnatural Products with as much as $595 million in milestone payments on the ...",
       "publishedAt": "2026-11-09T11:23:25+00:00"
     },
     {
@@ -399,7 +567,7 @@
       "publishedAt": "2026-11-09T10:33:23+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -411,7 +579,7 @@
       "publishedAt": "2026-11-09T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -423,7 +591,7 @@
       "publishedAt": "2026-11-09T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -435,7 +603,7 @@
       "publishedAt": "2026-11-09T10:00:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +615,7 @@
       "publishedAt": "2026-11-09T09:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +627,7 @@
       "publishedAt": "2026-11-09T09:30:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +639,7 @@
       "publishedAt": "2026-11-09T09:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +675,7 @@
       "publishedAt": "2026-11-09T01:45:17+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -531,7 +699,7 @@
       "publishedAt": "2026-11-08T23:24:50+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +723,7 @@
       "publishedAt": "2026-11-08T22:14:42+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -603,7 +771,7 @@
       "publishedAt": "2026-11-08T10:10:50+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +819,7 @@
       "publishedAt": "2026-11-08T01:27:46+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -663,73 +831,61 @@
       "publishedAt": "2026-11-07T21:39:02+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
       "title": "FDA launches investigation of Novartis’ Zolgensma after cancer cases",
-      "titleZh": "FDA在癌症病例后启动对诺华Zolgensma的调查",
+      "titleZh": "",
       "link": "https://endpoints.news/fda-launches-investigation-of-novartis-zolgensma-after-cancer-cases/",
       "summary": "The FDA is looking into a “serious risk” of cancer linked to Novartis’ spinal muscular atrophy gene therapy Zolgensma, the agency said Friday. It follows Novartis' disclosure Thursday ...",
       "publishedAt": "2026-11-07T21:12:08+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
       "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
-      "titleZh": "STAT + ： BIO加入了针对将药品价格与同行国家联系起来的Medicare试点的法律斗争",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
       "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
       "publishedAt": "2026-11-07T16:57:13+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "研发",
       "title": "#AHA26: The similar, surprising Novo and Novartis heart drug failures spelled out",
-      "titleZh": "# AHA26 ：类似的、令人惊讶的诺和诺华心脏药物失败",
+      "titleZh": "",
       "link": "https://endpoints.news/aha26-the-similar-surprising-novo-and-novartis-heart-drug-failures-spelled-out/",
       "summary": "The heart drug whose failure knocked 9% off Novo’s share price in July had almost no effect at all in its pivotal trial. And data on a cardiovascular candidate from Novartis, designed ...",
       "publishedAt": "2026-11-07T14:50:59+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
       "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
-      "titleZh": "STAT + ：诺华Lp (a)药物的失败引发了有关心血管策略的问题",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
       "summary": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.",
       "publishedAt": "2026-11-07T14:50:00+00:00"
     },
     {
-      "id": "stat-news-15",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
-      "titleZh": "STAT + ：尽管NOVO药物失败了，但心脏病专家表示他们仍将寻求消炎药",
-      "link": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
-      "summary": "“These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\"",
-      "publishedAt": "2026-11-07T14:35:00+00:00"
-    },
-    {
-      "id": "endpoints-10",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "市场",
       "title": "Novo’s race to catch Lilly; Q3 earnings recap; and more",
-      "titleZh": "NOVO追赶礼来的竞赛；第三季度收入回顾；以及更多",
+      "titleZh": "",
       "link": "https://endpoints.news/novos-race-to-catch-lilly-q3-earnings-recap-and-more/",
       "summary": "Welcome back to Endpoints Weekly. Democrats won control of Congress in a wave election on Tuesday. What does that mean for biopharma? Endpoints News’ Max Bayer and Drew Armstrong discussed the results with policy expert ...",
       "publishedAt": "2026-11-07T11:00:46+00:00"
@@ -741,19 +897,19 @@
       "lang": "en",
       "category": "研发",
       "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
-      "titleZh": "每天喝2–3杯咖啡，可显著降低痴呆风险",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
       "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic risk, but decaffeinated coffee did not show the same association.",
       "publishedAt": "2026-11-07T10:16:19+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "市场",
       "title": "Church quits role at AI startup Radical, claims ‘sleazy’ behavior stole credit from partner",
-      "titleZh": "Church辞去了在人工智能初创公司Radical的角色，声称“下流”的行为窃取了合作伙伴的信用",
+      "titleZh": "",
       "link": "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
       "summary": "George Church, the famed Harvard scientist, has advised startups pursuing everything from resurrecting extinct species to putting pig organs in humans. But he hasn’t witnessed anything quite like a bizarre fight to steal scientific credit ...",
       "publishedAt": "2026-11-07T00:52:09+00:00"
@@ -765,7 +921,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
-      "titleZh": "神奇蘑菇以科学家意想不到的方式重新连接大脑",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
       "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain ",
       "publishedAt": "2026-11-07T00:33:47+00:00"
@@ -777,73 +933,25 @@
       "lang": "en",
       "category": "研发",
       "title": "A compound hidden in broccoli could help fight a devastating genetic disease",
-      "titleZh": "隐藏在西兰花中的化合物可以帮助对抗毁灭性的遗传疾病",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm",
       "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists hope the discovery could lead to an affordable treatment, although clinical trial",
       "publishedAt": "2026-11-06T23:30:16+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "技术",
       "title": "The Aging Proteome: Clocks, Cohorts, and Clinical Trials",
-      "titleZh": "衰老蛋白质组：时钟、队列和临床试验",
+      "titleZh": "",
       "link": "https://www.genengnews.com/multimedia/webinars/the-aging-proteome-clocks-cohorts-and-clinical-trials/",
       "summary": "In this GEN webinar, two experts will show how ultra-sensitive, multiplexed proteomics can measure both the pace of aging and the effects of interventions designed to change it. The post The Aging Proteome: Clocks, Cohorts, and Clinical Trials appeared first on GEN - Genetic Engineering and Biotechn",
       "publishedAt": "2026-11-06T22:23:01+00:00"
     },
     {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
-      "titleZh": "STAT + ：各州再次起诉特朗普政府推迟医疗补助工作要求",
-      "link": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss",
-      "summary": "The Trump administration is facing another lawsuit over its sweeping changes to Medicaid less than a week after a federal judge ruled that implementation of work requirements would cause “irreparable&#8230;",
-      "publishedAt": "2026-11-06T22:05:39+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry",
-      "titleZh": "STAT + ： MAHA领导人Calley指责白宫官员屈服于行业",
-      "link": "https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss",
-      "summary": "Calley Means, a MAHA leader who just resigned from the Trump administration, says Americans \"are being duped and gaslighted and lied to.\"",
-      "publishedAt": "2026-11-06T21:55:21+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Two incoming lawmakers plan to defend health equity from Trump administration cuts",
-      "titleZh": "两名即将上任的立法者计划从特朗普政府的削减中捍卫健康公平",
-      "link": "https://www.statnews.com/2026/11/06/abdul-el-sayed-jasmine-clark-defend-health-equity-from-cuts/?utm_campaign=rss",
-      "summary": "Two newly elected lawmakers with science backgrounds hope to push back against Trump administration cuts to health equity programs.",
-      "publishedAt": "2026-11-06T21:46:55+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Democrats’ midterm landslide spells relief for hospitals",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/11/06/why-democrats-midterm-landslide-helps-hospital-industry/?utm_campaign=rss",
-      "summary": "Democrats are likely to focus on reversing Medicaid cuts and expanding insurance coverage, giving a boost to health care providers.",
-      "publishedAt": "2026-11-06T17:46:16+00:00"
-    },
-    {
-      "id": "endpoints-12",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -855,7 +963,7 @@
       "publishedAt": "2026-11-06T17:00:22+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -867,7 +975,7 @@
       "publishedAt": "2026-11-06T16:58:32+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -879,7 +987,7 @@
       "publishedAt": "2026-11-06T16:53:33+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -891,7 +999,7 @@
       "publishedAt": "2026-11-06T16:51:00+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -903,43 +1011,7 @@
       "publishedAt": "2026-11-06T16:42:35+00:00"
     },
     {
-      "id": "endpoints-14",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Satellos' new Duchenne study endpoint; Amgen's Repatha cuts heart attack risk",
-      "titleZh": "",
-      "link": "https://endpoints.news/satellos-new-duchenne-study-endpoint-amgens-repatha-cuts-heart-attack-risk/",
-      "summary": "Plus, news about MetaVia, Agios Pharmaceuticals and Inovio. Satellos Bioscience changes Duchenne study primary endpoint: The company is studying a small-molecule drug called forazapadin aimed at helping muscle repair and growth in boys with Duchenne ...",
-      "publishedAt": "2026-11-06T16:08:42+00:00"
-    },
-    {
-      "id": "endpoints-15",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Sarepta quits enrolling for confirmatory Phase 3 trial of Elevidys",
-      "titleZh": "",
-      "link": "https://endpoints.news/sarepta-quits-enrolling-for-confirmatory-phase-3-trial-of-elevidys/",
-      "summary": "Sarepta Therapeutics won’t enroll more patients in the Phase 3 trial of its Duchenne muscular dystrophy gene therapy Elevidys, a test that was meant to act as confirmatory evidence for an approval in older boys. ...",
-      "publishedAt": "2026-11-06T14:10:47+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "审批",
-      "title": "Why Glycosylation Control Is No Longer a Secondary Concern in the Development of Complex Biologics",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/bioprocessing/why-glycosylation-control-is-no-longer-a-secondary-concern-in-the-development-of-complex-biologics/",
-      "summary": "A priority shift is redefining expectations for contract development and manufacturing organizations (CDMOs). This article explains how CDMOs can efficiently move their glycosylation processes upstream using quality-by-design (QbD) methodologies. The post Why Glycosylation Control Is No Longer a Sec",
-      "publishedAt": "2026-11-06T13:56:24+00:00"
-    },
-    {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -951,31 +1023,7 @@
       "publishedAt": "2026-11-06T13:13:00+00:00"
     },
     {
-      "id": "endpoints-16",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Moderna notches small profit as it prioritizes work on cancer vaccines",
-      "titleZh": "",
-      "link": "https://endpoints.news/moderna-notches-small-profit-as-it-prioritizes-work-on-cancer-vaccines/",
-      "summary": "International Covid-19 vaccine sales helped propel Moderna to its first profitable quarter in two years, as its return to cancer leaps forward. “I don't normally use a lot of hyperbole, but it was a great ...",
-      "publishedAt": "2026-11-06T13:02:48+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Novo, Pfizer make CFO hires; Alnylam's chief commercial officer exits as struggles continue",
-      "titleZh": "",
-      "link": "https://endpoints.news/novo-pfizer-make-cfo-hires-alnylams-chief-commercial-officer-exits-as-struggles-continue/",
-      "summary": "→ As Endpoints News previously reported, Novo will soon have a new finance chief to help guide it as it tries to turn a corner. Luigi La Corte said in a ...",
-      "publishedAt": "2026-11-06T12:00:44+00:00"
-    },
-    {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -1011,18 +1059,6 @@
       "publishedAt": "2026-11-06T05:51:36+00:00"
     },
     {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Where DNA Copying Fails Can Decide How Cancer Cells Respond to PARP Inhibitors",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/cancer/where-dna-copying-fails-can-decide-how-cancer-cells-respond-to-parp-inhibitors/",
-      "summary": "NYU Grossman School of Medicine researchers found that DNA-copying problems at a small set of chromosome sites can determine how cancer cells respond to PARP inhibitors, pointing to possible biomarkers of drug sensitivity. The post Where DNA Copying Fails Can Decide How Cancer Cells Respond to PARP ",
-      "publishedAt": "2026-11-06T03:46:43+00:00"
-    },
-    {
       "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
@@ -1033,42 +1069,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
       "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women",
       "publishedAt": "2026-11-06T01:11:19+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Seven new tumor cases reported among patients on Novartis' Zolgensma gene therapy",
-      "titleZh": "",
-      "link": "https://endpoints.news/seven-new-tumor-cases-reported-in-zolgensma-patients/",
-      "summary": "Nine patients who have received Novartis' spinal muscular atrophy gene therapy Zolgensma have developed tumors following their treatment, the company confirmed Thursday. Seven of those cases were disclosed for the first time. Two may be ...",
-      "publishedAt": "2026-11-05T21:08:43+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "Medicare will cut billions from 340B, expand site-neutral payments in 2027",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
-      "summary": "Regulators finalized a rule Wednesday that would slash payments for drugs in the controversial 340B program and equalize some payments between care sites. Hospitals railed against the rule.",
-      "publishedAt": "2026-11-05T21:06:00+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Preeclampsia almost took her life and her baby's. Drugs are finally underway",
-      "titleZh": "",
-      "link": "https://endpoints.news/preeclampsia-almost-took-her-life-and-her-babys-drugs-are-finally-underway/",
-      "summary": "LAS CRUCES, NM — Emily Chaddock had hired a photographer to capture her in the classic maternity pose. But days later, at 27 weeks pregnant, she developed severe preeclampsia. Her blood vessels narrowed and her vision ...",
-      "publishedAt": "2026-11-05T20:52:52+00:00"
     },
     {
       "id": "nature-biotech-0",
