@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-10T17:42:40.192954+00:00",
+  "updatedAt": "2026-11-10T23:13:07.239938+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,12 @@
   ],
   "failedSources": [],
   "translations": {
+    "Despite midterm losses, RFK Jr. is bullish on MAHA's future": "尽管中期亏损，但小RFK看好MAHA的未来",
+    "PepGen soars on promising early data for muscular dystrophy drug": "PepGen迅猛发展肌营养不良药物的早期数据",
+    "STAT+: Wyden, Sanders hand-in-hand on ‘Medicare for All’ initiative": "STAT + ： Wyden和Sanders携手开展“全民医保”计划",
+    "Mirum plans FDA submission for hepatitis D treatment as competition brews": "随着竞争的酝酿， Mirum计划向FDA提交D型肝炎治疗",
+    "Oura to buy AI care startup Counsel Health for $625M": "Oura以6.25亿美元收购人工智能护理初创公司Counsel Health",
+    "STAT+: Former Eli Lilly rep claims she was fired for complaining about marketing of Mounjaro diabetes drug": "STAT + ：前礼来代表声称她因抱怨Mounjaro糖尿病药物的营销而被解雇",
     "How Breast Cancer Chemotherapy May Impact Biological Aging and Loss of Healthy Life Years": "乳腺癌化疗如何影响生物衰老和健康寿命的丧失",
     "STAT+: Men’s use of chatbots for therapy, and earnings season highlights": "STAT + ：男性使用聊天机器人进行治疗，以及财报季亮点",
     "Democrats ramp up oversight of MFN deals after midterm wins": "中期获胜后，民主党加强了对最惠国待遇交易的监督",
@@ -99,17 +105,83 @@
     "#AHA26: Boehringer to seek approval of obesity shot, but gaining market share could be tricky": "# AHA26 ：勃林格寻求肥胖疫苗的批准，但获得市场份额可能很棘手",
     "STAT+: FDA warns GLP-1 drugs carry potential risk of rare eye condition": "STAT + ： FDA警告GLP-1药物具有罕见眼部疾病的潜在风险",
     "Ramaswamy’s biotech baggage haunted his political run": "拉马斯瓦米的生物技术行李困扰着他的政治竞选",
-    "STAT+: Gene therapy’s long-debated cancer risk materializes": "STAT + ：基因疗法长期以来备受争议的癌症风险成为现实",
     "#AHA26: Lilly gets another sleep apnea win, this time with obesity pill": "# AHA26 ：莉莉再次获得睡眠呼吸暂停胜利，这次是肥胖药",
-    "STAT+: Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in studies": "STAT + ：礼来公司的GLP-1药丸Foundayo在研究中帮助缓解睡眠呼吸暂停",
-    "#AHA26: Marea’s triglyceride candidate could have an edge in diabetic patients": "# AHA26 ： Marea的甘油三酯候选药物在糖尿病患者中可能具有优势",
     "Childhood Cancers May Not Always Need Extra Mutations to Spread, Study Suggests": "研究表明，儿童癌症可能并不总是需要额外的突变才能扩散",
-    "New AI Models Are Turbo-Charging Protein Design": "新的人工智能模型是涡轮增压蛋白质设计",
-    "Zura reports Phase 2 flop in painful skin disorder, stock nosedives": "Zura报告疼痛性皮肤病的2期失败，股票暴跌",
-    "Common supplement could help fight psoriasis, scientists discover": "科学家发现，常见的补充剂可以帮助对抗牛皮癣",
-    "When your gut bacteria run out of fiber, they may start eating your gut lining": "当你的肠道细菌耗尽纤维时，它们可能会开始吃掉你的肠道内膜"
+    "New AI Models Are Turbo-Charging Protein Design": "新的人工智能模型是涡轮增压蛋白质设计"
   },
   "items": [
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Despite midterm losses, RFK Jr. is bullish on MAHA's future",
+      "titleZh": "尽管中期亏损，但小RFK看好MAHA的未来",
+      "link": "https://endpoints.news/despite-midterm-losses-rfk-jr-is-bullish-on-mahas-future/",
+      "summary": "Rumors and speculation have swirled all year about the fate of HHS Secretary Robert F. Kennedy Jr., the political face of the Make America Healthy Again movement. But, after a bruising midterm election for the ...",
+      "publishedAt": "2026-11-10T22:06:43+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "研发",
+      "title": "PepGen soars on promising early data for muscular dystrophy drug",
+      "titleZh": "PepGen迅猛发展肌营养不良药物的早期数据",
+      "link": "https://www.biopharmadive.com/news/pepgen-myotonic-dystrophy-dm1-drug-results-freedom/874249/",
+      "summary": "While from a small study, the findings suggest PepGen&rsquo;s therapy compares favorably to other RNA-based medicines in testing at Novartis and Dyne Therapeutics.&nbsp;",
+      "publishedAt": "2026-11-10T21:48:00+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Wyden, Sanders hand-in-hand on ‘Medicare for All’ initiative",
+      "titleZh": "STAT + ： Wyden和Sanders携手开展“全民医保”计划",
+      "link": "https://www.statnews.com/2026/11/10/dc-diagnosis-wyden-sanders-aligned-on-medicare-for-all/?utm_campaign=rss",
+      "summary": "Sen. Bernie Sanders said that he wants to lower the Medicare eligibility age by 10 years, among other initiatives.",
+      "publishedAt": "2026-11-10T20:05:20+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Mirum plans FDA submission for hepatitis D treatment as competition brews",
+      "titleZh": "随着竞争的酝酿， Mirum计划向FDA提交D型肝炎治疗",
+      "link": "https://endpoints.news/mirum-plans-fda-submission-for-hepatitis-d-treatment-as-competition-brews/",
+      "summary": "Mirum’s hepatitis D treatment has succeeded in the second of two pivotal trials. Now comes the next challenge: competing with rivals in a growing market. The Phase 3 trial, called AZURE-4, enrolled 113 treatment-naïve patients ...",
+      "publishedAt": "2026-11-10T19:31:21+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "技术",
+      "title": "Oura to buy AI care startup Counsel Health for $625M",
+      "titleZh": "Oura以6.25亿美元收购人工智能护理初创公司Counsel Health",
+      "link": "https://endpoints.news/oura-to-buy-ai-care-startup-counsel-health-for-625m/",
+      "summary": "Wearable ringmaker Oura is buying AI primary care startup Counsel Health. Oura is paying $625 million in cash for Counsel, which offers medical AI services as well as virtual visits with doctors. The idea is ...",
+      "publishedAt": "2026-11-10T19:00:02+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Former Eli Lilly rep claims she was fired for complaining about marketing of Mounjaro diabetes drug",
+      "titleZh": "STAT + ：前礼来代表声称她因抱怨Mounjaro糖尿病药物的营销而被解雇",
+      "link": "https://www.statnews.com/pharmalot/2026/11/10/former-lilly-rep-claims-she-was-fired-for-complaining-about-marketing-of-mounjaro-diabetes-drug/?utm_campaign=rss",
+      "summary": "A former Eli Lilly sales rep filed a lawsuit alleging she was fired after claiming the company was inappropriately promoting its Mounjaro diabetes drug to combat weight loss.",
+      "publishedAt": "2026-11-10T18:04:30+00:00"
+    },
     {
       "id": "gen-0",
       "source": "GEN",
@@ -123,7 +195,7 @@
       "publishedAt": "2026-11-10T17:26:51+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +207,7 @@
       "publishedAt": "2026-11-10T17:18:42+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -147,7 +219,7 @@
       "publishedAt": "2026-11-10T17:17:29+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +231,7 @@
       "publishedAt": "2026-11-10T17:14:42+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -231,7 +303,7 @@
       "publishedAt": "2026-11-10T16:52:57+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +315,7 @@
       "publishedAt": "2026-11-10T16:23:21+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +327,7 @@
       "publishedAt": "2026-11-10T16:09:58+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +339,7 @@
       "publishedAt": "2026-11-10T15:46:44+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -279,7 +351,7 @@
       "publishedAt": "2026-11-10T15:34:19+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +363,7 @@
       "publishedAt": "2026-11-10T14:38:29+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +375,7 @@
       "publishedAt": "2026-11-10T14:25:24+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -315,7 +387,7 @@
       "publishedAt": "2026-11-10T14:08:44+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +399,7 @@
       "publishedAt": "2026-11-10T13:38:35+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +411,7 @@
       "publishedAt": "2026-11-10T13:00:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +423,7 @@
       "publishedAt": "2026-11-10T12:49:35+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +435,7 @@
       "publishedAt": "2026-11-10T12:05:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +447,7 @@
       "publishedAt": "2026-11-10T09:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +459,7 @@
       "publishedAt": "2026-11-10T09:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +471,7 @@
       "publishedAt": "2026-11-10T09:30:00+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +483,7 @@
       "publishedAt": "2026-11-10T07:00:29+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -423,7 +495,7 @@
       "publishedAt": "2026-11-10T07:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -447,7 +519,7 @@
       "publishedAt": "2026-11-10T01:47:34+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +531,7 @@
       "publishedAt": "2026-11-10T00:50:50+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +567,7 @@
       "publishedAt": "2026-11-09T23:19:35+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -507,7 +579,7 @@
       "publishedAt": "2026-11-09T22:40:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +603,7 @@
       "publishedAt": "2026-11-09T21:05:11+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +615,7 @@
       "publishedAt": "2026-11-09T20:51:50+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -555,7 +627,7 @@
       "publishedAt": "2026-11-09T20:40:03+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -567,7 +639,7 @@
       "publishedAt": "2026-11-09T20:00:21+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -579,7 +651,7 @@
       "publishedAt": "2026-11-09T19:55:30+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +663,7 @@
       "publishedAt": "2026-11-09T19:21:55+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -603,7 +675,7 @@
       "publishedAt": "2026-11-09T18:54:47+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -615,7 +687,7 @@
       "publishedAt": "2026-11-09T18:54:19+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +699,7 @@
       "publishedAt": "2026-11-09T17:54:13+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -639,7 +711,7 @@
       "publishedAt": "2026-11-09T17:09:00+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +723,7 @@
       "publishedAt": "2026-11-09T16:53:21+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -663,7 +735,7 @@
       "publishedAt": "2026-11-09T16:27:00+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -675,7 +747,7 @@
       "publishedAt": "2026-11-09T16:13:22+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +759,7 @@
       "publishedAt": "2026-11-09T16:01:05+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,7 +771,7 @@
       "publishedAt": "2026-11-09T15:58:37+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -711,7 +783,7 @@
       "publishedAt": "2026-11-09T15:56:55+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -723,19 +795,7 @@
       "publishedAt": "2026-11-09T15:37:00+00:00"
     },
     {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Gene therapy’s long-debated cancer risk materializes",
-      "titleZh": "STAT + ：基因疗法长期以来备受争议的癌症风险成为现实",
-      "link": "https://www.statnews.com/2026/11/09/biotech-news-gene-therapy-long-debated-cancer-risk-materializes/?utm_campaign=rss",
-      "summary": "For years, gene therapy researchers debated whether the viruses they use to ferry replacement genes into cells could cause tumors. A small number of cases now offer strong evidence that&#8230;",
-      "publishedAt": "2026-11-09T14:36:12+00:00"
-    },
-    {
-      "id": "endpoints-16",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -745,30 +805,6 @@
       "link": "https://endpoints.news/aha26-lilly-gets-another-sleep-apnea-win-this-time-with-obesity-pill/",
       "summary": "Eli Lilly plans to seek approval of its obesity med in obstructive sleep apnea after a positive Phase 3 trial, potentially giving it a new way to compete with Novo's far-better-selling Wegovy ...",
       "publishedAt": "2026-11-09T14:30:34+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in studies",
-      "titleZh": "STAT + ：礼来公司的GLP-1药丸Foundayo在研究中帮助缓解睡眠呼吸暂停",
-      "link": "https://www.statnews.com/2026/11/09/eli-lilly-foundayo-sleep-apnea/?utm_campaign=rss",
-      "summary": "Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in two late-stage studies, but it doesn’t appear as effective as Lilly’s injectable drug Zepbound.",
-      "publishedAt": "2026-11-09T14:30:00+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "#AHA26: Marea’s triglyceride candidate could have an edge in diabetic patients",
-      "titleZh": "# AHA26 ： Marea的甘油三酯候选药物在糖尿病患者中可能具有优势",
-      "link": "https://endpoints.news/aha26-mareas-triglyceride-candidate-could-have-an-edge-in-diabetic-patients/",
-      "summary": "Marea Therapeutics' investigational lipid-lowering medicine has shown further promise in cutting triglycerides in patients with dangerously high levels of these fatty molecules in their blood. It also didn’t increase patients’ blood sugar — and that could ...",
-      "publishedAt": "2026-11-09T14:00:44+00:00"
     },
     {
       "id": "gen-8",
@@ -795,25 +831,13 @@
       "publishedAt": "2026-11-09T13:55:53+00:00"
     },
     {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Zura reports Phase 2 flop in painful skin disorder, stock nosedives",
-      "titleZh": "Zura报告疼痛性皮肤病的2期失败，股票暴跌",
-      "link": "https://endpoints.news/zura-reports-phase-2-flop-in-painful-skin-disorder-stock-nosedives/",
-      "summary": "A small biotech’s stock collapsed after the company reported a Phase 2 failure in a debilitating skin condition. Zura Bio said Monday morning that both doses of its experimental drug tibulizumab fared no better than ...",
-      "publishedAt": "2026-11-09T13:44:28+00:00"
-    },
-    {
       "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Common supplement could help fight psoriasis, scientists discover",
-      "titleZh": "科学家发现，常见的补充剂可以帮助对抗牛皮癣",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
       "summary": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human trial, revealing an unexpected connection between cholesterol",
       "publishedAt": "2026-11-09T11:44:20+00:00"
@@ -825,22 +849,10 @@
       "lang": "en",
       "category": "研发",
       "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
-      "titleZh": "当你的肠道细菌耗尽纤维时，它们可能会开始吃掉你的肠道内膜",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
       "summary": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant foods also help shift gut bacteria toward producing beneficial substances, revealin",
       "publishedAt": "2026-11-09T11:32:00+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Argenx to acquire Unnatural Products in deal worth up to $1.15B",
-      "titleZh": "",
-      "link": "https://endpoints.news/argenx-to-acquire-unnatural-products-in-deal-worth-up-to-1-15b/",
-      "summary": "Argenx said Monday it will buy a macrocycle biotech that started out of a garage, paying $550 million upfront in cash for Unnatural Products with as much as $595 million in milestone payments on the ...",
-      "publishedAt": "2026-11-09T11:23:25+00:00"
     },
     {
       "id": "science-daily-health-6",
@@ -867,7 +879,7 @@
       "publishedAt": "2026-11-09T10:33:23+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -879,7 +891,7 @@
       "publishedAt": "2026-11-09T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -888,18 +900,6 @@
       "titleZh": "",
       "link": "https://www.biopharmadive.com/spons/making-the-impossible-executable-in-life-sciences-construction/873537/",
       "summary": "Why early technical expertise matters when complex life sciences projects challenge convention.",
-      "publishedAt": "2026-11-09T10:00:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "State incentives for commercial-stage life sciences companies",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/spons/state-incentives-for-commercial-stage-life-sciences-companies/873753/",
-      "summary": "Factor incentives into expansion plans early to improve site decisions, manage commitments and free capital for what comes next.",
       "publishedAt": "2026-11-09T10:00:00+00:00"
     },
     {
@@ -1184,6 +1184,18 @@
       "sourceId": "nature-medicine",
       "lang": "en",
       "category": "审批",
+      "title": "Author Correction: Innate lymphoid cells in the initiation, regulation and resolution of inflammation",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04799-4",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "审批",
       "title": "A novel candidate biomarker for detecting premalignant and early ovarian cancer",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04755-2",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "Effects of semaglutide on cardiac structure and function in heart failure with preserved ejection fraction and obesity: a pre-specified cardiac magnetic resonance substudy of the CAMEO-SEMA trial",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04787-8",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "审批",
-      "title": "Hemodynamic effects of semaglutide in individuals with heart failure with preserved ejection fraction and obesity: a placebo-controlled randomized clinical trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04762-3",
       "summary": "",
       "publishedAt": ""
     }
