@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-10T01:27:40.327014+00:00",
+  "updatedAt": "2026-11-10T09:40:04.157391+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,9 +48,17 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people": "STAT + ：州民主党的胜利使医疗补助扩张成为100多万人的可能性",
+    "Opinion: AI’s health advice can be accurate and still make us sicker": "意见：人工智能的健康建议可能是准确的，但仍然会让我们病得更重",
+    "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now": "意见： STAT + ： BIO首席执行官：美国生物技术公司需要一个协调一致的计划来击败中国—现在",
+    "London startup raises $60M for degraders aimed at Alzheimer’s protein tau": "伦敦初创公司为针对阿尔茨海默氏症蛋白tau的降解剂筹集了6000万美元$",
+    "London biotech Oyster harvests $60M for tau-targeting brain drugs": "伦敦生物技术公司Oyster为tau靶向脑药物收获6000万美元$",
+    "BIO unveils plan for US to remain biotech’s ‘global leader’": "BIO公布美国继续保持生物技术“全球领导者”地位的计划",
+    "Alzheimer’s may have early warning signs outside the brain": "阿尔茨海默氏症可能有大脑外的早期预警信号",
     "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug": "STAT + ： Ionis Pharmaceuticals股价在生物技术公司降甘油三酯药物缓慢推出后暴跌",
     "Bayer wins FDA approval for stroke prevention drug Sunharbo": "拜耳中风预防药物Sunharbo获得FDA批准",
     "Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolution Research": "Illumina为MRD、肿瘤进化研究提供早期双重测序",
+    "Scientists finally discover why we learn to love bitter coffee": "科学家们终于发现为什么我们学会爱上苦咖啡",
     "Bayer wins FDA nod for a new kind of blood thinner": "拜耳赢得FDA对新型血液稀释剂的认可",
     "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke": "STAT + ： FDA批准新型拜耳药物以减少卒中复发",
     "How Cancer-Associated Gene Triggers Cell Division Without Unpacking the Genome": "癌症相关基因如何在不解压缩基因组的情况下触发细胞分裂",
@@ -99,19 +107,95 @@
     "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy": "科学家在每只接受新癌症治疗的小鼠身上消灭致命的脑肿瘤",
     "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders": "尽管对旁观者、应急人员进行了培训，但心脏骤停后的生存率并未改善",
     "Einstein's equations reveal how gravity could break, reconnect, and release energy": "爱因斯坦的方程揭示了引力如何破坏、重新连接和释放能量",
-    "Vir says hepatitis D drug combination succeeds in first pivotal study": "Vir称D型肝炎药物联合治疗成功完成首项关键性研究",
-    "A 24-hour fast triggers a surprising repair response in the gut": "24小时禁食触发肠道中令人惊讶的修复反应",
-    "MIT scientists turn immune cells into cancer killers inside the body": "麻省理工学院的科学家将免疫细胞转化为体内的癌症杀手",
-    "Low testosterone linked to 18% higher risk of dying from cancer": "低睾酮与癌症死亡风险增加18%相关",
-    "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype": "STAT + ：为什么最新的心脏药物失败应该使我们所有人对人工智能炒作更加怀疑",
-    "Scientists discover hidden brain changes linked to common sleep disorders": "科学家发现隐藏的大脑变化与常见睡眠障碍有关",
-    "Stronger flu shot linked to nearly 55% lower Alzheimer's risk": "更强的流感疫苗与降低近55%的阿尔茨海默氏症风险有关",
-    "Scientists discover a hidden warning sign of cannabis addiction": "科学家发现大麻成瘾的隐藏警告信号",
-    "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice": "在研究和实践中，降低中风后或糖尿病患者的血压带来了挑战"
+    "Vir says hepatitis D drug combination succeeds in first pivotal study": "Vir称D型肝炎药物联合治疗成功完成首项关键性研究"
   },
   "items": [
     {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people",
+      "titleZh": "STAT + ：州民主党的胜利使医疗补助扩张成为100多万人的可能性",
+      "link": "https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss",
+      "summary": "Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats take power.",
+      "publishedAt": "2026-11-10T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: AI’s health advice can be accurate and still make us sicker",
+      "titleZh": "意见：人工智能的健康建议可能是准确的，但仍然会让我们病得更重",
+      "link": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss",
+      "summary": "“Even a factually accurate health message can change behavior in ways that make people less healthy,” researchers write.",
+      "publishedAt": "2026-11-10T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now",
+      "titleZh": "意见： STAT + ： BIO首席执行官：美国生物技术公司需要一个协调一致的计划来击败中国—现在",
+      "link": "https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/?utm_campaign=rss",
+      "summary": "BIO CEO: “Today’s biotech race is our generation’s Space Race.”",
+      "publishedAt": "2026-11-10T09:30:00+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "London startup raises $60M for degraders aimed at Alzheimer’s protein tau",
+      "titleZh": "伦敦初创公司为针对阿尔茨海默氏症蛋白tau的降解剂筹集了6000万美元$",
+      "link": "https://endpoints.news/london-startup-raises-60m-for-degraders-aimed-at-alzheimers-protein-tau/",
+      "summary": "Oyster Therapeutics has raised $60 million to develop pills that destroy pathogenic forms of tau, a brain protein implicated in Alzheimer’s disease. The Series A-2 funding was led by life-science venture capital fund 4BIO Capital ...",
+      "publishedAt": "2026-11-10T07:00:29+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "研发",
+      "title": "London biotech Oyster harvests $60M for tau-targeting brain drugs",
+      "titleZh": "伦敦生物技术公司Oyster为tau靶向脑药物收获6000万美元$",
+      "link": "https://www.biopharmadive.com/news/oyster-venture-financing-tau-targeted-protein-degraders/874160/",
+      "summary": "Oyster says a tweak it&#39;s made to traditional protein degrading technology can help break down tau, which has long been a focus of Alzheimer&rsquo;s drug research.",
+      "publishedAt": "2026-11-10T07:00:00+00:00"
+    },
+    {
+      "id": "biopharma-dive-1",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "BIO unveils plan for US to remain biotech’s ‘global leader’",
+      "titleZh": "BIO公布美国继续保持生物技术“全球领导者”地位的计划",
+      "link": "https://www.biopharmadive.com/news/bio-bioadvance-proposal-us-trial-competition-china/874162/",
+      "summary": "A seven-part proposal from the prominent lobbyist lays out a series of initiatives to accelerate drug development in the U.S. and counter China&rsquo;s fast rise.",
+      "publishedAt": "2026-11-10T05:01:00+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Alzheimer’s may have early warning signs outside the brain",
+      "titleZh": "阿尔茨海默氏症可能有大脑外的早期预警信号",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+      "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involv",
+      "publishedAt": "2026-11-10T01:47:34+00:00"
+    },
+    {
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -123,7 +207,7 @@
       "publishedAt": "2026-11-10T00:50:50+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -147,7 +231,19 @@
       "publishedAt": "2026-11-09T23:57:15+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists finally discover why we learn to love bitter coffee",
+      "titleZh": "科学家们终于发现为什么我们学会爱上苦咖啡",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+      "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating hab",
+      "publishedAt": "2026-11-09T23:19:35+00:00"
+    },
+    {
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -159,7 +255,7 @@
       "publishedAt": "2026-11-09T22:40:00+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +279,7 @@
       "publishedAt": "2026-11-09T21:05:11+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +291,7 @@
       "publishedAt": "2026-11-09T20:51:50+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +303,7 @@
       "publishedAt": "2026-11-09T20:40:03+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +315,7 @@
       "publishedAt": "2026-11-09T20:00:21+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -231,7 +327,7 @@
       "publishedAt": "2026-11-09T19:55:30+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +339,7 @@
       "publishedAt": "2026-11-09T19:21:55+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +351,7 @@
       "publishedAt": "2026-11-09T18:54:47+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +363,7 @@
       "publishedAt": "2026-11-09T18:54:19+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +375,7 @@
       "publishedAt": "2026-11-09T17:54:13+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -291,7 +387,7 @@
       "publishedAt": "2026-11-09T17:09:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +399,7 @@
       "publishedAt": "2026-11-09T16:53:21+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -315,7 +411,7 @@
       "publishedAt": "2026-11-09T16:27:00+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -327,7 +423,7 @@
       "publishedAt": "2026-11-09T16:13:22+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +435,7 @@
       "publishedAt": "2026-11-09T16:01:05+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +447,7 @@
       "publishedAt": "2026-11-09T15:58:37+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +459,7 @@
       "publishedAt": "2026-11-09T15:56:55+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -375,7 +471,7 @@
       "publishedAt": "2026-11-09T15:37:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +483,7 @@
       "publishedAt": "2026-11-09T14:36:12+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -399,7 +495,7 @@
       "publishedAt": "2026-11-09T14:30:34+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +507,7 @@
       "publishedAt": "2026-11-09T14:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +519,7 @@
       "publishedAt": "2026-11-09T14:28:42+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -459,7 +555,7 @@
       "publishedAt": "2026-11-09T13:55:53+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +591,7 @@
       "publishedAt": "2026-11-09T13:27:09+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +603,7 @@
       "publishedAt": "2026-11-09T12:55:07+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -519,7 +615,7 @@
       "publishedAt": "2026-11-09T11:44:20+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -531,7 +627,7 @@
       "publishedAt": "2026-11-09T11:32:00+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -543,7 +639,7 @@
       "publishedAt": "2026-11-09T11:23:25+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -555,7 +651,7 @@
       "publishedAt": "2026-11-09T10:59:35+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -567,7 +663,7 @@
       "publishedAt": "2026-11-09T10:33:23+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -579,7 +675,7 @@
       "publishedAt": "2026-11-09T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -591,7 +687,7 @@
       "publishedAt": "2026-11-09T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -603,7 +699,7 @@
       "publishedAt": "2026-11-09T10:00:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -615,7 +711,7 @@
       "publishedAt": "2026-11-09T09:30:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +723,7 @@
       "publishedAt": "2026-11-09T09:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -639,7 +735,7 @@
       "publishedAt": "2026-11-09T09:30:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +747,7 @@
       "publishedAt": "2026-11-09T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -663,7 +759,7 @@
       "publishedAt": "2026-11-09T07:36:14+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -687,7 +783,7 @@
       "publishedAt": "2026-11-09T01:26:46+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -699,7 +795,7 @@
       "publishedAt": "2026-11-08T23:24:50+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -711,7 +807,7 @@
       "publishedAt": "2026-11-08T22:15:00+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -723,7 +819,7 @@
       "publishedAt": "2026-11-08T22:14:42+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -735,103 +831,79 @@
       "publishedAt": "2026-11-08T21:15:33+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "A 24-hour fast triggers a surprising repair response in the gut",
-      "titleZh": "24小时禁食触发肠道中令人惊讶的修复反应",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
       "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cancer therapy, potentially without requiring ",
       "publishedAt": "2026-11-08T11:06:30+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "技术",
       "title": "MIT scientists turn immune cells into cancer killers inside the body",
-      "titleZh": "麻省理工学院的科学家将免疫细胞转化为体内的癌症杀手",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
       "summary": "MIT scientists have developed nanoparticles that reprogram immune cells directly inside the body to attack cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments. The breakthrough could make powerful immune therapies dramatically simpler and less expensiv",
       "publishedAt": "2026-11-08T10:52:31+00:00"
     },
     {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Low testosterone linked to 18% higher risk of dying from cancer",
-      "titleZh": "低睾酮与癌症死亡风险增加18%相关",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012301.htm",
-      "summary": "A major international study tracking more than 26,000 men found that very low testosterone levels were associated with an 18% higher risk of dying from cancer later in life. Surprisingly, testosterone itself showed no clear link to prostate cancer, although two other sex hormones did. Researchers be",
-      "publishedAt": "2026-11-08T10:10:50+00:00"
-    },
-    {
-      "id": "stat-news-16",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "技术",
       "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
-      "titleZh": "STAT + ：为什么最新的心脏药物失败应该使我们所有人对人工智能炒作更加怀疑",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
       "summary": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat.",
       "publishedAt": "2026-11-08T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-17",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Scientists discover hidden brain changes linked to common sleep disorders",
-      "titleZh": "科学家发现隐藏的大脑变化与常见睡眠障碍有关",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
       "summary": "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions, potentially explaining why disrupted sleep can affect everyday thinking and behavior. The findings, drawn from 57 brain imaging studies, reve",
       "publishedAt": "2026-11-08T04:47:52+00:00"
+    },
+    {
+      "id": "science-daily-health-7",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+      "titleZh": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
+      "summary": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer's disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 and older and found that those who received a high-dose influenza vaccine had a nearl",
+      "publishedAt": "2026-11-08T02:52:28+00:00"
     },
     {
       "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
-      "category": "研发",
-      "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
-      "titleZh": "更强的流感疫苗与降低近55%的阿尔茨海默氏症风险有关",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
-      "summary": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer's disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 and older and found that those who received a high-dose influenza vaccine had a nearl",
-      "publishedAt": "2026-11-08T02:52:28+00:00"
-    },
-    {
-      "id": "science-daily-health-3",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
       "category": "技术",
       "title": "Scientists discover a hidden warning sign of cannabis addiction",
-      "titleZh": "科学家发现大麻成瘾的隐藏警告信号",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261106174520.htm",
       "summary": "A study of more than 17,700 US adults found that people who use cannabis in multiple forms have dramatically higher rates of daily consumption and addiction symptoms than those who stick primarily to one method. Nearly 67% of those who used almost every form met criteria for cannabis use disorder, c",
       "publishedAt": "2026-11-08T01:27:46+00:00"
     },
     {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
-      "titleZh": "在研究和实践中，降低中风后或糖尿病患者的血压带来了挑战",
-      "link": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
-      "summary": "High blood pressure is known as the silent killer. Researchers are finding new ways to fight back.",
-      "publishedAt": "2026-11-07T21:39:02+00:00"
-    },
-    {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -843,19 +915,7 @@
       "publishedAt": "2026-11-07T21:12:08+00:00"
     },
     {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
-      "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
-      "publishedAt": "2026-11-07T16:57:13+00:00"
-    },
-    {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -867,19 +927,7 @@
       "publishedAt": "2026-11-07T14:50:59+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
-      "summary": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.",
-      "publishedAt": "2026-11-07T14:50:00+00:00"
-    },
-    {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -891,7 +939,7 @@
       "publishedAt": "2026-11-07T11:00:46+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -903,7 +951,7 @@
       "publishedAt": "2026-11-07T10:16:19+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -915,7 +963,7 @@
       "publishedAt": "2026-11-07T00:52:09+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -925,18 +973,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
       "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain ",
       "publishedAt": "2026-11-07T00:33:47+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "A compound hidden in broccoli could help fight a devastating genetic disease",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm",
-      "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists hope the discovery could lead to an affordable treatment, although clinical trial",
-      "publishedAt": "2026-11-06T23:30:16+00:00"
     },
     {
       "id": "gen-7",
@@ -951,7 +987,7 @@
       "publishedAt": "2026-11-06T22:23:01+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -975,19 +1011,7 @@
       "publishedAt": "2026-11-06T16:58:32+00:00"
     },
     {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "J&J’s Rybrevant nets FDA approval in head and neck cancer",
-      "titleZh": "",
-      "link": "https://endpoints.news/jjs-rybrevant-nets-fda-approval-in-head-and-neck-cancer/",
-      "summary": "The FDA has granted accelerated approval to Johnson &amp; Johnson’s cancer shot Rybrevant in head and neck cancer that’s come back after previous chemotherapy and immunotherapy. The approval is the first in a decade for ...",
-      "publishedAt": "2026-11-06T16:53:33+00:00"
-    },
-    {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -1011,31 +1035,7 @@
       "publishedAt": "2026-11-06T16:42:35+00:00"
     },
     {
-      "id": "biopharma-dive-8",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "市场",
-      "title": "Lilly, Hims reach GLP-1 deal; Alnylam sales chief to step down",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/lilly-hims-alnylam-boehringer-ultragenyx-sevasemten-ani-egetis/873843/",
-      "summary": "The deal is part of a course change for Hims, which had previously sold knockoff GLP-1 drugs. Elsewhere, a medicine Servier&nbsp;recently acquired failed a key trial and Ultragenyx announced staff&nbsp;cuts.",
-      "publishedAt": "2026-11-06T13:13:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "市场",
-      "title": "This week in charts: 3 drug launches Wall Street is watching",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/biotech-charts-drug-launches-sales-wegovy-rezdiffra-auvelity/873549/",
-      "summary": "The latest installment in BioPharma Dive&rsquo;s visualization-focused series features a look at investors&rsquo; response to a trio of medicines highlighted in quarterly earnings this week.",
-      "publishedAt": "2026-11-06T12:00:00+00:00"
-    },
-    {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1047,7 +1047,7 @@
       "publishedAt": "2026-11-06T10:59:18+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1059,7 +1059,7 @@
       "publishedAt": "2026-11-06T05:51:36+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
