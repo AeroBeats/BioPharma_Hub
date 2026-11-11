@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-10T23:13:07.239938+00:00",
+  "updatedAt": "2026-11-11T05:59:35.437600+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: Democrats take new step toward investigating Trump’s drug pricing deals": "STAT + ：民主党人朝着调查特朗普的药品定价交易迈出了新的一步",
     "Despite midterm losses, RFK Jr. is bullish on MAHA's future": "尽管中期亏损，但小RFK看好MAHA的未来",
     "PepGen soars on promising early data for muscular dystrophy drug": "PepGen迅猛发展肌营养不良药物的早期数据",
     "STAT+: Wyden, Sanders hand-in-hand on ‘Medicare for All’ initiative": "STAT + ： Wyden和Sanders携手开展“全民医保”计划",
@@ -74,13 +75,16 @@
     "STAT+: Dutch antitrust regulators probe Biogen over test for its MS drug": "STAT + ：荷兰反垄断监管机构调查Biogen对其MS药物的测试",
     "STAT+: Pharma is a ‘mixed bag’ when providing drug access to low- and middle-income countries, analysis finds": "STAT + ：分析发现，在向低收入和中等收入国家提供药物时，制药是一个“混合袋”",
     "Why this year’s flu season could be hitting teens and young adults hard": "为什么今年的流感季节可能会对青少年和年轻人造成严重打击",
+    "Eating less protein could slow aging, review of 350 studies finds": "综述350项研究发现，少吃蛋白质可以延缓衰老",
     "STAT+: PepGen says early trial for muscular dystrophy drug looks promising": "STAT + ： PepGen表示，肌营养不良药物的早期试验看起来很有希望",
+    "Cancer uses antioxidants to disarm the immune system, scientists discover": "科学家发现，癌症使用抗氧化剂来解除免疫系统的武装",
     "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people": "STAT + ：州民主党的胜利使医疗补助扩张成为100多万人的可能性",
     "Opinion: AI’s health advice can be accurate and still make us sicker": "意见：人工智能的健康建议可能是准确的，但仍然会让我们病得更重",
     "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now": "意见： STAT + ： BIO首席执行官：美国生物技术公司需要一个协调一致的计划来击败中国—现在",
     "London startup raises $60M for degraders aimed at Alzheimer’s protein tau": "伦敦初创公司为针对阿尔茨海默氏症蛋白tau的降解剂筹集了6000万美元$",
     "London biotech Oyster harvests $60M for tau-targeting brain drugs": "伦敦生物技术公司Oyster为tau靶向脑药物收获6000万美元$",
     "BIO unveils plan for US to remain biotech’s ‘global leader’": "BIO公布美国继续保持生物技术“全球领导者”地位的计划",
+    "Why heart attacks can still happen even when bad cholesterol is low": "为什么即使坏胆固醇水平低，心脏病仍然会发作",
     "Alzheimer’s may have early warning signs outside the brain": "阿尔茨海默氏症可能有大脑外的早期预警信号",
     "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug": "STAT + ： Ionis Pharmaceuticals股价在生物技术公司降甘油三酯药物缓慢推出后暴跌",
     "Bayer wins FDA approval for stroke prevention drug Sunharbo": "拜耳中风预防药物Sunharbo获得FDA批准",
@@ -103,13 +107,21 @@
     "Heron sells assets to CorMedix for $145M upfront; Faeth's stock tumbles": "Heron以1.45亿美元的价格向CorMedix出售资产； Faeth的股票暴跌",
     "Neuroplastogen biotech Delix raises $100M Series C": "Neuroplastogen biotech Delix筹集了$ 1亿美元的C轮融资",
     "#AHA26: Boehringer to seek approval of obesity shot, but gaining market share could be tricky": "# AHA26 ：勃林格寻求肥胖疫苗的批准，但获得市场份额可能很棘手",
-    "STAT+: FDA warns GLP-1 drugs carry potential risk of rare eye condition": "STAT + ： FDA警告GLP-1药物具有罕见眼部疾病的潜在风险",
-    "Ramaswamy’s biotech baggage haunted his political run": "拉马斯瓦米的生物技术行李困扰着他的政治竞选",
-    "#AHA26: Lilly gets another sleep apnea win, this time with obesity pill": "# AHA26 ：莉莉再次获得睡眠呼吸暂停胜利，这次是肥胖药",
-    "Childhood Cancers May Not Always Need Extra Mutations to Spread, Study Suggests": "研究表明，儿童癌症可能并不总是需要额外的突变才能扩散",
-    "New AI Models Are Turbo-Charging Protein Design": "新的人工智能模型是涡轮增压蛋白质设计"
+    "Ramaswamy’s biotech baggage haunted his political run": "拉马斯瓦米的生物技术行李困扰着他的政治竞选"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "市场",
+      "title": "STAT+: Democrats take new step toward investigating Trump’s drug pricing deals",
+      "titleZh": "STAT + ：民主党人朝着调查特朗普的药品定价交易迈出了新的一步",
+      "link": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss",
+      "summary": "Incoming Democratic chairs of key committees have taken a step toward investigating MFN drug pricing agreements between drugmakers and the Trump administration.",
+      "publishedAt": "2026-11-10T23:55:00+00:00"
+    },
     {
       "id": "endpoints-0",
       "source": "Endpoints News",
@@ -135,7 +147,7 @@
       "publishedAt": "2026-11-10T21:48:00+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -171,7 +183,7 @@
       "publishedAt": "2026-11-10T19:00:02+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +207,7 @@
       "publishedAt": "2026-11-10T17:26:51+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +231,7 @@
       "publishedAt": "2026-11-10T17:17:29+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +363,7 @@
       "publishedAt": "2026-11-10T15:34:19+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +375,7 @@
       "publishedAt": "2026-11-10T14:38:29+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +399,7 @@
       "publishedAt": "2026-11-10T14:08:44+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +411,7 @@
       "publishedAt": "2026-11-10T13:38:35+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +423,7 @@
       "publishedAt": "2026-11-10T13:00:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +435,19 @@
       "publishedAt": "2026-11-10T12:49:35+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "science-daily-health-5",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Eating less protein could slow aging, review of 350 studies finds",
+      "titleZh": "综述350项研究发现，少吃蛋白质可以延缓衰老",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108203714.htm",
+      "summary": "A major review of more than 350 studies suggests that eating less protein could slow aging, improve metabolic health, and potentially extend lifespan, challenging the widespread belief that more protein is always better. Researchers warn that many sedentary adults may be consuming too much protein, ",
+      "publishedAt": "2026-11-10T12:48:16+00:00"
+    },
+    {
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +459,19 @@
       "publishedAt": "2026-11-10T12:05:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "science-daily-health-15",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Cancer uses antioxidants to disarm the immune system, scientists discover",
+      "titleZh": "科学家发现，癌症使用抗氧化剂来解除免疫系统的武装",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084021.htm",
+      "summary": "Scientists have discovered that tumors release natural antioxidants to shut down the immune cells responsible for destroying cancer, exploiting a surprising weakness in the body's defenses. Blocking this mechanism in mice restored immune activity and improved immunotherapy responses, potentially ope",
+      "publishedAt": "2026-11-10T11:33:52+00:00"
+    },
+    {
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +483,7 @@
       "publishedAt": "2026-11-10T09:30:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +495,7 @@
       "publishedAt": "2026-11-10T09:30:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -511,6 +547,18 @@
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
+      "category": "审批",
+      "title": "Why heart attacks can still happen even when bad cholesterol is low",
+      "titleZh": "为什么即使坏胆固醇水平低，心脏病仍然会发作",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
+      "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond choleste",
+      "publishedAt": "2026-11-10T01:54:15+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
       "category": "研发",
       "title": "Alzheimer’s may have early warning signs outside the brain",
       "titleZh": "阿尔茨海默氏症可能有大脑外的早期预警信号",
@@ -519,7 +567,7 @@
       "publishedAt": "2026-11-10T01:47:34+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +603,7 @@
       "publishedAt": "2026-11-09T23:57:15+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -579,7 +627,7 @@
       "publishedAt": "2026-11-09T22:40:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +651,7 @@
       "publishedAt": "2026-11-09T21:05:11+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +699,7 @@
       "publishedAt": "2026-11-09T19:55:30+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -687,7 +735,7 @@
       "publishedAt": "2026-11-09T18:54:19+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -711,7 +759,7 @@
       "publishedAt": "2026-11-09T17:09:00+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -771,18 +819,6 @@
       "publishedAt": "2026-11-09T15:58:37+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: FDA warns GLP-1 drugs carry potential risk of rare eye condition",
-      "titleZh": "STAT + ： FDA警告GLP-1药物具有罕见眼部疾病的潜在风险",
-      "link": "https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/?utm_campaign=rss",
-      "summary": "The FDA on Monday warned that GLP-1 drugs carry a potential risk for a rare but serious eye condition that's sometimes referred to as an \"eye stroke.\"",
-      "publishedAt": "2026-11-09T15:56:55+00:00"
-    },
-    {
       "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
@@ -801,7 +837,7 @@
       "lang": "en",
       "category": "审批",
       "title": "#AHA26: Lilly gets another sleep apnea win, this time with obesity pill",
-      "titleZh": "# AHA26 ：莉莉再次获得睡眠呼吸暂停胜利，这次是肥胖药",
+      "titleZh": "",
       "link": "https://endpoints.news/aha26-lilly-gets-another-sleep-apnea-win-this-time-with-obesity-pill/",
       "summary": "Eli Lilly plans to seek approval of its obesity med in obstructive sleep apnea after a positive Phase 3 trial, potentially giving it a new way to compete with Novo's far-better-selling Wegovy ...",
       "publishedAt": "2026-11-09T14:30:34+00:00"
@@ -813,7 +849,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Childhood Cancers May Not Always Need Extra Mutations to Spread, Study Suggests",
-      "titleZh": "研究表明，儿童癌症可能并不总是需要额外的突变才能扩散",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/cancer/childhood-cancers-may-not-always-need-extra-mutations-to-spread-study-suggests/",
       "summary": "Childhood cancers may not always need extra mutations to spread, a new review study indicates. Instead, developmental plasticity may let tumor cells shape-shift into states that help them grow, resist treatment, and ultimately metastasize. The post Childhood Cancers May Not Always Need Extra Mutatio",
       "publishedAt": "2026-11-09T14:00:17+00:00"
@@ -825,13 +861,13 @@
       "lang": "en",
       "category": "技术",
       "title": "New AI Models Are Turbo-Charging Protein Design",
-      "titleZh": "新的人工智能模型是涡轮增压蛋白质设计",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/artificial-intelligence/new-ai-models-are-turbo-charging-protein-design/",
       "summary": "Computer-designed protein therapeutics move from proof-of-concept to wet-lab validation and even clinical trials as the field heats up. The post New AI Models Are Turbo-Charging Protein Design appeared first on GEN - Genetic Engineering and Biotechnology News.",
       "publishedAt": "2026-11-09T13:55:53+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -843,7 +879,7 @@
       "publishedAt": "2026-11-09T11:44:20+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -855,7 +891,7 @@
       "publishedAt": "2026-11-09T11:32:00+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -867,7 +903,7 @@
       "publishedAt": "2026-11-09T10:59:35+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -903,7 +939,7 @@
       "publishedAt": "2026-11-09T10:00:00+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,7 +951,7 @@
       "publishedAt": "2026-11-09T07:36:14+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,19 +963,7 @@
       "publishedAt": "2026-11-09T01:45:17+00:00"
     },
     {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm",
-      "summary": "Scientists at UC San Francisco have developed a powerful new cancer therapy that remains inactive until it reaches the brain, where it switches on to attack deadly tumors. The engineered immune cells, called B-SYNC CAR-T cells, completely eliminated diffuse midline glioma (DMG), an aggressive childh",
-      "publishedAt": "2026-11-08T23:24:50+00:00"
-    },
-    {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -951,7 +975,7 @@
       "publishedAt": "2026-11-08T22:14:42+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -963,7 +987,7 @@
       "publishedAt": "2026-11-08T11:06:30+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,19 +999,7 @@
       "publishedAt": "2026-11-08T10:52:31+00:00"
     },
     {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover hidden brain changes linked to common sleep disorders",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
-      "summary": "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions, potentially explaining why disrupted sleep can affect everyday thinking and behavior. The findings, drawn from 57 brain imaging studies, reve",
-      "publishedAt": "2026-11-08T04:47:52+00:00"
-    },
-    {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -999,7 +1011,7 @@
       "publishedAt": "2026-11-08T02:52:28+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1011,7 +1023,7 @@
       "publishedAt": "2026-11-08T01:27:46+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1023,19 +1035,7 @@
       "publishedAt": "2026-11-07T10:16:19+00:00"
     },
     {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
-      "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain ",
-      "publishedAt": "2026-11-07T00:33:47+00:00"
-    },
-    {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1047,7 +1047,7 @@
       "publishedAt": "2026-11-06T10:59:18+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1059,7 +1059,7 @@
       "publishedAt": "2026-11-06T05:51:36+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
