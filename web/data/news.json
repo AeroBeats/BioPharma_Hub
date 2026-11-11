@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-11T14:06:14.991351+00:00",
+  "updatedAt": "2026-11-11T21:52:38.772660+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,8 +48,20 @@
   ],
   "failedSources": [],
   "translations": {
+    "All of Us study finds thousands of new genetic variants affecting drug responses": "“我们所有人”研究发现数千种影响药物反应的新基因变异",
+    "Neurosterix pulls in $105M for schizophrenia drug, taps Cobenfy vets": "Neurosterix为精神分裂症药物筹集1.05亿美元，并聘请Cobenfy资深人士",
+    "How Hims plans to revive its business after pivoting to branded GLP-1s": "Hims 在转向品牌 GLP-1 药物后，计划如何重振业务",
+    "STAT+: Most-favored nations policy makes drugmakers rethink launches abroad": "STAT+：最惠国政策迫使制药商重新考虑在海外上市",
+    "Opinion: What MAHA’s support for Russell Brand tells us about the movement": "观点：MAHA对罗素·布兰德的支持向我们揭示了该运动的哪些信息",
+    "Drug price hikes in Germany could push US costs higher, study says": "研究表明，德国药品价格上涨可能会推高美国的成本",
+    "STAT+: BMI alternative would flip obesity diagnosis for millions, study finds": "STAT+：研究发现，BMI替代指标将改变数百万人的肥胖症诊断",
+    "Flagship merges two startups; J&J scores a bipolar mania success": "Flagship 合并了两家初创公司；强生在双极性躁狂症领域取得成功",
+    "STAT+: Why this former ER doc thinks giving AI less information is sometimes better": "STAT+：为什么这位前急诊室医生认为有时给人工智能提供的信息越少越好",
+    "STAT+: Cassidy sets key vote on Overton, even as he remains undecided on nominee to lead FDA": "STAT+：尽管卡西迪参议员仍未决定谁来领导FDA，但他已将欧弗顿的表决定为关键表决",
+    "STAT+: Pharmalittle: We’re reading about Dems eyeing Trump MFN deals, fewer drug launches in Europe, and more": "STAT+：Pharmalittle：我们正在阅读有关民主党人关注特朗普最惠国待遇协议、欧洲新药上市数量减少等内容",
     "Beeline reveals Phase 2 lupus data from old Bristol Myers drug": "Beeline显示来自老布里斯托尔迈尔斯药物的2期狼疮数据",
     "UK science minister calls for more life sciences investment": "英国科学大臣呼吁加大生命科学投资",
+    "AstraZeneca buys vaccine startup; FDA issues GLP-1 safety warning": "阿斯利康收购疫苗初创公司；FDA发布GLP-1安全警告",
     "Energy drinks linked to 11 times more reports of cardiac arrest": "能量饮料与11倍的心脏骤停报告相关",
     "VectorY bags $83.5M for antibody gene therapies in neurodegenerative diseases": "VectorY获得$ 8350万，用于神经退行性疾病的抗体基因疗法",
     "Obesity linked to up to 27% lower risk of death in dementia": "肥胖与痴呆死亡风险降低高达27%相关",
@@ -87,31 +99,151 @@
     "STAT+: Pharmalittle: We’re reading about an approval for novel drug for strokes, a warning for GLP-1 drugs, and more": "STAT + ： Pharmalittle ：我们正在阅读有关中风新药批准、GLP-1药物警告等信息",
     "OpenAI's head of health talks helping patients take action": "OpenAI的健康主管会谈帮助患者采取行动",
     "STAT+: Dutch antitrust regulators probe Biogen over test for its MS drug": "STAT + ：荷兰反垄断监管机构调查Biogen对其MS药物的测试",
-    "STAT+: Pharma is a ‘mixed bag’ when providing drug access to low- and middle-income countries, analysis finds": "STAT + ：分析发现，在向低收入和中等收入国家提供药物时，制药是一个“混合袋”",
-    "Why this year’s flu season could be hitting teens and young adults hard": "为什么今年的流感季节可能会对青少年和年轻人造成严重打击",
     "Eating less protein could slow aging, review of 350 studies finds": "综述350项研究发现，少吃蛋白质可以延缓衰老",
-    "STAT+: PepGen says early trial for muscular dystrophy drug looks promising": "STAT + ： PepGen表示，肌营养不良药物的早期试验看起来很有希望",
-    "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people": "STAT + ：州民主党的胜利使医疗补助扩张成为100多万人的可能性",
-    "Opinion: AI’s health advice can be accurate and still make us sicker": "意见：人工智能的健康建议可能是准确的，但仍然会让我们病得更重",
-    "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now": "意见： STAT + ： BIO首席执行官：美国生物技术公司需要一个协调一致的计划来击败中国—现在",
     "London startup raises $60M for degraders aimed at Alzheimer’s protein tau": "伦敦初创公司为针对阿尔茨海默氏症蛋白tau的降解剂筹集了6000万美元$",
     "London biotech Oyster harvests $60M for tau-targeting brain drugs": "伦敦生物技术公司Oyster为tau靶向脑药物收获6000万美元$",
     "BIO unveils plan for US to remain biotech’s ‘global leader’": "BIO公布美国继续保持生物技术“全球领导者”地位的计划",
     "Why heart attacks can still happen even when bad cholesterol is low": "为什么即使坏胆固醇水平低，心脏病仍然会发作",
     "Alzheimer’s may have early warning signs outside the brain": "阿尔茨海默氏症可能有大脑外的早期预警信号",
-    "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug": "STAT + ： Ionis Pharmaceuticals股价在生物技术公司降甘油三酯药物缓慢推出后暴跌",
     "Bayer wins FDA approval for stroke prevention drug Sunharbo": "拜耳中风预防药物Sunharbo获得FDA批准",
     "Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolution Research": "Illumina为MRD、肿瘤进化研究提供早期双重测序",
-    "Scientists finally discover why we learn to love bitter coffee": "科学家们终于发现为什么我们学会爱上苦咖啡",
-    "Bayer wins FDA nod for a new kind of blood thinner": "拜耳赢得FDA对新型血液稀释剂的认可",
-    "How Cancer-Associated Gene Triggers Cell Division Without Unpacking the Genome": "癌症相关基因如何在不解压缩基因组的情况下触发细胞分裂",
-    "How early efforts to build autonomous clinical AI tools are approaching regulation": "构建自主临床人工智能工具的早期努力如何接近监管",
-    "Trump’s drug pricing deals force tough choices on launches": "特朗普的药品定价协议迫使在发布时做出艰难的选择",
-    "FDA orders GLP-1 drugmakers to warn of rare eye disease": "FDA命令GLP-1制药商警告罕见眼病"
+    "Scientists finally discover why we learn to love bitter coffee": "科学家们终于发现为什么我们学会爱上苦咖啡"
   },
   "items": [
     {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "All of Us study finds thousands of new genetic variants affecting drug responses",
+      "titleZh": "“我们所有人”研究发现数千种影响药物反应的新基因变异",
+      "link": "https://www.statnews.com/2026/11/11/all-of-us-study-finds-gene-variants-drug-responses/?utm_campaign=rss",
+      "summary": "A study of nearly 100,000 diverse Americans identified thousands of new variants in genes that influence our responses to prescription drugs",
+      "publishedAt": "2026-11-11T21:37:27+00:00"
+    },
+    {
       "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "Neurosterix pulls in $105M for schizophrenia drug, taps Cobenfy vets",
+      "titleZh": "Neurosterix为精神分裂症药物筹集1.05亿美元，并聘请Cobenfy资深人士",
+      "link": "https://endpoints.news/neurosterix-pulls-in-105m-for-schizophrenia-drug-recruits-cobenfy-vets/",
+      "summary": "Neurosterix, which is reuniting some key figures behind Cobenfy, has corralled $105 million in a Series B to fund its lead schizophrenia candidate that hits one of the targets of Bristol Myers Squibb’s drug. The ...",
+      "publishedAt": "2026-11-11T21:00:55+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "How Hims plans to revive its business after pivoting to branded GLP-1s",
+      "titleZh": "Hims 在转向品牌 GLP-1 药物后，计划如何重振业务",
+      "link": "https://endpoints.news/how-hims-plans-to-revive-its-business-after-pivoting-to-branded-glp-1s/",
+      "summary": "Hims &amp; Hers, once obsessed with delivering \"personalized care\" through compounded drug products, is now banking on brand-name treatments and the pharmaceutical giants it previously tried to undercut. Hims struck a deal with Eli Lilly ...",
+      "publishedAt": "2026-11-11T20:20:26+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "市场",
+      "title": "STAT+: Most-favored nations policy makes drugmakers rethink launches abroad",
+      "titleZh": "STAT+：最惠国政策迫使制药商重新考虑在海外上市",
+      "link": "https://www.statnews.com/2026/11/11/biotech-news-mfn-makes-drugmakers-rethink-launches-abroad/?utm_campaign=rss",
+      "summary": "Drug companies seem to be looking for workarounds to protect their U.S. sales against Trump's \"most-favored nations\" policy:",
+      "publishedAt": "2026-11-11T19:44:07+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: What MAHA’s support for Russell Brand tells us about the movement",
+      "titleZh": "观点：MAHA对罗素·布兰德的支持向我们揭示了该运动的哪些信息",
+      "link": "https://www.statnews.com/2026/11/11/maha-russell-brand-conviction-violence-rfk-jr/?utm_campaign=rss",
+      "summary": "“The alliance between MAHA and Russell Brand is not an aberration,” writes Gavin Yamey.",
+      "publishedAt": "2026-11-11T17:47:53+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "Drug price hikes in Germany could push US costs higher, study says",
+      "titleZh": "研究表明，德国药品价格上涨可能会推高美国的成本",
+      "link": "https://www.biopharmadive.com/news/germany-us-drug-price-study-healthcare-costs/874360/",
+      "summary": "The report comes amid escalating tensions between the U.S. and Germany over drug prices, with several large pharmaceutical companies responding by scaling back investments in the country.",
+      "publishedAt": "2026-11-11T16:11:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: BMI alternative would flip obesity diagnosis for millions, study finds",
+      "titleZh": "STAT+：研究发现，BMI替代指标将改变数百万人的肥胖症诊断",
+      "link": "https://www.statnews.com/2026/11/11/obesity-diagnosis-bmi-lancet-commission-proposal-impact/?utm_campaign=rss",
+      "summary": "A newly proposed way of identifying obesity could flip the diagnoses of millions of people. Proponents argue it could lead to more precise care.",
+      "publishedAt": "2026-11-11T16:00:00+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Flagship merges two startups; J&J scores a bipolar mania success",
+      "titleZh": "Flagship 合并了两家初创公司；强生在双极性躁狂症领域取得成功",
+      "link": "https://endpoints.news/flagship-merges-two-startups-jj-scores-a-bipolar-mania-success/",
+      "summary": "Plus, news about AstraZeneca, BrightGene, PepGen and Prime Medicine. Another Flagship merger: Valo Health and Montai Therapeutics, two Flagship Pioneering startups, are combining into one company. The merged company will operate ...",
+      "publishedAt": "2026-11-11T15:44:23+00:00"
+    },
+    {
+      "id": "stat-news-4",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
+      "title": "STAT+: Why this former ER doc thinks giving AI less information is sometimes better",
+      "titleZh": "STAT+：为什么这位前急诊室医生认为有时给人工智能提供的信息越少越好",
+      "link": "https://www.statnews.com/2026/11/11/mdcalc-cofounder-graham-walker-on-crosscover-ai-prognosis/?utm_campaign=rss",
+      "summary": "In this edition of AI Prognosis: A conversation with Graham Walker, co-founder of MDCalc, about the company's new AI tool.",
+      "publishedAt": "2026-11-11T15:20:23+00:00"
+    },
+    {
+      "id": "stat-news-5",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Cassidy sets key vote on Overton, even as he remains undecided on nominee to lead FDA",
+      "titleZh": "STAT+：尽管卡西迪参议员仍未决定谁来领导FDA，但他已将欧弗顿的表决定为关键表决",
+      "link": "https://www.statnews.com/2026/11/11/fda-commissioner-nominee-heidi-overton-senate-committee-vote/?utm_campaign=rss",
+      "summary": "Cassidy said he and other GOP lawmakers are undecided on Heidi Overton to lead the FDA.",
+      "publishedAt": "2026-11-11T15:07:28+00:00"
+    },
+    {
+      "id": "stat-news-6",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "市场",
+      "title": "STAT+: Pharmalittle: We’re reading about Dems eyeing Trump MFN deals, fewer drug launches in Europe, and more",
+      "titleZh": "STAT+：Pharmalittle：我们正在阅读有关民主党人关注特朗普最惠国待遇协议、欧洲新药上市数量减少等内容",
+      "link": "https://www.statnews.com/pharmalot/2026/11/11/dems-eye-trump-mfn-deals-fewer-drug-launches-in-europe/?utm_campaign=rss",
+      "summary": "Incoming Democratic chairs of key congressional committees have taken a new step toward investigating most-favored nation drug pricing agreements",
+      "publishedAt": "2026-11-11T14:34:28+00:00"
+    },
+    {
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -123,7 +255,7 @@
       "publishedAt": "2026-11-11T14:00:48+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -133,6 +265,18 @@
       "link": "https://endpoints.news/uk-science-minister-calls-for-more-life-sciences-investment/",
       "summary": "Now that the UK government has increased its spending on medicines, it’s calling for life sciences companies to do their part and invest on home soil. “We are determined to ensure that the UK is ...",
       "publishedAt": "2026-11-11T13:52:49+00:00"
+    },
+    {
+      "id": "biopharma-dive-1",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "AstraZeneca buys vaccine startup; FDA issues GLP-1 safety warning",
+      "titleZh": "阿斯利康收购疫苗初创公司；FDA发布GLP-1安全警告",
+      "link": "https://www.biopharmadive.com/news/glp1-naion-compass-zura-abeona/874076/",
+      "summary": "The deal gives AstraZeneca a simpler way to make conjugate vaccines. Elsewhere, a psychedelic depression drug was submitted to the FDA and an autoimmune disease-focused biotech&rsquo;s shares collapsed.",
+      "publishedAt": "2026-11-11T13:42:00+00:00"
     },
     {
       "id": "science-daily-health-0",
@@ -147,7 +291,7 @@
       "publishedAt": "2026-11-11T13:10:51+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +315,7 @@
       "publishedAt": "2026-11-11T12:59:57+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +339,7 @@
       "publishedAt": "2026-11-11T12:10:47+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +351,7 @@
       "publishedAt": "2026-11-11T11:57:06+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +363,7 @@
       "publishedAt": "2026-11-11T09:30:00+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +375,7 @@
       "publishedAt": "2026-11-11T09:30:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +387,7 @@
       "publishedAt": "2026-11-11T09:30:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +423,7 @@
       "publishedAt": "2026-11-11T03:47:25+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +435,7 @@
       "publishedAt": "2026-11-10T23:55:00+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -303,7 +447,7 @@
       "publishedAt": "2026-11-10T22:06:43+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -315,7 +459,7 @@
       "publishedAt": "2026-11-10T21:48:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +471,7 @@
       "publishedAt": "2026-11-10T20:05:20+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +483,7 @@
       "publishedAt": "2026-11-10T19:31:21+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +495,7 @@
       "publishedAt": "2026-11-10T19:00:02+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +519,7 @@
       "publishedAt": "2026-11-10T17:26:51+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +531,7 @@
       "publishedAt": "2026-11-10T17:18:42+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -399,7 +543,7 @@
       "publishedAt": "2026-11-10T17:17:29+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +555,7 @@
       "publishedAt": "2026-11-10T17:14:42+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -483,7 +627,7 @@
       "publishedAt": "2026-11-10T16:52:57+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +639,7 @@
       "publishedAt": "2026-11-10T16:23:21+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -507,7 +651,7 @@
       "publishedAt": "2026-11-10T16:09:58+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -519,7 +663,7 @@
       "publishedAt": "2026-11-10T15:46:44+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -531,7 +675,7 @@
       "publishedAt": "2026-11-10T15:34:19+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +687,7 @@
       "publishedAt": "2026-11-10T14:38:29+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +699,7 @@
       "publishedAt": "2026-11-10T14:25:24+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -567,7 +711,7 @@
       "publishedAt": "2026-11-10T14:08:44+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -577,30 +721,6 @@
       "link": "https://www.statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test/?utm_campaign=rss",
       "summary": "Dutch antitrust regulators are investigating allegations that Biogen may have abused its dominant position in the market for MS treatments and associated blood tests.",
       "publishedAt": "2026-11-10T13:38:35+00:00"
-    },
-    {
-      "id": "stat-news-13",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Pharma is a ‘mixed bag’ when providing drug access to low- and middle-income countries, analysis finds",
-      "titleZh": "STAT + ：分析发现，在向低收入和中等收入国家提供药物时，制药是一个“混合袋”",
-      "link": "https://www.statnews.com/pharmalot/2026/11/10/access-to-key-drugs-mixed-in-poor-countries-cancer-diabetes/?utm_campaign=rss",
-      "summary": "Many large pharmaceutical companies are taking steps to improve access to their medicines in low- and middle-income countries, but progress has been mixed.",
-      "publishedAt": "2026-11-10T13:00:00+00:00"
-    },
-    {
-      "id": "stat-news-14",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Why this year’s flu season could be hitting teens and young adults hard",
-      "titleZh": "为什么今年的流感季节可能会对青少年和年轻人造成严重打击",
-      "link": "https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss",
-      "summary": "At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:",
-      "publishedAt": "2026-11-10T12:49:35+00:00"
     },
     {
       "id": "science-daily-health-9",
@@ -615,55 +735,7 @@
       "publishedAt": "2026-11-10T12:48:16+00:00"
     },
     {
-      "id": "stat-news-15",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: PepGen says early trial for muscular dystrophy drug looks promising",
-      "titleZh": "STAT + ： PepGen表示，肌营养不良药物的早期试验看起来很有希望",
-      "link": "https://www.statnews.com/2026/11/10/muscular-dystrophy-dm1-pepgen-pgn-edodm1-early-results/?utm_campaign=rss",
-      "summary": "PepGen says its candidate is correcting more of the genetic stutter found in myotonic dystrophy type 1.",
-      "publishedAt": "2026-11-10T12:05:00+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people",
-      "titleZh": "STAT + ：州民主党的胜利使医疗补助扩张成为100多万人的可能性",
-      "link": "https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss",
-      "summary": "Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats take power.",
-      "publishedAt": "2026-11-10T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: AI’s health advice can be accurate and still make us sicker",
-      "titleZh": "意见：人工智能的健康建议可能是准确的，但仍然会让我们病得更重",
-      "link": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss",
-      "summary": "“Even a factually accurate health message can change behavior in ways that make people less healthy,” researchers write.",
-      "publishedAt": "2026-11-10T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now",
-      "titleZh": "意见： STAT + ： BIO首席执行官：美国生物技术公司需要一个协调一致的计划来击败中国—现在",
-      "link": "https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/?utm_campaign=rss",
-      "summary": "BIO CEO: “Today’s biotech race is our generation’s Space Race.”",
-      "publishedAt": "2026-11-10T09:30:00+00:00"
-    },
-    {
-      "id": "endpoints-13",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -675,7 +747,7 @@
       "publishedAt": "2026-11-10T07:00:29+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -687,7 +759,7 @@
       "publishedAt": "2026-11-10T07:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -723,19 +795,7 @@
       "publishedAt": "2026-11-10T01:47:34+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug",
-      "titleZh": "STAT + ： Ionis Pharmaceuticals股价在生物技术公司降甘油三酯药物缓慢推出后暴跌",
-      "link": "https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/?utm_campaign=rss",
-      "summary": "Ionis Pharmaceuticals lost more than $1 billion in market value on Monday after the company slashed sales projections for a triglyceride-lowering drug.",
-      "publishedAt": "2026-11-10T00:50:50+00:00"
-    },
-    {
-      "id": "endpoints-14",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -771,13 +831,13 @@
       "publishedAt": "2026-11-09T23:19:35+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "审批",
       "title": "Bayer wins FDA nod for a new kind of blood thinner",
-      "titleZh": "拜耳赢得FDA对新型血液稀释剂的认可",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/bayer-sunharbo-asundexian-fda-approve-stroke-factor-xi/872837/",
       "summary": "Sunharbo&rsquo;s U.S. approval is the first for a &ldquo;Factor XIa&rdquo; inhibitor, an anticipated class of medicines seen as a possible step forward in stroke prevention.&nbsp;",
       "publishedAt": "2026-11-09T22:40:00+00:00"
@@ -789,58 +849,22 @@
       "lang": "en",
       "category": "审批",
       "title": "How Cancer-Associated Gene Triggers Cell Division Without Unpacking the Genome",
-      "titleZh": "癌症相关基因如何在不解压缩基因组的情况下触发细胞分裂",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/cancer/how-cancer-associated-gene-triggers-cell-division-without-unpacking-the-genome/",
       "summary": "A study showed how E2F1 can trigger cell division without having to unpack the cell’s genetic material. Instead, it takes a shortcut path by binding directly to a small area of the DNA that remains tightly packaged inside the cell. The post How Cancer-Associated Gene Triggers Cell Division Without U",
       "publishedAt": "2026-11-09T21:05:11+00:00"
-    },
-    {
-      "id": "endpoints-15",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "How early efforts to build autonomous clinical AI tools are approaching regulation",
-      "titleZh": "构建自主临床人工智能工具的早期努力如何接近监管",
-      "link": "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/",
-      "summary": "Multiple teams participating in ARPA-H’s Advocate program have already had an initial informational meeting with the FDA, less than two months after the clinical AI initiative launched, ARPA-H program manager Haider Warraich said on Thursday. ...",
-      "publishedAt": "2026-11-09T20:40:03+00:00"
-    },
-    {
-      "id": "endpoints-16",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Trump’s drug pricing deals force tough choices on launches",
-      "titleZh": "特朗普的药品定价协议迫使在发布时做出艰难的选择",
-      "link": "https://endpoints.news/trumps-drug-pricing-deals-force-tough-choices-on-launches/",
-      "summary": "Companies that committed to President Donald Trump’s drug pricing policy now face difficult decisions when launching new medicines. The “most favored nation” (MFN) pricing policy seeks to tie US drug prices to those charged in ...",
-      "publishedAt": "2026-11-09T20:00:21+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "FDA orders GLP-1 drugmakers to warn of rare eye disease",
-      "titleZh": "FDA命令GLP-1制药商警告罕见眼病",
-      "link": "https://endpoints.news/fda-orders-glp-1-drugmakers-to-warn-of-rare-eye-disease/",
-      "summary": "The FDA told GLP-1 drugmakers to update their product labels to reflect an increased risk of a rare eye condition that could lead to blindness. The agency said it was requiring companies to tack on ...",
-      "publishedAt": "2026-11-09T19:55:30+00:00"
     },
     {
       "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
-      "category": "技术",
-      "title": "US government removes WuXi AppTec from Chinese military list",
+      "category": "审批",
+      "title": "How early efforts to build autonomous clinical AI tools are approaching regulation",
       "titleZh": "",
-      "link": "https://endpoints.news/us-government-removes-wuxi-apptec-from-chinese-military-list/",
-      "summary": "The Pentagon removed WuXi AppTec from its list of Chinese military companies, but there's still the risk of redesignation for the Shanghai service provider. The US deputy secretary of defense has decided to delist WuXi ...",
-      "publishedAt": "2026-11-09T18:54:47+00:00"
+      "link": "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/",
+      "summary": "Multiple teams participating in ARPA-H’s Advocate program have already had an initial informational meeting with the FDA, less than two months after the clinical AI initiative launched, ARPA-H program manager Haider Warraich said on Thursday. ...",
+      "publishedAt": "2026-11-09T20:40:03+00:00"
     },
     {
       "id": "endpoints-19",
@@ -848,14 +872,14 @@
       "sourceId": "endpoints",
       "lang": "en",
       "category": "市场",
-      "title": "Third Rock enters $2B partnership with AI-focused Chinese biotech",
+      "title": "Trump’s drug pricing deals force tough choices on launches",
       "titleZh": "",
-      "link": "https://endpoints.news/third-rock-enters-2b-partnership-with-ai-focused-chinese-biotech/",
-      "summary": "Third Rock Ventures is betting up to $2.16 billion on a little-known Chinese biotech’s AI platform. Funnel Biosciences describes itself as an AI-driven biologics company. Under a research collaboration announced Friday ...",
-      "publishedAt": "2026-11-09T18:54:19+00:00"
+      "link": "https://endpoints.news/trumps-drug-pricing-deals-force-tough-choices-on-launches/",
+      "summary": "Companies that committed to President Donald Trump’s drug pricing policy now face difficult decisions when launching new medicines. The “most favored nation” (MFN) pricing policy seeks to tie US drug prices to those charged in ...",
+      "publishedAt": "2026-11-09T20:00:21+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -867,7 +891,7 @@
       "publishedAt": "2026-11-09T17:09:00+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -879,7 +903,7 @@
       "publishedAt": "2026-11-09T16:27:00+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -949,30 +973,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
       "summary": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40% increase in tick numbers the following year. Even acorn production",
       "publishedAt": "2026-11-09T10:59:35+00:00"
-    },
-    {
-      "id": "biopharma-dive-8",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "研发",
-      "title": "Translating Phase II success into Phase III readiness takes more than scale",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/spons/translating-phase-ii-success-into-phase-iii-readiness-takes-more-than-scale/833059/",
-      "summary": "The move from Phase II to Phase III is often treated as a clinical milestone, when it is actually a development-wide transition.",
-      "publishedAt": "2026-11-09T10:00:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "Making the ‘impossible’ executable in life sciences construction",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/spons/making-the-impossible-executable-in-life-sciences-construction/873537/",
-      "summary": "Why early technical expertise matters when complex life sciences projects challenge convention.",
-      "publishedAt": "2026-11-09T10:00:00+00:00"
     },
     {
       "id": "science-daily-health-7",
