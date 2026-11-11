@@ -1,15 +1,19 @@
 # BioPharma Hub
 
-生物医药行业资讯聚合与实验 Protocol 辅助设计平台。实时聚合全球生物制药领域新闻（研发、审批、市场、技术），提供结构化 Protocol 模板生成与 AI 智能优化建议。
+生物医药行业资讯聚合与实验室辅助平台。实时聚合全球生物制药领域新闻（研发、审批、市场、技术），提供 Protocol 模板生成与 AI 智能优化、序列对比、胶图处理与试剂库存管理。
 
 **在线演示**: https://aerobeats.github.io/BioPharma_Hub/
 
 ## 功能特性
 
 - **新闻聚合**: 每小时自动抓取 Nature Biotechnology、Nature Medicine、STAT News 等 7 个权威源，英文标题自动翻译为中文
-- **Protocol 设计**: 内置 PCR、质粒构建、细胞培养、ELISA 等实验模板，填写参数即可生成结构化文档
-- **AI 智能优化**: 基于 Qoder AI 模型，针对 Protocol 草稿给出专业改进建议（需部署 Cloudflare Worker）
-- **小工具**: PDF/Markdown 互转、序列格式化工具（浏览器本地运行，无需上传）
+- **实验室**: 四个子模块，除 AI 优化外全部在浏览器本地运行
+  - **Protocol 设计**: 内置 PCR、质粒构建、细胞培养、ELISA 等实验模板，填写参数即可生成结构化文档，支持打印导出
+  - **序列对比**: 双序列全局比对（Needleman-Wunsch），DNA 计分 +2/-1/-2，蛋白 BLOSUM62；支持 FASTA，输出一致性/相似性统计与着色比对
+  - **胶图处理**: 电泳胶图亮度/对比度/反相/灰度增强，Marker 标定（含 DL2000 预设），log 线性回归估算条带大小，标注导出 PNG
+  - **库存管理**: 试剂/耗材台账（localStorage 持久化），过期/临期/低库存提醒，CSV 导入导出备份
+- **AI 智能优化**: 基于 DeepSeek 模型，针对 Protocol 草稿给出专业改进建议（需部署 Cloudflare Worker）
+- **小工具**: PDF/Markdown 互转（浏览器本地运行，无需上传）
 - **英语学习**: 生物医药术语卡片与阅读练习
 
 ## 架构概览
@@ -20,6 +24,9 @@ BioPharma_Hub/
 │   ├── index.html          # 单页应用入口
 │   ├── app.js              # 路由 + 视图逻辑
 │   ├── templates.js        # Protocol 模板定义
+│   ├── lab-seq.js          # 实验室 · 序列对比
+│   ├── lab-gel.js          # 实验室 · 胶图处理
+│   ├── lab-inventory.js    # 实验室 · 库存管理
 │   └── data/               # 静态数据 (由脚本生成)
 │       ├── news.json       # 新闻聚合结果
 │       └── translations.json # 翻译缓存
@@ -34,7 +41,7 @@ BioPharma_Hub/
 
 **前端**: 纯静态 HTML/CSS/JS，无框架依赖，通过 `import.meta.url` 相对路径加载数据
 **新闻管道**: Python stdlib (`urllib` + `xml.etree`) → MyMemory API (主) / Google gtx (备) → 持久化 JSON
-**AI 后端**: Cloudflare Workers，调用 Qoder Chat Completions API，密钥存于 Workers Secret
+**AI 后端**: Cloudflare Workers，调用 DeepSeek Chat Completions API，密钥存于 Workers Secret
 
 ## 本地开发
 

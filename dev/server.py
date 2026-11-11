@@ -179,8 +179,9 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         self.send_error(405)
 
 
-class ReusableTCPServer(socketserver.TCPServer):
+class ReusableTCPServer(socketserver.ThreadingTCPServer):
     allow_reuse_address = True
+    daemon_threads = True
 
 
 if __name__ == "__main__":

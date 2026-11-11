@@ -1,4 +1,7 @@
 import { TEMPLATES, getTemplate } from "./templates.js";
+import { renderSeq } from "./lab-seq.js";
+import { renderGel } from "./lab-gel.js";
+import { renderInventory } from "./lab-inventory.js";
 
 // ── Backend config ─────────────────────────────────
 // Absolute URL of the deployed AI backend (Cloudflare Worker, see worker/worker.js).
@@ -40,14 +43,18 @@ function formatDate(iso) {
 // ── Router ─────────────────────────────────
 const ROUTES = {
   news: { title: "行业新闻", render: renderNews },
-  protocols: { title: "Protocol 设计", render: renderProtocols },
+  lab: { title: "实验室", render: renderLab },
   tools: { title: "小工具", render: renderTools },
   english: { title: "英语学习", render: renderEnglish },
   about: { title: "关于", render: renderAbout },
 };
 
 function navigate() {
-  const hash = location.hash.replace("#/", "") || "news";
+  let hash = location.hash.replace("#/", "") || "news";
+  if (hash === "protocols") {
+    hash = "lab"; // old bookmark alias
+    history.replaceState(null, "", "#/lab");
+  }
   const route = ROUTES[hash] ? hash : "news";
 
   $$(".nav-item").forEach((a) => a.classList.toggle("active", a.dataset.route === route));
@@ -273,11 +280,49 @@ function renderNewsList() {
   }).join("");
 }
 
+// ── LAB VIEW (sub-tabs) ─────────────────────────────────
+const labState = { tab: "protocol" };
+const LAB_TABS = [
+  { id: "protocol", label: "Protocol 设计" },
+  { id: "seq", label: "序列对比" },
+  { id: "gel", label: "胶图处理" },
+  { id: "inventory", label: "库存管理" },
+];
+
+function renderLab(container) {
+  container.innerHTML = `
+    <div class="page-head">
+      <h1>实验室</h1>
+      <p>Protocol 辅助设计、序列对比、胶图处理与库存管理。除 AI 优化外，全部功能在浏览器本地运行。</p>
+    </div>
+    <div class="lab-tabs" id="lab-tabs" role="tablist">
+      ${LAB_TABS.map((t) => `<button class="lab-tab ${t.id === labState.tab ? "active" : ""}" data-tab="${t.id}" role="tab" aria-selected="${t.id === labState.tab}">${t.label}</button>`).join("")}
+    </div>
+    <div id="lab-body"></div>
+  `;
+  $("#lab-tabs").addEventListener("click", (e) => {
+    const btn = e.target.closest(".lab-tab");
+    if (!btn || btn.dataset.tab === labState.tab) return;
+    labState.tab = btn.dataset.tab;
+    renderLab(container);
+  });
+  renderLabBody();
+}
+
+function renderLabBody() {
+  const body = $("#lab-body");
+  if (labState.tab === "protocol") renderProtocols(body);
+  else if (labState.tab === "seq") renderSeq(body);
+  else if (labState.tab === "gel") renderGel(body);
+  else renderInventory(body);
+}
+
 // ── PROTOCOL VIEW ─────────────────────────────────
 const protoState = { templateId: "pcr", values: {}, aiResult: null, aiLoading: false, aiError: null };
 
 function renderProtocols(container) {
   const tpl = getTemplate(protoState.templateId) || TEMPLATES[0];
+  const inLab = container.id === "lab-body";
 
   if (Object.keys(protoState.values).length === 0 || protoState.values.__tpl !== tpl.id) {
     protoState.values = { __tpl: tpl.id };
@@ -285,10 +330,10 @@ function renderProtocols(container) {
   }
 
   container.innerHTML = `
-    <div class="page-head">
+    ${inLab ? "" : `<div class="page-head">
       <h1>Protocol 辅助设计</h1>
       <p>选择实验模板，填写参数，自动生成结构化 Protocol 文档。支持打印导出，可选 AI 智能优化。</p>
-    </div>
+    </div>`}
     <div class="proto-layout">
       <div class="proto-panel card" id="proto-left">
         <h2>实验模板</h2>
@@ -303,13 +348,13 @@ function renderProtocols(container) {
     </div>
   `;
 
-  renderTemplateGrid(tpl);
+  renderTemplateGrid(tpl, container);
   renderForm(tpl);
   renderDoc(tpl);
   renderAI();
 }
 
-function renderTemplateGrid(selected) {
+function renderTemplateGrid(selected, container) {
   const grid = $("#template-grid");
   grid.innerHTML = TEMPLATES.map((t) => `
     <button class="template-card ${t.id === selected.id ? "selected" : ""}" data-id="${t.id}">
@@ -330,7 +375,7 @@ function renderTemplateGrid(selected) {
     tpl.fields.forEach((f) => { if (f.default !== undefined) protoState.values[f.key] = f.default; });
     protoState.aiResult = null;
     protoState.aiError = null;
-    renderProtocols($("#view"));
+    renderProtocols(container);
   };
 }
 
