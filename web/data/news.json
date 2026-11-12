@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-12T02:53:50.736260+00:00",
+  "updatedAt": "2026-11-12T10:55:51.294495+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,9 +48,15 @@
   ],
   "failedSources": [],
   "translations": {
+    "Common forever chemicals linked to nearly double the rate of aggressive breast cancer": "常见“永生化学品”与侵袭性乳腺癌发病率几乎翻倍相关",
+    "Opinion: 3 things new governors must do to lead on health": "观点：新任州长必须做的三件事，以引领卫生事业发展",
+    "Opinion: I research MAHA and Black Americans. The relationship is complicated — and fascinating": "观点：我研究MAHA和非裔美国人。这种关系既复杂又引人入胜",
+    "Newly elected doctors and scientists hope to restore trust in science. It won’t be easy": "新当选的医生和科学家希望重塑人们对科学的信任。这绝非易事",
+    "Scientists discover a common sugar may help cancer cells break free and spread": "科学家发现一种常见的糖分可能有助于癌细胞脱离并扩散",
+    "Walking and weight training may not be enough to keep your bones strong": "步行和力量训练可能不足以保持骨骼强健",
     "All of Us study finds thousands of new genetic variants affecting drug responses": "“我们所有人”研究发现数千种影响药物反应的新基因变异",
     "Neurosterix pulls in $105M for schizophrenia drug, taps Cobenfy vets": "Neurosterix为精神分裂症药物筹集1.05亿美元，并聘请Cobenfy资深人士",
-    "How Hims plans to revive its business after pivoting to branded GLP-1s": "Hims 在转向品牌 GLP-1 药物后，计划如何重振业务",
+    "How Hims plans to reinvigorate its business": "Hims计划如何重振业务",
     "STAT+: Most-favored nations policy makes drugmakers rethink launches abroad": "STAT+：最惠国政策迫使制药商重新考虑在海外上市",
     "Opinion: What MAHA’s support for Russell Brand tells us about the movement": "观点：MAHA对罗素·布兰德的支持向我们揭示了该运动的哪些信息",
     "Drug price hikes in Germany could push US costs higher, study says": "研究表明，德国药品价格上涨可能会推高美国的成本",
@@ -95,23 +101,89 @@
     "PepGen's oligo succeeds in Phase 2; Ionis' and ImmunityBio's stocks sag": "PepGen的oligo在第二阶段取得成功； Ionis和ImmunityBio的股票下跌",
     "Employers vs. consumers: Who stands to disrupt healthcare?": "雇主与消费者：谁会颠覆医疗保健？",
     "White House sticks with Overton, works senators for votes": "白宫支持奥弗顿，为参议员争取选票",
-    "STAT+: GLP-1s are given an FDA warning for rare eye condition risk": "STAT + ： GLP-1s接受FDA罕见眼部疾病风险警告",
-    "STAT+: Pharmalittle: We’re reading about an approval for novel drug for strokes, a warning for GLP-1 drugs, and more": "STAT + ： Pharmalittle ：我们正在阅读有关中风新药批准、GLP-1药物警告等信息",
     "OpenAI's head of health talks helping patients take action": "OpenAI的健康主管会谈帮助患者采取行动",
-    "STAT+: Dutch antitrust regulators probe Biogen over test for its MS drug": "STAT + ：荷兰反垄断监管机构调查Biogen对其MS药物的测试",
     "Eating less protein could slow aging, review of 350 studies finds": "综述350项研究发现，少吃蛋白质可以延缓衰老",
     "London startup raises $60M for degraders aimed at Alzheimer’s protein tau": "伦敦初创公司为针对阿尔茨海默氏症蛋白tau的降解剂筹集了6000万美元$",
     "London biotech Oyster harvests $60M for tau-targeting brain drugs": "伦敦生物技术公司Oyster为tau靶向脑药物收获6000万美元$",
     "BIO unveils plan for US to remain biotech’s ‘global leader’": "BIO公布美国继续保持生物技术“全球领导者”地位的计划",
     "Why heart attacks can still happen even when bad cholesterol is low": "为什么即使坏胆固醇水平低，心脏病仍然会发作",
-    "Alzheimer’s may have early warning signs outside the brain": "阿尔茨海默氏症可能有大脑外的早期预警信号",
-    "Bayer wins FDA approval for stroke prevention drug Sunharbo": "拜耳中风预防药物Sunharbo获得FDA批准",
-    "Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolution Research": "Illumina为MRD、肿瘤进化研究提供早期双重测序",
-    "Scientists finally discover why we learn to love bitter coffee": "科学家们终于发现为什么我们学会爱上苦咖啡"
+    "Alzheimer’s may have early warning signs outside the brain": "阿尔茨海默氏症可能有大脑外的早期预警信号"
   },
   "items": [
     {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
+      "titleZh": "常见“永生化学品”与侵袭性乳腺癌发病率几乎翻倍相关",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
+      "summary": "An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer. The discovery raises concerns about the potential health effects of persistent chemicals found in everyday products.",
+      "publishedAt": "2026-11-12T09:34:53+00:00"
+    },
+    {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: 3 things new governors must do to lead on health",
+      "titleZh": "观点：新任州长必须做的三件事，以引领卫生事业发展",
+      "link": "https://www.statnews.com/2026/11/12/new-governors-2027-health-priorities-agenda/?utm_campaign=rss",
+      "summary": "“On day one, governors should know kindergarten vaccination rates by county,” write Mandy Cohen and Ellen Montz.",
+      "publishedAt": "2026-11-12T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "Opinion: I research MAHA and Black Americans. The relationship is complicated — and fascinating",
+      "titleZh": "观点：我研究MAHA和非裔美国人。这种关系既复杂又引人入胜",
+      "link": "https://www.statnews.com/2026/11/12/maha-black-american-activists-voters-health-care-midterms/?utm_campaign=rss",
+      "summary": "“Even as Kennedy and MAHA have cribbed from the Black activist playbook, they’ve actively undermined” Black Americans, writes Jerel Ezell.",
+      "publishedAt": "2026-11-12T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Newly elected doctors and scientists hope to restore trust in science. It won’t be easy",
+      "titleZh": "新当选的医生和科学家希望重塑人们对科学的信任。这绝非易事",
+      "link": "https://www.statnews.com/2026/11/12/trust-in-science-physician-lawmakers-rebuild-belief/?utm_campaign=rss",
+      "summary": "Scores of doctors and scientists were elected last week. Will trust in science follow?",
+      "publishedAt": "2026-11-12T09:30:00+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover a common sugar may help cancer cells break free and spread",
+      "titleZh": "科学家发现一种常见的糖分可能有助于癌细胞脱离并扩散",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
+      "summary": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose that weakens the bonds holding neighboring tumor cells together,",
+      "publishedAt": "2026-11-12T04:39:31+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Walking and weight training may not be enough to keep your bones strong",
+      "titleZh": "步行和力量训练可能不足以保持骨骼强健",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
+      "summary": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive movements and sudden changes in direction. Researchers found that activities such as football and handball in",
+      "publishedAt": "2026-11-12T00:10:23+00:00"
+    },
+    {
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -140,14 +212,14 @@
       "sourceId": "endpoints",
       "lang": "en",
       "category": "市场",
-      "title": "How Hims plans to revive its business after pivoting to branded GLP-1s",
-      "titleZh": "Hims 在转向品牌 GLP-1 药物后，计划如何重振业务",
+      "title": "How Hims plans to reinvigorate its business",
+      "titleZh": "Hims计划如何重振业务",
       "link": "https://endpoints.news/how-hims-plans-to-revive-its-business-after-pivoting-to-branded-glp-1s/",
       "summary": "Hims &amp; Hers, once obsessed with delivering \"personalized care\" through compounded drug products, is now banking on brand-name treatments and the pharmaceutical giants it previously tried to undercut. Hims struck a deal with Eli Lilly ...",
       "publishedAt": "2026-11-11T20:20:26+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +231,7 @@
       "publishedAt": "2026-11-11T19:44:07+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +255,7 @@
       "publishedAt": "2026-11-11T16:11:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -207,7 +279,7 @@
       "publishedAt": "2026-11-11T15:44:23+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +291,7 @@
       "publishedAt": "2026-11-11T15:20:23+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +303,7 @@
       "publishedAt": "2026-11-11T15:07:28+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +351,7 @@
       "publishedAt": "2026-11-11T13:42:00+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -303,7 +375,7 @@
       "publishedAt": "2026-11-11T13:00:05+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -315,7 +387,7 @@
       "publishedAt": "2026-11-11T12:59:57+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +399,7 @@
       "publishedAt": "2026-11-11T12:56:13+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -351,7 +423,7 @@
       "publishedAt": "2026-11-11T11:57:06+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +435,7 @@
       "publishedAt": "2026-11-11T09:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +447,7 @@
       "publishedAt": "2026-11-11T09:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +459,7 @@
       "publishedAt": "2026-11-11T09:30:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +471,7 @@
       "publishedAt": "2026-11-11T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -411,7 +483,7 @@
       "publishedAt": "2026-11-11T04:27:12+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -423,7 +495,7 @@
       "publishedAt": "2026-11-11T03:47:25+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +531,7 @@
       "publishedAt": "2026-11-10T21:48:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +567,7 @@
       "publishedAt": "2026-11-10T19:00:02+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +591,7 @@
       "publishedAt": "2026-11-10T17:26:51+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +615,7 @@
       "publishedAt": "2026-11-10T17:17:29+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -675,30 +747,6 @@
       "publishedAt": "2026-11-10T15:34:19+00:00"
     },
     {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: GLP-1s are given an FDA warning for rare eye condition risk",
-      "titleZh": "STAT + ： GLP-1s接受FDA罕见眼部疾病风险警告",
-      "link": "https://www.statnews.com/2026/11/10/biotech-news-glp-1-given-an-fda-warning-for-rare-eye-condition-risk/?utm_campaign=rss",
-      "summary": "The FDA warned that GLP-1 drugs carry a potential risk of a rare but serious eye condition sometimes referred to as an “eye stroke.”",
-      "publishedAt": "2026-11-10T14:38:29+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Pharmalittle: We’re reading about an approval for novel drug for strokes, a warning for GLP-1 drugs, and more",
-      "titleZh": "STAT + ： Pharmalittle ：我们正在阅读有关中风新药批准、GLP-1药物警告等信息",
-      "link": "https://www.statnews.com/pharmalot/2026/11/10/stroke-drug-sunharbo-eye-warning-glp-drugs-pharmalittle/?utm_campaign=rss",
-      "summary": "The FDA approved a novel drug to reduce recurrence of stroke, the agency is warning that GLP-1s carry a potential risk for an eye condition, and more pharma news of&#8230;",
-      "publishedAt": "2026-11-10T14:25:24+00:00"
-    },
-    {
       "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
@@ -711,19 +759,7 @@
       "publishedAt": "2026-11-10T14:08:44+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Dutch antitrust regulators probe Biogen over test for its MS drug",
-      "titleZh": "STAT + ：荷兰反垄断监管机构调查Biogen对其MS药物的测试",
-      "link": "https://www.statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test/?utm_campaign=rss",
-      "summary": "Dutch antitrust regulators are investigating allegations that Biogen may have abused its dominant position in the market for MS treatments and associated blood tests.",
-      "publishedAt": "2026-11-10T13:38:35+00:00"
-    },
-    {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -771,7 +807,7 @@
       "publishedAt": "2026-11-10T05:01:00+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -783,7 +819,7 @@
       "publishedAt": "2026-11-10T01:54:15+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -801,7 +837,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Bayer wins FDA approval for stroke prevention drug Sunharbo",
-      "titleZh": "拜耳中风预防药物Sunharbo获得FDA批准",
+      "titleZh": "",
       "link": "https://endpoints.news/bayer-wins-fda-approval-for-stroke-prevention-drug-sunharbo/",
       "summary": "Bayer’s asundexian won FDA approval to reduce the risk of stroke in people who recently had a mild-to-moderate non-cardioembolic ischemic stroke or a high-risk transient ischemic attack. The agency on Monday greenlit the drug in ...",
       "publishedAt": "2026-11-10T00:12:58+00:00"
@@ -813,19 +849,19 @@
       "lang": "en",
       "category": "技术",
       "title": "Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolution Research",
-      "titleZh": "Illumina为MRD、肿瘤进化研究提供早期双重测序",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/omics/illumina-offers-early-access-to-duplex-sequencing-for-mrd-tumor-evolution-research/",
       "summary": "Illumina has announced an early access program to a duplex sequencing workflow that reads both DNA strands to detect trace ctDNA in molecular residual disease and tumor evolution studies. Kits are expected in early 2027. The post Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolu",
       "publishedAt": "2026-11-09T23:57:15+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Scientists finally discover why we learn to love bitter coffee",
-      "titleZh": "科学家们终于发现为什么我们学会爱上苦咖啡",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
       "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating hab",
       "publishedAt": "2026-11-09T23:19:35+00:00"
@@ -939,7 +975,7 @@
       "publishedAt": "2026-11-09T13:55:53+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -951,19 +987,7 @@
       "publishedAt": "2026-11-09T11:44:20+00:00"
     },
     {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
-      "summary": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant foods also help shift gut bacteria toward producing beneficial substances, revealin",
-      "publishedAt": "2026-11-09T11:32:00+00:00"
-    },
-    {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,7 +999,7 @@
       "publishedAt": "2026-11-09T10:59:35+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,7 +1011,7 @@
       "publishedAt": "2026-11-09T07:36:14+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -999,19 +1023,7 @@
       "publishedAt": "2026-11-09T01:45:17+00:00"
     },
     {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "A 24-hour fast triggers a surprising repair response in the gut",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
-      "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cancer therapy, potentially without requiring ",
-      "publishedAt": "2026-11-08T11:06:30+00:00"
-    },
-    {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1023,7 +1035,7 @@
       "publishedAt": "2026-11-08T02:52:28+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1035,7 +1047,7 @@
       "publishedAt": "2026-11-08T01:27:46+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1047,7 +1059,7 @@
       "publishedAt": "2026-11-07T10:16:19+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1059,19 +1071,19 @@
       "publishedAt": "2026-11-06T10:59:18+00:00"
     },
     {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
+      "id": "nature-biotech-0",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
       "lang": "en",
-      "category": "研发",
-      "title": "For decades, we were told to avoid full-fat dairy. New research says otherwise",
+      "category": "审批",
+      "title": "A comprehensive analysis of CBER experience with AAV gene therapy IND submissions",
       "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm",
-      "summary": "Full-fat dairy may not be the health villain it has long been portrayed as, according to a new study finding that three daily servings did not worsen weight, cholesterol, or insulin resistance over 12 weeks. Researchers also observed improvements in blood pressure and nutrient intake, raising questi",
-      "publishedAt": "2026-11-06T05:51:36+00:00"
+      "link": "https://www.nature.com/articles/s41587-026-03378-9",
+      "summary": "",
+      "publishedAt": ""
     },
     {
-      "id": "nature-biotech-0",
+      "id": "nature-biotech-1",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1083,7 +1095,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-1",
+      "id": "nature-biotech-2",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1095,7 +1107,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-2",
+      "id": "nature-biotech-3",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1107,7 +1119,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-3",
+      "id": "nature-biotech-4",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1119,7 +1131,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-4",
+      "id": "nature-biotech-5",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1131,7 +1143,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-5",
+      "id": "nature-biotech-6",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1143,7 +1155,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-6",
+      "id": "nature-biotech-7",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1155,19 +1167,19 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
+      "id": "nature-medicine-0",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
-      "title": "Climate biotechnology",
+      "title": "Effect of two common GVHD prophylaxis regimens on the gut microbiome in a randomized phase 3 trial",
       "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03370-3",
+      "link": "https://www.nature.com/articles/s41591-026-04712-z",
       "summary": "",
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-0",
+      "id": "nature-medicine-1",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1179,7 +1191,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "Deep learning-based gait analysis predicts multisystem health phenotypes",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04725-8",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Resistance exercise to attenuate lean mass loss during tirzepatide therapy for obesity: a randomized controlled trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04752-5",
       "summary": "",
       "publishedAt": ""
     }
