@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-12T18:50:43.737649+00:00",
+  "updatedAt": "2026-11-13T00:12:45.705505+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,13 @@
   ],
   "failedSources": [],
   "translations": {
+    "Reference Genomes of Malaria-Causing Plasmodium Parasites Completed": "疟原虫寄生虫的参考基因组已完成",
+    "High Frequency of Drug-Impacting Gene Variants Found in All of Us Cohort": "在“我们所有人”队列中发现高频药物影响基因变异",
+    "HHS directs new funds, research for psychedelics work": "美国卫生与公众服务部（HHS）为迷幻药研究工作拨付新资金",
+    "Rezera postpones a planned $200M IPO shortly before expected debut": "Rezera 在计划的首次公开募股（IPO）即将进行前夕推迟了这笔 2 亿美元的交易",
+    "Google's Gemini is getting in the health AI game": "谷歌的Gemini正在进入医疗人工智能领域",
+    "FDA's speedy voucher program is dead: report": "据报道，FDA的快速审批凭证计划已终止",
+    "Neuroprotective Protein Atlas Positions the Blood-Brain Barrier as a Selective Checkpoint": "神经保护蛋白图谱将血脑屏障定位为选择性检查点",
     "Blackstone bets $1.5B on Pfizer’s obesity drug": "黑石集团押注15亿美元于辉瑞的减肥药物",
     "STAT+: Blackstone backs Pfizer’s bet on monthly obesity treatment": "STAT+：黑石支持辉瑞对每月一次肥胖症治疗药物的押注",
     "EnGene seeks comeback from May bladder cancer crash": "EnGene力求从5月份膀胱癌临床试验失败中东山再起",
@@ -61,7 +68,7 @@
     "STAT+: Pharmalittle: We’re reading about FDA shelving fast-track review, a Canadian importer arrested, and more": "STAT+：Pharmalittle：我们正在阅读有关FDA搁置快速通道审查、加拿大进口商被捕等消息",
     "Ira Mellman wants Parker Institute to restore cancer immunotherapy": "Ira Mellman 希望帕克研究所能够重振癌症免疫疗法",
     "Experts update prostate cancer screening guidelines for men": "专家更新了针对男性的前列腺癌筛查指南",
-    "Bristol Myers to merge R&D under Massacesi, research head to exit": "百时高丽将合并研发部门，由Massacesi领导，研发主管将离职",
+    "Updated: Bristol Myers shakes up R&D leadership ahead of patent cliff": "更新：百时美施贵宝在专利悬崖前夕对研发领导层进行大换血",
     "American Cancer Society revises guidelines, urges routine PSA screening for prostate cancer": "美国癌症协会修订指南，敦促进行前列腺癌的常规PSA筛查",
     "STAT+: Alnylam, once in the hunt to be a $100 billion biotech, needs to solve its heart drug problem": "STAT+：Alnylam曾一度有望成为市值1000亿美元的生物技术公司，但如今需要解决其心脏药物问题",
     "STAT+: What to know about Biogen’s big lupus study readout": "STAT+：关于Biogen狼疮大样本研究结果的须知事项",
@@ -99,17 +106,94 @@
     "Mirum plans FDA submission for hepatitis D treatment as competition brews": "随着竞争的酝酿， Mirum计划向FDA提交D型肝炎治疗",
     "Oura to buy AI care startup Counsel Health for $625M": "Oura以6.25亿美元收购人工智能护理初创公司Counsel Health",
     "How Breast Cancer Chemotherapy May Impact Biological Aging and Loss of Healthy Life Years": "乳腺癌化疗如何影响生物衰老和健康寿命的丧失",
-    "Democrats ramp up oversight of MFN deals after midterm wins": "中期获胜后，民主党加强了对最惠国待遇交易的监督",
     "Beam’s base editing therapy for sickle cell hits goal in pivotal trial": "BEAM用于镰状细胞的碱基编辑疗法在枢纽性试验中达到了目标",
-    "From Farm Waste to Medical Nanoparticles": "从农场废物到医疗纳米颗粒",
-    "Hybrid Model Captures Lactate Run-Away and Back-Metabolism": "混合模型捕捉乳酸脱落和背部代谢",
-    "Extracellular Vesicle Product Developer Creates Potency Assay": "细胞外囊泡产品开发商创建效力测定",
-    "Automation a Path to Lower Cell Therapy Costs": "自动化是降低细胞治疗成本的途径",
-    "Argenx Expands Immunology Capabilities with Up-to-$1.15B UNP Acquisition": "Argenx通过高达11.5亿美元的UNP收购扩展免疫学能力",
-    "Beam says base-edited sickle cell therapy succeeds in Phase 1/2 study": "Beam称碱基编辑的镰状细胞疗法在1/2期研究中取得成功",
-    "PepGen's oligo succeeds in Phase 2; Ionis' and ImmunityBio's stocks sag": "PepGen的oligo在第二阶段取得成功； Ionis和ImmunityBio的股票下跌"
+    "From Farm Waste to Medical Nanoparticles": "从农场废物到医疗纳米颗粒"
   },
   "items": [
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Reference Genomes of Malaria-Causing Plasmodium Parasites Completed",
+      "titleZh": "疟原虫寄生虫的参考基因组已完成",
+      "link": "https://www.genengnews.com/topics/infectious-diseases/reference-genomes-of-malaria-causing-plasmodium-parasites-completed/",
+      "summary": "Using DNA sequenced from patient blood samples, researchers assembled complete reference genomes of neglected malaria parasites, uncovering genetic regions potentially involved in immune evasion and providing new tools for disease surveillance. The post Reference Genomes of Malaria-Causing &lt;i&gt;",
+      "publishedAt": "2026-11-12T23:44:45+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "High Frequency of Drug-Impacting Gene Variants Found in All of Us Cohort",
+      "titleZh": "在“我们所有人”队列中发现高频药物影响基因变异",
+      "link": "https://www.genengnews.com/topics/omics/high-frequency-of-drug-impacting-gene-variants-found-in-all-of-us-cohort/",
+      "summary": "A study finds that everyone in a diverse, nearly 100,000-person sample carried at least one genetic variant that affects how their body processes medications, and a quarter of those people had been prescribed a medication that is known to be impacted by the variant they carried. The post High Freque",
+      "publishedAt": "2026-11-12T20:17:04+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "HHS directs new funds, research for psychedelics work",
+      "titleZh": "美国卫生与公众服务部（HHS）为迷幻药研究工作拨付新资金",
+      "link": "https://endpoints.news/hhs-directs-new-funds-research-for-psychedelics-work/",
+      "summary": "Following President Donald Trump’s executive order in the spring to make psychedelics research a priority, HHS on Thursday announced a flurry of new funding and studies into the field, with a special focus on ibogaine. ...",
+      "publishedAt": "2026-11-12T20:09:22+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Rezera postpones a planned $200M IPO shortly before expected debut",
+      "titleZh": "Rezera 在计划的首次公开募股（IPO）即将进行前夕推迟了这笔 2 亿美元的交易",
+      "link": "https://endpoints.news/rezera-postpones-a-planned-200m-ipo-shortly-before-expected-debut/",
+      "summary": "Rezera, a biotech developing drugs for cardio and inflammatory diseases, has delayed its IPO that was scheduled for Friday, a company spokesperson confirmed to Endpoints News. The spokesperson cited “current market conditions” as the reason ...",
+      "publishedAt": "2026-11-12T19:52:42+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "技术",
+      "title": "Google's Gemini is getting in the health AI game",
+      "titleZh": "谷歌的Gemini正在进入医疗人工智能领域",
+      "link": "https://endpoints.news/gemini-getting-in-the-health-ai-game/",
+      "summary": "This week, Google launched Gemini for healthcare. Google has long been a fixture in health, helping hospitals store data in Google Cloud, selling a wellness device through Fitbit and spinning out startups such as Verily ...",
+      "publishedAt": "2026-11-12T19:39:53+00:00"
+    },
+    {
+      "id": "endpoints-3",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA's speedy voucher program is dead: report",
+      "titleZh": "据报道，FDA的快速审批凭证计划已终止",
+      "link": "https://endpoints.news/fdas-speedy-voucher-program-is-dead-report/",
+      "summary": "Despite issuing no new vouchers in the six months since former FDA Commissioner Marty Makary left the agency, and a report suggesting the program has been shelved, the FDA still contends it's running the Commissioner’s ...",
+      "publishedAt": "2026-11-12T19:34:07+00:00"
+    },
+    {
+      "id": "gen-2",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Neuroprotective Protein Atlas Positions the Blood-Brain Barrier as a Selective Checkpoint",
+      "titleZh": "神经保护蛋白图谱将血脑屏障定位为选择性检查点",
+      "link": "https://www.genengnews.com/topics/translational-medicine/neuroprotective-protein-atlas-positions-the-blood-brain-barrier-as-a-selective-checkpoint/",
+      "summary": "The blood-brain barrier keeps most proteins in the bloodstream out of the brain, but not all. The pathways that import them are damaged early in Alzheimer’s disease models, hinting at new ways to treat the disease. The post Neuroprotective Protein Atlas Positions the Blood-Brain Barrier as a Selecti",
+      "publishedAt": "2026-11-12T18:59:49+00:00"
+    },
     {
       "id": "biopharma-dive-0",
       "source": "BioPharma Dive",
@@ -135,7 +219,7 @@
       "publishedAt": "2026-11-12T16:31:10+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -147,7 +231,7 @@
       "publishedAt": "2026-11-12T16:15:42+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +279,7 @@
       "publishedAt": "2026-11-12T15:38:37+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +327,7 @@
       "publishedAt": "2026-11-12T14:14:55+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,15 +351,15 @@
       "publishedAt": "2026-11-12T12:32:57+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "研发",
-      "title": "Bristol Myers to merge R&D under Massacesi, research head to exit",
-      "titleZh": "百时高丽将合并研发部门，由Massacesi领导，研发主管将离职",
+      "title": "Updated: Bristol Myers shakes up R&D leadership ahead of patent cliff",
+      "titleZh": "更新：百时美施贵宝在专利悬崖前夕对研发领导层进行大换血",
       "link": "https://endpoints.news/bristol-myers-to-merge-rd-under-massacesi-research-head-to-exit/",
-      "summary": "Bristol Myers Squibb is changing up its R&amp;D leadership, moving out head of research Robert Plenge and giving his responsibilities to Cristian Massacesi, the company's chief medical officer and head of development work. The shakeup ...",
+      "summary": "Bristol Myers Squibb is changing up its R&amp;D leadership, moving out research chief Robert Plenge and handing his responsibilities to Cristian Massacesi, the company’s chief medical officer and head of development work. The shakeup comes ...",
       "publishedAt": "2026-11-12T12:29:08+00:00"
     },
     {
@@ -315,7 +399,7 @@
       "publishedAt": "2026-11-12T11:30:00+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +495,7 @@
       "publishedAt": "2026-11-11T21:37:27+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -423,7 +507,7 @@
       "publishedAt": "2026-11-11T21:00:55+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -483,7 +567,7 @@
       "publishedAt": "2026-11-11T16:00:00+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -531,7 +615,7 @@
       "publishedAt": "2026-11-11T14:34:28+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -543,7 +627,7 @@
       "publishedAt": "2026-11-11T14:00:48+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -579,7 +663,7 @@
       "publishedAt": "2026-11-11T13:10:51+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +711,7 @@
       "publishedAt": "2026-11-11T12:10:47+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -663,7 +747,7 @@
       "publishedAt": "2026-11-11T03:47:25+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +771,7 @@
       "publishedAt": "2026-11-10T21:48:00+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,7 +783,7 @@
       "publishedAt": "2026-11-10T19:31:21+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -711,7 +795,7 @@
       "publishedAt": "2026-11-10T19:00:02+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -721,18 +805,6 @@
       "link": "https://www.genengnews.com/topics/cancer/how-breast-cancer-chemotherapy-may-impact-biological-aging-and-loss-of-healthy-life-years/",
       "summary": "Chemotherapy helps many women survive breast cancer, but the results of new research suggest that chemotherapy may also accelerate biological aging beyond chronological age and increase the risk of earlier death from other causes. The post How Breast Cancer Chemotherapy May Impact Biological Aging a",
       "publishedAt": "2026-11-10T17:26:51+00:00"
-    },
-    {
-      "id": "endpoints-16",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Democrats ramp up oversight of MFN deals after midterm wins",
-      "titleZh": "中期获胜后，民主党加强了对最惠国待遇交易的监督",
-      "link": "https://endpoints.news/democrats-ramp-up-oversight-of-mfn-deals-after-midterm-wins/",
-      "summary": "Congressional Democrats on Monday sent new requests to all pharmaceutical companies that have struck drug pricing deals with the Trump administration to share the unredacted versions of their agreements, a source familiar with the communications ...",
-      "publishedAt": "2026-11-10T17:17:29+00:00"
     },
     {
       "id": "biopharma-dive-6",
@@ -747,7 +819,7 @@
       "publishedAt": "2026-11-10T17:06:00+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -759,88 +831,52 @@
       "publishedAt": "2026-11-10T17:00:31+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "技术",
       "title": "Hybrid Model Captures Lactate Run-Away and Back-Metabolism",
-      "titleZh": "混合模型捕捉乳酸脱落和背部代谢",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/bioprocessing/hybrid-model-captures-lactate-run-away-and-back-metabolism/",
       "summary": "A hybrid model provides hard-to-achieve insights into lactate performance during bioprocessing, creating conditions for more accurate predictions to better manage key batch parameters and variability. The post Hybrid Model Captures Lactate Run-Away and Back-Metabolism appeared first on GEN - Genetic",
       "publishedAt": "2026-11-10T17:00:27+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "技术",
       "title": "Extracellular Vesicle Product Developer Creates Potency Assay",
-      "titleZh": "细胞外囊泡产品开发商创建效力测定",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/bioprocessing/extracellular-vesicle-product-developer-creates-potency-assay/",
       "summary": "A company developing extracellular vesicle-based products has developed a potency assay for quality control. They hope to adapt it for future products and scale it to commercial manufacturing. The post Extracellular Vesicle Product Developer Creates Potency Assay appeared first on GEN - Genetic Engi",
       "publishedAt": "2026-11-10T17:00:26+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "技术",
       "title": "Automation a Path to Lower Cell Therapy Costs",
-      "titleZh": "自动化是降低细胞治疗成本的途径",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/bioprocessing/automation-a-path-to-lower-cell-therapy-costs/",
       "summary": "Australian developer Currus Bio predicts that automating the production of its candidate cancer cell therapy, CUR-001, using the Cocoon platform will reduce costs and enhance its ability to scale production as the product moves through trials. The post Automation a Path to Lower Cell Therapy Costs a",
       "publishedAt": "2026-11-10T17:00:23+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "市场",
       "title": "Argenx Expands Immunology Capabilities with Up-to-$1.15B UNP Acquisition",
-      "titleZh": "Argenx通过高达11.5亿美元的UNP收购扩展免疫学能力",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/translational-medicine/argenx-expands-immunology-capabilities-with-up-to-1-15b-unp-acquisition/",
       "summary": "The deal is designed to marry UNP’s macrocyclic peptide discovery platform with Argenx’s immunology innovation capabilities to broaden the buyer’s ability to develop oral or long-acting treatments for serious immune-mediated diseases. The post Argenx Expands Immunology Capabilities with Up-to-$1.15B",
       "publishedAt": "2026-11-10T16:52:57+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Beam says base-edited sickle cell therapy succeeds in Phase 1/2 study",
-      "titleZh": "Beam称碱基编辑的镰状细胞疗法在1/2期研究中取得成功",
-      "link": "https://endpoints.news/beam-says-base-edited-sickle-cell-therapy-succeeds-in-phase-1-2-study/",
-      "summary": "Beam Therapeutics announced Tuesday that its base-edited sickle cell therapy succeeded in a clinical trial, meaning a third one-time therapy for the disease may soon enter the market. In Beam’s Phase 1/2 trial, known as ...",
-      "publishedAt": "2026-11-10T16:23:21+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "PepGen's oligo succeeds in Phase 2; Ionis' and ImmunityBio's stocks sag",
-      "titleZh": "PepGen的oligo在第二阶段取得成功； Ionis和ImmunityBio的股票下跌",
-      "link": "https://endpoints.news/pepgens-oligo-succeeds-in-phase-2-ionis-and-immunitybios-stocks-sag/",
-      "summary": "Plus news about Coherus Oncology, JW Therapeutics and PsiThera. PepGen’s positive mid-stage results in DM1: PepGen said its oligonucleotide therapy PGN-EDODM1 showed positive early signals in a cohort of Phase 2 patients with myotonic dystrophy ...",
-      "publishedAt": "2026-11-10T16:09:58+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Employers vs. consumers: Who stands to disrupt healthcare?",
-      "titleZh": "",
-      "link": "https://endpoints.news/employers-vs-consumers-who-stands-to-disrupt-healthcare/",
-      "summary": "Last week, we hosted our second-ever Health Tech Day, with an in-person happy hour in New York. Thanks so much to everyone who tuned in for the virtual portion (find recaps of those convos starting ...",
-      "publishedAt": "2026-11-10T15:46:44+00:00"
     },
     {
       "id": "science-daily-health-12",
@@ -903,7 +939,7 @@
       "publishedAt": "2026-11-10T01:47:34+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -937,42 +973,6 @@
       "link": "https://www.biopharmadive.com/news/bayer-sunharbo-asundexian-fda-approve-stroke-factor-xi/872837/",
       "summary": "Sunharbo&rsquo;s U.S. approval is the first for a &ldquo;Factor XIa&rdquo; inhibitor, an anticipated class of medicines seen as a possible step forward in stroke prevention.&nbsp;",
       "publishedAt": "2026-11-09T22:40:00+00:00"
-    },
-    {
-      "id": "gen-7",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "审批",
-      "title": "How Cancer-Associated Gene Triggers Cell Division Without Unpacking the Genome",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/cancer/how-cancer-associated-gene-triggers-cell-division-without-unpacking-the-genome/",
-      "summary": "A study showed how E2F1 can trigger cell division without having to unpack the cell’s genetic material. Instead, it takes a shortcut path by binding directly to a small area of the DNA that remains tightly packaged inside the cell. The post How Cancer-Associated Gene Triggers Cell Division Without U",
-      "publishedAt": "2026-11-09T21:05:11+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Childhood Cancers May Not Always Need Extra Mutations to Spread, Study Suggests",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/cancer/childhood-cancers-may-not-always-need-extra-mutations-to-spread-study-suggests/",
-      "summary": "Childhood cancers may not always need extra mutations to spread, a new review study indicates. Instead, developmental plasticity may let tumor cells shape-shift into states that help them grow, resist treatment, and ultimately metastasize. The post Childhood Cancers May Not Always Need Extra Mutatio",
-      "publishedAt": "2026-11-09T14:00:17+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "New AI Models Are Turbo-Charging Protein Design",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/artificial-intelligence/new-ai-models-are-turbo-charging-protein-design/",
-      "summary": "Computer-designed protein therapeutics move from proof-of-concept to wet-lab validation and even clinical trials as the field heats up. The post New AI Models Are Turbo-Charging Protein Design appeared first on GEN - Genetic Engineering and Biotechnology News.",
-      "publishedAt": "2026-11-09T13:55:53+00:00"
     },
     {
       "id": "science-daily-health-9",
@@ -1172,6 +1172,18 @@
       "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
+      "title": "Gut and urogenital microbiomes influence menopausal hormone therapy outcomes",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04789-6",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
       "title": "Young people with obesity deserve better care",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04784-x",
@@ -1179,7 +1191,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "A novel candidate biomarker for detecting premalignant and early ovarian cancer",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04755-2",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Blood-based RNA biomarker for the early detection of ovarian cancer",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04732-9",
       "summary": "",
       "publishedAt": ""
     }
