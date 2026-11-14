@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-14T03:06:23.967759+00:00",
+  "updatedAt": "2026-11-14T11:23:20.279444+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,9 @@
   ],
   "failedSources": [],
   "translations": {
+    "George Church quits AI startup; Ira Mellman’s immunotherapy fight; and more": "乔治·丘奇退出人工智能初创公司；伊拉·梅尔曼的免疫疗法抗争；以及更多",
+    "Yale scientists reveal what really slows aging and what doesn't": "耶鲁大学科学家揭示真正能延缓衰老和不能延缓衰老的因素",
+    "Forcing yourself to smile can actually make you miserable": "强迫自己微笑实际上会让你感到痛苦",
     "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months": "STAT+：严格的医疗补助工作要求实施推迟六个月",
     "DCIS Cell Atlas Reveals Clues to Invasive Breast Cancer Progression": "导管原位癌（DCIS）细胞图谱揭示了侵袭性乳腺癌进展的线索",
     "STAT+: Democrats coalesce around ‘Medicare for More,’ ‘Medikids’ proposals": "STAT+：民主党人围绕“Medicare for More”（更多人享受Medicare医疗保险）和“Medikids”（儿童医疗保险）提案达成共识",
@@ -104,12 +107,45 @@
     "Updated: Bristol Myers shakes up R&D leadership ahead of patent cliff": "更新：百时美施贵宝在专利悬崖前夕对研发领导层进行大换血",
     "Crows can make decisions twice as fast as humans, scientists discover": "科学家发现，乌鸦做出决定的速度是人类的两倍。",
     "Colorectal cancer is rising again after 20 years, and scientists don't know why": "结直肠癌在20年后再次抬头，科学家们不知道原因何在",
-    "AI-powered bionic eye breakthrough could help the blind see again": "由人工智能驱动的仿生眼突破性技术或可帮助盲人重见光明",
-    "Blackstone commits up to $1.5B for R&D of Pfizer's ex-Metsera GLP-1": "黑石承诺为辉瑞前Metsera GLP-1的研发投入高达15亿美元",
-    "Common forever chemicals linked to nearly double the rate of aggressive breast cancer": "常见“永生化学品”与侵袭性乳腺癌发病率几乎翻倍相关",
-    "Scientists discover a common sugar may help cancer cells break free and spread": "科学家发现一种常见的糖分可能有助于癌细胞脱离并扩散"
+    "AI-powered bionic eye breakthrough could help the blind see again": "由人工智能驱动的仿生眼突破性技术或可帮助盲人重见光明"
   },
   "items": [
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "技术",
+      "title": "George Church quits AI startup; Ira Mellman’s immunotherapy fight; and more",
+      "titleZh": "乔治·丘奇退出人工智能初创公司；伊拉·梅尔曼的免疫疗法抗争；以及更多",
+      "link": "https://endpoints.news/george-church-quits-ai-startup-ira-mellmans-immunotherapy-fight-and-more/",
+      "summary": "Welcome back to another edition of Endpoints Weekly! The unseasonably warm autumn we’ve had in New York finally seems to be breaking, with highs expected in the mid-40s and low 50s for this weekend and ...",
+      "publishedAt": "2026-11-14T11:00:31+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Yale scientists reveal what really slows aging and what doesn't",
+      "titleZh": "耶鲁大学科学家揭示真正能延缓衰老和不能延缓衰老的因素",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
+      "summary": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could transform how scientists evaluate anti-aging treatments, although wh",
+      "publishedAt": "2026-11-14T04:26:12+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Forcing yourself to smile can actually make you miserable",
+      "titleZh": "强迫自己微笑实际上会让你感到痛苦",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025536.htm",
+      "summary": "Smiling may not always make you happier, and new research suggests that forcing yourself to smile repeatedly could actually make you feel worse. In a University of Florida study involving more than 1,100 participants, researchers discovered that while a single artificial smile can provide a small mo",
+      "publishedAt": "2026-11-14T01:50:58+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
@@ -171,7 +207,7 @@
       "publishedAt": "2026-11-13T20:02:36+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +219,7 @@
       "publishedAt": "2026-11-13T18:50:58+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +243,7 @@
       "publishedAt": "2026-11-13T17:55:00+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +255,7 @@
       "publishedAt": "2026-11-13T16:30:30+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -231,7 +267,7 @@
       "publishedAt": "2026-11-13T16:26:47+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +279,7 @@
       "publishedAt": "2026-11-13T16:19:06+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -375,7 +411,7 @@
       "publishedAt": "2026-11-13T13:34:45+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -387,7 +423,7 @@
       "publishedAt": "2026-11-13T12:55:11+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -399,7 +435,7 @@
       "publishedAt": "2026-11-13T12:48:10+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -411,7 +447,7 @@
       "publishedAt": "2026-11-13T12:14:39+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -483,7 +519,7 @@
       "publishedAt": "2026-11-13T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -507,7 +543,7 @@
       "publishedAt": "2026-11-13T01:22:00+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -531,7 +567,7 @@
       "publishedAt": "2026-11-12T23:44:45+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-1",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -555,7 +591,7 @@
       "publishedAt": "2026-11-12T20:17:04+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -567,7 +603,7 @@
       "publishedAt": "2026-11-12T20:09:22+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -579,7 +615,7 @@
       "publishedAt": "2026-11-12T19:52:42+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -591,7 +627,7 @@
       "publishedAt": "2026-11-12T19:39:53+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,7 +675,7 @@
       "publishedAt": "2026-11-12T16:31:10+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +687,7 @@
       "publishedAt": "2026-11-12T16:15:42+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,7 +735,7 @@
       "publishedAt": "2026-11-12T15:38:37+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -735,7 +771,7 @@
       "publishedAt": "2026-11-12T14:38:00+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -747,7 +783,7 @@
       "publishedAt": "2026-11-12T14:00:54+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -759,7 +795,7 @@
       "publishedAt": "2026-11-12T12:29:08+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -771,7 +807,7 @@
       "publishedAt": "2026-11-12T12:17:19+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -783,7 +819,7 @@
       "publishedAt": "2026-11-12T12:06:41+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -795,28 +831,16 @@
       "publishedAt": "2026-11-12T11:55:55+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
       "title": "Blackstone commits up to $1.5B for R&D of Pfizer's ex-Metsera GLP-1",
-      "titleZh": "黑石承诺为辉瑞前Metsera GLP-1的研发投入高达15亿美元",
+      "titleZh": "",
       "link": "https://endpoints.news/blackstone-commits-up-to-1-5b-for-rd-of-pfizers-ex-metsera-glp-1/",
       "summary": "Pfizer has secured up to $1.5 billion from the investment group Blackstone Life Sciences to help pay for the development of its obesity candidate berobenatide. The co-funding agreement will see that cash come from funds ...",
       "publishedAt": "2026-11-12T11:17:18+00:00"
-    },
-    {
-      "id": "science-daily-health-3",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
-      "titleZh": "常见“永生化学品”与侵袭性乳腺癌发病率几乎翻倍相关",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
-      "summary": "An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer. The discovery raises concerns about the potential health effects of persistent chemicals found in everyday products.",
-      "publishedAt": "2026-11-12T09:34:53+00:00"
     },
     {
       "id": "science-daily-health-5",
@@ -824,14 +848,26 @@
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
+      "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
+      "titleZh": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
+      "summary": "An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer. The discovery raises concerns about the potential health effects of persistent chemicals found in everyday products.",
+      "publishedAt": "2026-11-12T09:34:53+00:00"
+    },
+    {
+      "id": "science-daily-health-7",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
       "title": "Scientists discover a common sugar may help cancer cells break free and spread",
-      "titleZh": "科学家发现一种常见的糖分可能有助于癌细胞脱离并扩散",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
       "summary": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose that weakens the bonds holding neighboring tumor cells together,",
       "publishedAt": "2026-11-12T04:39:31+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -843,7 +879,7 @@
       "publishedAt": "2026-11-12T00:10:23+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -855,7 +891,7 @@
       "publishedAt": "2026-11-11T21:00:55+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -879,18 +915,6 @@
       "publishedAt": "2026-11-11T16:11:00+00:00"
     },
     {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Flagship merges two startups; J&J scores a bipolar mania success",
-      "titleZh": "",
-      "link": "https://endpoints.news/flagship-merges-two-startups-jj-scores-a-bipolar-mania-success/",
-      "summary": "Plus, news about AstraZeneca, BrightGene, PepGen and Prime Medicine. Another Flagship merger: Valo Health and Montai Therapeutics, two Flagship Pioneering startups, are combining into one company. The merged company will operate ...",
-      "publishedAt": "2026-11-11T15:44:23+00:00"
-    },
-    {
       "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
@@ -903,7 +927,7 @@
       "publishedAt": "2026-11-11T13:42:00+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,7 +939,7 @@
       "publishedAt": "2026-11-11T13:10:51+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,7 +951,7 @@
       "publishedAt": "2026-11-11T12:59:57+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1011,7 +1035,7 @@
       "publishedAt": "2026-11-10T17:00:26+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1023,7 +1047,7 @@
       "publishedAt": "2026-11-10T01:54:15+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1035,7 +1059,7 @@
       "publishedAt": "2026-11-10T01:47:34+00:00"
     },
     {
-      "id": "science-daily-health-17",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1045,30 +1069,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
       "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating hab",
       "publishedAt": "2026-11-09T23:19:35+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Common supplement could help fight psoriasis, scientists discover",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
-      "summary": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human trial, revealing an unexpected connection between cholesterol",
-      "publishedAt": "2026-11-09T11:44:20+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Common osteoporosis drugs linked to 24% lower dementia risk in major study",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233037.htm",
-      "summary": "A massive study of more than 120,000 older adults suggests that common osteoporosis drugs may reduce the risk of Alzheimer’s disease and other dementias by up to 24%. The surprising findings raise the possibility that medications already used to strengthen bones could also help protect the aging bra",
-      "publishedAt": "2026-11-09T07:36:14+00:00"
     },
     {
       "id": "nature-biotech-0",
