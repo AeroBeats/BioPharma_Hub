@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-14T11:23:20.279444+00:00",
+  "updatedAt": "2026-11-14T17:56:18.408312+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,10 @@
   ],
   "failedSources": [],
   "translations": {
+    "Scientists find a simple daily routine linked to less pain and depression": "科学家发现，简单的日常习惯与疼痛和抑郁的减轻有关",
+    "A new fiber supplement could help millions suffering from irritable bowel syndrome": "一种新型膳食纤维补充剂可能有助于数百万患有肠易激综合征的人群",
+    "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms": "斯坦福大学科学家发现可提前数年预测阿尔茨海默病的隐性脑信号",
+    "Exercise after ACL surgery may protect knees from early osteoarthritis": "前交叉韧带（ACL）手术后的锻炼可能保护膝关节免于过早患上骨关节炎",
     "George Church quits AI startup; Ira Mellman’s immunotherapy fight; and more": "乔治·丘奇退出人工智能初创公司；伊拉·梅尔曼的免疫疗法抗争；以及更多",
     "Yale scientists reveal what really slows aging and what doesn't": "耶鲁大学科学家揭示真正能延缓衰老和不能延缓衰老的因素",
     "Forcing yourself to smile can actually make you miserable": "强迫自己微笑实际上会让你感到痛苦",
@@ -103,13 +107,57 @@
     "Merck KGaA's writedown over Lonza deal; PharmaLogic buys Lantheus' CDMO business": "Merck KGaA因Lonza交易计提减值；PharmaLogic收购Lantheus的CDMO业务",
     "STAT+: New documents raise more questions about Medicare’s AI prior-authorization experiment": "STAT+：新文件引发了更多关于Medicare人工智能预先授权试验的问题",
     "The FDA has over 1k open jobs — and the staffing shortage is hitting pharma": "美国食品药品监督管理局（FDA）有超过1000个空缺职位——人员短缺正在冲击制药行业",
-    "Ira Mellman wants Parker Institute to restore cancer immunotherapy": "Ira Mellman 希望帕克研究所能够重振癌症免疫疗法",
-    "Updated: Bristol Myers shakes up R&D leadership ahead of patent cliff": "更新：百时美施贵宝在专利悬崖前夕对研发领导层进行大换血",
-    "Crows can make decisions twice as fast as humans, scientists discover": "科学家发现，乌鸦做出决定的速度是人类的两倍。",
-    "Colorectal cancer is rising again after 20 years, and scientists don't know why": "结直肠癌在20年后再次抬头，科学家们不知道原因何在",
-    "AI-powered bionic eye breakthrough could help the blind see again": "由人工智能驱动的仿生眼突破性技术或可帮助盲人重见光明"
+    "Ira Mellman wants Parker Institute to restore cancer immunotherapy": "Ira Mellman 希望帕克研究所能够重振癌症免疫疗法"
   },
   "items": [
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "titleZh": "科学家发现，简单的日常习惯与疼痛和抑郁的减轻有关",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they stru",
+      "publishedAt": "2026-11-14T12:48:01+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "A new fiber supplement could help millions suffering from irritable bowel syndrome",
+      "titleZh": "一种新型膳食纤维补充剂可能有助于数百万患有肠易激综合征的人群",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
+      "summary": "Scientists have developed a promising new fiber supplement that improves gut health in people with irritable bowel syndrome (IBS) without worsening bloating, pain, or other digestive symptoms. The specially designed blend also improved gut-related anxiety and produced surprisingly rapid changes in g",
+      "publishedAt": "2026-11-14T12:35:36+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "titleZh": "斯坦福大学科学家发现可提前数年预测阿尔茨海默病的隐性脑信号",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+      "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hope",
+      "publishedAt": "2026-11-14T12:25:05+00:00"
+    },
+    {
+      "id": "science-daily-health-5",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Exercise after ACL surgery may protect knees from early osteoarthritis",
+      "titleZh": "前交叉韧带（ACL）手术后的锻炼可能保护膝关节免于过早患上骨关节炎",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025538.htm",
+      "summary": "A new study suggests that the right kind of exercise could help protect young adults from early knee osteoarthritis following ACL surgery. Researchers found that a four-month supervised rehabilitation program improved pain, muscle strength, and quality of life without damaging knee cartilage. The fi",
+      "publishedAt": "2026-11-14T12:14:57+00:00"
+    },
     {
       "id": "endpoints-0",
       "source": "Endpoints News",
@@ -123,7 +171,7 @@
       "publishedAt": "2026-11-14T11:00:31+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-1",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -135,7 +183,7 @@
       "publishedAt": "2026-11-14T04:26:12+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -411,7 +459,7 @@
       "publishedAt": "2026-11-13T13:34:45+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -423,7 +471,7 @@
       "publishedAt": "2026-11-13T12:55:11+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -435,7 +483,7 @@
       "publishedAt": "2026-11-13T12:48:10+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -519,7 +567,7 @@
       "publishedAt": "2026-11-13T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -543,7 +591,7 @@
       "publishedAt": "2026-11-13T01:22:00+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -567,7 +615,7 @@
       "publishedAt": "2026-11-12T23:44:45+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -789,43 +837,43 @@
       "lang": "en",
       "category": "研发",
       "title": "Updated: Bristol Myers shakes up R&D leadership ahead of patent cliff",
-      "titleZh": "更新：百时美施贵宝在专利悬崖前夕对研发领导层进行大换血",
+      "titleZh": "",
       "link": "https://endpoints.news/bristol-myers-to-merge-rd-under-massacesi-research-head-to-exit/",
       "summary": "Bristol Myers Squibb is changing up its R&amp;D leadership, moving out research chief Robert Plenge and handing his responsibilities to Cristian Massacesi, the company’s chief medical officer and head of development work. The shakeup comes ...",
       "publishedAt": "2026-11-12T12:29:08+00:00"
-    },
-    {
-      "id": "science-daily-health-9",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Crows can make decisions twice as fast as humans, scientists discover",
-      "titleZh": "科学家发现，乌鸦做出决定的速度是人类的两倍。",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
-      "summary": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while",
-      "publishedAt": "2026-11-12T12:17:19+00:00"
-    },
-    {
-      "id": "science-daily-health-11",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Colorectal cancer is rising again after 20 years, and scientists don't know why",
-      "titleZh": "结直肠癌在20年后再次抬头，科学家们不知道原因何在",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005843.htm",
-      "summary": "Colorectal cancer is making an alarming comeback in the United States after more than 20 years of declining rates, and the increase is no longer limited to younger adults. A major new study found rising rates across nearly every age group under 70, including older Americans who have historically ben",
-      "publishedAt": "2026-11-12T12:06:41+00:00"
     },
     {
       "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
+      "category": "研发",
+      "title": "Crows can make decisions twice as fast as humans, scientists discover",
+      "titleZh": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+      "summary": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while",
+      "publishedAt": "2026-11-12T12:17:19+00:00"
+    },
+    {
+      "id": "science-daily-health-15",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Colorectal cancer is rising again after 20 years, and scientists don't know why",
+      "titleZh": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005843.htm",
+      "summary": "Colorectal cancer is making an alarming comeback in the United States after more than 20 years of declining rates, and the increase is no longer limited to younger adults. A major new study found rising rates across nearly every age group under 70, including older Americans who have historically ben",
+      "publishedAt": "2026-11-12T12:06:41+00:00"
+    },
+    {
+      "id": "science-daily-health-17",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
       "category": "技术",
       "title": "AI-powered bionic eye breakthrough could help the blind see again",
-      "titleZh": "由人工智能驱动的仿生眼突破性技术或可帮助盲人重见光明",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
       "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology coul",
       "publishedAt": "2026-11-12T11:55:55+00:00"
@@ -843,7 +891,7 @@
       "publishedAt": "2026-11-12T11:17:18+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -855,7 +903,7 @@
       "publishedAt": "2026-11-12T09:34:53+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -867,7 +915,7 @@
       "publishedAt": "2026-11-12T04:39:31+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,7 +975,7 @@
       "publishedAt": "2026-11-11T13:42:00+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -939,19 +987,7 @@
       "publishedAt": "2026-11-11T13:10:51+00:00"
     },
     {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Obesity linked to up to 27% lower risk of death in dementia",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205401.htm",
-      "summary": "A surprising study of more than 4,500 older adults found that people who were overweight or obese when diagnosed with dementia had a 16% to 27% lower risk of death than those at a normal weight. Researchers suspect that extra energy and muscle reserves may help patients survive the disease's toll on",
-      "publishedAt": "2026-11-11T12:59:57+00:00"
-    },
-    {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1033,42 +1069,6 @@
       "link": "https://www.genengnews.com/topics/bioprocessing/extracellular-vesicle-product-developer-creates-potency-assay/",
       "summary": "A company developing extracellular vesicle-based products has developed a potency assay for quality control. They hope to adapt it for future products and scale it to commercial manufacturing. The post Extracellular Vesicle Product Developer Creates Potency Assay appeared first on GEN - Genetic Engi",
       "publishedAt": "2026-11-10T17:00:26+00:00"
-    },
-    {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "Why heart attacks can still happen even when bad cholesterol is low",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
-      "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond choleste",
-      "publishedAt": "2026-11-10T01:54:15+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Alzheimer’s may have early warning signs outside the brain",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
-      "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involv",
-      "publishedAt": "2026-11-10T01:47:34+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists finally discover why we learn to love bitter coffee",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
-      "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating hab",
-      "publishedAt": "2026-11-09T23:19:35+00:00"
     },
     {
       "id": "nature-biotech-0",
