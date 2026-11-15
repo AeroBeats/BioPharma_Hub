@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-15T02:34:16.052783+00:00",
+  "updatedAt": "2026-11-15T10:42:44.787789+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,8 @@
   ],
   "failedSources": [],
   "translations": {
+    "Alzheimer’s may start shrinking two brain regions years before memory loss": "阿尔茨海默病可能在记忆力丧失前数年就开始使两个脑区萎缩",
+    "AI discovers a hidden heart signal that could predict sudden death": "人工智能发现了一种可以预测猝死的隐藏性心脏信号",
     "Scientists find a simple daily routine linked to less pain and depression": "科学家发现，简单的日常习惯与疼痛和抑郁的减轻有关",
     "A new fiber supplement could help millions suffering from irritable bowel syndrome": "一种新型膳食纤维补充剂可能有助于数百万患有肠易激综合征的人群",
     "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms": "斯坦福大学科学家发现可提前数年预测阿尔茨海默病的隐性脑信号",
@@ -105,13 +107,35 @@
     "STAT+: Scientists debut map of basal ganglia, a key brain region involved in an array of diseases": "STAT+：科学家首次绘制基底神经节图谱，该脑区与一系列疾病密切相关",
     "STAT+: Will Heidi Overton get to run the FDA?": "STAT+：Heidi Overton是否将掌管FDA？",
     "Merck KGaA's writedown over Lonza deal; PharmaLogic buys Lantheus' CDMO business": "Merck KGaA因Lonza交易计提减值；PharmaLogic收购Lantheus的CDMO业务",
-    "STAT+: New documents raise more questions about Medicare’s AI prior-authorization experiment": "STAT+：新文件引发了更多关于Medicare人工智能预先授权试验的问题",
-    "The FDA has over 1k open jobs — and the staffing shortage is hitting pharma": "美国食品药品监督管理局（FDA）有超过1000个空缺职位——人员短缺正在冲击制药行业",
-    "Ira Mellman wants Parker Institute to restore cancer immunotherapy": "Ira Mellman 希望帕克研究所能够重振癌症免疫疗法"
+    "STAT+: New documents raise more questions about Medicare’s AI prior-authorization experiment": "STAT+：新文件引发了更多关于Medicare人工智能预先授权试验的问题"
   },
   "items": [
     {
       "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+      "titleZh": "阿尔茨海默病可能在记忆力丧失前数年就开始使两个脑区萎缩",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+      "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of A",
+      "publishedAt": "2026-11-15T04:31:56+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "AI discovers a hidden heart signal that could predict sudden death",
+      "titleZh": "人工智能发现了一种可以预测猝死的隐藏性心脏信号",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+      "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might ot",
+      "publishedAt": "2026-11-15T01:05:10+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -123,7 +147,7 @@
       "publishedAt": "2026-11-14T12:48:01+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -135,7 +159,7 @@
       "publishedAt": "2026-11-14T12:35:36+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -147,7 +171,7 @@
       "publishedAt": "2026-11-14T12:25:05+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -171,7 +195,7 @@
       "publishedAt": "2026-11-14T11:00:31+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -183,7 +207,7 @@
       "publishedAt": "2026-11-14T04:26:12+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -459,7 +483,7 @@
       "publishedAt": "2026-11-13T13:34:45+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -471,7 +495,7 @@
       "publishedAt": "2026-11-13T12:55:11+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -483,7 +507,7 @@
       "publishedAt": "2026-11-13T12:48:10+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -567,7 +591,7 @@
       "publishedAt": "2026-11-13T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -591,7 +615,7 @@
       "publishedAt": "2026-11-13T01:22:00+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -615,7 +639,7 @@
       "publishedAt": "2026-11-12T23:44:45+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -813,7 +837,7 @@
       "lang": "en",
       "category": "审批",
       "title": "The FDA has over 1k open jobs — and the staffing shortage is hitting pharma",
-      "titleZh": "美国食品药品监督管理局（FDA）有超过1000个空缺职位——人员短缺正在冲击制药行业",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/fda-staffing-shortages-drug-reviews-pharma/874480/",
       "summary": "The agency is still recovering from a mass staff exodus last year that left it shorthanded. Here&rsquo;s what it means for the industry.",
       "publishedAt": "2026-11-12T14:38:00+00:00"
@@ -825,7 +849,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Ira Mellman wants Parker Institute to restore cancer immunotherapy",
-      "titleZh": "Ira Mellman 希望帕克研究所能够重振癌症免疫疗法",
+      "titleZh": "",
       "link": "https://endpoints.news/ira-mellman-wants-parker-institute-to-restore-cancer-immunotherapy/",
       "summary": "While the whole world was applauding Revolution Medicines' new cancer drug, all Ira Mellman felt was disappointment and frustration. The pill, daraxonrasib, kept patients with advanced pancreatic cancer alive roughly twice as ...",
       "publishedAt": "2026-11-12T14:00:54+00:00"
@@ -843,7 +867,7 @@
       "publishedAt": "2026-11-12T12:29:08+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -855,7 +879,7 @@
       "publishedAt": "2026-11-12T12:17:19+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -867,7 +891,7 @@
       "publishedAt": "2026-11-12T12:06:41+00:00"
     },
     {
-      "id": "science-daily-health-17",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,7 +915,7 @@
       "publishedAt": "2026-11-12T11:17:18+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -903,7 +927,7 @@
       "publishedAt": "2026-11-12T09:34:53+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,7 +939,7 @@
       "publishedAt": "2026-11-12T04:39:31+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -973,30 +997,6 @@
       "link": "https://www.biopharmadive.com/news/glp1-naion-compass-zura-abeona/874076/",
       "summary": "The deal gives AstraZeneca a simpler way to make conjugate vaccines. Elsewhere, a psychedelic depression drug was submitted to the FDA and an autoimmune disease-focused biotech&rsquo;s shares collapsed.",
       "publishedAt": "2026-11-11T13:42:00+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
-      "summary": "A new study found that energy drinks and stimulant supplements were linked to disproportionately frequent reports of serious heart problems, including 11 times more reports of cardiac arrest and 4.5 times more reports of heart attacks. Young adults accounted for nearly half of the cardiovascular rep",
-      "publishedAt": "2026-11-11T13:10:51+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Even occasional marijuana use linked to 40% higher odds of stroke",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042539.htm",
-      "summary": "New research involving more than 440,000 Americans links cannabis use to increased cardiovascular risk, with occasional users showing 40% higher odds of reporting a history of stroke. The findings suggest that even infrequent marijuana use may warrant concern, although researchers have not establish",
-      "publishedAt": "2026-11-11T03:47:25+00:00"
     },
     {
       "id": "biopharma-dive-8",
