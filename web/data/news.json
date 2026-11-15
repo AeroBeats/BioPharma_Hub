@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-15T17:39:58.576788+00:00",
+  "updatedAt": "2026-11-15T22:44:26.251445+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?": "StockWatch：在英伟达动荡之际，其生命科学领域的合作将走向何方？",
     "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics": "STAT+：FDA拒绝批准Summit Therapeutics的肺癌治疗药物ivonescimab",
     "Vitamin C could help block cancer-linked chemicals in your stomach, study finds": "研究发现，维生素C有助于阻断胃中与癌症相关的化学物质",
     "A common osteoporosis drug blocked spinal damage in a surprising new study": "一项令人惊讶的新研究发现，一种常见的骨质疏松症药物可阻止脊柱损伤",
@@ -106,10 +107,21 @@
     "Neuroprotective Protein Atlas Positions the Blood-Brain Barrier as a Selective Checkpoint": "神经保护蛋白图谱将血脑屏障定位为选择性检查点",
     "Blackstone bets $1.5B on Pfizer’s obesity drug": "黑石集团押注15亿美元于辉瑞的减肥药物",
     "STAT+: Blackstone backs Pfizer’s bet on monthly obesity treatment": "STAT+：黑石支持辉瑞对每月一次肥胖症治疗药物的押注",
-    "EnGene seeks comeback from May bladder cancer crash": "EnGene力求从5月份膀胱癌临床试验失败中东山再起",
-    "BioNTech pays $205M for Scholar Rock voucher; J&J pulls back in Norway": "BioNTech 以 2.05 亿美元收购 Scholar Rock 优惠券；强生在挪威撤回申请"
+    "EnGene seeks comeback from May bladder cancer crash": "EnGene力求从5月份膀胱癌临床试验失败中东山再起"
   },
   "items": [
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?",
+      "titleZh": "StockWatch：在英伟达动荡之际，其生命科学领域的合作将走向何方？",
+      "link": "https://www.genengnews.com/topics/artificial-intelligence/stockwatch-amid-nvidia-turmoil-what-happens-to-its-life-sciences-collaborations/",
+      "summary": "While Nvidia doesn’t develop new therapies, instruments, or reagents, its AI technology powers numerous collaborations with biopharma and lab tools giants stretching back at least five years. The post StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations? appeared first o",
+      "publishedAt": "2026-11-15T21:57:19+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
@@ -291,7 +303,7 @@
       "publishedAt": "2026-11-13T22:21:56+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -327,7 +339,7 @@
       "publishedAt": "2026-11-13T20:45:42+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -435,7 +447,7 @@
       "publishedAt": "2026-11-13T15:48:14+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -687,7 +699,7 @@
       "publishedAt": "2026-11-13T00:29:34+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -711,7 +723,7 @@
       "publishedAt": "2026-11-12T23:33:12+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -771,7 +783,7 @@
       "publishedAt": "2026-11-12T19:34:07+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -825,7 +837,7 @@
       "lang": "en",
       "category": "审批",
       "title": "BioNTech pays $205M for Scholar Rock voucher; J&J pulls back in Norway",
-      "titleZh": "BioNTech 以 2.05 亿美元收购 Scholar Rock 优惠券；强生在挪威撤回申请",
+      "titleZh": "",
       "link": "https://endpoints.news/biontech-pays-205m-for-scholar-rock-voucher-jj-pulls-back-in-norway/",
       "summary": "Plus, news about Vor Bio, RemeGen, Merck KGaA, Aidea, Astellas and Immuneering. BioNTech acquires PRV for $205 million: The German biotech scooped up the FDA voucher from Scholar Rock, with plans ...",
       "publishedAt": "2026-11-12T16:03:16+00:00"
@@ -1011,7 +1023,7 @@
       "publishedAt": "2026-11-10T21:48:00+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1035,7 +1047,7 @@
       "publishedAt": "2026-11-10T17:06:00+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1047,7 +1059,7 @@
       "publishedAt": "2026-11-10T17:00:31+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1057,18 +1069,6 @@
       "link": "https://www.genengnews.com/topics/bioprocessing/hybrid-model-captures-lactate-run-away-and-back-metabolism/",
       "summary": "A hybrid model provides hard-to-achieve insights into lactate performance during bioprocessing, creating conditions for more accurate predictions to better manage key batch parameters and variability. The post Hybrid Model Captures Lactate Run-Away and Back-Metabolism appeared first on GEN - Genetic",
       "publishedAt": "2026-11-10T17:00:27+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Extracellular Vesicle Product Developer Creates Potency Assay",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/bioprocessing/extracellular-vesicle-product-developer-creates-potency-assay/",
-      "summary": "A company developing extracellular vesicle-based products has developed a potency assay for quality control. They hope to adapt it for future products and scale it to commercial manufacturing. The post Extracellular Vesicle Product Developer Creates Potency Assay appeared first on GEN - Genetic Engi",
-      "publishedAt": "2026-11-10T17:00:26+00:00"
     },
     {
       "id": "nature-biotech-0",
