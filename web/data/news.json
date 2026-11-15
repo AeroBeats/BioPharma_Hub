@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-15T10:42:44.787789+00:00",
+  "updatedAt": "2026-11-15T17:39:58.576788+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,11 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics": "STAT+：FDA拒绝批准Summit Therapeutics的肺癌治疗药物ivonescimab",
+    "Vitamin C could help block cancer-linked chemicals in your stomach, study finds": "研究发现，维生素C有助于阻断胃中与癌症相关的化学物质",
+    "A common osteoporosis drug blocked spinal damage in a surprising new study": "一项令人惊讶的新研究发现，一种常见的骨质疏松症药物可阻止脊柱损伤",
+    "FDA rejects Summit, Akeso's ivonescimab in narrow lung cancer setting": "FDA拒绝Summit和康方生物的ivonescimab用于狭义肺癌适应症",
+    "A simple supplement could help your immune system fight cancer and viral infections": "一种简单的补充剂可以帮助您的免疫系统对抗癌症和病毒感染",
     "Alzheimer’s may start shrinking two brain regions years before memory loss": "阿尔茨海默病可能在记忆力丧失前数年就开始使两个脑区萎缩",
     "AI discovers a hidden heart signal that could predict sudden death": "人工智能发现了一种可以预测猝死的隐藏性心脏信号",
     "Scientists find a simple daily routine linked to less pain and depression": "科学家发现，简单的日常习惯与疼痛和抑郁的减轻有关",
@@ -102,16 +107,71 @@
     "Blackstone bets $1.5B on Pfizer’s obesity drug": "黑石集团押注15亿美元于辉瑞的减肥药物",
     "STAT+: Blackstone backs Pfizer’s bet on monthly obesity treatment": "STAT+：黑石支持辉瑞对每月一次肥胖症治疗药物的押注",
     "EnGene seeks comeback from May bladder cancer crash": "EnGene力求从5月份膀胱癌临床试验失败中东山再起",
-    "BioNTech pays $205M for Scholar Rock voucher; J&J pulls back in Norway": "BioNTech 以 2.05 亿美元收购 Scholar Rock 优惠券；强生在挪威撤回申请",
-    "Bristol Myers research chief to depart in ‘evolution’ of company’s structure": "百时美施贵宝研究主管将因公司结构“变革”而离职",
-    "STAT+: Scientists debut map of basal ganglia, a key brain region involved in an array of diseases": "STAT+：科学家首次绘制基底神经节图谱，该脑区与一系列疾病密切相关",
-    "STAT+: Will Heidi Overton get to run the FDA?": "STAT+：Heidi Overton是否将掌管FDA？",
-    "Merck KGaA's writedown over Lonza deal; PharmaLogic buys Lantheus' CDMO business": "Merck KGaA因Lonza交易计提减值；PharmaLogic收购Lantheus的CDMO业务",
-    "STAT+: New documents raise more questions about Medicare’s AI prior-authorization experiment": "STAT+：新文件引发了更多关于Medicare人工智能预先授权试验的问题"
+    "BioNTech pays $205M for Scholar Rock voucher; J&J pulls back in Norway": "BioNTech 以 2.05 亿美元收购 Scholar Rock 优惠券；强生在挪威撤回申请"
   },
   "items": [
     {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
+      "titleZh": "STAT+：FDA拒绝批准Summit Therapeutics的肺癌治疗药物ivonescimab",
+      "link": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
+      "summary": "The FDA has rejected ivonescimab, a treatment for a type of lung cancer developed by U.S. biotech Summit Therapeutics and the Chinese drugmaker Akeso.",
+      "publishedAt": "2026-11-15T15:05:15+00:00"
+    },
+    {
       "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "titleZh": "研究发现，维生素C有助于阻断胃中与癌症相关的化学物质",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+      "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possib",
+      "publishedAt": "2026-11-15T14:13:18+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+      "titleZh": "一项令人惊讶的新研究发现，一种常见的骨质疏松症药物可阻止脊柱损伤",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+      "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
+      "publishedAt": "2026-11-15T14:03:39+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA rejects Summit, Akeso's ivonescimab in narrow lung cancer setting",
+      "titleZh": "FDA拒绝Summit和康方生物的ivonescimab用于狭义肺癌适应症",
+      "link": "https://endpoints.news/fda-rejects-summit-akesos-ivonescimab-in-narrow-lung-cancer-setting/",
+      "summary": "The FDA rejected a new cancer treatment from Summit Therapeutics and Akeso in a decision that analysts largely expected, but ultimately shouldn’t dim the prospects for a promising class of drugs. Regulators turned down ivonescimab ...",
+      "publishedAt": "2026-11-15T12:56:23+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A simple supplement could help your immune system fight cancer and viral infections",
+      "titleZh": "一种简单的补充剂可以帮助您的免疫系统对抗癌症和病毒感染",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
+      "summary": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with the immune system's ability to recognize dangerous cells, while increasing argin",
+      "publishedAt": "2026-11-15T12:36:52+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -123,7 +183,7 @@
       "publishedAt": "2026-11-15T04:31:56+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -135,7 +195,7 @@
       "publishedAt": "2026-11-15T01:05:10+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -147,7 +207,7 @@
       "publishedAt": "2026-11-14T12:48:01+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -159,7 +219,7 @@
       "publishedAt": "2026-11-14T12:35:36+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -171,7 +231,7 @@
       "publishedAt": "2026-11-14T12:25:05+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -183,7 +243,7 @@
       "publishedAt": "2026-11-14T12:14:57+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +255,7 @@
       "publishedAt": "2026-11-14T11:00:31+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -207,7 +267,7 @@
       "publishedAt": "2026-11-14T04:26:12+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -219,7 +279,7 @@
       "publishedAt": "2026-11-14T01:50:58+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +303,7 @@
       "publishedAt": "2026-11-13T22:04:09+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +315,7 @@
       "publishedAt": "2026-11-13T21:46:05+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +339,7 @@
       "publishedAt": "2026-11-13T20:02:36+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +351,7 @@
       "publishedAt": "2026-11-13T18:50:58+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -303,7 +363,7 @@
       "publishedAt": "2026-11-13T18:01:59+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +375,7 @@
       "publishedAt": "2026-11-13T17:55:00+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -327,7 +387,7 @@
       "publishedAt": "2026-11-13T16:30:30+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +399,7 @@
       "publishedAt": "2026-11-13T16:26:47+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +411,7 @@
       "publishedAt": "2026-11-13T16:19:06+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +423,7 @@
       "publishedAt": "2026-11-13T16:12:28+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +447,7 @@
       "publishedAt": "2026-11-13T15:39:32+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +459,7 @@
       "publishedAt": "2026-11-13T15:25:46+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +471,7 @@
       "publishedAt": "2026-11-13T14:59:54+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +495,7 @@
       "publishedAt": "2026-11-13T14:36:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +507,7 @@
       "publishedAt": "2026-11-13T14:33:16+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +531,7 @@
       "publishedAt": "2026-11-13T14:00:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +543,7 @@
       "publishedAt": "2026-11-13T13:34:45+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -495,7 +555,7 @@
       "publishedAt": "2026-11-13T12:55:11+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -507,7 +567,7 @@
       "publishedAt": "2026-11-13T12:48:10+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -519,7 +579,7 @@
       "publishedAt": "2026-11-13T12:14:39+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -531,7 +591,7 @@
       "publishedAt": "2026-11-13T12:00:11+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +603,7 @@
       "publishedAt": "2026-11-13T09:30:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +615,7 @@
       "publishedAt": "2026-11-13T09:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -567,7 +627,7 @@
       "publishedAt": "2026-11-13T09:30:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +639,7 @@
       "publishedAt": "2026-11-13T09:30:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +651,7 @@
       "publishedAt": "2026-11-13T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -615,7 +675,7 @@
       "publishedAt": "2026-11-13T01:22:00+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -639,7 +699,7 @@
       "publishedAt": "2026-11-12T23:44:45+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -663,7 +723,7 @@
       "publishedAt": "2026-11-12T20:17:04+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -675,7 +735,7 @@
       "publishedAt": "2026-11-12T20:09:22+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +747,7 @@
       "publishedAt": "2026-11-12T19:52:42+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,7 +759,7 @@
       "publishedAt": "2026-11-12T19:39:53+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -735,7 +795,7 @@
       "publishedAt": "2026-11-12T16:44:00+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -747,7 +807,7 @@
       "publishedAt": "2026-11-12T16:31:10+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -759,7 +819,7 @@
       "publishedAt": "2026-11-12T16:15:42+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -777,46 +837,22 @@
       "lang": "en",
       "category": "研发",
       "title": "Bristol Myers research chief to depart in ‘evolution’ of company’s structure",
-      "titleZh": "百时美施贵宝研究主管将因公司结构“变革”而离职",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/bristol-myers-robert-plenge-cristian-massacesi-research-transition/874476/",
       "summary": "Robert Plenge is leaving as part of a shift that will see the company merge together its R&amp;D department in a bid to speed development and capitalize on new technologies.&nbsp;",
       "publishedAt": "2026-11-12T16:03:00+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Scientists debut map of basal ganglia, a key brain region involved in an array of diseases",
-      "titleZh": "STAT+：科学家首次绘制基底神经节图谱，该脑区与一系列疾病密切相关",
-      "link": "https://www.statnews.com/2026/11/12/brain-map-basal-ganglia-offers-treatment-clues-parkinsons-schizophrenia/?utm_campaign=rss",
-      "summary": "A massive scientific collaboration has produced the most detailed map yet of the basal ganglia, a key brain region involved in an array of psychiatric and neurologic disorders.",
-      "publishedAt": "2026-11-12T16:00:00+00:00"
     },
     {
       "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Will Heidi Overton get to run the FDA?",
-      "titleZh": "STAT+：Heidi Overton是否将掌管FDA？",
-      "link": "https://www.statnews.com/2026/11/12/will-heidi-overton-be-confirmed-fda-commissioner-dc-diagnosis/?utm_campaign=rss",
-      "summary": "Does Heidi Overton have the votes ? And how will Dems take on RFK Jr.?",
-      "publishedAt": "2026-11-12T15:38:37+00:00"
-    },
-    {
-      "id": "endpoints-14",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Merck KGaA's writedown over Lonza deal; PharmaLogic buys Lantheus' CDMO business",
-      "titleZh": "Merck KGaA因Lonza交易计提减值；PharmaLogic收购Lantheus的CDMO业务",
-      "link": "https://endpoints.news/merck-kgaas-writedown-over-lonza-deal-pharmalogic-buys-lantheus-cdmo-business/",
-      "summary": "Merck KGaA’s impairment hit from CDMO sale: The German conglomerate reported a €366 million ($405.8 million) impairment loss on its business sale to Lonza, according to its third-quarter earnings report Thursday. Last week, the company ...",
-      "publishedAt": "2026-11-12T15:06:12+00:00"
+      "category": "研发",
+      "title": "STAT+: Scientists debut map of basal ganglia, a key brain region involved in an array of diseases",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/11/12/brain-map-basal-ganglia-offers-treatment-clues-parkinsons-schizophrenia/?utm_campaign=rss",
+      "summary": "A massive scientific collaboration has produced the most detailed map yet of the basal ganglia, a key brain region involved in an array of psychiatric and neurologic disorders.",
+      "publishedAt": "2026-11-12T16:00:00+00:00"
     },
     {
       "id": "stat-news-19",
@@ -824,11 +860,23 @@
       "sourceId": "stat-news",
       "lang": "en",
       "category": "审批",
-      "title": "STAT+: New documents raise more questions about Medicare’s AI prior-authorization experiment",
-      "titleZh": "STAT+：新文件引发了更多关于Medicare人工智能预先授权试验的问题",
-      "link": "https://www.statnews.com/2026/11/12/new-documents-raise-more-questions-about-medicares-ai-prior-authorization-experiment/?utm_campaign=rss",
-      "summary": "In this edition of STAT Health Tech: Oura's big bet on AI, a 'rumble strip' for clinical chatbots, and questions around Medicare’s AI prior-auth experiment.",
-      "publishedAt": "2026-11-12T14:49:02+00:00"
+      "title": "STAT+: Will Heidi Overton get to run the FDA?",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/11/12/will-heidi-overton-be-confirmed-fda-commissioner-dc-diagnosis/?utm_campaign=rss",
+      "summary": "Does Heidi Overton have the votes ? And how will Dems take on RFK Jr.?",
+      "publishedAt": "2026-11-12T15:38:37+00:00"
+    },
+    {
+      "id": "endpoints-15",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Merck KGaA's writedown over Lonza deal; PharmaLogic buys Lantheus' CDMO business",
+      "titleZh": "",
+      "link": "https://endpoints.news/merck-kgaas-writedown-over-lonza-deal-pharmalogic-buys-lantheus-cdmo-business/",
+      "summary": "Merck KGaA’s impairment hit from CDMO sale: The German conglomerate reported a €366 million ($405.8 million) impairment loss on its business sale to Lonza, according to its third-quarter earnings report Thursday. Last week, the company ...",
+      "publishedAt": "2026-11-12T15:06:12+00:00"
     },
     {
       "id": "biopharma-dive-5",
@@ -843,7 +891,7 @@
       "publishedAt": "2026-11-12T14:38:00+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -855,7 +903,7 @@
       "publishedAt": "2026-11-12T14:00:54+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -867,7 +915,7 @@
       "publishedAt": "2026-11-12T12:29:08+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -879,31 +927,7 @@
       "publishedAt": "2026-11-12T12:17:19+00:00"
     },
     {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Colorectal cancer is rising again after 20 years, and scientists don't know why",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005843.htm",
-      "summary": "Colorectal cancer is making an alarming comeback in the United States after more than 20 years of declining rates, and the increase is no longer limited to younger adults. A major new study found rising rates across nearly every age group under 70, including older Americans who have historically ben",
-      "publishedAt": "2026-11-12T12:06:41+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "AI-powered bionic eye breakthrough could help the blind see again",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
-      "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology coul",
-      "publishedAt": "2026-11-12T11:55:55+00:00"
-    },
-    {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -915,7 +939,7 @@
       "publishedAt": "2026-11-12T11:17:18+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,7 +951,7 @@
       "publishedAt": "2026-11-12T09:34:53+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -939,19 +963,7 @@
       "publishedAt": "2026-11-12T04:39:31+00:00"
     },
     {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Walking and weight training may not be enough to keep your bones strong",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
-      "summary": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive movements and sudden changes in direction. Researchers found that activities such as football and handball in",
-      "publishedAt": "2026-11-12T00:10:23+00:00"
-    },
-    {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -961,18 +973,6 @@
       "link": "https://endpoints.news/neurosterix-pulls-in-105m-for-schizophrenia-drug-recruits-cobenfy-vets/",
       "summary": "Neurosterix, which is reuniting some key figures behind Cobenfy, has corralled $105 million in a Series B to fund its lead schizophrenia candidate that hits one of the targets of Bristol Myers Squibb’s drug. The ...",
       "publishedAt": "2026-11-11T21:00:55+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "How Hims plans to reinvigorate its business",
-      "titleZh": "",
-      "link": "https://endpoints.news/how-hims-plans-to-revive-its-business-after-pivoting-to-branded-glp-1s/",
-      "summary": "Hims &amp; Hers, once obsessed with delivering \"personalized care\" through compounded drug products, is now banking on brand-name treatments and the pharmaceutical giants it previously tried to undercut. Hims struck a deal with Eli Lilly ...",
-      "publishedAt": "2026-11-11T20:20:26+00:00"
     },
     {
       "id": "biopharma-dive-6",
