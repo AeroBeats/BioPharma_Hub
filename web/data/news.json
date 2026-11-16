@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-15T22:44:26.251445+00:00",
+  "updatedAt": "2026-11-16T02:41:10.750193+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: Apple and OpenEvidence launch experimental health chat app": "STAT+：苹果和OpenEvidence推出实验性健康聊天应用",
     "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?": "StockWatch：在英伟达动荡之际，其生命科学领域的合作将走向何方？",
     "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics": "STAT+：FDA拒绝批准Summit Therapeutics的肺癌治疗药物ivonescimab",
     "Vitamin C could help block cancer-linked chemicals in your stomach, study finds": "研究发现，维生素C有助于阻断胃中与癌症相关的化学物质",
@@ -106,10 +107,21 @@
     "FDA's speedy voucher program is dead — report": "据报道，FDA的快速审批凭证计划已终止",
     "Neuroprotective Protein Atlas Positions the Blood-Brain Barrier as a Selective Checkpoint": "神经保护蛋白图谱将血脑屏障定位为选择性检查点",
     "Blackstone bets $1.5B on Pfizer’s obesity drug": "黑石集团押注15亿美元于辉瑞的减肥药物",
-    "STAT+: Blackstone backs Pfizer’s bet on monthly obesity treatment": "STAT+：黑石支持辉瑞对每月一次肥胖症治疗药物的押注",
-    "EnGene seeks comeback from May bladder cancer crash": "EnGene力求从5月份膀胱癌临床试验失败中东山再起"
+    "STAT+: Blackstone backs Pfizer’s bet on monthly obesity treatment": "STAT+：黑石支持辉瑞对每月一次肥胖症治疗药物的押注"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Apple and OpenEvidence launch experimental health chat app",
+      "titleZh": "STAT+：苹果和OpenEvidence推出实验性健康聊天应用",
+      "link": "https://www.statnews.com/2026/11/15/apple-openevidence-launch-health-chat-app-experiment-ai/?utm_campaign=rss",
+      "summary": "Apple and OpenEvidence are launching a study based around an experimental AI-powered health chat app, hinting at possible new directions for both companies.",
+      "publishedAt": "2026-11-16T01:25:43+00:00"
+    },
     {
       "id": "gen-0",
       "source": "GEN",
@@ -123,7 +135,7 @@
       "publishedAt": "2026-11-15T21:57:19+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +303,7 @@
       "publishedAt": "2026-11-14T01:50:58+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +327,7 @@
       "publishedAt": "2026-11-13T22:04:09+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +339,7 @@
       "publishedAt": "2026-11-13T21:46:05+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +387,7 @@
       "publishedAt": "2026-11-13T18:01:59+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +447,7 @@
       "publishedAt": "2026-11-13T16:12:28+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +471,7 @@
       "publishedAt": "2026-11-13T15:39:32+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +483,7 @@
       "publishedAt": "2026-11-13T15:25:46+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +495,7 @@
       "publishedAt": "2026-11-13T14:59:54+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +519,7 @@
       "publishedAt": "2026-11-13T14:36:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +531,7 @@
       "publishedAt": "2026-11-13T14:33:16+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +555,7 @@
       "publishedAt": "2026-11-13T14:00:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +615,7 @@
       "publishedAt": "2026-11-13T12:00:11+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -615,7 +627,7 @@
       "publishedAt": "2026-11-13T09:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +639,7 @@
       "publishedAt": "2026-11-13T09:30:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -639,7 +651,7 @@
       "publishedAt": "2026-11-13T09:30:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +663,7 @@
       "publishedAt": "2026-11-13T09:30:00+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -807,7 +819,7 @@
       "publishedAt": "2026-11-12T16:44:00+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -825,7 +837,7 @@
       "lang": "en",
       "category": "审批",
       "title": "EnGene seeks comeback from May bladder cancer crash",
-      "titleZh": "EnGene力求从5月份膀胱癌临床试验失败中东山再起",
+      "titleZh": "",
       "link": "https://endpoints.news/engene-seeks-comeback-from-may-bladder-cancer-crash/",
       "summary": "EnGene’s latest data on its bladder cancer therapy looked better than an earlier cut in May, which had gutted the biotech’s stock after it reported underwhelming durability results. But it still remains ...",
       "publishedAt": "2026-11-12T16:15:42+00:00"
@@ -855,7 +867,7 @@
       "publishedAt": "2026-11-12T16:03:00+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -865,18 +877,6 @@
       "link": "https://www.statnews.com/2026/11/12/brain-map-basal-ganglia-offers-treatment-clues-parkinsons-schizophrenia/?utm_campaign=rss",
       "summary": "A massive scientific collaboration has produced the most detailed map yet of the basal ganglia, a key brain region involved in an array of psychiatric and neurologic disorders.",
       "publishedAt": "2026-11-12T16:00:00+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Will Heidi Overton get to run the FDA?",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/11/12/will-heidi-overton-be-confirmed-fda-commissioner-dc-diagnosis/?utm_campaign=rss",
-      "summary": "Does Heidi Overton have the votes ? And how will Dems take on RFK Jr.?",
-      "publishedAt": "2026-11-12T15:38:37+00:00"
     },
     {
       "id": "endpoints-15",
