@@ -1,7 +1,7 @@
 import { TEMPLATES, getTemplate } from "./templates.js";
 import { renderSeq } from "./lab-seq.js";
 import { renderGel } from "./lab-gel.js";
-import { renderInventory } from "./lab-inventory.js";
+import { renderInventory, inventoryItems, inventoryStatus, matchInventory, prefillNewItem, setInventoryQuery } from "./lab-inventory.js";
 
 // ── Backend config ─────────────────────────────────
 // Absolute URL of the deployed AI backend (Cloudflare Worker, see worker/worker.js).
@@ -342,6 +342,7 @@ function renderProtocols(container) {
       </div>
       <div class="proto-output" id="proto-right">
         <div class="proto-panel card" id="proto-form-panel"></div>
+        <div id="proto-mat-container"></div>
         <div id="proto-doc-container"></div>
         <div id="proto-ai-container"></div>
       </div>
@@ -350,6 +351,7 @@ function renderProtocols(container) {
 
   renderTemplateGrid(tpl, container);
   renderForm(tpl);
+  renderMaterials(tpl);
   renderDoc(tpl);
   renderAI();
 }
@@ -418,6 +420,7 @@ function renderForm(tpl) {
     if (!el) return;
     protoState.values[el.dataset.key] = el.type === "number" ? (el.value === "" ? "" : Number(el.value)) : el.value;
     renderDoc(tpl);
+    renderMaterials(tpl);
   };
   form.addEventListener("input", onInput);
   form.addEventListener("change", onInput);
@@ -482,6 +485,67 @@ function renderDoc(tpl) {
   });
 }
 
+// ── Materials × Inventory check ─────────────────────────────────
+function renderMaterials(tpl) {
+  const el = $("#proto-mat-container");
+  if (!el) return;
+  let rows = [];
+  try { rows = tpl.reagents(protoState.values) || []; } catch { /* */ }
+  const checks = rows.map(([name, amount]) => ({ name, amount, item: matchInventory(name) }));
+  const registered = checks.filter((c) => c.item).length;
+  const attention = checks.filter((c) => c.item && inventoryStatus(c.item).key !== "ok").length;
+  el.innerHTML = `
+    <div class="proto-panel card mat-panel">
+      <h2>库存核对</h2>
+      <p class="panel-desc">按当前试剂表匹配本地台账 · ${registered}/${checks.length} 已登记${attention ? ` · <span style="color:var(--amber)">${attention} 项需关注</span>` : ""}</p>
+      <div class="mat-list">
+        ${checks.map((c) => {
+          const st = c.item ? inventoryStatus(c.item) : null;
+          return `
+          <div class="mat-row">
+            <div class="mat-name">${esc(c.name)}<span class="mat-amount">${esc(c.amount)}</span></div>
+            ${c.item
+              ? `<span class="inv-badge inv-badge-${st.cls}">${st.label}</span>
+                 <span class="mat-qty">${esc(String(c.item.qty))} ${esc(c.item.unit)}</span>
+                 <button class="btn btn-sm btn-ghost" data-mat-view="${esc(c.item.name)}">查看</button>`
+              : `<span class="inv-badge inv-badge-mute">未登记</span>
+                 <button class="btn btn-sm" data-mat-add="${esc(c.name)}">登记</button>`}
+          </div>`;
+        }).join("")}
+      </div>
+      <div class="hint">名称模糊匹配，点"查看"确认是否同一试剂；"登记"跳转库存并预填名称。AI 优化也会读取该台账。</div>
+    </div>
+  `;
+  el.querySelectorAll("[data-mat-add]").forEach((b) => b.addEventListener("click", () => {
+    prefillNewItem({ name: b.dataset.matAdd });
+    labState.tab = "inventory";
+    renderLab($("#view"));
+  }));
+  el.querySelectorAll("[data-mat-view]").forEach((b) => b.addEventListener("click", () => {
+    setInventoryQuery(b.dataset.matView);
+    labState.tab = "inventory";
+    renderLab($("#view"));
+  }));
+}
+
+function buildInventoryContext(tpl) {
+  const items = inventoryItems();
+  if (!items.length) return "";
+  let rows = [];
+  try { rows = tpl.reagents(protoState.values) || []; } catch { /* */ }
+  const lines = rows.map(([name]) => {
+    const it = matchInventory(name);
+    if (!it) return `- ${name}：台账未登记`;
+    const st = inventoryStatus(it);
+    return `- ${name}：库存「${it.name}」余 ${it.qty}${it.unit}，${st.label}${it.location ? `，位置 ${it.location}` : ""}`;
+  });
+  const alerts = items.filter((i) => inventoryStatus(i).key !== "ok").slice(0, 10)
+    .map((i) => `- ${i.name}：${inventoryStatus(i).label}（余 ${i.qty}${i.unit}）`);
+  let ctx = "实验室库存台账上下文：\n" + lines.join("\n");
+  if (alerts.length) ctx += "\n全局库存警报：\n" + alerts.join("\n");
+  return ctx.slice(0, 2000);
+}
+
 // ── AI Panel ─────────────────────────────────
 function renderAI() {
   const container = $("#proto-ai-container");
@@ -534,6 +598,7 @@ function renderAIBody() {
 
   body.innerHTML = `
     <p style="font-size:12.5px;color:var(--text-2);margin-bottom:10px">AI 将根据当前 Protocol 参数，提供步骤优化、潜在问题提示和注意事项补充。</p>
+    ${inventoryItems().length ? `<p class="hint" style="margin:-4px 0 10px">已结合本地库存台账（${inventoryItems().length} 条）：过期/低库存/未登记试剂会进入提示上下文。</p>` : ""}
     <div style="display:flex;gap:8px;flex-wrap:wrap">
       <textarea class="textarea" id="ai-instruction" rows="2" style="flex:1;min-width:200px" placeholder="补充说明（可选）：如"优化退火温度"、"增加阳性对照步骤""></textarea>
       <button class="btn btn-primary" id="ai-run" style="align-self:flex-end">
@@ -576,6 +641,7 @@ async function callAI() {
       body: JSON.stringify({
         topic: `${tpl.name}实验`,
         draft: (protocolText + "\n\n用户补充要求：" + instruction).slice(0, 8000),
+        inventory: buildInventoryContext(tpl),
       }),
     });
     const ctype = res.headers.get("content-type") || "";

@@ -8,11 +8,11 @@
 
 - **新闻聚合**: 每小时自动抓取 Nature Biotechnology、Nature Medicine、STAT News 等 7 个权威源，英文标题自动翻译为中文
 - **实验室**: 四个子模块，除 AI 优化外全部在浏览器本地运行
-  - **Protocol 设计**: 内置 PCR、质粒构建、细胞培养、ELISA 等实验模板，填写参数即可生成结构化文档，支持打印导出
+  - **Protocol 设计**: 内置 PCR、质粒构建、细胞培养、ELISA 等实验模板，填写参数即可生成结构化文档，支持打印导出；试剂表自动与库存台账模糊匹配，显示过期/临期/低库存状态，一键跳转登记或查看
   - **序列对比**: 双序列全局比对（Needleman-Wunsch），DNA 计分 +2/-1/-2，蛋白 BLOSUM62；支持 FASTA，输出一致性/相似性统计与着色比对
   - **胶图处理**: 电泳胶图亮度/对比度/反相/灰度增强，Marker 标定（含 DL2000 预设），log 线性回归估算条带大小，标注导出 PNG
-  - **库存管理**: 试剂/耗材台账（localStorage 持久化），过期/临期/低库存提醒，CSV 导入导出备份
-- **AI 智能优化**: 基于 DeepSeek 模型，针对 Protocol 草稿给出专业改进建议（需部署 Cloudflare Worker）
+  - **库存管理**: 试剂/耗材台账（localStorage 持久化），过期/临期/低库存提醒，CSV 导入导出备份；支持批量粘贴导入（逗号/Tab 自动识别，可从 Excel 直接复制，附 CSV 模板下载）与多选批量管理（改类别/改位置/导出所选/删除所选）
+- **AI 智能优化**: 基于 DeepSeek 模型，针对 Protocol 草稿给出专业改进建议，并自动结合库存台账指出过期/低库存/未登记试剂风险（需部署 Cloudflare Worker）
 - **小工具**: PDF/Markdown 互转（浏览器本地运行，无需上传）
 - **英语学习**: 生物医药术语卡片与阅读练习
 
@@ -131,6 +131,8 @@ python scripts/fetch_news.py
 AI 智能优化功能依赖后端服务，部署到 Cloudflare Workers（免费额度足够个人使用）。
 
 ### 部署步骤
+
+> **已部署过的用户**: 库存偶联功能更新了 Worker 代码，需在 Cloudflare dashboard 重新粘贴 [worker/worker.js](worker/worker.js) 最新内容并 Deploy，AI 建议才会包含库存上下文（密钥与域名配置无需改动）。
 
 1. **创建 Worker**
    - 打开 https://dash.cloudflare.com → Workers & Pages → Create → Create Worker

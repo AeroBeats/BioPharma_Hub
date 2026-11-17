@@ -1073,6 +1073,28 @@ h1, h2, h3 { font-family: var(--font-display); color: var(--text); line-height: 
 .inv-badge-amber { background: var(--amber-soft); color: var(--amber); }
 .inv-badge-rose { background: var(--rose-soft); color: var(--rose); }
 .inv-ops { white-space: nowrap; text-align: right; }
+.inv-badge-mute { background: var(--surface-2); color: var(--text-3); }
+.inv-check-col { width: 34px; text-align: center; }
+.inv-check, #inv-sel-all { accent-color: var(--accent); cursor: pointer; }
+.inv-bulkbar {
+  display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+  background: var(--accent-soft); border: 1px solid var(--border);
+  border-radius: var(--radius-sm); padding: 10px 12px; margin-bottom: 12px; font-size: 12.5px;
+}
+.inv-bulkbar strong { color: var(--accent-hover); white-space: nowrap; }
+.paste-panel {
+  border: 1px solid var(--border); background: var(--surface-2);
+  border-radius: var(--radius-sm); padding: 14px 16px; margin-bottom: 14px;
+}
+.paste-panel .textarea { width: 100%; margin-bottom: 8px; }
+
+/* ── Lab · Protocol × 库存核对 ───────────────────────────────── */
+.mat-list { display: flex; flex-direction: column; }
+.mat-row { display: flex; align-items: center; gap: 8px; padding: 7px 0; border-bottom: 1px dashed var(--border); }
+.mat-row:last-child { border-bottom: none; }
+.mat-name { flex: 1; min-width: 0; font-size: 12.5px; font-weight: 600; }
+.mat-amount { display: block; font-family: var(--font-mono); font-size: 11px; font-weight: 400; color: var(--text-3); }
+.mat-qty { font-family: var(--font-mono); font-size: 12px; color: var(--text-2); white-space: nowrap; }
 
 @media (max-width: 900px) {
   .gel-layout { grid-template-columns: 1fr; }

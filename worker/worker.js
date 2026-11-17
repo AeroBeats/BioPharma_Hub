@@ -9,7 +9,8 @@ const MODEL = "deepseek-chat"; // or "deepseek-reasoner" for reasoning model
 
 const SYSTEM_PROMPT =
   "你是一名资深生物医药实验设计顾问。请针对用户提供的 Protocol 草稿，给出专业、简洁、可执行的优化建议，" +
-  "包括关键步骤注意事项、常见失败原因和改进方向。用中文回答，使用 Markdown 格式。";
+  "包括关键步骤注意事项、常见失败原因和改进方向。如附有实验室库存上下文，请结合它指出过期、低库存或未登记试剂的风险，" +
+  "并给出替代试剂或补货建议。用中文回答，使用 Markdown 格式。";
 
 function corsHeaders(request, env) {
   const allowed = (env.ALLOWED_ORIGINS || "https://aerobeats.github.io")
@@ -47,6 +48,7 @@ function json(body, cors, status = 200) {
 async function enhance(payload, env, cors) {
   const topic = String(payload?.topic || "").slice(0, 400);
   const draft = String(payload?.draft || "").slice(0, 8000);
+  const inventory = String(payload?.inventory || "").slice(0, 2000);
   if (!topic && !draft) return json({ ok: false, error: "empty_input" }, cors, 400);
 
   const apiKey = env.DEEPSEEK_API_KEY;
@@ -65,7 +67,7 @@ async function enhance(payload, env, cors) {
         model: MODEL,
         messages: [
           { role: "system", content: SYSTEM_PROMPT },
-          { role: "user", content: "Protocol 主题：" + topic + "\n\n当前草稿：\n" + draft },
+          { role: "user", content: "Protocol 主题：" + topic + "\n\n当前草稿：\n" + draft + (inventory ? "\n\n" + inventory : "") },
         ],
         temperature: 0.7,
         max_tokens: 2000,
