@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-16T20:57:07.611671+00:00",
+  "updatedAt": "2026-11-17T03:44:14.941336+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,12 @@
   ],
   "failedSources": [],
   "translations": {
+    "Enhancer-Targeted CRISPR Turns Up Healthy Gene Copy in Autism Organoid Model": "增强子靶向CRISPR在自闭症类器官模型中上调健康基因拷贝",
+    "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage": "STAT+：特朗普新规承诺要严厉打击“欺诈者”。所有节省的费用都来自Medicare Advantage",
+    "AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results": "AriBio将勃起功能障碍药物用于治疗阿尔茨海默病，结果不尽如人意",
+    "Toward Connected Laboratory Ecosystems": "迈向互联实验室生态系统",
+    "Lilly strikes up to $5.9B cancer deal with Stipple Bio": "礼来与Stipple Bio达成高达59亿美元的抗癌药物交易",
+    "Gut Microbome and Bile Acid Modification Linked with Longevity": "肠道微生物组和胆汁酸变化与长寿的关联",
     "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche": "STAT+：FDA批准了一种新的乳腺癌药物，为部分患者提供了新的选择，并为罗氏提供了助力",
     "STAT+: Federal judge issues final ruling blocking U.S. plan to limit visa length for grad students, postdocs": "STAT+：联邦法官做出最终裁决，阻止美国限制研究生和博士后签证期限的计划",
     "AstraZeneca, Alexion's mysathenia gravis treatment enters crowded market": "阿斯利康旗下的Alexion重症肌无力治疗药物进入竞争激烈的市场",
@@ -56,6 +62,7 @@
     "STAT+: Expert warns of battleground over global access to newer GLP-1 drugs for obesity": "STAT+：专家警告称，全球范围内对新型GLP-1肥胖药物的获取权将成为争夺焦点",
     "STAT+: NIAID acting head John Powers III appointed as the permanent director": "STAT+：NIAID代理负责人John Powers III被任命为正式主任",
     "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug": "FDA否决备受瞩目的PD-1/VEGF药物，Summit股价应声下跌",
+    "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial": "CG Oncology药物在膀胱癌关键性试验中取得“卓越”成果",
     "J&J bets $2.2B on Ollin’s vision loss drug": "强生斥资22亿美元押注Ollin的视力丧失药物",
     "STAT+: Biotech’s rebound isn’t lifting all boats equally": "STAT+：生物技术的反弹并未让所有公司都同样受益",
     "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises": "STAT+：起诉“水管工乔”和微软，以及削减加薪",
@@ -94,24 +101,89 @@
     "STAT+: Apple and OpenEvidence launch experimental health chat app": "STAT+：苹果和OpenEvidence推出实验性健康聊天应用",
     "An ancient virus may help explain what makes the human brain different": "一种古老的病毒可能有助于解释是什么使人类大脑与众不同",
     "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?": "StockWatch：在英伟达动荡之际，其生命科学领域的合作将走向何方？",
-    "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics": "STAT+：FDA拒绝批准Summit Therapeutics的肺癌治疗药物ivonescimab",
     "Vitamin C could help block cancer-linked chemicals in your stomach, study finds": "研究发现，维生素C有助于阻断胃中与癌症相关的化学物质",
     "A common osteoporosis drug blocked spinal damage in a surprising new study": "一项令人惊讶的新研究发现，一种常见的骨质疏松症药物可阻止脊柱损伤",
     "FDA rejects Summit, Akeso's ivonescimab in narrow lung cancer setting": "FDA拒绝Summit和康方生物的ivonescimab用于狭义肺癌适应症",
     "A simple supplement could help your immune system fight cancer and viral infections": "一种简单的补充剂可以帮助您的免疫系统对抗癌症和病毒感染",
     "Alzheimer’s may start shrinking two brain regions years before memory loss": "阿尔茨海默病可能在记忆力丧失前数年就开始使两个脑区萎缩",
     "AI discovers a hidden heart signal that could predict sudden death": "人工智能发现了一种可以预测猝死的隐藏性心脏信号",
-    "Scientists find a simple daily routine linked to less pain and depression": "科学家发现，简单的日常习惯与疼痛和抑郁的减轻有关",
-    "A new fiber supplement could help millions suffering from irritable bowel syndrome": "一种新型膳食纤维补充剂可能有助于数百万患有肠易激综合征的人群",
-    "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms": "斯坦福大学科学家发现可提前数年预测阿尔茨海默病的隐性脑信号",
-    "Exercise after ACL surgery may protect knees from early osteoarthritis": "前交叉韧带（ACL）手术后的锻炼可能保护膝关节免于过早患上骨关节炎",
-    "George Church quits AI startup; Ira Mellman’s immunotherapy fight; and more": "乔治·丘奇退出人工智能初创公司；伊拉·梅尔曼的免疫疗法抗争；以及更多",
-    "Yale scientists reveal what really slows aging and what doesn't": "耶鲁大学科学家揭示真正能延缓衰老和不能延缓衰老的因素",
-    "Forcing yourself to smile can actually make you miserable": "强迫自己微笑实际上会让你感到痛苦"
+    "Scientists find a simple daily routine linked to less pain and depression": "科学家发现，简单的日常习惯与疼痛和抑郁的减轻有关"
   },
   "items": [
     {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Enhancer-Targeted CRISPR Turns Up Healthy Gene Copy in Autism Organoid Model",
+      "titleZh": "增强子靶向CRISPR在自闭症类器官模型中上调健康基因拷贝",
+      "link": "https://www.genengnews.com/topics/translational-medicine/enhancer-targeted-crispr-turns-up-healthy-gene-copy-in-autism-organoid-model/",
+      "summary": "In lab-grown human neurons and organoids carrying CHD8 or SCN2A mutations, researchers reduced organoid overgrowth and moved neuronal electrical activity closer to wild-type levels. The post Enhancer-Targeted CRISPR Turns Up Healthy Gene Copy in Autism Organoid Model appeared first on GEN - Genetic ",
+      "publishedAt": "2026-11-16T23:50:32+00:00"
+    },
+    {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage",
+      "titleZh": "STAT+：特朗普新规承诺要严厉打击“欺诈者”。所有节省的费用都来自Medicare Advantage",
+      "link": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/?utm_campaign=rss",
+      "summary": "New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage.",
+      "publishedAt": "2026-11-16T23:45:36+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results",
+      "titleZh": "AriBio将勃起功能障碍药物用于治疗阿尔茨海默病，结果不尽如人意",
+      "link": "https://endpoints.news/aribios-repurposing-of-ed-drug-for-alzheimers-yields-tepid-results/",
+      "summary": "BOSTON — For years, scientists have wondered whether Viagra-like pills could have an unexpected benefit in the brain. Some real-world evidence suggests men who take erectile dysfunction medicines are less likely to develop Alzheimer’s, and the ...",
+      "publishedAt": "2026-11-16T22:22:47+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Toward Connected Laboratory Ecosystems",
+      "titleZh": "迈向互联实验室生态系统",
+      "link": "https://www.genengnews.com/topics/toward-connected-laboratory-ecosystems/",
+      "summary": "In this GEN podcast, the third in a series, LabVantage’s Denise Bell discusses how laboratories can reduce operational fragmentation and build connected, scalable operations. The post Toward Connected Laboratory Ecosystems appeared first on GEN - Genetic Engineering and Biotechnology News.",
+      "publishedAt": "2026-11-16T22:00:09+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Lilly strikes up to $5.9B cancer deal with Stipple Bio",
+      "titleZh": "礼来与Stipple Bio达成高达59亿美元的抗癌药物交易",
+      "link": "https://endpoints.news/lilly-strikes-up-to-5-9b-cancer-deal-with-stipple-bio/",
+      "summary": "Eli Lilly continues to be pharma’s biggest shopaholic. Lilly has enlisted Cambridge, MA-based startup Stipple Bio for a multibillion-dollar deal to develop new cancer treatments, marking what appears to be the Indianapolis drug giant’s second-largest ...",
+      "publishedAt": "2026-11-16T21:01:05+00:00"
+    },
+    {
+      "id": "gen-2",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Gut Microbome and Bile Acid Modification Linked with Longevity",
+      "titleZh": "肠道微生物组和胆汁酸变化与长寿的关联",
+      "link": "https://www.genengnews.com/topics/translational-medicine/gut-microbome-and-bile-acid-modification-linked-with-longevity/",
+      "summary": "Researchers studying how gut microbes modify bile acids have identified changes in the metabolic activity of the gut microbiome associated with exceptional longevity in humans, and found that amplifying the same activity with engineered bacteria improved metabolic health in aged mice. The post Gut M",
+      "publishedAt": "2026-11-16T20:59:11+00:00"
+    },
+    {
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -123,7 +195,7 @@
       "publishedAt": "2026-11-16T20:56:47+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +207,7 @@
       "publishedAt": "2026-11-16T19:59:14+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -147,7 +219,7 @@
       "publishedAt": "2026-11-16T19:17:34+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +231,7 @@
       "publishedAt": "2026-11-16T18:54:06+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +243,7 @@
       "publishedAt": "2026-11-16T18:30:34+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +255,7 @@
       "publishedAt": "2026-11-16T18:18:25+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -211,6 +283,18 @@
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
+      "category": "审批",
+      "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
+      "titleZh": "CG Oncology药物在膀胱癌关键性试验中取得“卓越”成果",
+      "link": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
+      "summary": "CG&rsquo;s therapy cretostimogene cut the risk of recurrence by 68% when administered after surgery, far surpassing Wall Street&rsquo;s expectations and lifting company shares.&nbsp;",
+      "publishedAt": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "id": "biopharma-dive-2",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
       "category": "市场",
       "title": "J&J bets $2.2B on Ollin’s vision loss drug",
       "titleZh": "强生斥资22亿美元押注Ollin的视力丧失药物",
@@ -219,7 +303,7 @@
       "publishedAt": "2026-11-16T16:57:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +315,7 @@
       "publishedAt": "2026-11-16T16:56:33+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +327,7 @@
       "publishedAt": "2026-11-16T16:52:09+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +339,7 @@
       "publishedAt": "2026-11-16T16:19:12+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +351,7 @@
       "publishedAt": "2026-11-16T15:57:41+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +375,7 @@
       "publishedAt": "2026-11-16T14:31:10+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +399,7 @@
       "publishedAt": "2026-11-16T14:16:56+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -327,7 +411,7 @@
       "publishedAt": "2026-11-16T13:52:04+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +423,7 @@
       "publishedAt": "2026-11-16T13:37:10+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +435,7 @@
       "publishedAt": "2026-11-16T13:07:47+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +447,7 @@
       "publishedAt": "2026-11-16T13:00:01+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +459,7 @@
       "publishedAt": "2026-11-16T13:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -399,7 +483,7 @@
       "publishedAt": "2026-11-16T12:41:09+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +495,7 @@
       "publishedAt": "2026-11-16T12:04:27+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +531,7 @@
       "publishedAt": "2026-11-16T10:22:15+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -459,7 +543,7 @@
       "publishedAt": "2026-11-16T10:00:23+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +555,7 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -483,7 +567,7 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -495,7 +579,7 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -507,7 +591,7 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -519,7 +603,7 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -531,7 +615,7 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +627,7 @@
       "publishedAt": "2026-11-16T09:30:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +639,7 @@
       "publishedAt": "2026-11-16T09:30:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -567,7 +651,7 @@
       "publishedAt": "2026-11-16T09:30:00+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +663,7 @@
       "publishedAt": "2026-11-16T09:30:00+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +675,7 @@
       "publishedAt": "2026-11-16T09:30:00+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -603,7 +687,7 @@
       "publishedAt": "2026-11-16T07:00:17+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -627,7 +711,7 @@
       "publishedAt": "2026-11-16T01:40:04+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +735,7 @@
       "publishedAt": "2026-11-16T00:32:12+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -661,18 +745,6 @@
       "link": "https://www.genengnews.com/topics/artificial-intelligence/stockwatch-amid-nvidia-turmoil-what-happens-to-its-life-sciences-collaborations/",
       "summary": "While Nvidia doesn’t develop new therapies, instruments, or reagents, its AI technology powers numerous collaborations with biopharma and lab tools giants stretching back at least five years. The post StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations? appeared first o",
       "publishedAt": "2026-11-15T21:57:19+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
-      "titleZh": "STAT+：FDA拒绝批准Summit Therapeutics的肺癌治疗药物ivonescimab",
-      "link": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
-      "summary": "The FDA has rejected ivonescimab, a treatment for a type of lung cancer developed by U.S. biotech Summit Therapeutics and the Chinese drugmaker Akeso.",
-      "publishedAt": "2026-11-15T15:05:15+00:00"
     },
     {
       "id": "science-daily-health-5",
@@ -699,7 +771,7 @@
       "publishedAt": "2026-11-15T14:03:39+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -765,7 +837,7 @@
       "lang": "en",
       "category": "技术",
       "title": "A new fiber supplement could help millions suffering from irritable bowel syndrome",
-      "titleZh": "一种新型膳食纤维补充剂可能有助于数百万患有肠易激综合征的人群",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
       "summary": "Scientists have developed a promising new fiber supplement that improves gut health in people with irritable bowel syndrome (IBS) without worsening bloating, pain, or other digestive symptoms. The specially designed blend also improved gut-related anxiety and produced surprisingly rapid changes in g",
       "publishedAt": "2026-11-14T12:35:36+00:00"
@@ -777,7 +849,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
-      "titleZh": "斯坦福大学科学家发现可提前数年预测阿尔茨海默病的隐性脑信号",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
       "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hope",
       "publishedAt": "2026-11-14T12:25:05+00:00"
@@ -789,19 +861,19 @@
       "lang": "en",
       "category": "研发",
       "title": "Exercise after ACL surgery may protect knees from early osteoarthritis",
-      "titleZh": "前交叉韧带（ACL）手术后的锻炼可能保护膝关节免于过早患上骨关节炎",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112025538.htm",
       "summary": "A new study suggests that the right kind of exercise could help protect young adults from early knee osteoarthritis following ACL surgery. Researchers found that a four-month supervised rehabilitation program improved pain, muscle strength, and quality of life without damaging knee cartilage. The fi",
       "publishedAt": "2026-11-14T12:14:57+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "技术",
       "title": "George Church quits AI startup; Ira Mellman’s immunotherapy fight; and more",
-      "titleZh": "乔治·丘奇退出人工智能初创公司；伊拉·梅尔曼的免疫疗法抗争；以及更多",
+      "titleZh": "",
       "link": "https://endpoints.news/george-church-quits-ai-startup-ira-mellmans-immunotherapy-fight-and-more/",
       "summary": "Welcome back to another edition of Endpoints Weekly! The unseasonably warm autumn we’ve had in New York finally seems to be breaking, with highs expected in the mid-40s and low 50s for this weekend and ...",
       "publishedAt": "2026-11-14T11:00:31+00:00"
@@ -813,7 +885,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Yale scientists reveal what really slows aging and what doesn't",
-      "titleZh": "耶鲁大学科学家揭示真正能延缓衰老和不能延缓衰老的因素",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
       "summary": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could transform how scientists evaluate anti-aging treatments, although wh",
       "publishedAt": "2026-11-14T04:26:12+00:00"
@@ -825,13 +897,13 @@
       "lang": "en",
       "category": "研发",
       "title": "Forcing yourself to smile can actually make you miserable",
-      "titleZh": "强迫自己微笑实际上会让你感到痛苦",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112025536.htm",
       "summary": "Smiling may not always make you happier, and new research suggests that forcing yourself to smile repeatedly could actually make you feel worse. In a University of Florida study involving more than 1,100 participants, researchers discovered that while a single artificial smile can provide a small mo",
       "publishedAt": "2026-11-14T01:50:58+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -843,7 +915,7 @@
       "publishedAt": "2026-11-13T22:04:09+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -855,7 +927,7 @@
       "publishedAt": "2026-11-13T20:02:36+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -867,7 +939,7 @@
       "publishedAt": "2026-11-13T18:50:58+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -879,7 +951,7 @@
       "publishedAt": "2026-11-13T18:01:59+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -891,7 +963,7 @@
       "publishedAt": "2026-11-13T16:30:30+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -903,7 +975,7 @@
       "publishedAt": "2026-11-13T16:26:47+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -915,7 +987,7 @@
       "publishedAt": "2026-11-13T16:19:06+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -927,7 +999,7 @@
       "publishedAt": "2026-11-13T16:12:28+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -939,7 +1011,7 @@
       "publishedAt": "2026-11-13T15:39:32+00:00"
     },
     {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -949,18 +1021,6 @@
       "link": "https://www.biopharmadive.com/news/novo-etavopivat-flagship-gates-ascidian-immuneering-neurosterix/874120/",
       "summary": "Novo views the medicine, acquired in a billion-dollar deal, as a future blockbuster. Meanwhile, a pair of startups forged an RNA editing pact and Astellas lined up two new trials in pancreatic cancer.",
       "publishedAt": "2026-11-13T14:36:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "市场",
-      "title": "This week in charts: Brain drugs are back on venture capitalists’ minds",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/charts-venture-neuroscience-oyster-vectory-acr-cell-therapy/874570/",
-      "summary": "Five neurology-focused startups have together raised around $450 million in the last few weeks. Elsewhere, investors had a muted response to the latest cell therapy research.",
-      "publishedAt": "2026-11-13T14:00:00+00:00"
     },
     {
       "id": "science-daily-health-19",
@@ -975,19 +1035,7 @@
       "publishedAt": "2026-11-13T12:14:39+00:00"
     },
     {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Gubra CEO gets the quick hook; Ex-HHS official Brett Giroir takes over at cancer biotech",
-      "titleZh": "",
-      "link": "https://endpoints.news/gubra-ceo-gets-the-quick-hook-ex-hhs-official-brett-giroir-takes-over-at-cancer-biotech/",
-      "summary": "→ AbbVie and Boehringer Ingelheim’s Danish obesity partner Gubra is going with a co-CEO arrangement after the abrupt departure of Markus Rohrwild. Endpoints News just spoke with Rohrwild last month about Gubra’s ...",
-      "publishedAt": "2026-11-13T12:00:11+00:00"
-    },
-    {
-      "id": "gen-5",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1011,7 +1059,7 @@
       "publishedAt": "2026-11-12T23:33:12+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1021,54 +1069,6 @@
       "link": "https://www.genengnews.com/topics/omics/high-frequency-of-drug-impacting-gene-variants-found-in-all-of-us-cohort/",
       "summary": "A study finds that everyone in a diverse, nearly 100,000-person sample carried at least one genetic variant that affects how their body processes medications, and a quarter of those people had been prescribed a medication that is known to be impacted by the variant they carried. The post High Freque",
       "publishedAt": "2026-11-12T20:17:04+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "HHS directs new funds, research for psychedelics work",
-      "titleZh": "",
-      "link": "https://endpoints.news/hhs-directs-new-funds-research-for-psychedelics-work/",
-      "summary": "Following President Donald Trump’s executive order in the spring to make psychedelics research a priority, HHS on Thursday announced a flurry of new funding and studies into the field, with a special focus on ibogaine. ...",
-      "publishedAt": "2026-11-12T20:09:22+00:00"
-    },
-    {
-      "id": "gen-7",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Neuroprotective Protein Atlas Positions the Blood-Brain Barrier as a Selective Checkpoint",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/translational-medicine/neuroprotective-protein-atlas-positions-the-blood-brain-barrier-as-a-selective-checkpoint/",
-      "summary": "The blood-brain barrier keeps most proteins in the bloodstream out of the brain, but not all. The pathways that import them are damaged early in Alzheimer’s disease models, hinting at new ways to treat the disease. The post Neuroprotective Protein Atlas Positions the Blood-Brain Barrier as a Selecti",
-      "publishedAt": "2026-11-12T18:59:49+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "How Breast Cancer Chemotherapy May Impact Biological Aging and Loss of Healthy Life Years",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/cancer/how-breast-cancer-chemotherapy-may-impact-biological-aging-and-loss-of-healthy-life-years/",
-      "summary": "Chemotherapy helps many women survive breast cancer, but the results of new research suggest that chemotherapy may also accelerate biological aging beyond chronological age and increase the risk of earlier death from other causes. The post How Breast Cancer Chemotherapy May Impact Biological Aging a",
-      "publishedAt": "2026-11-10T17:26:51+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "From Farm Waste to Medical Nanoparticles",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/bioprocessing/from-farm-waste-to-medical-nanoparticles/",
-      "summary": "Fruit peels, rice husks, and other crop leftovers can yield biomedical nanoparticles, but variable feedstocks, scale-up hurdles, and thin safety data still stand between lab promise and reliable commercial bioprocessing. The post From Farm Waste to Medical Nanoparticles appeared first on GEN - Genet",
-      "publishedAt": "2026-11-10T17:00:31+00:00"
     },
     {
       "id": "nature-biotech-0",
@@ -1171,6 +1171,18 @@
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
+      "category": "研发",
+      "title": "Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04798-5",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
       "category": "技术",
       "title": "An open agentic AI co-scientist for clinical and biomedical discovery",
       "titleZh": "",
@@ -1179,7 +1191,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "Normalized membrane ratio of TROP2 as a predictor of clinical outcomes with datopotamab deruxtecan in non-small-cell lung cancer",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04716-9",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Next-generation KRAS G12C inhibitor improves survival in lung cancer",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00057-9",
       "summary": "",
       "publishedAt": ""
     }
