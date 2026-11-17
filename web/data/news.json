@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-17T03:44:14.941336+00:00",
+  "updatedAt": "2026-11-17T13:11:00.762627+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,18 +48,32 @@
   ],
   "failedSources": [],
   "translations": {
+    "Scientists tracked kids for 8 years. What they found about screen time was surprising": "科学家对孩子们进行了8年的跟踪研究。他们对屏幕时间的发现令人惊讶。",
+    "Marrow raises $173M for siRNA drug competing with CRISPR therapy for sickle cell": "Marrow筹集1.73亿美元，用于开发与CRISPR疗法竞争的siRNA药物，以治疗镰状细胞病",
+    "Roche enters the SERD market with FDA approval in late-stage breast cancer": "罗氏凭借 FDA 批准的晚期乳腺癌适应症进入 SERD 市场",
+    "STAT+: With $173 million, new startup takes aim at sickle cell": "STAT+：手握1.73亿美元资金的新创公司将目光投向镰状细胞病",
+    "STAT+: Sellas’ experimental blood cancer immunotherapy reduced risk of death in clinical trial": "STAT+：Sellas的血液癌症实验性免疫疗法在临床试验中降低了死亡风险",
+    "Marrow sets out to challenge genetic medicines for severe blood diseases": "Marrow 致力于挑战用于治疗严重血液疾病的基因药物",
+    "The hidden language of psychopathy is not what scientists expected": "反社会人格的隐性语言并非科学家所预期的那样",
+    "Ozempic and Mounjaro may have a surprising effect on your brain": "Ozempic和Mounjaro可能对您的大脑产生意想不到的影响",
+    "STAT+: After death in gene therapy trial for a brain disease, progress is reported": "STAT+：在针对一种脑部疾病的基因疗法临床试验中发生死亡后，该试验的进展情况得到报道",
+    "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates": "烟草行业最新产品——调味尼古丁片引发公共卫生倡导者的担忧",
+    "Opinion: The problem with ‘zero tolerance for bad behavior’ signs at hospitals": "观点：医院“对不良行为零容忍”标志的问题",
+    "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that": "基于信仰的戒瘾康复团体通常得不到联邦资助。小罗伯特·肯尼迪希望改变这一现状",
+    "Wine, beer, or spirits? Massive study reveals a surprising health divide": "葡萄酒、啤酒还是烈酒？一项大规模研究揭示了令人惊讶的健康差异",
+    "Cannabis addiction linked to 57% higher odds of suicidal thoughts": "大麻成瘾与自杀念头风险高出57%有关",
     "Enhancer-Targeted CRISPR Turns Up Healthy Gene Copy in Autism Organoid Model": "增强子靶向CRISPR在自闭症类器官模型中上调健康基因拷贝",
     "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage": "STAT+：特朗普新规承诺要严厉打击“欺诈者”。所有节省的费用都来自Medicare Advantage",
-    "AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results": "AriBio将勃起功能障碍药物用于治疗阿尔茨海默病，结果不尽如人意",
+    "#CTAD26: AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results": "#CTAD26：AriBio将勃起功能障碍药物用于治疗阿尔茨海默病，结果不尽如人意",
     "Toward Connected Laboratory Ecosystems": "迈向互联实验室生态系统",
     "Lilly strikes up to $5.9B cancer deal with Stipple Bio": "礼来与Stipple Bio达成高达59亿美元的抗癌药物交易",
     "Gut Microbome and Bile Acid Modification Linked with Longevity": "肠道微生物组和胆汁酸变化与长寿的关联",
     "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche": "STAT+：FDA批准了一种新的乳腺癌药物，为部分患者提供了新的选择，并为罗氏提供了助力",
     "STAT+: Federal judge issues final ruling blocking U.S. plan to limit visa length for grad students, postdocs": "STAT+：联邦法官做出最终裁决，阻止美国限制研究生和博士后签证期限的计划",
-    "AstraZeneca, Alexion's mysathenia gravis treatment enters crowded market": "阿斯利康旗下的Alexion重症肌无力治疗药物进入竞争激烈的市场",
+    "AstraZeneca, Alexion's myasthenia gravis treatment enters crowded market": "阿斯利康旗下的Alexion重症肌无力治疗药物进入竞争激烈的市场",
     "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC": "STAT+：MAHA 取得胜利，FDA 为膳食补充剂 NAC 设立新的监管类别",
     "Helus Pharma notches successful Phase 3 depression readout": "Helus Pharma 成功取得 3 期抑郁症试验结果",
-    "STAT+: Expert warns of battleground over global access to newer GLP-1 drugs for obesity": "STAT+：专家警告称，全球范围内对新型GLP-1肥胖药物的获取权将成为争夺焦点",
+    "STAT+: Newer GLP-1 drugs to combat obesity may be the next global battleground over access to medicines, expert warns": "STAT+：专家警告，用于对抗肥胖症的更新型GLP-1药物可能是下一个关于药物可及性的全球战场",
     "STAT+: NIAID acting head John Powers III appointed as the permanent director": "STAT+：NIAID代理负责人John Powers III被任命为正式主任",
     "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug": "FDA否决备受瞩目的PD-1/VEGF药物，Summit股价应声下跌",
     "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial": "CG Oncology药物在膀胱癌关键性试验中取得“卓越”成果",
@@ -90,26 +104,180 @@
     "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging": "闭合循环：可持续医药铝塑泡罩包装的下一轮演进",
     "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment": "您的AI试点之所以停滞不前，并不是因为AI本身，而是因为您的环境。",
     "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs": "将为明日最大突破奠定基础的基础设施决策",
-    "STAT+: With Stephen Miller as chief of staff, Kennedy’s MAHA agenda is reinvigorated": "STAT+：随着斯蒂芬·米勒担任幕僚长，肯尼迪的MAHA议程重获活力",
-    "Opinion: Medical school should start after students take the Step 1 exam": "观点：医学院的学习应在学生通过第一步考试后开始",
-    "After difficult two years, medical school group’s leadership isn’t letting its guard down post midterms": "经过两年的艰难时期，医学院集团的领导层在期中考试后仍未放松警惕",
-    "BeOne, Hengrui top list of China’s most powerful drugmakers": "百奥泰、恒瑞医药跻身中国最具实力制药公司榜单前列",
-    "Opinion: STAT+: Candles and long baths can’t fix burned-out physicians": "观点：STAT+：蜡烛和长时间泡澡无法解决医生的倦怠问题",
     "Sofinnova closes second crossover fund at €725M for late-stage European biotechs": "Sofinnova为欧洲后期生物技术公司设立的第二只跨界基金规模达7.25亿欧元",
     "One of Europe’s leading VCs banks a €725M ‘crossover’ fund": "欧洲领先的风险投资机构之一设立了一只7.25亿欧元的“跨界”基金",
     "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system": "麻省理工学院的科学家们发现了一种令人惊奇的方法来增强大脑的夜间清洁系统",
-    "STAT+: Apple and OpenEvidence launch experimental health chat app": "STAT+：苹果和OpenEvidence推出实验性健康聊天应用",
-    "An ancient virus may help explain what makes the human brain different": "一种古老的病毒可能有助于解释是什么使人类大脑与众不同",
-    "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?": "StockWatch：在英伟达动荡之际，其生命科学领域的合作将走向何方？",
-    "Vitamin C could help block cancer-linked chemicals in your stomach, study finds": "研究发现，维生素C有助于阻断胃中与癌症相关的化学物质",
-    "A common osteoporosis drug blocked spinal damage in a surprising new study": "一项令人惊讶的新研究发现，一种常见的骨质疏松症药物可阻止脊柱损伤",
-    "FDA rejects Summit, Akeso's ivonescimab in narrow lung cancer setting": "FDA拒绝Summit和康方生物的ivonescimab用于狭义肺癌适应症",
-    "A simple supplement could help your immune system fight cancer and viral infections": "一种简单的补充剂可以帮助您的免疫系统对抗癌症和病毒感染",
-    "Alzheimer’s may start shrinking two brain regions years before memory loss": "阿尔茨海默病可能在记忆力丧失前数年就开始使两个脑区萎缩",
-    "AI discovers a hidden heart signal that could predict sudden death": "人工智能发现了一种可以预测猝死的隐藏性心脏信号",
-    "Scientists find a simple daily routine linked to less pain and depression": "科学家发现，简单的日常习惯与疼痛和抑郁的减轻有关"
+    "An ancient virus may help explain what makes the human brain different": "一种古老的病毒可能有助于解释是什么使人类大脑与众不同"
   },
   "items": [
+    {
+      "id": "science-daily-health-5",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "titleZh": "科学家对孩子们进行了8年的跟踪研究。他们对屏幕时间的发现令人惊讶。",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
+      "summary": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researchers suggest that what children do on screens may matter more than how much time t",
+      "publishedAt": "2026-11-17T12:03:58+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Marrow raises $173M for siRNA drug competing with CRISPR therapy for sickle cell",
+      "titleZh": "Marrow筹集1.73亿美元，用于开发与CRISPR疗法竞争的siRNA药物，以治疗镰状细胞病",
+      "link": "https://endpoints.news/marrow-raises-173m-for-sirna-drug-competing-with-crispr-therapy-for-sickle-cell/",
+      "summary": "When the FDA approved two gene therapies for sickle cell disease in December 2023, many drugmakers viewed it as the end of the story and shelved their programs for the condition. Yet three years on ...",
+      "publishedAt": "2026-11-17T12:00:50+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Roche enters the SERD market with FDA approval in late-stage breast cancer",
+      "titleZh": "罗氏凭借 FDA 批准的晚期乳腺癌适应症进入 SERD 市场",
+      "link": "https://endpoints.news/roche-enters-the-serd-market-with-fda-approval-in-late-stage-breast-cancer/",
+      "summary": "Roche’s big-hope breast cancer pill giredestrant was in an odd situation in that it was awaiting two different FDA approval decisions. Also oddly, the second one came first. The drug was",
+      "publishedAt": "2026-11-17T12:00:39+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: With $173 million, new startup takes aim at sickle cell",
+      "titleZh": "STAT+：手握1.73亿美元资金的新创公司将目光投向镰状细胞病",
+      "link": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss",
+      "summary": "Researchers are seeking a sickle cell treatment as effective as gene therapy, without the drawbacks. This entrepreneur thinks he might have one.",
+      "publishedAt": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Sellas’ experimental blood cancer immunotherapy reduced risk of death in clinical trial",
+      "titleZh": "STAT+：Sellas的血液癌症实验性免疫疗法在临床试验中降低了死亡风险",
+      "link": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss",
+      "summary": "Sellas' experimental blood cancer immunotherapy reduced the risk of death in clinical trial.",
+      "publishedAt": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
+      "titleZh": "Marrow 致力于挑战用于治疗严重血液疾病的基因药物",
+      "link": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
+      "summary": "Armed with $173 million in venture funding, the startup is developing what it&rsquo;s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta thalassemia.",
+      "publishedAt": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "The hidden language of psychopathy is not what scientists expected",
+      "titleZh": "反社会人格的隐性语言并非科学家所预期的那样",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
+      "summary": "Scientists have discovered that psychopathic traits are associated with surprisingly different patterns of language, with some individuals using more positive words and others expressing greater negativity or less anxiety. The findings challenge familiar stereotypes about psychopathy and suggest tha",
+      "publishedAt": "2026-11-17T11:51:35+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
+      "titleZh": "Ozempic和Mounjaro可能对您的大脑产生意想不到的影响",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
+      "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzh",
+      "publishedAt": "2026-11-17T11:39:45+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
+      "titleZh": "STAT+：在针对一种脑部疾病的基因疗法临床试验中发生死亡后，该试验的进展情况得到报道",
+      "link": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
+      "summary": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
+      "publishedAt": "2026-11-17T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates",
+      "titleZh": "烟草行业最新产品——调味尼古丁片引发公共卫生倡导者的担忧",
+      "link": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
+      "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint",
+      "publishedAt": "2026-11-17T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-4",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: The problem with ‘zero tolerance for bad behavior’ signs at hospitals",
+      "titleZh": "观点：医院“对不良行为零容忍”标志的问题",
+      "link": "https://www.statnews.com/2026/11/17/hospital-signs-violence-health-care-workers-research-stigma/?utm_campaign=rss",
+      "summary": "“Hospitals do not have to choose between protecting hospital staff and preserving patient/family trust in the institution.”",
+      "publishedAt": "2026-11-17T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-5",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "市场",
+      "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
+      "titleZh": "基于信仰的戒瘾康复团体通常得不到联邦资助。小罗伯特·肯尼迪希望改变这一现状",
+      "link": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
+      "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
+      "publishedAt": "2026-11-17T09:30:00+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Wine, beer, or spirits? Massive study reveals a surprising health divide",
+      "titleZh": "葡萄酒、啤酒还是烈酒？一项大规模研究揭示了令人惊讶的健康差异",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116015104.htm",
+      "summary": "A massive study of more than 340,000 adults found that moderate wine drinkers had a 21% lower risk of cardiovascular death, while even light consumption of beer, cider, or spirits was linked to increased risk. Although heavy drinking was harmful regardless of beverage type, the findings suggest that",
+      "publishedAt": "2026-11-17T04:54:15+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Cannabis addiction linked to 57% higher odds of suicidal thoughts",
+      "titleZh": "大麻成瘾与自杀念头风险高出57%有关",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023342.htm",
+      "summary": "A massive study involving more than 415,000 Americans has uncovered a concerning connection between cannabis use disorder and suicidal thoughts. Researchers found that adults with the disorder had 57% higher odds of experiencing suicidal thoughts, with women and younger adults facing particularly el",
+      "publishedAt": "2026-11-17T02:57:22+00:00"
+    },
     {
       "id": "gen-0",
       "source": "GEN",
@@ -123,7 +291,7 @@
       "publishedAt": "2026-11-16T23:50:32+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,13 +303,13 @@
       "publishedAt": "2026-11-16T23:45:36+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "研发",
-      "title": "AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results",
-      "titleZh": "AriBio将勃起功能障碍药物用于治疗阿尔茨海默病，结果不尽如人意",
+      "title": "#CTAD26: AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results",
+      "titleZh": "#CTAD26：AriBio将勃起功能障碍药物用于治疗阿尔茨海默病，结果不尽如人意",
       "link": "https://endpoints.news/aribios-repurposing-of-ed-drug-for-alzheimers-yields-tepid-results/",
       "summary": "BOSTON — For years, scientists have wondered whether Viagra-like pills could have an unexpected benefit in the brain. Some real-world evidence suggests men who take erectile dysfunction medicines are less likely to develop Alzheimer’s, and the ...",
       "publishedAt": "2026-11-16T22:22:47+00:00"
@@ -159,7 +327,7 @@
       "publishedAt": "2026-11-16T22:00:09+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +351,7 @@
       "publishedAt": "2026-11-16T20:59:11+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +363,7 @@
       "publishedAt": "2026-11-16T20:56:47+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -207,19 +375,19 @@
       "publishedAt": "2026-11-16T19:59:14+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
-      "title": "AstraZeneca, Alexion's mysathenia gravis treatment enters crowded market",
+      "title": "AstraZeneca, Alexion's myasthenia gravis treatment enters crowded market",
       "titleZh": "阿斯利康旗下的Alexion重症肌无力治疗药物进入竞争激烈的市场",
       "link": "https://endpoints.news/astrazeneca-alexions-mysathenia-gravis-treatment-enters-crowded-market/",
       "summary": "AstraZeneca and Alexion won FDA approval Monday for their self-administered generalized myasthenia gravis (gMG) drug Klygefa. The drug, also known as gefurulimab, is a once-weekly treatment for patients who have anti-acetylcholine receptor antibodies, a harmful ...",
       "publishedAt": "2026-11-16T19:17:34+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +399,7 @@
       "publishedAt": "2026-11-16T18:54:06+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,19 +411,19 @@
       "publishedAt": "2026-11-16T18:30:34+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
-      "title": "STAT+: Expert warns of battleground over global access to newer GLP-1 drugs for obesity",
-      "titleZh": "STAT+：专家警告称，全球范围内对新型GLP-1肥胖药物的获取权将成为争夺焦点",
+      "title": "STAT+: Newer GLP-1 drugs to combat obesity may be the next global battleground over access to medicines, expert warns",
+      "titleZh": "STAT+：专家警告，用于对抗肥胖症的更新型GLP-1药物可能是下一个关于药物可及性的全球战场",
       "link": "https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/?utm_campaign=rss",
       "summary": "How obesity medications may become the next big battleground over access to medicines in lower-income countries.",
       "publishedAt": "2026-11-16T18:18:25+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +435,7 @@
       "publishedAt": "2026-11-16T17:47:11+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -279,7 +447,7 @@
       "publishedAt": "2026-11-16T17:14:00+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -291,7 +459,7 @@
       "publishedAt": "2026-11-16T17:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -303,7 +471,7 @@
       "publishedAt": "2026-11-16T16:57:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +483,7 @@
       "publishedAt": "2026-11-16T16:56:33+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +495,7 @@
       "publishedAt": "2026-11-16T16:52:09+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +507,7 @@
       "publishedAt": "2026-11-16T16:19:12+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +519,7 @@
       "publishedAt": "2026-11-16T15:57:41+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +531,7 @@
       "publishedAt": "2026-11-16T14:37:18+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -375,7 +543,7 @@
       "publishedAt": "2026-11-16T14:31:10+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +555,7 @@
       "publishedAt": "2026-11-16T14:17:01+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -399,7 +567,7 @@
       "publishedAt": "2026-11-16T14:16:56+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +579,7 @@
       "publishedAt": "2026-11-16T13:52:04+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +591,7 @@
       "publishedAt": "2026-11-16T13:37:10+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +603,7 @@
       "publishedAt": "2026-11-16T13:07:47+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -447,7 +615,7 @@
       "publishedAt": "2026-11-16T13:00:01+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +627,7 @@
       "publishedAt": "2026-11-16T13:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -471,7 +639,7 @@
       "publishedAt": "2026-11-16T12:44:00+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -483,7 +651,7 @@
       "publishedAt": "2026-11-16T12:41:09+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +663,7 @@
       "publishedAt": "2026-11-16T12:04:27+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +675,7 @@
       "publishedAt": "2026-11-16T11:00:00+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -519,7 +687,7 @@
       "publishedAt": "2026-11-16T10:49:15+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -543,7 +711,7 @@
       "publishedAt": "2026-11-16T10:00:23+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +723,7 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -567,7 +735,7 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -579,7 +747,7 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -591,7 +759,7 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -603,7 +771,7 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -615,67 +783,7 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "stat-news-14",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: With Stephen Miller as chief of staff, Kennedy’s MAHA agenda is reinvigorated",
-      "titleZh": "STAT+：随着斯蒂芬·米勒担任幕僚长，肯尼迪的MAHA议程重获活力",
-      "link": "https://www.statnews.com/2026/11/16/stephen-miller-chief-of-staff-boosts-power-of-kennedy-maha/?utm_campaign=rss",
-      "summary": "The appointment of Stephen Miller as White House chief of staff has health secretary RFK Jr. invigorated. A top deputy is telling people it's go time for MAHA.",
-      "publishedAt": "2026-11-16T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-15",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: Medical school should start after students take the Step 1 exam",
-      "titleZh": "观点：医学院的学习应在学生通过第一步考试后开始",
-      "link": "https://www.statnews.com/2026/11/16/medical-school-step-1-exam-redesign-proposal/?utm_campaign=rss",
-      "summary": "“It’s time for a radical reimagining of medical education,” write Rachel Fabi and Amy Caruso Brown.",
-      "publishedAt": "2026-11-16T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "After difficult two years, medical school group’s leadership isn’t letting its guard down post midterms",
-      "titleZh": "经过两年的艰难时期，医学院集团的领导层在期中考试后仍未放松警惕",
-      "link": "https://www.statnews.com/2026/11/16/aamc-ceo-david-skorton-qa-challenges-academic-medicine/?utm_campaign=rss",
-      "summary": "After a tumultuous two years entangled in many consequential health and science policy debates, AAMCs isn’t ready to let its guard down.",
-      "publishedAt": "2026-11-16T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "BeOne, Hengrui top list of China’s most powerful drugmakers",
-      "titleZh": "百奥泰、恒瑞医药跻身中国最具实力制药公司榜单前列",
-      "link": "https://www.statnews.com/2026/11/16/beone-hengrui-top-list-of-chinas-most-powerful-drugmakers/?utm_campaign=rss",
-      "summary": "A new STAT-WireScreen index ranks China's most valuable publicly traded biotech companies. See which one topped the list.",
-      "publishedAt": "2026-11-16T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "Opinion: STAT+: Candles and long baths can’t fix burned-out physicians",
-      "titleZh": "观点：STAT+：蜡烛和长时间泡澡无法解决医生的倦怠问题",
-      "link": "https://www.statnews.com/2026/11/16/doctors-self-care-limits-literature-systems/?utm_campaign=rss",
-      "summary": "The language around self-care for doctors puts the onus on them to fix themselves. But the system is to blame, writes Frances Mei Hardin.",
-      "publishedAt": "2026-11-16T09:30:00+00:00"
-    },
-    {
-      "id": "endpoints-11",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +795,7 @@
       "publishedAt": "2026-11-16T07:00:17+00:00"
     },
     {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -699,7 +807,7 @@
       "publishedAt": "2026-11-16T07:00:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -711,19 +819,7 @@
       "publishedAt": "2026-11-16T01:40:04+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Apple and OpenEvidence launch experimental health chat app",
-      "titleZh": "STAT+：苹果和OpenEvidence推出实验性健康聊天应用",
-      "link": "https://www.statnews.com/2026/11/15/apple-openevidence-launch-health-chat-app-experiment-ai/?utm_campaign=rss",
-      "summary": "Apple and OpenEvidence are launching a study based around an experimental AI-powered health chat app, hinting at possible new directions for both companies.",
-      "publishedAt": "2026-11-16T01:25:43+00:00"
-    },
-    {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -741,70 +837,58 @@
       "lang": "en",
       "category": "技术",
       "title": "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?",
-      "titleZh": "StockWatch：在英伟达动荡之际，其生命科学领域的合作将走向何方？",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/artificial-intelligence/stockwatch-amid-nvidia-turmoil-what-happens-to-its-life-sciences-collaborations/",
       "summary": "While Nvidia doesn’t develop new therapies, instruments, or reagents, its AI technology powers numerous collaborations with biopharma and lab tools giants stretching back at least five years. The post StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations? appeared first o",
       "publishedAt": "2026-11-15T21:57:19+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "审批",
       "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-      "titleZh": "研究发现，维生素C有助于阻断胃中与癌症相关的化学物质",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
       "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possib",
       "publishedAt": "2026-11-15T14:13:18+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-      "titleZh": "一项令人惊讶的新研究发现，一种常见的骨质疏松症药物可阻止脊柱损伤",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
       "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
       "publishedAt": "2026-11-15T14:03:39+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
       "title": "FDA rejects Summit, Akeso's ivonescimab in narrow lung cancer setting",
-      "titleZh": "FDA拒绝Summit和康方生物的ivonescimab用于狭义肺癌适应症",
+      "titleZh": "",
       "link": "https://endpoints.news/fda-rejects-summit-akesos-ivonescimab-in-narrow-lung-cancer-setting/",
       "summary": "The FDA rejected a new cancer treatment from Summit Therapeutics and Akeso in a decision that analysts largely expected, but ultimately shouldn’t dim the prospects for a promising class of drugs. Regulators turned down ivonescimab ...",
       "publishedAt": "2026-11-15T12:56:23+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "A simple supplement could help your immune system fight cancer and viral infections",
-      "titleZh": "一种简单的补充剂可以帮助您的免疫系统对抗癌症和病毒感染",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
       "summary": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with the immune system's ability to recognize dangerous cells, while increasing argin",
       "publishedAt": "2026-11-15T12:36:52+00:00"
-    },
-    {
-      "id": "science-daily-health-7",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-      "titleZh": "阿尔茨海默病可能在记忆力丧失前数年就开始使两个脑区萎缩",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
-      "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of A",
-      "publishedAt": "2026-11-15T04:31:56+00:00"
     },
     {
       "id": "science-daily-health-12",
@@ -812,26 +896,38 @@
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "技术",
+      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+      "titleZh": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+      "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of A",
+      "publishedAt": "2026-11-15T04:31:56+00:00"
+    },
+    {
+      "id": "science-daily-health-17",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
       "title": "AI discovers a hidden heart signal that could predict sudden death",
-      "titleZh": "人工智能发现了一种可以预测猝死的隐藏性心脏信号",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
       "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might ot",
       "publishedAt": "2026-11-15T01:05:10+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Scientists find a simple daily routine linked to less pain and depression",
-      "titleZh": "科学家发现，简单的日常习惯与疼痛和抑郁的减轻有关",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
       "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they stru",
       "publishedAt": "2026-11-14T12:48:01+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -843,31 +939,7 @@
       "publishedAt": "2026-11-14T12:35:36+00:00"
     },
     {
-      "id": "science-daily-health-15",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
-      "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hope",
-      "publishedAt": "2026-11-14T12:25:05+00:00"
-    },
-    {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Exercise after ACL surgery may protect knees from early osteoarthritis",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025538.htm",
-      "summary": "A new study suggests that the right kind of exercise could help protect young adults from early knee osteoarthritis following ACL surgery. Researchers found that a four-month supervised rehabilitation program improved pain, muscle strength, and quality of life without damaging knee cartilage. The fi",
-      "publishedAt": "2026-11-14T12:14:57+00:00"
-    },
-    {
-      "id": "endpoints-13",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -879,7 +951,7 @@
       "publishedAt": "2026-11-14T11:00:31+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -889,18 +961,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
       "summary": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could transform how scientists evaluate anti-aging treatments, although wh",
       "publishedAt": "2026-11-14T04:26:12+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Forcing yourself to smile can actually make you miserable",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025536.htm",
-      "summary": "Smiling may not always make you happier, and new research suggests that forcing yourself to smile repeatedly could actually make you feel worse. In a University of Florida study involving more than 1,100 participants, researchers discovered that while a single artificial smile can provide a small mo",
-      "publishedAt": "2026-11-14T01:50:58+00:00"
     },
     {
       "id": "gen-5",
@@ -927,7 +987,7 @@
       "publishedAt": "2026-11-13T20:02:36+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -939,7 +999,7 @@
       "publishedAt": "2026-11-13T18:50:58+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -951,7 +1011,7 @@
       "publishedAt": "2026-11-13T18:01:59+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -963,7 +1023,7 @@
       "publishedAt": "2026-11-13T16:30:30+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -973,30 +1033,6 @@
       "link": "https://endpoints.news/moderna-readies-commercial-cancer-vaccine-production-ahead-of-fda-filing/",
       "summary": "MARLBOROUGH, MA — Moderna is “on track and ready” to make thousands of doses of its Merck-partnered cancer vaccine as it prepares to file a marketing application by the end of this year with the FDA ...",
       "publishedAt": "2026-11-13T16:26:47+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Milestone cuts 20% of staff as Cardamyst sales hit $1M in Q3",
-      "titleZh": "",
-      "link": "https://endpoints.news/milestone-cuts-20-of-staff-as-cardamyst-sales-hit-1m-in-q3/",
-      "summary": "Milestone Pharmaceuticals is cutting costs and staff following the FDA approval of its heart arrhythmia treatment, with two top executives departing the leadership team. The company said in its third-quarter earnings ...",
-      "publishedAt": "2026-11-13T16:19:06+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Regeneron posts mid-stage POTS data; Kyverna completes CAR-T filing",
-      "titleZh": "",
-      "link": "https://endpoints.news/regeneron-posts-mid-stage-pots-data-kyverna-completes-car-t-filing/",
-      "summary": "Plus, news about Merck KGaA, Rezolute, Vir, Orakl and Cellectis. Regeneron’s mid-stage POTS data: The biotech’s monoclonal antibody, baloncibart, given at 450 mg led to an average 11.4-beat-per-minute reduction in heart ...",
-      "publishedAt": "2026-11-13T16:12:28+00:00"
     },
     {
       "id": "gen-7",
@@ -1011,30 +1047,6 @@
       "publishedAt": "2026-11-13T15:39:32+00:00"
     },
     {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "Novo submits sickle cell drug; Flagship, Gates Foundation deepen ties",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/novo-etavopivat-flagship-gates-ascidian-immuneering-neurosterix/874120/",
-      "summary": "Novo views the medicine, acquired in a billion-dollar deal, as a future blockbuster. Meanwhile, a pair of startups forged an RNA editing pact and Astellas lined up two new trials in pancreatic cancer.",
-      "publishedAt": "2026-11-13T14:36:00+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Stopping statins after 70 may be safer than expected, but there's a catch",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025534.htm",
-      "summary": "A major study of nearly 1,900 older adults suggests that stopping statins after age 70 may be relatively safe in the short term for people who have never experienced a heart attack or stroke. However, a higher rate of serious cardiovascular events or death during longer follow-up raises questions ab",
-      "publishedAt": "2026-11-13T12:14:39+00:00"
-    },
-    {
       "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
@@ -1045,18 +1057,6 @@
       "link": "https://www.genengnews.com/topics/infectious-diseases/reference-genomes-of-malaria-causing-plasmodium-parasites-completed/",
       "summary": "Using DNA sequenced from patient blood samples, researchers assembled complete reference genomes of neglected malaria parasites, uncovering genetic regions potentially involved in immune evasion and providing new tools for disease surveillance. The post Reference Genomes of Malaria-Causing &lt;i&gt;",
       "publishedAt": "2026-11-12T23:44:45+00:00"
-    },
-    {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "A surprising brain difference may explain why some kids struggle with math",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025542.htm",
-      "summary": "Stanford researchers have discovered that children who struggle persistently with math may have underlying differences in how their brains manage problem-solving strategies. Children with developmental dyscalculia were slower to switch strategies, less responsive to changes in difficulty, and less a",
-      "publishedAt": "2026-11-12T23:33:12+00:00"
     },
     {
       "id": "gen-9",
@@ -1172,6 +1172,18 @@
       "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
+      "title": "Generational gains in cognitive capacity and dementia incidence rates in Western countries",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04759-y",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
       "title": "Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04798-5",
@@ -1179,7 +1191,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "Lessons from recent investigator-initiated trials of gene-editing therapies in China",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04768-x",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Normalized membrane ratio of TROP2 as a predictor of clinical outcomes with datopotamab deruxtecan in non-small-cell lung cancer",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04716-9",
       "summary": "",
       "publishedAt": ""
     }
