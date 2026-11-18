@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-18T04:11:59.465326+00:00",
+  "updatedAt": "2026-11-18T13:51:27.076119+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,13 +48,26 @@
   ],
   "failedSources": [],
   "translations": {
+    "What redesigning medical school might look like": "医学院的改革可能是什么样的",
+    "A rare disease reveals a hidden flaw in the immune system": "一种罕见疾病揭示了免疫系统中的隐性缺陷",
+    "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics": "辉瑞通过与Starna Therapeutics的许可协议进军体内CAR-T领域",
+    "MIT discovers that aging weakens the brain’s nighttime cleaning system": "麻省理工学院发现衰老会削弱大脑的夜间清洁系统",
+    "AI bio startup Boltz raises $110M Series A": "人工智能生物初创公司Boltz完成1.1亿美元A轮融资",
+    "A little-known protein could be a powerful weapon against Alzheimer’s": "一种鲜为人知的蛋白质可能是对抗阿尔茨海默病的有力武器",
+    "Merck ends the sorry saga of BTK inhibitor it got from ArQule": "默沙东结束了从ArQule收购的BTK抑制剂的悲惨历程",
+    "STAT+: Scientists heralded a blue wave. But will they miss Susan Collins?": "STAT+：科学家们预示着一波蓝潮。但他们会想念苏珊·柯林斯吗？",
+    "Opinion: Maybe in-person four-year institutions aren’t the right approach to medical education": "观点：也许线下四年制院校并不是医学教育的正确途径",
+    "Opinion: STAT+: RFK Jr. has got to go": "观点：STAT+：罗伯特·肯尼迪· जूनियर必须下台",
+    "Tiny magnets deep inside the brain could transform Parkinson’s treatment": "植入大脑深处的小型磁体可能改变帕金森病的治疗方式",
     "#CTAD26: Biogen’s tau drug slows Alzheimer’s more after nearly two years": "#CTAD26：经过近两年的试验，Biogen的tau蛋白药物进一步延缓了阿尔茨海默病的进展",
+    "Autistic brains look surprisingly similar on average. Then scientists looked closer.": "平均而言，自闭症患者的大脑看起来出奇地相似。然后，科学家们进行了更深入的研究。",
     "STAT+: White House pulls nomination of Heidi Overton to lead FDA": "STAT+：白宫撤销海蒂·奥弗顿（Heidi Overton）的FDA局长提名",
     "White House pulls FDA nominee Overton amid uncertain Senate support": "白宫在参议院支持不确定的情况下撤回了FDA提名人选奥弗顿",
     "Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice": "酒精会抑制某些T细胞，增强其他T细胞，削弱小鼠的抗PD-1反应",
+    "Why obesity affects men and women differently may be hiding in their fat": "肥胖对男性和女性产生不同影响的原因可能隐藏在他们的脂肪中",
     "Beyond Amyloid and Tau: Alzheimer’s Drug Developer Sees Early Clinical Success for Immunotherapy-Based Approach": "超越淀粉样蛋白和Tau蛋白：阿尔茨海默病药物研发商在基于免疫疗法的方法上取得早期临床成功",
     "Genetic Barcoding Reveals How Pre-Bone Marrow Transplant Conditioning Impacts Immune System Regeneration": "遗传条形码揭示了骨髓移植前预处理如何影响免疫系统的再生",
-    "FDA flags potential VEGF-related safety concern in Summit rejection letter": "FDA 在 Summit 驳回函中指出潜在的 VEGF 相关安全性问题",
+    "FDA letter rejecting Summit cancer drug cites ‘modest’ benefit in data compared with toxicity risk": "美国食品药品监督管理局（FDA）的函件拒绝了Summit的抗癌药物，理由是数据显示其益处“有限”，而毒性风险却较高。",
     "Beren wins FDA approval for long-studied rare disease drug": "Beren的罕见病药物经过长期研究后获得FDA批准",
     "GSK’s Nuvalent buyout delivers again as FDA clears Nelkarmi for lung cancer": "GSK 收购的 Nuvalent 再创佳绩，Nelkarmi 获 FDA 批准用于治疗肺癌",
     "On eve of Senate committee vote, Trump's FDA pick hasn't locked up confirmation": "在参议院委员会投票前夕，特朗普提名的FDA人选尚未获得确认",
@@ -94,24 +107,143 @@
     "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage": "STAT+：特朗普新规承诺要严厉打击“欺诈者”。所有节省的费用都来自Medicare Advantage",
     "#CTAD26: AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results": "#CTAD26：AriBio将勃起功能障碍药物用于治疗阿尔茨海默病，结果不尽如人意",
     "Toward Connected Laboratory Ecosystems": "迈向互联实验室生态系统",
-    "Lilly strikes up to $5.9B cancer deal with Stipple Bio": "礼来与Stipple Bio达成高达59亿美元的抗癌药物交易",
-    "Gut Microbome and Bile Acid Modification Linked with Longevity": "肠道微生物组和胆汁酸变化与长寿的关联",
-    "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche": "STAT+：FDA批准了一种新的乳腺癌药物，为部分患者提供了新的选择，并为罗氏提供了助力",
-    "STAT+: Federal judge issues final ruling blocking U.S. plan to limit visa length for grad students, postdocs": "STAT+：联邦法官做出最终裁决，阻止美国限制研究生和博士后签证期限的计划",
-    "AstraZeneca, Alexion's myasthenia gravis treatment enters crowded market": "阿斯利康旗下的Alexion重症肌无力治疗药物进入竞争激烈的市场",
-    "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC": "STAT+：MAHA 取得胜利，FDA 为膳食补充剂 NAC 设立新的监管类别",
-    "Helus Pharma notches successful Phase 3 depression readout": "Helus Pharma 成功取得 3 期抑郁症试验结果",
-    "STAT+: Newer GLP-1 drugs to combat obesity may be the next global battleground over access to medicines, expert warns": "STAT+：专家警告，用于对抗肥胖症的更新型GLP-1药物可能是下一个关于药物可及性的全球战场",
-    "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug": "FDA否决备受瞩目的PD-1/VEGF药物，Summit股价应声下跌",
-    "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial": "CG Oncology药物在膀胱癌关键性试验中取得“卓越”成果",
-    "J&J bets $2.2B on Ollin’s vision loss drug": "强生斥资22亿美元押注Ollin的视力丧失药物",
-    "China's $40k CAR-T; Novartis and Biogen strike deals": "中国4万美元的CAR-T；诺华和渤健达成交易",
-    "Vitamin B12 may hold the key to treating a rare genetic disorder": "维生素B12可能握有治疗一种罕见遗传性疾病的关键",
-    "Scientists discover that the heart doesn't age the way we thought": "科学家发现，心脏的衰老方式与我们想象的不同"
+    "Lilly strikes up to $5.9B cancer deal with Stipple Bio": "礼来与Stipple Bio达成高达59亿美元的抗癌药物交易"
   },
   "items": [
     {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "What redesigning medical school might look like",
+      "titleZh": "医学院的改革可能是什么样的",
+      "link": "https://www.statnews.com/2026/11/18/health-news-what-redesigning-medical-school-might-look-like/?utm_campaign=rss",
+      "summary": "\"I am asking whether every part of [the medical school] infrastructure needs to be bundled into the same four-year institution,” writes M.D./Ph.D. student Alex Serafini.",
+      "publishedAt": "2026-11-18T13:03:55+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A rare disease reveals a hidden flaw in the immune system",
+      "titleZh": "一种罕见疾病揭示了免疫系统中的隐性缺陷",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+      "summary": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthrough points to a promising new treatment using existing medications, with one severely affected infa",
+      "publishedAt": "2026-11-18T12:33:09+00:00"
+    },
+    {
       "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics",
+      "titleZh": "辉瑞通过与Starna Therapeutics的许可协议进军体内CAR-T领域",
+      "link": "https://endpoints.news/pfizer-gets-into-in-vivo-car-t-through-licensing-deal-with-starna-therapeutics/",
+      "summary": "Pfizer is set to pay $330 million upfront to Starna Therapeutics to take exclusive rights to three pre-IND in vivo CAR-T assets in autoimmune disease outside of Greater China. Plus, the pharma ...",
+      "publishedAt": "2026-11-18T12:23:46+00:00"
+    },
+    {
+      "id": "science-daily-health-17",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
+      "titleZh": "麻省理工学院发现衰老会削弱大脑的夜间清洁系统",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
+      "summary": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age. The decline is linked to weaker deep-sleep brain waves and changes in blood flow, potentially offering new clues about why aging increases the risk of Alzhei",
+      "publishedAt": "2026-11-18T12:06:44+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "技术",
+      "title": "AI bio startup Boltz raises $110M Series A",
+      "titleZh": "人工智能生物初创公司Boltz完成1.1亿美元A轮融资",
+      "link": "https://endpoints.news/ai-bio-startup-boltz-raises-110m-series-a/",
+      "summary": "LONDON — Less than a year after launching from stealth with $28 million, the AI bio startup Boltz has raised a $110 million Series A round, its leaders exclusively told Endpoints News. The ...",
+      "publishedAt": "2026-11-18T12:00:27+00:00"
+    },
+    {
+      "id": "science-daily-health-15",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A little-known protein could be a powerful weapon against Alzheimer’s",
+      "titleZh": "一种鲜为人知的蛋白质可能是对抗阿尔茨海默病的有力武器",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
+      "summary": "Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments. By boosting a protein called SORLA, researchers significantly reduced toxic tau tangles, protected connections between brain cells, and prevented some of the brain shrinkage a",
+      "publishedAt": "2026-11-18T11:53:30+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Merck ends the sorry saga of BTK inhibitor it got from ArQule",
+      "titleZh": "默沙东结束了从ArQule收购的BTK抑制剂的悲惨历程",
+      "link": "https://endpoints.news/merck-ends-the-sorry-saga-of-btk-inhibitor-it-got-from-arqule/",
+      "summary": "Merck has ended development of a BTK inhibitor that was the main reason it bought ArQule for $2.7 billion in 2019. Nemtabrutinib, or MK-1026, was being investigated in a slew of trials in blood cancers ...",
+      "publishedAt": "2026-11-18T11:43:38+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Scientists heralded a blue wave. But will they miss Susan Collins?",
+      "titleZh": "STAT+：科学家们预示着一波蓝潮。但他们会想念苏珊·柯林斯吗？",
+      "link": "https://www.statnews.com/2026/11/18/susan-collins-election-loss-impact-science-funding/?utm_campaign=rss",
+      "summary": "Some science advocates worry that Maine GOP Sen. Susan Collins’ defeat could hamper their ability to push back on Trump administration research policies.",
+      "publishedAt": "2026-11-18T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: Maybe in-person four-year institutions aren’t the right approach to medical education",
+      "titleZh": "观点：也许线下四年制院校并不是医学教育的正确途径",
+      "link": "https://www.statnews.com/2026/11/18/core-to-clinic-medical-education-radical-proposal/?utm_campaign=rss",
+      "summary": "“Why do we have hundreds of institutions independently building parallel versions of the same pre-clerkship curriculum?”",
+      "publishedAt": "2026-11-18T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: STAT+: RFK Jr. has got to go",
+      "titleZh": "观点：STAT+：罗伯特·肯尼迪· जूनियर必须下台",
+      "link": "https://www.statnews.com/2026/11/18/kennedy-impeachment-paul-knoepfler-says-time-is-now/?utm_campaign=rss",
+      "summary": "With Democrats riding a blue wave after the midterms, it’s time to impeach health secretary Robert F. Kennedy Jr., writes Paul Knoepfler.",
+      "publishedAt": "2026-11-18T09:30:00+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "Tiny magnets deep inside the brain could transform Parkinson’s treatment",
+      "titleZh": "植入大脑深处的小型磁体可能改变帕金森病的治疗方式",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023354.htm",
+      "summary": "Scientists have developed a new technique that uses magnetic nanoparticles to stimulate deep brain regions, dramatically improving Parkinson’s-like movement problems in mice without permanently implanted electrodes. The breakthrough could pave the way for less invasive treatments using injectable pa",
+      "publishedAt": "2026-11-18T03:49:24+00:00"
+    },
+    {
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -123,7 +255,19 @@
       "publishedAt": "2026-11-18T01:10:35+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "science-daily-health-5",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Autistic brains look surprisingly similar on average. Then scientists looked closer.",
+      "titleZh": "平均而言，自闭症患者的大脑看起来出奇地相似。然后，科学家们进行了更深入的研究。",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023344.htm",
+      "summary": "Scientists discovered that although people with and without autism show surprisingly similar average brain activity, individuals with autism exhibit much greater differences from one another, especially in regions involved in social understanding. The findings suggest that traditional research metho",
+      "publishedAt": "2026-11-18T01:10:14+00:00"
+    },
+    {
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +279,7 @@
       "publishedAt": "2026-11-18T00:44:05+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -157,6 +301,18 @@
       "link": "https://www.genengnews.com/topics/cancer/alcohol-suppresses-some-t-cells-boosts-others-blunting-anti-pd-1-response-in-mice/",
       "summary": "In mice, alcohol cut the efficacy of anti-PD-1 immunotherapy by roughly 50%, suppressing tumor-infiltrating and memory T cells while boosting TIGIT-carrying ones. Blocking TIGIT restored the response. The post Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice appear",
       "publishedAt": "2026-11-17T23:36:40+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Why obesity affects men and women differently may be hiding in their fat",
+      "titleZh": "肥胖对男性和女性产生不同影响的原因可能隐藏在他们的脂肪中",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261117033907.htm",
+      "summary": "Scientists at the University of California, Riverside have uncovered a surprising reason why males and females may respond differently to obesity. In a study involving mice, researchers discovered that immune cells traditionally associated with allergies and asthma can either protect against obesity",
+      "publishedAt": "2026-11-17T23:04:12+00:00"
     },
     {
       "id": "gen-1",
@@ -183,19 +339,19 @@
       "publishedAt": "2026-11-17T20:40:51+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
-      "title": "FDA flags potential VEGF-related safety concern in Summit rejection letter",
-      "titleZh": "FDA 在 Summit 驳回函中指出潜在的 VEGF 相关安全性问题",
+      "title": "FDA letter rejecting Summit cancer drug cites ‘modest’ benefit in data compared with toxicity risk",
+      "titleZh": "美国食品药品监督管理局（FDA）的函件拒绝了Summit的抗癌药物，理由是数据显示其益处“有限”，而毒性风险却较高。",
       "link": "https://endpoints.news/fda-flags-potential-vegf-related-safety-concern-in-summit-rejection-letter/",
-      "summary": "The FDA flagged a safety issue in its review of Summit Therapeutics’ and Akeso's now-rejected cancer drug ivonescimab, raising questions about the viability of the whole class of new bispecifics, though the ...",
+      "summary": "The FDA signaled new interest in the safety of Summit Therapeutics and Akeso’s cancer drug ivonescimab, saying that it turned down the treatment’s use in a form of lung cancer in part ...",
       "publishedAt": "2026-11-17T20:35:54+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +363,7 @@
       "publishedAt": "2026-11-17T20:25:23+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +375,7 @@
       "publishedAt": "2026-11-17T19:50:35+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -231,7 +387,7 @@
       "publishedAt": "2026-11-17T19:49:31+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +399,7 @@
       "publishedAt": "2026-11-17T19:44:14+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -251,11 +407,11 @@
       "title": "Sellas claims Phase 3 win on AML cancer vaccine",
       "titleZh": "Sellas声称其AML癌症疫苗III期试验取得成功",
       "link": "https://endpoints.news/sellas-claims-phase-3-win-on-aml-cancer-vaccine/",
-      "summary": "Sellas Life Sciences' cancer vaccine succeeded in a Phase 3 trial of certain acute myeloid leukemia patients, the company said Tuesday. Sellas is developing galinpepimut-S, which it calls GPS for short ...",
+      "summary": "Sellas Life Sciences' cancer vaccine succeeded in a Phase 3 trial of certain acute myeloid leukemia patients, the company said Tuesday. Sellas is developing galinpepimut-S (which it calls GPS for short) ...",
       "publishedAt": "2026-11-17T18:32:28+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -267,7 +423,7 @@
       "publishedAt": "2026-11-17T18:14:50+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +447,7 @@
       "publishedAt": "2026-11-17T17:18:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +459,7 @@
       "publishedAt": "2026-11-17T17:05:10+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -315,7 +471,7 @@
       "publishedAt": "2026-11-17T16:34:45+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -327,7 +483,7 @@
       "publishedAt": "2026-11-17T16:16:08+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +495,7 @@
       "publishedAt": "2026-11-17T16:07:21+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +519,7 @@
       "publishedAt": "2026-11-17T15:51:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +531,7 @@
       "publishedAt": "2026-11-17T15:27:50+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +543,7 @@
       "publishedAt": "2026-11-17T15:13:36+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -399,7 +555,7 @@
       "publishedAt": "2026-11-17T15:05:43+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +579,7 @@
       "publishedAt": "2026-11-17T14:20:53+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +591,7 @@
       "publishedAt": "2026-11-17T14:00:01+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +603,7 @@
       "publishedAt": "2026-11-17T13:27:01+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -459,7 +615,7 @@
       "publishedAt": "2026-11-17T12:03:58+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -471,7 +627,7 @@
       "publishedAt": "2026-11-17T12:00:50+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -483,7 +639,7 @@
       "publishedAt": "2026-11-17T12:00:39+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +651,7 @@
       "publishedAt": "2026-11-17T12:00:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +675,7 @@
       "publishedAt": "2026-11-17T12:00:00+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -531,7 +687,7 @@
       "publishedAt": "2026-11-17T11:51:35+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -543,7 +699,7 @@
       "publishedAt": "2026-11-17T11:39:45+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +711,7 @@
       "publishedAt": "2026-11-17T09:30:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -567,7 +723,7 @@
       "publishedAt": "2026-11-17T09:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +735,7 @@
       "publishedAt": "2026-11-17T09:30:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +747,7 @@
       "publishedAt": "2026-11-17T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -603,7 +759,7 @@
       "publishedAt": "2026-11-17T04:54:15+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -627,7 +783,7 @@
       "publishedAt": "2026-11-16T23:50:32+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -639,7 +795,7 @@
       "publishedAt": "2026-11-16T23:45:36+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -663,7 +819,7 @@
       "publishedAt": "2026-11-16T22:00:09+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -681,82 +837,10 @@
       "lang": "en",
       "category": "研发",
       "title": "Gut Microbome and Bile Acid Modification Linked with Longevity",
-      "titleZh": "肠道微生物组和胆汁酸变化与长寿的关联",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/translational-medicine/gut-microbome-and-bile-acid-modification-linked-with-longevity/",
       "summary": "Researchers studying how gut microbes modify bile acids have identified changes in the metabolic activity of the gut microbiome associated with exceptional longevity in humans, and found that amplifying the same activity with engineered bacteria improved metabolic health in aged mice. The post Gut M",
       "publishedAt": "2026-11-16T20:59:11+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche",
-      "titleZh": "STAT+：FDA批准了一种新的乳腺癌药物，为部分患者提供了新的选择，并为罗氏提供了助力",
-      "link": "https://www.statnews.com/2026/11/16/fda-approves-new-roche-breast-cancer-drug/?utm_campaign=rss",
-      "summary": "The FDA approved a new breast cancer drug from Roche, teeing up the launch of a medicine the company has said could become its top-selling product ever.",
-      "publishedAt": "2026-11-16T20:56:47+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Federal judge issues final ruling blocking U.S. plan to limit visa length for grad students, postdocs",
-      "titleZh": "STAT+：联邦法官做出最终裁决，阻止美国限制研究生和博士后签证期限的计划",
-      "link": "https://www.statnews.com/2026/11/16/judge-rejects-visa-limits-international-researchers-upholds-duration-of-status-policy/?utm_campaign=rss",
-      "summary": "A proposal by the Trump administration to cap the amount of time foreign students and scholars can spend in the country has been struck down in court.",
-      "publishedAt": "2026-11-16T19:59:14+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "AstraZeneca, Alexion's myasthenia gravis treatment enters crowded market",
-      "titleZh": "阿斯利康旗下的Alexion重症肌无力治疗药物进入竞争激烈的市场",
-      "link": "https://endpoints.news/astrazeneca-alexions-mysathenia-gravis-treatment-enters-crowded-market/",
-      "summary": "AstraZeneca and Alexion won FDA approval Monday for their self-administered generalized myasthenia gravis (gMG) drug Klygefa. The drug, also known as gefurulimab, is a once-weekly treatment for patients who have anti-acetylcholine receptor antibodies, a harmful ...",
-      "publishedAt": "2026-11-16T19:17:34+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
-      "titleZh": "STAT+：MAHA 取得胜利，FDA 为膳食补充剂 NAC 设立新的监管类别",
-      "link": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
-      "summary": "The supplement NAC has been widely available for years, but exists in a legal gray area.",
-      "publishedAt": "2026-11-16T18:54:06+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Helus Pharma notches successful Phase 3 depression readout",
-      "titleZh": "Helus Pharma 成功取得 3 期抑郁症试验结果",
-      "link": "https://endpoints.news/helus-pharma-notches-successful-phase-3-depression-readout/",
-      "summary": "Helus Pharma, part of the budding class of psychedelics companies, said its lead drug improved depression symptoms compared to placebo, but investors appeared slightly skittish about the safety profile. The company said",
-      "publishedAt": "2026-11-16T18:30:34+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Newer GLP-1 drugs to combat obesity may be the next global battleground over access to medicines, expert warns",
-      "titleZh": "STAT+：专家警告，用于对抗肥胖症的更新型GLP-1药物可能是下一个关于药物可及性的全球战场",
-      "link": "https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/?utm_campaign=rss",
-      "summary": "How obesity medications may become the next big battleground over access to medicines in lower-income countries.",
-      "publishedAt": "2026-11-16T18:18:25+00:00"
     },
     {
       "id": "biopharma-dive-3",
@@ -765,7 +849,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
-      "titleZh": "FDA否决备受瞩目的PD-1/VEGF药物，Summit股价应声下跌",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
       "summary": "The FDA refused to overlook ivonescimab&rsquo;s failure to initially extend survival in a form of lung cancer, setting back Summit&rsquo;s first chance to win a U.S. approval.&nbsp;",
       "publishedAt": "2026-11-16T17:14:00+00:00"
@@ -777,7 +861,7 @@
       "lang": "en",
       "category": "审批",
       "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
-      "titleZh": "CG Oncology药物在膀胱癌关键性试验中取得“卓越”成果",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
       "summary": "CG&rsquo;s therapy cretostimogene cut the risk of recurrence by 68% when administered after surgery, far surpassing Wall Street&rsquo;s expectations and lifting company shares.&nbsp;",
       "publishedAt": "2026-11-16T17:00:00+00:00"
@@ -789,43 +873,31 @@
       "lang": "en",
       "category": "市场",
       "title": "J&J bets $2.2B on Ollin’s vision loss drug",
-      "titleZh": "强生斥资22亿美元押注Ollin的视力丧失药物",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
       "summary": "The deal hands J&amp;J a treatment that could complement its existing eye care franchise, but would vie for share of a crowded and competitive market.",
       "publishedAt": "2026-11-16T16:57:00+00:00"
     },
     {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "China's $40k CAR-T; Novartis and Biogen strike deals",
-      "titleZh": "中国4万美元的CAR-T；诺华和渤健达成交易",
-      "link": "https://endpoints.news/car-t-costs-falling-in-china-novartis-and-biogen-strike-deals-obesityweek-readouts/",
-      "summary": "Plus, news about Amylyx, Jiangsu Hengrui and AstraZeneca. China drastically cuts price of a CAR-T: China is adding a CAR-T therapy to its basic medical insurance drug list, or the NRDL ...",
-      "publishedAt": "2026-11-16T16:19:12+00:00"
-    },
-    {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Vitamin B12 may hold the key to treating a rare genetic disorder",
-      "titleZh": "维生素B12可能握有治疗一种罕见遗传性疾病的关键",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm",
       "summary": "Scientists discovered that vitamin B12 largely reversed developmental abnormalities in worms carrying a genetic mutation linked to Verheij syndrome, a rare disorder that causes growth problems and developmental delays. Similar metabolic changes were identified in human patients, raising the possibil",
       "publishedAt": "2026-11-16T14:31:10+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Scientists discover that the heart doesn't age the way we thought",
-      "titleZh": "科学家发现，心脏的衰老方式与我们想象的不同",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm",
       "summary": "Scientists have discovered that the heart ages unevenly, with surprising hotspots of inflammation and scarring concentrated in the valves and major blood vessels rather than the heart muscle. The findings challenge long-standing assumptions about cardiac aging and could help researchers develop new ",
       "publishedAt": "2026-11-16T14:16:56+00:00"
@@ -843,7 +915,7 @@
       "publishedAt": "2026-11-16T12:44:00+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -855,19 +927,7 @@
       "publishedAt": "2026-11-16T12:41:09+00:00"
     },
     {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "A 19-year study reveals a troubling link between napping and death",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230505.htm",
-      "summary": "A surprising new study suggests that when and how often older adults nap could reveal hidden warning signs about their health. Researchers followed 1,338 people for up to 19 years and discovered that longer, more frequent naps were linked to higher mortality, while morning nappers faced a 30% greate",
-      "publishedAt": "2026-11-16T10:49:15+00:00"
-    },
-    {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -895,27 +955,15 @@
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
-      "category": "研发",
-      "title": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs",
+      "category": "市场",
+      "title": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
       "titleZh": "",
-      "link": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
-      "summary": "Faster drug discovery depends on more than the model. What drug developers need to know about AI.",
+      "link": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
+      "summary": "The startup, which also just disclosed an up to $1.2 billion partnership with Sanofi, is backed by&nbsp;Versant, MPM BioImpact, Eli Lilly and Novartis&rsquo; venture arm.",
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
       "id": "biopharma-dive-8",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "技术",
-      "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
-      "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
-      "publishedAt": "2026-11-16T10:00:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -927,7 +975,19 @@
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "biopharma-dive-9",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "技术",
+      "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
+      "titleZh": "",
+      "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
+      "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
+      "publishedAt": "2026-11-16T10:00:00+00:00"
+    },
+    {
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -939,7 +999,7 @@
       "publishedAt": "2026-11-16T01:40:04+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -963,7 +1023,7 @@
       "publishedAt": "2026-11-15T21:57:19+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,7 +1035,7 @@
       "publishedAt": "2026-11-15T14:13:18+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,19 +1047,7 @@
       "publishedAt": "2026-11-15T14:03:39+00:00"
     },
     {
-      "id": "science-daily-health-14",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "A simple supplement could help your immune system fight cancer and viral infections",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
-      "summary": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with the immune system's ability to recognize dangerous cells, while increasing argin",
-      "publishedAt": "2026-11-15T12:36:52+00:00"
-    },
-    {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1009,54 +1057,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
       "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of A",
       "publishedAt": "2026-11-15T04:31:56+00:00"
-    },
-    {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "AI discovers a hidden heart signal that could predict sudden death",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
-      "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might ot",
-      "publishedAt": "2026-11-15T01:05:10+00:00"
-    },
-    {
-      "id": "science-daily-health-15",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists find a simple daily routine linked to less pain and depression",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
-      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they stru",
-      "publishedAt": "2026-11-14T12:48:01+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "A new fiber supplement could help millions suffering from irritable bowel syndrome",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
-      "summary": "Scientists have developed a promising new fiber supplement that improves gut health in people with irritable bowel syndrome (IBS) without worsening bloating, pain, or other digestive symptoms. The specially designed blend also improved gut-related anxiety and produced surprisingly rapid changes in g",
-      "publishedAt": "2026-11-14T12:35:36+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Yale scientists reveal what really slows aging and what doesn't",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
-      "summary": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could transform how scientists evaluate anti-aging treatments, although wh",
-      "publishedAt": "2026-11-14T04:26:12+00:00"
     },
     {
       "id": "gen-9",
@@ -1075,6 +1075,18 @@
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
+      "category": "研发",
+      "title": "Author Correction: The global patent landscape of bispecific antibodies: technological innovations and therapeutic applications",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03405-9",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-1",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
       "category": "技术",
       "title": "A CD7-targeted AAV variant enables efficient T and NK cell engineering in vivo",
       "titleZh": "",
@@ -1083,7 +1095,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-1",
+      "id": "nature-biotech-2",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1095,7 +1107,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-2",
+      "id": "nature-biotech-3",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1107,7 +1119,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-3",
+      "id": "nature-biotech-4",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1119,7 +1131,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-4",
+      "id": "nature-biotech-5",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1131,7 +1143,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-5",
+      "id": "nature-biotech-6",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1143,7 +1155,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-6",
+      "id": "nature-biotech-7",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1151,18 +1163,6 @@
       "title": "Silence snapped up for $1.3 billion",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03393-w",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "Biotech news from around the world",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03384-x",
       "summary": "",
       "publishedAt": ""
     },
