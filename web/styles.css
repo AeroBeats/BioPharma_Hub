@@ -688,6 +688,13 @@ h1, h2, h3 { font-family: var(--font-display); color: var(--text); line-height: 
 .file-drop svg { width: 28px; height: 28px; margin-bottom: 8px; }
 .file-drop p { font-size: 12.5px; }
 
+.ocr-lang-field { margin-bottom: 12px; }
+.ocr-lang-field label { display: block; font-size: 12px; font-weight: 600; color: var(--text-2); margin-bottom: 4px; }
+.ocr-preview {
+  display: block; max-width: 100%; max-height: 220px; margin: 10px auto 0;
+  border: 1px solid var(--border); border-radius: var(--radius-sm); object-fit: contain;
+}
+
 .md-rendered {
   padding: 14px 16px;
   font-size: 13px;

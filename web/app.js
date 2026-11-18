@@ -672,7 +672,7 @@ function renderTools(container) {
   container.innerHTML = `
     <div class="page-head">
       <h1>小工具</h1>
-      <p>实用的文档格式转换工具，全部在浏览器本地运行，无需上传服务器。</p>
+      <p>实用的文档与图片处理工具，全部在浏览器本地运行，无需上传服务器。</p>
     </div>
     <div class="tools-grid">
       <div class="card tool-card" id="tool-pdf2md">
@@ -719,6 +719,45 @@ function renderTools(container) {
           </div>
         </div>
       </div>
+
+      <div class="card tool-card" id="tool-ocr">
+        <div class="tool-header">
+          <span class="tool-icon" style="background:#eef0fb;color:#5b4bb7">🔍</span>
+          <div><h3>图片 OCR 文字识别</h3><p>从图片提取中英文文字，本地识别，图片不上传</p></div>
+        </div>
+        <div class="tool-body">
+          <div class="field ocr-lang-field">
+            <label>识别语言</label>
+            <select class="select" id="ocr-lang">
+              <option value="chi_sim+eng">中英文混合</option>
+              <option value="eng">仅英文</option>
+              <option value="chi_sim">仅中文</option>
+            </select>
+          </div>
+          <div class="file-drop" id="ocr-drop">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>
+            <p>拖放图片到此处，或点击选择（PNG / JPG / WebP）</p>
+            <input type="file" id="ocr-input" accept="image/*" hidden />
+          </div>
+          <div id="ocr-preview-wrap" hidden>
+            <img id="ocr-preview" class="ocr-preview" alt="待识别图片预览" />
+          </div>
+          <div style="display:flex;gap:8px;margin-top:10px;flex-wrap:wrap">
+            <button class="btn btn-primary" id="ocr-run" disabled>开始识别</button>
+          </div>
+          <div id="ocr-status" class="tool-status"></div>
+          <div class="tool-output" id="ocr-output" hidden>
+            <div class="tool-output-head">
+              <span>识别结果</span>
+              <div style="display:flex;gap:6px">
+                <button class="btn btn-sm" id="ocr-copy">复制</button>
+                <button class="btn btn-sm" id="ocr-download">下载 .txt</button>
+              </div>
+            </div>
+            <textarea class="textarea tool-textarea" id="ocr-text" rows="12" readonly></textarea>
+          </div>
+        </div>
+      </div>
     </div>
   `;
 
@@ -752,6 +791,44 @@ function renderTools(container) {
     const a = document.createElement("a");
     a.href = URL.createObjectURL(blob);
     a.download = "converted.md";
+    a.click();
+    URL.revokeObjectURL(a.href);
+  });
+
+  // OCR
+  const ocrDrop = $("#ocr-drop");
+  const ocrInput = $("#ocr-input");
+  const setOcrFile = (file) => {
+    if (!file) return;
+    if (!file.type.startsWith("image/")) {
+      $("#ocr-status").innerHTML = `<span style="color:var(--rose)">✗ 请选择图片文件（PNG / JPG / WebP 等）</span>`;
+      return;
+    }
+    ocrFile = file;
+    if (ocrPreviewUrl) URL.revokeObjectURL(ocrPreviewUrl);
+    ocrPreviewUrl = URL.createObjectURL(file);
+    $("#ocr-preview").src = ocrPreviewUrl;
+    $("#ocr-preview-wrap").hidden = false;
+    $("#ocr-run").disabled = false;
+    $("#ocr-output").hidden = true;
+    $("#ocr-status").innerHTML = `<span class="hint">已选择 ${esc(file.name)}，选好语言后点"开始识别"</span>`;
+  };
+  ocrDrop.addEventListener("click", () => ocrInput.click());
+  ocrDrop.addEventListener("dragover", (e) => { e.preventDefault(); ocrDrop.classList.add("dragover"); });
+  ocrDrop.addEventListener("dragleave", () => ocrDrop.classList.remove("dragover"));
+  ocrDrop.addEventListener("drop", (e) => { e.preventDefault(); ocrDrop.classList.remove("dragover"); setOcrFile(e.dataTransfer.files[0]); });
+  ocrInput.addEventListener("change", () => setOcrFile(ocrInput.files[0]));
+  $("#ocr-run").addEventListener("click", () => handleOcr(ocrFile));
+  $("#ocr-copy").addEventListener("click", () => {
+    navigator.clipboard.writeText($("#ocr-text").value);
+    $("#ocr-copy").textContent = "已复制 ✓";
+    setTimeout(() => { $("#ocr-copy").textContent = "复制"; }, 1500);
+  });
+  $("#ocr-download").addEventListener("click", () => {
+    const blob = new Blob([$("#ocr-text").value], { type: "text/plain;charset=utf-8" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "ocr-result.txt";
     a.click();
     URL.revokeObjectURL(a.href);
   });
@@ -860,6 +937,90 @@ function exportMdPdf() {
     </head><body>${mdToHtml(md)}</body></html>`);
   win.document.close();
   setTimeout(() => win.print(), 300);
+}
+
+// ── OCR (Tesseract.js, vendored locally, browser-only) ─────────────────
+const OCR_BASE = new URL("vendor/tesseract", import.meta.url).href;
+let ocrWorker = null;
+let ocrWorkerLang = null;
+let ocrBusy = false;
+let ocrFile = null;
+let ocrPreviewUrl = null;
+
+const OCR_STATUS_ZH = {
+  "loading tesseract core": "加载 OCR 核心",
+  "initializing tesseract": "初始化引擎",
+  "loading language traineddata": "加载语言包",
+  "initializing api": "初始化接口",
+  "recognizing text": "识别中",
+};
+
+function ocrLog(m) {
+  const status = $("#ocr-status");
+  if (!status || !m || m.progress == null) return;
+  const pct = Math.round((m.progress || 0) * 100);
+  const spin = `<span class="spinner" style="width:14px;height:14px;border-width:2px"></span>`;
+  if (m.status === "recognizing text") {
+    status.innerHTML = `${spin} 识别中… ${pct}%`;
+  } else if (m.progress < 1) {
+    status.innerHTML = `${spin} ${esc(OCR_STATUS_ZH[m.status] || m.status || "处理中")}… ${pct}%`;
+  }
+}
+
+async function loadTesseract() {
+  if (window.Tesseract) return window.Tesseract;
+  await new Promise((resolve, reject) => {
+    const s = document.createElement("script");
+    s.src = OCR_BASE + "/tesseract.min.js";
+    s.onload = resolve;
+    s.onerror = () => reject(new Error("OCR 引擎脚本加载失败"));
+    document.head.appendChild(s);
+  });
+  if (!window.Tesseract) throw new Error("OCR 引擎未就绪");
+  return window.Tesseract;
+}
+
+async function getOcrWorker(langs) {
+  const Tesseract = await loadTesseract();
+  if (ocrWorker && ocrWorkerLang === langs) return ocrWorker;
+  if (ocrWorker) { try { await ocrWorker.terminate(); } catch { /* */ } ocrWorker = null; }
+  ocrWorker = await Tesseract.createWorker(langs, 1, {
+    workerPath: OCR_BASE + "/worker.min.js",
+    corePath: OCR_BASE + "/tesseract-core-simd-lstm.wasm.js",
+    langPath: OCR_BASE,
+    logger: ocrLog,
+  });
+  ocrWorkerLang = langs;
+  return ocrWorker;
+}
+
+async function handleOcr(file) {
+  const status = $("#ocr-status");
+  if (ocrBusy) return;
+  if (!file) { status.innerHTML = `<span style="color:var(--rose)">✗ 请先选择图片</span>`; return; }
+  ocrBusy = true;
+  const btn = $("#ocr-run");
+  btn.disabled = true;
+  $("#ocr-output").hidden = true;
+  const langs = $("#ocr-lang").value;
+  const spin = `<span class="spinner" style="width:14px;height:14px;border-width:2px"></span>`;
+  status.innerHTML = `${spin} 正在初始化 OCR 引擎…（首次需加载核心与语言包）`;
+  try {
+    const worker = await getOcrWorker(langs);
+    const { data } = await worker.recognize(file);
+    const text = (data.text || "").replace(/\n{3,}/g, "\n\n").trim();
+    $("#ocr-text").value = text;
+    $("#ocr-output").hidden = false;
+    const conf = Number.isFinite(data.confidence) ? ` · 置信度 ${Math.round(data.confidence)}%` : "";
+    status.innerHTML = text
+      ? `<span style="color:var(--accent)">✓ 识别完成${conf}</span>`
+      : `<span style="color:var(--amber)">未识别到文字，试试更清晰、分辨率更高的图片</span>`;
+  } catch (e) {
+    status.innerHTML = `<span style="color:var(--rose)">✗ 识别失败：${esc(e && e.message ? e.message : String(e))}</span>`;
+  } finally {
+    ocrBusy = false;
+    btn.disabled = false;
+  }
 }
 
 // ── ENGLISH LEARNING VIEW ─────────────────────────────────

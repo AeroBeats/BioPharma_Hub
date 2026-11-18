@@ -13,7 +13,7 @@
   - **胶图处理**: 电泳胶图亮度/对比度/反相/灰度增强，Marker 标定（含 DL2000 预设），log 线性回归估算条带大小，标注导出 PNG
   - **库存管理**: 试剂/耗材台账（localStorage 持久化，含厂家/生产批次字段），过期/临期/低库存提醒，CSV 导入导出备份；支持批量粘贴导入（逗号/Tab 自动识别，可从 Excel 直接复制，附 CSV 模板下载，兼容旧版 9 列格式）与多选批量管理（改类别/改位置/导出所选/删除所选）
 - **AI 智能优化**: 基于 DeepSeek 模型，针对 Protocol 草稿给出专业改进建议，并自动结合库存台账指出过期/低库存/未登记试剂风险（需部署 Cloudflare Worker）
-- **小工具**: PDF/Markdown 互转（浏览器本地运行，无需上传）
+- **小工具**: PDF/Markdown 互转、图片 OCR 文字识别（Tesseract.js 本地内置，支持中英文混合/仅英文/仅中文，图片不上传服务器，结果可复制或下载 .txt）
 - **英语学习**: 生物医药术语卡片与阅读练习
 
 ## 架构概览
@@ -27,6 +27,12 @@ BioPharma_Hub/
 │   ├── lab-seq.js          # 实验室 · 序列对比
 │   ├── lab-gel.js          # 实验室 · 胶图处理
 │   ├── lab-inventory.js    # 实验室 · 库存管理
+│   ├── vendor/tesseract/   # OCR 引擎本地内置 (~9MB，离线可用)
+│   │   ├── tesseract.min.js          # Tesseract.js v7 引擎
+│   │   ├── worker.min.js             # 识别 worker
+│   │   ├── tesseract-core-simd-lstm.wasm.js  # WASM 核心 (内嵌)
+│   │   ├── chi_sim.traineddata.gz    # 简体中文语言包
+│   │   └── eng.traineddata.gz        # 英文语言包
 │   └── data/               # 静态数据 (由脚本生成)
 │       ├── news.json       # 新闻聚合结果
 │       └── translations.json # 翻译缓存
@@ -40,6 +46,7 @@ BioPharma_Hub/
 ```
 
 **前端**: 纯静态 HTML/CSS/JS，无框架依赖，通过 `import.meta.url` 相对路径加载数据
+**OCR**: Tesseract.js 引擎与中英文语言包全部内置于 `web/vendor/tesseract/`（约 9MB），随站点同源分发，不依赖境外 CDN，首次识别后语言包缓存于浏览器 IndexedDB，可离线使用
 **新闻管道**: Python stdlib (`urllib` + `xml.etree`) → MyMemory API (主) / Google gtx (备) → 持久化 JSON
 **AI 后端**: Cloudflare Workers，调用 DeepSeek Chat Completions API，密钥存于 Workers Secret
 
