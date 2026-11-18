@@ -1,0 +1,2 @@
+# Vendored OCR library assets: never convert line endings or diff as text.
+web/vendor/tesseract/** binary
