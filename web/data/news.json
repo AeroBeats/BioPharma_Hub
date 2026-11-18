@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-18T13:51:27.076119+00:00",
+  "updatedAt": "2026-11-18T21:51:20.881384+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,29 @@
   ],
   "failedSources": [],
   "translations": {
+    "CRISPR Screening Reveals How Genetic Variants Drive Neurodegenerative Risk": "CRISPR筛选揭示了遗传变异如何驱动神经退行性疾病风险",
+    "STAT+: Influential preventive services panel to meet for first time in more than a year": "STAT+：具有影响力的预防服务专家组时隔一年多首次召开会议",
+    "nChroma Bio stops its only clinical study early, lays off 50%": "nChroma Bio提前终止其唯一一项临床研究，裁员50%",
+    "Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice": "靶向叶酸受体可逆转小鼠结直肠癌对免疫疗法的耐药性",
+    "London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies": "伦敦召唤：Flagship 在英国扩张，以打造原生 AI 平台公司",
+    "STAT+: NIH to move last group of its research chimps to a sanctuary": "STAT+：美国国立卫生研究院将把最后一批研究用黑猩猩迁至保护区",
+    "STAT+: 7 burning questions about the FDA’s post-Overton future": "STAT+：关于FDA在Overton事件后的未来的7个热门问题",
+    "STAT+: The emerging winners and losers in the AI scribe market": "STAT+：人工智能记录员市场的新兴赢家和输家",
+    "Hims launches popular peptides and other longevity treatments": "Hims推出热门肽类和其他延寿疗法",
+    "‘Selling and marketing snake oil’: The debate over compounded GLP-1s": "“兜售和营销蛇油”：关于复方GLP-1的争论",
+    "Novo’s consumer push gains momentum with Wegovy pill, CagriSema on deck": "随着Wegovy片剂和CagriSema即将上市，诺和诺德的消费品业务势头正劲",
+    "The Advent of Automated, Gene-Engineered TIL Manufacturing": "自动化、基因工程化TIL制备的出现",
+    "Tuning Extracellular Vesicle Production and Analytics for Compliance": "调节细胞外囊泡的产生并进行合规性分析",
+    "One Record, From Factory Floor to Patient": "从工厂车间到患者的单一记录",
+    "Growing Apart: Culture-Based Sterility Test Alternatives": "渐行渐远：基于培养的无菌试验替代方法",
+    "White House pulls nomination for FDA nominee Overton": "白宫撤销对FDA提名人选奥弗顿的提名",
+    "#CTAD26: Lilly’s dopamine drug mevidalen fails Phase 2 study in Alzheimer’s": "#CTAD26：礼来的多巴胺药物Mevidalen在阿尔茨海默病2期研究中失败",
+    "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal": "辉瑞通过最新中国交易进军“体内”CAR-T领域",
+    "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’": "STAT+：卡西迪拒绝特朗普提名的NSF负责人选，称其未能“捍卫科学”",
+    "Dispatches from Jefferies: Latent Labs on AI, Relay’s PI3Kα ambitions and Biohaven’s protein degrader approach": "杰富瑞快讯：Latent Labs的人工智能、Relay的PI3Kα雄心以及Biohaven的蛋白降解剂方法",
+    "STAT+: FDA discloses reasons for rejecting Summit drug": "STAT+：FDA披露拒绝Summit药物的原因",
+    "STAT+: Pharmalittle: We’re reading about Overton FDA nomination being yanked, a Merck setback, and more": "STAT+：Pharmalittle：我们正在阅读有关Overton的FDA提名被撤销、默沙东遭遇挫折等消息",
+    "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK": "FDA发布对Summit药物的拒绝函；Nuvalent收购为GSK带来更多分红",
     "What redesigning medical school might look like": "医学院的改革可能是什么样的",
     "A rare disease reveals a hidden flaw in the immune system": "一种罕见疾病揭示了免疫系统中的隐性缺陷",
     "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics": "辉瑞通过与Starna Therapeutics的许可协议进军体内CAR-T领域",
@@ -84,34 +107,287 @@
     "AI drugmaker Isomorphic restocks with $5B fundraise": "人工智能制药公司Isomorphic筹集50亿美元资金",
     "STAT+: ‘Medicare for More’ gains traction": "STAT+：“Medicare for More”计划获得支持",
     "Novo revamps its direct-to-consumer platform; Roche drug Gazyva approved again": "诺和诺德重塑其直面消费者的平台；罗氏的药物Gazyva再次获得批准",
-    "#CTAD26: Priavoid’s amyloid-detangling pill PRI-002 fails Phase 2 study in Alzheimer’s": "#CTAD26：Priavoid 的淀粉样蛋白消融药物 PRI-002 在阿尔茨海默病 2 期研究中失败",
-    "STAT+: Pharmalittle: We’re reading about a Roche breast cancer pill, obesity drugs in children, and more": "STAT+：Pharmalittle：我们正在阅读有关罗氏乳腺癌药物、儿童肥胖症药物等内容",
-    "Mapping the Hidden Viral Communities of the Human Gut Microbiome": "绘制人体肠道微生物组中隐性病毒群落的图谱",
-    "Patient data startup b.well launches tools to make AI chatbots safer": "患者数据初创公司b.well推出工具，使AI聊天机器人更加安全",
-    "NIH’s infectious disease unit has a new head at last": "美国国立卫生研究院（NIH）的传染病部门终于有了新负责人",
-    "Scientists tracked kids for 8 years. What they found about screen time was surprising": "科学家对孩子们进行了8年的跟踪研究。他们对屏幕时间的发现令人惊讶。",
-    "Marrow raises $173M for siRNA drug competing with CRISPR therapy for sickle cell": "Marrow筹集1.73亿美元，用于开发与CRISPR疗法竞争的siRNA药物，以治疗镰状细胞病",
-    "Roche enters the SERD market with FDA approval in late-stage breast cancer": "罗氏凭借 FDA 批准的晚期乳腺癌适应症进入 SERD 市场",
-    "STAT+: With $173 million, new startup takes aim at sickle cell": "STAT+：手握1.73亿美元资金的新创公司将目光投向镰状细胞病",
-    "STAT+: Sellas’ experimental blood cancer immunotherapy reduced risk of death in clinical trial": "STAT+：Sellas的血液癌症实验性免疫疗法在临床试验中降低了死亡风险",
-    "Marrow sets out to challenge genetic medicines for severe blood diseases": "Marrow 致力于挑战用于治疗严重血液疾病的基因药物",
-    "The hidden language of psychopathy is not what scientists expected": "反社会人格的隐性语言并非科学家所预期的那样",
-    "Ozempic and Mounjaro may have a surprising effect on your brain": "Ozempic和Mounjaro可能对您的大脑产生意想不到的影响",
-    "STAT+: After death in gene therapy trial for a brain disease, progress is reported": "STAT+：在针对一种脑部疾病的基因疗法临床试验中发生死亡后，该试验的进展情况得到报道",
-    "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates": "烟草行业最新产品——调味尼古丁片引发公共卫生倡导者的担忧",
-    "Opinion: The problem with ‘zero tolerance for bad behavior’ signs at hospitals": "观点：医院“对不良行为零容忍”标志的问题",
-    "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that": "基于信仰的戒瘾康复团体通常得不到联邦资助。小罗伯特·肯尼迪希望改变这一现状",
-    "Wine, beer, or spirits? Massive study reveals a surprising health divide": "葡萄酒、啤酒还是烈酒？一项大规模研究揭示了令人惊讶的健康差异",
-    "Cannabis addiction linked to 57% higher odds of suicidal thoughts": "大麻成瘾与自杀念头风险高出57%有关",
-    "Enhancer-Targeted CRISPR Turns Up Healthy Gene Copy in Autism Organoid Model": "增强子靶向CRISPR在自闭症类器官模型中上调健康基因拷贝",
-    "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage": "STAT+：特朗普新规承诺要严厉打击“欺诈者”。所有节省的费用都来自Medicare Advantage",
-    "#CTAD26: AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results": "#CTAD26：AriBio将勃起功能障碍药物用于治疗阿尔茨海默病，结果不尽如人意",
-    "Toward Connected Laboratory Ecosystems": "迈向互联实验室生态系统",
-    "Lilly strikes up to $5.9B cancer deal with Stipple Bio": "礼来与Stipple Bio达成高达59亿美元的抗癌药物交易"
+    "#CTAD26: Priavoid’s amyloid-detangling pill PRI-002 fails Phase 2 study in Alzheimer’s": "#CTAD26：Priavoid 的淀粉样蛋白消融药物 PRI-002 在阿尔茨海默病 2 期研究中失败"
   },
   "items": [
     {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "CRISPR Screening Reveals How Genetic Variants Drive Neurodegenerative Risk",
+      "titleZh": "CRISPR筛选揭示了遗传变异如何驱动神经退行性疾病风险",
+      "link": "https://www.genengnews.com/topics/translational-medicine/crispr-screening-reveals-how-genetic-variants-drive-neurodegenerative-risk/",
+      "summary": "Researchers studying human induced pluripotent stem cell-derived microglia-like cells showed how genetic variants can impact cell behavior and used CRISPR gene editing to show how one gene’s effect depends on its cellular context. The post CRISPR Screening Reveals How Genetic Variants Drive Neurodeg",
+      "publishedAt": "2026-11-18T21:26:39+00:00"
+    },
+    {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
+      "titleZh": "STAT+：具有影响力的预防服务专家组时隔一年多首次召开会议",
+      "link": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
+      "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
+      "publishedAt": "2026-11-18T21:21:26+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "nChroma Bio stops its only clinical study early, lays off 50%",
+      "titleZh": "nChroma Bio提前终止其唯一一项临床研究，裁员50%",
+      "link": "https://endpoints.news/nchroma-bio-stops-its-only-clinical-study-early-lays-off-50/",
+      "summary": "A couple of years ago, two Boston-area biotech CEOs decided to merge their startups, hoping to survive a down market for genetic medicine companies. Jeff Walsh, the CEO of that combined company, nChroma Bio,",
+      "publishedAt": "2026-11-18T21:19:50+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "审批",
+      "title": "Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice",
+      "titleZh": "靶向叶酸受体可逆转小鼠结直肠癌对免疫疗法的耐药性",
+      "link": "https://www.genengnews.com/topics/cancer/targeting-folate-receptor-reverses-colorectal-cancers-resistance-to-immunotherapy-in-mice/",
+      "summary": "Targeting FOLR1 with an approved antibody-drug conjugate restored anti-tumor immunity and enhanced anti-PD-1 effectiveness in colorectal cancer, overcoming immune evasion in mouse models. The post Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice appeared fir",
+      "publishedAt": "2026-11-18T21:16:04+00:00"
+    },
+    {
+      "id": "gen-2",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies",
+      "titleZh": "伦敦召唤：Flagship 在英国扩张，以打造原生 AI 平台公司",
+      "link": "https://www.genengnews.com/topics/artificial-intelligence/london-calling-flagship-expands-in-u-k-to-build-ai-native-platform-companies/",
+      "summary": "Flagship expects to recruit and train an initial team of approximately 50 U.K.-based scientist-entrepreneurs and operators for the new Origination Lab, U.K., which will build on three years of experience partnering and conducting R&#038;D across the kingdom. The post London Calling: Flagship Expands",
+      "publishedAt": "2026-11-18T21:10:58+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: NIH to move last group of its research chimps to a sanctuary",
+      "titleZh": "STAT+：美国国立卫生研究院将把最后一批研究用黑猩猩迁至保护区",
+      "link": "https://www.statnews.com/pharmalot/2026/11/18/nih-to-move-last-group-of-research-chimps-to-sanctuary/?utm_campaign=rss",
+      "summary": "The last chimpanzees owned by the U.S. government and still living in a laboratory will be moved to a sanctuary next year.",
+      "publishedAt": "2026-11-18T20:29:14+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: 7 burning questions about the FDA’s post-Overton future",
+      "titleZh": "STAT+：关于FDA在Overton事件后的未来的7个热门问题",
+      "link": "https://www.statnews.com/2026/11/18/fda-after-heidi-overton-burning-questions-agency-future/?utm_campaign=rss",
+      "summary": "STAT tackles the most important questions about the FDA's uncertain future.",
+      "publishedAt": "2026-11-18T19:33:57+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "市场",
+      "title": "STAT+: The emerging winners and losers in the AI scribe market",
+      "titleZh": "STAT+：人工智能记录员市场的新兴赢家和输家",
+      "link": "https://www.statnews.com/2026/11/18/ai-scribe-market-emerging-winners-losers-ai-prognosis/?utm_campaign=rss",
+      "summary": "In this edition of AI Prognosis: A closer look at how the AI scribe market is shaking out, news from the HLTH conference, and more",
+      "publishedAt": "2026-11-18T19:25:59+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Hims launches popular peptides and other longevity treatments",
+      "titleZh": "Hims推出热门肽类和其他延寿疗法",
+      "link": "https://endpoints.news/hims-launches-popular-peptides-and-other-longevity-treatments/",
+      "summary": "Hims &amp; Hers started offering peptides and other treatments marketed for longevity and wellness uses on Wednesday. But the telehealth company is holding off on prescribing some of the more controversial peptides that compounding pharmacies ...",
+      "publishedAt": "2026-11-18T19:15:47+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "‘Selling and marketing snake oil’: The debate over compounded GLP-1s",
+      "titleZh": "“兜售和营销蛇油”：关于复方GLP-1的争论",
+      "link": "https://www.biopharmadive.com/news/compounded-glp-1s-telehealth-debate-snake-oil-fda/875065/",
+      "summary": "Proponents of compounding argue&nbsp;it increases access, lowers prices and helps patients who may need individualized versions of a drug. But there are serious concerns, experts said at the HLTH conference.",
+      "publishedAt": "2026-11-18T18:51:00+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Novo’s consumer push gains momentum with Wegovy pill, CagriSema on deck",
+      "titleZh": "随着Wegovy片剂和CagriSema即将上市，诺和诺德的消费品业务势头正劲",
+      "link": "https://endpoints.news/novos-consumer-push-gains-momentum-with-wegovy-pill-cagrisema-on-deck/",
+      "summary": "LAS VEGAS — When Ed Cinca returned to Novo after four years away, he barely recognized the place. “I think the building’s the same, but that’s about it,” Cinca, Novo’s senior vice president of marketing and ...",
+      "publishedAt": "2026-11-18T18:25:52+00:00"
+    },
+    {
+      "id": "gen-3",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "The Advent of Automated, Gene-Engineered TIL Manufacturing",
+      "titleZh": "自动化、基因工程化TIL制备的出现",
+      "link": "https://www.genengnews.com/topics/bioprocessing/the-advent-of-automated-gene-engineered-til-manufacturing/",
+      "summary": "Automating engineered TIL manufacturing in a way that maintains their tumor-fighting capabilities may move this emerging therapeutic class into a commercially reproducible, economically viable therapeutic option. The post The Advent of Automated, Gene-Engineered TIL Manufacturing appeared first on G",
+      "publishedAt": "2026-11-18T17:00:37+00:00"
+    },
+    {
+      "id": "gen-4",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Tuning Extracellular Vesicle Production and Analytics for Compliance",
+      "titleZh": "调节细胞外囊泡的产生并进行合规性分析",
+      "link": "https://www.genengnews.com/topics/bioprocessing/tuning-extracellular-vesicle-production-and-analytics-for-compliance/",
+      "summary": "The complexity of extracellular vesicle products developed from umbilical cord blood can potentially be reduced through production processes and simplified quality control strategies, helping to boost this new product class. The post Tuning Extracellular Vesicle Production and Analytics for Complian",
+      "publishedAt": "2026-11-18T17:00:31+00:00"
+    },
+    {
+      "id": "gen-5",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "One Record, From Factory Floor to Patient",
+      "titleZh": "从工厂车间到患者的单一记录",
+      "link": "https://www.genengnews.com/topics/bioprocessing/one-record-from-factory-floor-to-patient/",
+      "summary": "ParkourSC acquired manufacturing-AI company Quartic to track a drug’s quality across its whole lifecycle. CEO Mahesh Veerina explains how linking factory and shipping data could flag at-risk batches before problems reach patients. The post One Record, From Factory Floor to Patient appeared first on ",
+      "publishedAt": "2026-11-18T17:00:19+00:00"
+    },
+    {
+      "id": "gen-6",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Growing Apart: Culture-Based Sterility Test Alternatives",
+      "titleZh": "渐行渐远：基于培养的无菌试验替代方法",
+      "link": "https://www.genengnews.com/topics/bioprocessing/growing-apart-culture-based-sterility-test-alternatives/",
+      "summary": "Growth-based sterility testing works for traditional biopharma but is too slow for the cell therapy sector. A new parallel testing pathway and rapid, molecular assay-based testing are a better option. The post Growing Apart: Culture-Based Sterility Test Alternatives appeared first on GEN - Genetic E",
+      "publishedAt": "2026-11-18T17:00:08+00:00"
+    },
+    {
+      "id": "biopharma-dive-1",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "White House pulls nomination for FDA nominee Overton",
+      "titleZh": "白宫撤销对FDA提名人选奥弗顿的提名",
+      "link": "https://www.biopharmadive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/874961/",
+      "summary": "The sudden end of Heidi Overton&rsquo;s candidacy likely ensures a Democrat-controlled Congress will choose the FDA&rsquo;s next leader &mdash; but shouldn&rsquo;t disrupt the agency, analysts say.&nbsp;",
+      "publishedAt": "2026-11-18T17:00:00+00:00"
+    },
+    {
+      "id": "endpoints-3",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "#CTAD26: Lilly’s dopamine drug mevidalen fails Phase 2 study in Alzheimer’s",
+      "titleZh": "#CTAD26：礼来的多巴胺药物Mevidalen在阿尔茨海默病2期研究中失败",
+      "link": "https://endpoints.news/ctad26-lillys-dopamine-drug-mevidalen-fails-phase-2-study-in-alzheimers/",
+      "summary": "BOSTON — A little-known therapy Eli Lilly has quietly been testing in people with mild and moderate Alzheimer’s disease has failed in its Phase 2 study. The experimental drug, called mevidalen, was dropped ...",
+      "publishedAt": "2026-11-18T16:22:48+00:00"
+    },
+    {
+      "id": "biopharma-dive-2",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal",
+      "titleZh": "辉瑞通过最新中国交易进军“体内”CAR-T领域",
+      "link": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
+      "summary": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body.",
+      "publishedAt": "2026-11-18T15:55:00+00:00"
+    },
+    {
+      "id": "stat-news-4",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’",
+      "titleZh": "STAT+：卡西迪拒绝特朗普提名的NSF负责人选，称其未能“捍卫科学”",
+      "link": "https://www.statnews.com/2026/11/18/bill-cassidy-rejects-jim-oneill-lead-national-science-foundation/?utm_campaign=rss",
+      "summary": "Bill Cassidy's rejection of Jim O'Neill comes shortly after the White House pulled FDA commissioner nominee Heidi Overton.",
+      "publishedAt": "2026-11-18T15:36:19+00:00"
+    },
+    {
+      "id": "endpoints-4",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Dispatches from Jefferies: Latent Labs on AI, Relay’s PI3Kα ambitions and Biohaven’s protein degrader approach",
+      "titleZh": "杰富瑞快讯：Latent Labs的人工智能、Relay的PI3Kα雄心以及Biohaven的蛋白降解剂方法",
+      "link": "https://endpoints.news/dispatches-from-jefferies-latent-labs-on-ai-relays-pi3k%ce%b1-ambitions-and-biohavens-protein-degrader-approach/",
+      "summary": "LONDON — Long queues snaked outside the iconic Waldorf Hilton on Monday morning at the 17th Jefferies Global Healthcare Conference as attendees jostled to pick up registration badges — only to be ushered into the main hall ...",
+      "publishedAt": "2026-11-18T15:29:39+00:00"
+    },
+    {
+      "id": "stat-news-5",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: FDA discloses reasons for rejecting Summit drug",
+      "titleZh": "STAT+：FDA披露拒绝Summit药物的原因",
+      "link": "https://www.statnews.com/2026/11/18/biotech-news-fda-discloses-reasons-for-rejecting-summit-drug/?utm_campaign=rss",
+      "summary": "The FDA published its complete response letter to Summit Therapeutics explaining why it rejected the biotech's closely watched lung cancer drug:",
+      "publishedAt": "2026-11-18T14:37:13+00:00"
+    },
+    {
+      "id": "stat-news-6",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Pharmalittle: We’re reading about Overton FDA nomination being yanked, a Merck setback, and more",
+      "titleZh": "STAT+：Pharmalittle：我们正在阅读有关Overton的FDA提名被撤销、默沙东遭遇挫折等消息",
+      "link": "https://www.statnews.com/pharmalot/2026/11/18/heidi-overton-fda-nomination-yanked-merck-cancer-drug-setback/?utm_campaign=rss",
+      "summary": "The Trump administration is pulling the nomination of Heidi Overton to lead the FDA over concerns she lacked support to get confirmed by the Senate",
+      "publishedAt": "2026-11-18T14:26:04+00:00"
+    },
+    {
+      "id": "biopharma-dive-3",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
+      "titleZh": "FDA发布对Summit药物的拒绝函；Nuvalent收购为GSK带来更多分红",
+      "link": "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/",
+      "summary": "The FDA had several issues with ivonescimab, according to the letter. Elsewhere, Sellas shares rocketed on results for a leukemia vaccine and&nbsp;Biogen and Lilly struck up new R&amp;D pacts.",
+      "publishedAt": "2026-11-18T14:21:00+00:00"
+    },
+    {
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +411,7 @@
       "publishedAt": "2026-11-18T12:33:09+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -143,7 +419,7 @@
       "title": "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics",
       "titleZh": "辉瑞通过与Starna Therapeutics的许可协议进军体内CAR-T领域",
       "link": "https://endpoints.news/pfizer-gets-into-in-vivo-car-t-through-licensing-deal-with-starna-therapeutics/",
-      "summary": "Pfizer is set to pay $330 million upfront to Starna Therapeutics to take exclusive rights to three pre-IND in vivo CAR-T assets in autoimmune disease outside of Greater China. Plus, the pharma ...",
+      "summary": "Pfizer is entering the in vivo CAR-T race, paying $330 million upfront to Starna Therapeutics. The deal gives Pfizer exclusive rights outside of Greater China to three pre-IND assets in autoimmune disease. The pharma will ...",
       "publishedAt": "2026-11-18T12:23:46+00:00"
     },
     {
@@ -159,7 +435,7 @@
       "publishedAt": "2026-11-18T12:06:44+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +459,7 @@
       "publishedAt": "2026-11-18T11:53:30+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +471,7 @@
       "publishedAt": "2026-11-18T11:43:38+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -207,7 +483,7 @@
       "publishedAt": "2026-11-18T09:30:00+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +495,7 @@
       "publishedAt": "2026-11-18T09:30:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +519,7 @@
       "publishedAt": "2026-11-18T03:49:24+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +543,7 @@
       "publishedAt": "2026-11-18T01:10:14+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +555,7 @@
       "publishedAt": "2026-11-18T00:44:05+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +567,7 @@
       "publishedAt": "2026-11-18T00:34:10+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -315,7 +591,7 @@
       "publishedAt": "2026-11-17T23:04:12+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -327,7 +603,7 @@
       "publishedAt": "2026-11-17T21:10:25+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -339,7 +615,7 @@
       "publishedAt": "2026-11-17T20:40:51+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +627,7 @@
       "publishedAt": "2026-11-17T20:35:54+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +639,7 @@
       "publishedAt": "2026-11-17T20:25:23+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -375,7 +651,7 @@
       "publishedAt": "2026-11-17T19:50:35+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +663,7 @@
       "publishedAt": "2026-11-17T19:49:31+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +675,7 @@
       "publishedAt": "2026-11-17T19:44:14+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +687,7 @@
       "publishedAt": "2026-11-17T18:32:28+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +699,7 @@
       "publishedAt": "2026-11-17T18:14:50+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +711,7 @@
       "publishedAt": "2026-11-17T17:49:24+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -447,7 +723,7 @@
       "publishedAt": "2026-11-17T17:18:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +735,7 @@
       "publishedAt": "2026-11-17T17:05:10+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -471,7 +747,7 @@
       "publishedAt": "2026-11-17T16:34:45+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -483,7 +759,7 @@
       "publishedAt": "2026-11-17T16:16:08+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +771,7 @@
       "publishedAt": "2026-11-17T16:07:21+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -507,7 +783,7 @@
       "publishedAt": "2026-11-17T16:01:42+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -519,7 +795,7 @@
       "publishedAt": "2026-11-17T15:51:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +807,7 @@
       "publishedAt": "2026-11-17T15:27:50+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -543,7 +819,7 @@
       "publishedAt": "2026-11-17T15:13:36+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -555,49 +831,25 @@
       "publishedAt": "2026-11-17T15:05:43+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "审批",
       "title": "STAT+: Pharmalittle: We’re reading about a Roche breast cancer pill, obesity drugs in children, and more",
-      "titleZh": "STAT+：Pharmalittle：我们正在阅读有关罗氏乳腺癌药物、儿童肥胖症药物等内容",
+      "titleZh": "",
       "link": "https://www.statnews.com/pharmalot/2026/11/17/roche-breast-cancer-pill-obesity-drugs-in-children/?utm_campaign=rss",
       "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product",
       "publishedAt": "2026-11-17T14:25:41+00:00"
     },
     {
-      "id": "gen-3",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Mapping the Hidden Viral Communities of the Human Gut Microbiome",
-      "titleZh": "绘制人体肠道微生物组中隐性病毒群落的图谱",
-      "link": "https://www.genengnews.com/topics/omics/mapping-the-hidden-viral-communities-of-the-human-gut-microbiome/",
-      "summary": "Researchers identified over 116,000 gut viral groups, revealing previously unknown relationships between viruses, bacteria, and metabolism, with findings offering new insights into gut health and irritable bowel syndrome (IBS). The post Mapping the Hidden Viral Communities of the Human Gut Microbiom",
-      "publishedAt": "2026-11-17T14:20:53+00:00"
-    },
-    {
-      "id": "endpoints-15",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "技术",
-      "title": "Patient data startup b.well launches tools to make AI chatbots safer",
-      "titleZh": "患者数据初创公司b.well推出工具，使AI聊天机器人更加安全",
-      "link": "https://endpoints.news/patient-data-startup-b-well-launches-tools-to-make-ai-chatbots-safer/",
-      "summary": "AI chatbots and agents are fielding hundreds of millions of health-related questions each week. But even when users upload their own health records to those apps, large language models are usually ...",
-      "publishedAt": "2026-11-17T14:00:01+00:00"
-    },
-    {
-      "id": "stat-news-12",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
       "title": "NIH’s infectious disease unit has a new head at last",
-      "titleZh": "美国国立卫生研究院（NIH）的传染病部门终于有了新负责人",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/11/17/health-news-nih-infectious-disease-unit-has-a-new-head-at-last/?utm_campaign=rss",
       "summary": "The NIH has been without a permanent director since 2025. Now officials announce that acting director John Powers III will take the helm.",
       "publishedAt": "2026-11-17T13:27:01+00:00"
@@ -609,67 +861,19 @@
       "lang": "en",
       "category": "研发",
       "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
-      "titleZh": "科学家对孩子们进行了8年的跟踪研究。他们对屏幕时间的发现令人惊讶。",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
       "summary": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researchers suggest that what children do on screens may matter more than how much time t",
       "publishedAt": "2026-11-17T12:03:58+00:00"
     },
     {
-      "id": "endpoints-16",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Marrow raises $173M for siRNA drug competing with CRISPR therapy for sickle cell",
-      "titleZh": "Marrow筹集1.73亿美元，用于开发与CRISPR疗法竞争的siRNA药物，以治疗镰状细胞病",
-      "link": "https://endpoints.news/marrow-raises-173m-for-sirna-drug-competing-with-crispr-therapy-for-sickle-cell/",
-      "summary": "When the FDA approved two gene therapies for sickle cell disease in December 2023, many drugmakers viewed it as the end of the story and shelved their programs for the condition. Yet three years on ...",
-      "publishedAt": "2026-11-17T12:00:50+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Roche enters the SERD market with FDA approval in late-stage breast cancer",
-      "titleZh": "罗氏凭借 FDA 批准的晚期乳腺癌适应症进入 SERD 市场",
-      "link": "https://endpoints.news/roche-enters-the-serd-market-with-fda-approval-in-late-stage-breast-cancer/",
-      "summary": "Roche’s big-hope breast cancer pill giredestrant was in an odd situation in that it was awaiting two different FDA approval decisions. Also oddly, the second one came first. The drug was",
-      "publishedAt": "2026-11-17T12:00:39+00:00"
-    },
-    {
-      "id": "stat-news-13",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: With $173 million, new startup takes aim at sickle cell",
-      "titleZh": "STAT+：手握1.73亿美元资金的新创公司将目光投向镰状细胞病",
-      "link": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss",
-      "summary": "Researchers are seeking a sickle cell treatment as effective as gene therapy, without the drawbacks. This entrepreneur thinks he might have one.",
-      "publishedAt": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "id": "stat-news-14",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Sellas’ experimental blood cancer immunotherapy reduced risk of death in clinical trial",
-      "titleZh": "STAT+：Sellas的血液癌症实验性免疫疗法在临床试验中降低了死亡风险",
-      "link": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss",
-      "summary": "Sellas' experimental blood cancer immunotherapy reduced the risk of death in clinical trial.",
-      "publishedAt": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "市场",
       "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
-      "titleZh": "Marrow 致力于挑战用于治疗严重血液疾病的基因药物",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
       "summary": "Armed with $173 million in venture funding, the startup is developing what it&rsquo;s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta thalassemia.",
       "publishedAt": "2026-11-17T12:00:00+00:00"
@@ -681,7 +885,7 @@
       "lang": "en",
       "category": "研发",
       "title": "The hidden language of psychopathy is not what scientists expected",
-      "titleZh": "反社会人格的隐性语言并非科学家所预期的那样",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
       "summary": "Scientists have discovered that psychopathic traits are associated with surprisingly different patterns of language, with some individuals using more positive words and others expressing greater negativity or less anxiety. The findings challenge familiar stereotypes about psychopathy and suggest tha",
       "publishedAt": "2026-11-17T11:51:35+00:00"
@@ -693,58 +897,10 @@
       "lang": "en",
       "category": "审批",
       "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
-      "titleZh": "Ozempic和Mounjaro可能对您的大脑产生意想不到的影响",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
       "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzh",
       "publishedAt": "2026-11-17T11:39:45+00:00"
-    },
-    {
-      "id": "stat-news-15",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
-      "titleZh": "STAT+：在针对一种脑部疾病的基因疗法临床试验中发生死亡后，该试验的进展情况得到报道",
-      "link": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
-      "summary": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
-      "publishedAt": "2026-11-17T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates",
-      "titleZh": "烟草行业最新产品——调味尼古丁片引发公共卫生倡导者的担忧",
-      "link": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
-      "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint",
-      "publishedAt": "2026-11-17T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: The problem with ‘zero tolerance for bad behavior’ signs at hospitals",
-      "titleZh": "观点：医院“对不良行为零容忍”标志的问题",
-      "link": "https://www.statnews.com/2026/11/17/hospital-signs-violence-health-care-workers-research-stigma/?utm_campaign=rss",
-      "summary": "“Hospitals do not have to choose between protecting hospital staff and preserving patient/family trust in the institution.”",
-      "publishedAt": "2026-11-17T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
-      "titleZh": "基于信仰的戒瘾康复团体通常得不到联邦资助。小罗伯特·肯尼迪希望改变这一现状",
-      "link": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
-      "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
-      "publishedAt": "2026-11-17T09:30:00+00:00"
     },
     {
       "id": "science-daily-health-7",
@@ -753,7 +909,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Wine, beer, or spirits? Massive study reveals a surprising health divide",
-      "titleZh": "葡萄酒、啤酒还是烈酒？一项大规模研究揭示了令人惊讶的健康差异",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261116015104.htm",
       "summary": "A massive study of more than 340,000 adults found that moderate wine drinkers had a 21% lower risk of cardiovascular death, while even light consumption of beer, cider, or spirits was linked to increased risk. Although heavy drinking was harmful regardless of beverage type, the findings suggest that",
       "publishedAt": "2026-11-17T04:54:15+00:00"
@@ -765,85 +921,13 @@
       "lang": "en",
       "category": "研发",
       "title": "Cannabis addiction linked to 57% higher odds of suicidal thoughts",
-      "titleZh": "大麻成瘾与自杀念头风险高出57%有关",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261116023342.htm",
       "summary": "A massive study involving more than 415,000 Americans has uncovered a concerning connection between cannabis use disorder and suicidal thoughts. Researchers found that adults with the disorder had 57% higher odds of experiencing suicidal thoughts, with women and younger adults facing particularly el",
       "publishedAt": "2026-11-17T02:57:22+00:00"
     },
     {
-      "id": "gen-4",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Enhancer-Targeted CRISPR Turns Up Healthy Gene Copy in Autism Organoid Model",
-      "titleZh": "增强子靶向CRISPR在自闭症类器官模型中上调健康基因拷贝",
-      "link": "https://www.genengnews.com/topics/translational-medicine/enhancer-targeted-crispr-turns-up-healthy-gene-copy-in-autism-organoid-model/",
-      "summary": "In lab-grown human neurons and organoids carrying CHD8 or SCN2A mutations, researchers reduced organoid overgrowth and moved neuronal electrical activity closer to wild-type levels. The post Enhancer-Targeted CRISPR Turns Up Healthy Gene Copy in Autism Organoid Model appeared first on GEN - Genetic ",
-      "publishedAt": "2026-11-16T23:50:32+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage",
-      "titleZh": "STAT+：特朗普新规承诺要严厉打击“欺诈者”。所有节省的费用都来自Medicare Advantage",
-      "link": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/?utm_campaign=rss",
-      "summary": "New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage.",
-      "publishedAt": "2026-11-16T23:45:36+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "#CTAD26: AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results",
-      "titleZh": "#CTAD26：AriBio将勃起功能障碍药物用于治疗阿尔茨海默病，结果不尽如人意",
-      "link": "https://endpoints.news/aribios-repurposing-of-ed-drug-for-alzheimers-yields-tepid-results/",
-      "summary": "BOSTON — For years, scientists have wondered whether Viagra-like pills could have an unexpected benefit in the brain. Some real-world evidence suggests men who take erectile dysfunction medicines are less likely to develop Alzheimer’s, and the ...",
-      "publishedAt": "2026-11-16T22:22:47+00:00"
-    },
-    {
-      "id": "gen-5",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Toward Connected Laboratory Ecosystems",
-      "titleZh": "迈向互联实验室生态系统",
-      "link": "https://www.genengnews.com/topics/toward-connected-laboratory-ecosystems/",
-      "summary": "In this GEN podcast, the third in a series, LabVantage’s Denise Bell discusses how laboratories can reduce operational fragmentation and build connected, scalable operations. The post Toward Connected Laboratory Ecosystems appeared first on GEN - Genetic Engineering and Biotechnology News.",
-      "publishedAt": "2026-11-16T22:00:09+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Lilly strikes up to $5.9B cancer deal with Stipple Bio",
-      "titleZh": "礼来与Stipple Bio达成高达59亿美元的抗癌药物交易",
-      "link": "https://endpoints.news/lilly-strikes-up-to-5-9b-cancer-deal-with-stipple-bio/",
-      "summary": "Eli Lilly continues to be pharma’s biggest shopaholic. Lilly has enlisted Cambridge, MA-based startup Stipple Bio for a multibillion-dollar deal to develop new cancer treatments, marking what appears to be the Indianapolis drug giant’s second-largest ...",
-      "publishedAt": "2026-11-16T21:01:05+00:00"
-    },
-    {
-      "id": "gen-6",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Gut Microbome and Bile Acid Modification Linked with Longevity",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/translational-medicine/gut-microbome-and-bile-acid-modification-linked-with-longevity/",
-      "summary": "Researchers studying how gut microbes modify bile acids have identified changes in the metabolic activity of the gut microbiome associated with exceptional longevity in humans, and found that amplifying the same activity with engineered bacteria improved metabolic health in aged mice. The post Gut M",
-      "publishedAt": "2026-11-16T20:59:11+00:00"
-    },
-    {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -855,7 +939,7 @@
       "publishedAt": "2026-11-16T17:14:00+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -867,7 +951,7 @@
       "publishedAt": "2026-11-16T17:00:00+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -903,18 +987,6 @@
       "publishedAt": "2026-11-16T14:16:56+00:00"
     },
     {
-      "id": "biopharma-dive-6",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "市场",
-      "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
-      "summary": "Lilly&rsquo;s 15th announced acquisition this year&nbsp;&mdash; by far the most in the biopharmaceutical sector&nbsp;&mdash; centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms.",
-      "publishedAt": "2026-11-16T12:44:00+00:00"
-    },
-    {
       "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
@@ -939,54 +1011,6 @@
       "publishedAt": "2026-11-16T10:22:15+00:00"
     },
     {
-      "id": "gen-7",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Single-Cell Method Reveals On- and Off-Target Effects of Cas9 Edits on Gene Expression",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/genome-editing/single-cell-method-reveals-on-and-off-target-effects-of-cas9-edits-on-gene-expression/",
-      "summary": "A new method called Superb-seq pairs Cas9 editing with single-cell RNA sequencing to show which edits, including off-target ones, occur in each cell and how they alter gene expression, offering a clearer view of genome editing’s potential consequences. The post Single-Cell Method Reveals On- and Off",
-      "publishedAt": "2026-11-16T10:00:23+00:00"
-    },
-    {
-      "id": "biopharma-dive-7",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "市场",
-      "title": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
-      "summary": "The startup, which also just disclosed an up to $1.2 billion partnership with Sanofi, is backed by&nbsp;Versant, MPM BioImpact, Eli Lilly and Novartis&rsquo; venture arm.",
-      "publishedAt": "2026-11-16T10:00:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-8",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "研发",
-      "title": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
-      "summary": "Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging.",
-      "publishedAt": "2026-11-16T10:00:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "技术",
-      "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
-      "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
-      "publishedAt": "2026-11-16T10:00:00+00:00"
-    },
-    {
       "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
@@ -1009,18 +1033,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm",
       "summary": "A virus that infected chimpanzees millions of years ago may have helped shape one of the most important differences between humans and our closest relatives: how our brains develop. Scientists at Lund University discovered that ancient viral DNA embedded in the chimpanzee genome switches off a gene ",
       "publishedAt": "2026-11-16T00:32:12+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/artificial-intelligence/stockwatch-amid-nvidia-turmoil-what-happens-to-its-life-sciences-collaborations/",
-      "summary": "While Nvidia doesn’t develop new therapies, instruments, or reagents, its AI technology powers numerous collaborations with biopharma and lab tools giants stretching back at least five years. The post StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations? appeared first o",
-      "publishedAt": "2026-11-15T21:57:19+00:00"
     },
     {
       "id": "science-daily-health-14",
@@ -1057,18 +1069,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
       "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of A",
       "publishedAt": "2026-11-15T04:31:56+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "DCIS Cell Atlas Reveals Clues to Invasive Breast Cancer Progression",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/cancer/dcis-cell-atlas-reveals-clues-to-invasive-breast-cancer-progression/",
-      "summary": "Researchers created a detailed map of the tumor microenvironment surrounding estrogen receptor-positive ductal carcinoma in situ, which may help better predict progression to invasive breast cancer and inform on future therapeutic strategies. The post DCIS Cell Atlas Reveals Clues to Invasive Breast",
-      "publishedAt": "2026-11-13T22:04:09+00:00"
     },
     {
       "id": "nature-biotech-0",
