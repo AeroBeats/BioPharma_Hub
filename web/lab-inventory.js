@@ -12,7 +12,7 @@ const STORE_KEY = "bph_lab_inventory_v1";
 const BOM = String.fromCharCode(0xfeff);
 const stripBOM = (s) => (s.charCodeAt(0) === 0xfeff ? s.slice(1) : s);
 const CATEGORIES = ["试剂", "酶", "耗材", "菌株/细胞", "质粒/载体", "其他"];
-const CSV_HEADERS = ["名称", "类别", "规格", "数量", "单位", "位置", "有效期", "低库存阈值", "备注"];
+const CSV_HEADERS = ["名称", "类别", "规格", "数量", "单位", "位置", "有效期", "低库存阈值", "备注", "厂家", "生产批次"];
 
 const invState = { items: load(), query: "", category: "全部", editing: null, formOpen: false, message: null, selected: new Set(), pasteOpen: false, prefill: null };
 
@@ -120,7 +120,7 @@ function filteredItems() {
   if (invState.query) {
     const q = invState.query.toLowerCase();
     items = items.filter((i) =>
-      [i.name, i.spec, i.location, i.note].some((v) => (v || "").toLowerCase().includes(q))
+      [i.name, i.spec, i.vendor, i.batch, i.location, i.note].some((v) => (v || "").toLowerCase().includes(q))
     );
   }
   items.sort((a, b) => {
@@ -167,7 +167,7 @@ export function renderInventory(container) {
       <div class="news-toolbar" style="margin-bottom:12px">
         <div class="search-box">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-          <input type="search" id="inv-search" placeholder="搜索名称 / 规格 / 位置 / 备注…" value="${esc(invState.query)}" />
+          <input type="search" id="inv-search" placeholder="搜索名称 / 规格 / 厂家 / 批次 / 位置 / 备注…" value="${esc(invState.query)}" />
         </div>
         <div class="filter-chips" id="inv-cats">
           ${["全部", ...CATEGORIES].map((c) => `<button class="chip ${c === invState.category ? "active" : ""}" data-cat="${c}">${c}</button>`).join("")}
@@ -176,7 +176,7 @@ export function renderInventory(container) {
       <div class="inv-table-wrap">
         ${items.length ? `
         <table class="inv-table">
-          <thead><tr><th class="inv-check-col"><input type="checkbox" id="inv-sel-all" aria-label="全选当前列表" ${items.length && items.every((i) => invState.selected.has(i.id)) ? "checked" : ""} /></th><th>名称</th><th>类别</th><th>规格</th><th>数量</th><th>位置</th><th>有效期</th><th>状态</th><th></th></tr></thead>
+          <thead><tr><th class="inv-check-col"><input type="checkbox" id="inv-sel-all" aria-label="全选当前列表" ${items.length && items.every((i) => invState.selected.has(i.id)) ? "checked" : ""} /></th><th>名称</th><th>类别</th><th>规格</th><th>厂家</th><th>生产批次</th><th>数量</th><th>位置</th><th>有效期</th><th>状态</th><th></th></tr></thead>
           <tbody>
             ${items.map((i) => {
               const st = itemStatus(i);
@@ -185,6 +185,8 @@ export function renderInventory(container) {
                 <td class="inv-name">${esc(i.name)}${i.note ? `<div class="hint">${esc(i.note)}</div>` : ""}</td>
                 <td>${esc(i.category)}</td>
                 <td>${esc(i.spec)}</td>
+                <td>${esc(i.vendor) || "—"}</td>
+                <td class="input-mono">${esc(i.batch) || "—"}</td>
                 <td class="input-mono">${esc(String(i.qty))} ${esc(i.unit)}</td>
                 <td>${esc(i.location)}</td>
                 <td class="input-mono">${esc(i.expiry) || "—"}</td>
@@ -287,7 +289,7 @@ function renderPastePanel(container) {
   slot.innerHTML = `
     <div class="paste-panel">
       <div class="form-section-title">批量粘贴导入</div>
-      <textarea class="textarea input-mono" id="inv-paste-text" rows="6" placeholder="名称,类别,规格,数量,单位,位置,有效期,低库存阈值,备注&#10;Taq DNA 聚合酶,酶,500 U,2,支,-20℃ 冰箱 A2,2026-12-01,2,含甘油&#10;也可以直接从 Excel 复制粘贴（Tab 分隔）；首行表头可省略"></textarea>
+      <textarea class="textarea input-mono" id="inv-paste-text" rows="6" placeholder="名称,类别,规格,数量,单位,位置,有效期,低库存阈值,备注,厂家,生产批次&#10;Taq DNA 聚合酶,酶,500 U,2,支,-20℃ 冰箱 A2,2026-12-01,2,含甘油,Thermo Fisher,LOT1234567&#10;也可以直接从 Excel 复制粘贴（Tab 分隔）；首行表头可省略；旧版 9 列格式仍兼容"></textarea>
       <div class="hint">自动识别逗号 / Tab 分隔；首行含"名称"视为表头，否则按模板列顺序解析；重复条目（名称+规格+位置）自动跳过。</div>
       <div class="inv-form-actions">
         <button class="btn btn-primary btn-sm" id="inv-paste-run">导入粘贴内容</button>
@@ -309,8 +311,8 @@ function renderPastePanel(container) {
   $("#inv-paste-tpl").addEventListener("click", () => {
     downloadCSV([
       CSV_HEADERS.join(","),
-      "Taq DNA 聚合酶,酶,500 U,2,支,-20℃ 冰箱 A2,2026-12-01,2,含甘油",
-      "1.5 mL 离心管,耗材,500 个/包,10,包,架 B3,,3,",
+      "Taq DNA 聚合酶,酶,500 U,2,支,-20℃ 冰箱 A2,2026-12-01,2,含甘油,Thermo Fisher,LOT1234567",
+      "1.5 mL 离心管,耗材,500 个/包,10,包,架 B3,,3,,Axygen,LOT88888",
     ], "lab-inventory-template.csv");
   });
   $("#inv-paste-cancel").addEventListener("click", () => {
@@ -386,6 +388,8 @@ function renderForm(container) {
         <div class="field"><label>规格</label><input class="input" name="spec" value="${esc(it.spec || "")}" placeholder="如 500 U / 5 U/µL" /></div>
         <div class="field"><label>数量 *</label><input class="input input-mono" name="qty" type="number" step="any" min="0" required value="${esc(it.qty ?? "")}" /></div>
         <div class="field"><label>单位</label><input class="input" name="unit" value="${esc(it.unit || "")}" placeholder="支 / 盒 / mL" /></div>
+        <div class="field"><label>厂家</label><input class="input" name="vendor" value="${esc(it.vendor || "")}" placeholder="如 Thermo Fisher / 生工" /></div>
+        <div class="field"><label>生产批次</label><input class="input input-mono" name="batch" value="${esc(it.batch || "")}" placeholder="如 Lot 1234567" /></div>
         <div class="field"><label>位置</label><input class="input" name="location" value="${esc(it.location || "")}" placeholder="如 -20℃ 冰箱 A2 层" /></div>
         <div class="field"><label>有效期</label><input class="input input-mono" name="expiry" type="date" value="${esc(it.expiry || "")}" /></div>
         <div class="field"><label>低库存阈值</label><input class="input input-mono" name="low" type="number" step="any" min="0" value="${esc(it.low ?? "")}" placeholder="数量≤该值时提醒" /></div>
@@ -412,6 +416,8 @@ function renderForm(container) {
       spec: String(fd.get("spec") || "").trim(),
       qty: String(fd.get("qty") || "").trim(),
       unit: String(fd.get("unit") || "").trim(),
+      vendor: String(fd.get("vendor") || "").trim(),
+      batch: String(fd.get("batch") || "").trim(),
       location: String(fd.get("location") || "").trim(),
       expiry: String(fd.get("expiry") || "").trim(),
       low: String(fd.get("low") || "").trim(),
@@ -449,7 +455,7 @@ function downloadCSV(rows, filename) {
 function exportItems(items, filename) {
   const rows = [CSV_HEADERS.join(",")];
   for (const i of items) {
-    rows.push([i.name, i.category, i.spec, i.qty, i.unit, i.location, i.expiry, i.low, i.note].map(csvEscape).join(","));
+    rows.push([i.name, i.category, i.spec, i.qty, i.unit, i.location, i.expiry, i.low, i.note, i.vendor, i.batch].map(csvEscape).join(","));
   }
   downloadCSV(rows, filename);
 }
@@ -516,6 +522,8 @@ function rowsToItems(rows) {
       expiry: get(r, "有效期"),
       low: get(r, "低库存阈值"),
       note: get(r, "备注"),
+      vendor: get(r, "厂家"),
+      batch: get(r, "生产批次"),
     });
     added++;
   }

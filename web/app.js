@@ -537,7 +537,7 @@ function buildInventoryContext(tpl) {
     const it = matchInventory(name);
     if (!it) return `- ${name}：台账未登记`;
     const st = inventoryStatus(it);
-    return `- ${name}：库存「${it.name}」余 ${it.qty}${it.unit}，${st.label}${it.location ? `，位置 ${it.location}` : ""}`;
+    return `- ${name}：库存「${it.name}」余 ${it.qty}${it.unit}，${st.label}${it.location ? `，位置 ${it.location}` : ""}${it.vendor ? `，厂家 ${it.vendor}` : ""}${it.batch ? `，批次 ${it.batch}` : ""}`;
   });
   const alerts = items.filter((i) => inventoryStatus(i).key !== "ok").slice(0, 10)
     .map((i) => `- ${i.name}：${inventoryStatus(i).label}（余 ${i.qty}${i.unit}）`);
