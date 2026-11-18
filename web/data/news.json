@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-17T22:13:43.908376+00:00",
+  "updatedAt": "2026-11-18T04:11:59.465326+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,10 @@
   ],
   "failedSources": [],
   "translations": {
+    "#CTAD26: Biogen’s tau drug slows Alzheimer’s more after nearly two years": "#CTAD26：经过近两年的试验，Biogen的tau蛋白药物进一步延缓了阿尔茨海默病的进展",
+    "STAT+: White House pulls nomination of Heidi Overton to lead FDA": "STAT+：白宫撤销海蒂·奥弗顿（Heidi Overton）的FDA局长提名",
+    "White House pulls FDA nominee Overton amid uncertain Senate support": "白宫在参议院支持不确定的情况下撤回了FDA提名人选奥弗顿",
+    "Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice": "酒精会抑制某些T细胞，增强其他T细胞，削弱小鼠的抗PD-1反应",
     "Beyond Amyloid and Tau: Alzheimer’s Drug Developer Sees Early Clinical Success for Immunotherapy-Based Approach": "超越淀粉样蛋白和Tau蛋白：阿尔茨海默病药物研发商在基于免疫疗法的方法上取得早期临床成功",
     "Genetic Barcoding Reveals How Pre-Bone Marrow Transplant Conditioning Impacts Immune System Regeneration": "遗传条形码揭示了骨髓移植前预处理如何影响免疫系统的再生",
     "FDA flags potential VEGF-related safety concern in Summit rejection letter": "FDA 在 Summit 驳回函中指出潜在的 VEGF 相关安全性问题",
@@ -98,20 +102,64 @@
     "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC": "STAT+：MAHA 取得胜利，FDA 为膳食补充剂 NAC 设立新的监管类别",
     "Helus Pharma notches successful Phase 3 depression readout": "Helus Pharma 成功取得 3 期抑郁症试验结果",
     "STAT+: Newer GLP-1 drugs to combat obesity may be the next global battleground over access to medicines, expert warns": "STAT+：专家警告，用于对抗肥胖症的更新型GLP-1药物可能是下一个关于药物可及性的全球战场",
-    "STAT+: NIAID acting head John Powers III appointed as the permanent director": "STAT+：NIAID代理负责人John Powers III被任命为正式主任",
     "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug": "FDA否决备受瞩目的PD-1/VEGF药物，Summit股价应声下跌",
     "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial": "CG Oncology药物在膀胱癌关键性试验中取得“卓越”成果",
     "J&J bets $2.2B on Ollin’s vision loss drug": "强生斥资22亿美元押注Ollin的视力丧失药物",
     "China's $40k CAR-T; Novartis and Biogen strike deals": "中国4万美元的CAR-T；诺华和渤健达成交易",
-    "Parker Institute's Karen Knudsen: Cancer research has a translation problem": "帕克研究所的Karen Knudsen：癌症研究存在转化问题",
-    "Lilly's 14th acquisition of the year is a little-known blood cancer biotech": "礼来的今年第14笔收购是一家鲜为人知的血液癌症生物技术公司",
     "Vitamin B12 may hold the key to treating a rare genetic disorder": "维生素B12可能握有治疗一种罕见遗传性疾病的关键",
-    "Scientists discover that the heart doesn't age the way we thought": "科学家发现，心脏的衰老方式与我们想象的不同",
-    "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix": "礼来以15亿美元收购初创公司Calytrix，再添一笔收购交易"
+    "Scientists discover that the heart doesn't age the way we thought": "科学家发现，心脏的衰老方式与我们想象的不同"
   },
   "items": [
     {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "#CTAD26: Biogen’s tau drug slows Alzheimer’s more after nearly two years",
+      "titleZh": "#CTAD26：经过近两年的试验，Biogen的tau蛋白药物进一步延缓了阿尔茨海默病的进展",
+      "link": "https://endpoints.news/ctad26-biogens-tau-drug-slows-alzheimers-more-after-nearly-two-years/",
+      "summary": "BOSTON — The benefits of Biogen's experimental Alzheimer's drug seem to get better with time. Over the summer, Biogen reported that the lowest dose of its gene-silencing therapy diranersen slowed the disease by ...",
+      "publishedAt": "2026-11-18T01:10:35+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
+      "titleZh": "STAT+：白宫撤销海蒂·奥弗顿（Heidi Overton）的FDA局长提名",
+      "link": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss",
+      "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
+      "publishedAt": "2026-11-18T00:44:05+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "White House pulls FDA nominee Overton amid uncertain Senate support",
+      "titleZh": "白宫在参议院支持不确定的情况下撤回了FDA提名人选奥弗顿",
+      "link": "https://endpoints.news/white-house-pulls-fda-nominee-overton-amid-uncertain-senate-support/",
+      "summary": "Heidi Overton, the Trump administration’s nominee to lead the FDA, has been pulled from consideration, according to a White House official. The Senate had been considering Overton’s candidacy as part of a group of nominations ...",
+      "publishedAt": "2026-11-18T00:34:10+00:00"
+    },
+    {
       "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice",
+      "titleZh": "酒精会抑制某些T细胞，增强其他T细胞，削弱小鼠的抗PD-1反应",
+      "link": "https://www.genengnews.com/topics/cancer/alcohol-suppresses-some-t-cells-boosts-others-blunting-anti-pd-1-response-in-mice/",
+      "summary": "In mice, alcohol cut the efficacy of anti-PD-1 immunotherapy by roughly 50%, suppressing tumor-infiltrating and memory T cells while boosting TIGIT-carrying ones. Blocking TIGIT restored the response. The post Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice appear",
+      "publishedAt": "2026-11-17T23:36:40+00:00"
+    },
+    {
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -123,7 +171,7 @@
       "publishedAt": "2026-11-17T21:10:25+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -135,7 +183,7 @@
       "publishedAt": "2026-11-17T20:40:51+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -147,7 +195,7 @@
       "publishedAt": "2026-11-17T20:35:54+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -159,7 +207,7 @@
       "publishedAt": "2026-11-17T20:25:23+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +219,7 @@
       "publishedAt": "2026-11-17T19:50:35+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +231,7 @@
       "publishedAt": "2026-11-17T19:49:31+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +243,7 @@
       "publishedAt": "2026-11-17T19:44:14+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +255,7 @@
       "publishedAt": "2026-11-17T18:32:28+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +267,7 @@
       "publishedAt": "2026-11-17T18:14:50+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +291,7 @@
       "publishedAt": "2026-11-17T17:18:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +303,7 @@
       "publishedAt": "2026-11-17T17:05:10+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +315,7 @@
       "publishedAt": "2026-11-17T16:34:45+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -279,7 +327,7 @@
       "publishedAt": "2026-11-17T16:16:08+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +339,7 @@
       "publishedAt": "2026-11-17T16:07:21+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -315,7 +363,7 @@
       "publishedAt": "2026-11-17T15:51:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +375,7 @@
       "publishedAt": "2026-11-17T15:27:50+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +387,7 @@
       "publishedAt": "2026-11-17T15:13:36+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +399,7 @@
       "publishedAt": "2026-11-17T15:05:43+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +411,7 @@
       "publishedAt": "2026-11-17T14:25:41+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -375,7 +423,7 @@
       "publishedAt": "2026-11-17T14:20:53+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +435,7 @@
       "publishedAt": "2026-11-17T14:00:01+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +459,7 @@
       "publishedAt": "2026-11-17T12:03:58+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -423,7 +471,7 @@
       "publishedAt": "2026-11-17T12:00:50+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +483,7 @@
       "publishedAt": "2026-11-17T12:00:39+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +495,7 @@
       "publishedAt": "2026-11-17T12:00:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +543,7 @@
       "publishedAt": "2026-11-17T11:39:45+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +555,7 @@
       "publishedAt": "2026-11-17T09:30:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +567,7 @@
       "publishedAt": "2026-11-17T09:30:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +579,7 @@
       "publishedAt": "2026-11-17T09:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -567,7 +615,7 @@
       "publishedAt": "2026-11-17T02:57:22+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -579,7 +627,7 @@
       "publishedAt": "2026-11-16T23:50:32+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +639,7 @@
       "publishedAt": "2026-11-16T23:45:36+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -603,7 +651,7 @@
       "publishedAt": "2026-11-16T22:22:47+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -615,7 +663,7 @@
       "publishedAt": "2026-11-16T22:00:09+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +675,7 @@
       "publishedAt": "2026-11-16T21:01:05+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -639,7 +687,7 @@
       "publishedAt": "2026-11-16T20:59:11+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +699,7 @@
       "publishedAt": "2026-11-16T20:56:47+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -663,7 +711,7 @@
       "publishedAt": "2026-11-16T19:59:14+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -675,7 +723,7 @@
       "publishedAt": "2026-11-16T19:17:34+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -687,7 +735,7 @@
       "publishedAt": "2026-11-16T18:54:06+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,7 +747,7 @@
       "publishedAt": "2026-11-16T18:30:34+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -709,18 +757,6 @@
       "link": "https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/?utm_campaign=rss",
       "summary": "How obesity medications may become the next big battleground over access to medicines in lower-income countries.",
       "publishedAt": "2026-11-16T18:18:25+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: NIAID acting head John Powers III appointed as the permanent director",
-      "titleZh": "STAT+：NIAID代理负责人John Powers III被任命为正式主任",
-      "link": "https://www.statnews.com/2026/11/16/john-powers-appointed-niaid-director/?utm_campaign=rss",
-      "summary": "The acting director of NIAID, John Powers III, will become the permanent director, the agency announced Monday.",
-      "publishedAt": "2026-11-16T17:47:11+00:00"
     },
     {
       "id": "biopharma-dive-3",
@@ -759,7 +795,7 @@
       "publishedAt": "2026-11-16T16:57:00+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -769,30 +805,6 @@
       "link": "https://endpoints.news/car-t-costs-falling-in-china-novartis-and-biogen-strike-deals-obesityweek-readouts/",
       "summary": "Plus, news about Amylyx, Jiangsu Hengrui and AstraZeneca. China drastically cuts price of a CAR-T: China is adding a CAR-T therapy to its basic medical insurance drug list, or the NRDL ...",
       "publishedAt": "2026-11-16T16:19:12+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Parker Institute's Karen Knudsen: Cancer research has a translation problem",
-      "titleZh": "帕克研究所的Karen Knudsen：癌症研究存在转化问题",
-      "link": "https://endpoints.news/parker-institutes-karen-knudsen-cancer-research-has-a-translation-problem/",
-      "summary": "Karen Knudsen has established a reputation for transforming medical organizations. Her latest project is the now 10-year-old Parker Institute for Cancer Immunotherapy, or PICI. Before becoming the nonprofit’s new CEO last year, Knudsen led a ...",
-      "publishedAt": "2026-11-16T15:57:41+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Lilly's 14th acquisition of the year is a little-known blood cancer biotech",
-      "titleZh": "礼来的今年第14笔收购是一家鲜为人知的血液癌症生物技术公司",
-      "link": "https://endpoints.news/lillys-14th-acquisition-of-the-year-is-a-little-known-blood-cancer-biotech/",
-      "summary": "Eli Lilly has been on a shopping spree this year thanks to its GLP-1-driven revenue, and its 14th acquisition of 2026 is in cancer, the domain of expertise for the pharma's head ...",
-      "publishedAt": "2026-11-16T14:37:18+00:00"
     },
     {
       "id": "science-daily-health-6",
@@ -825,7 +837,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
-      "titleZh": "礼来以15亿美元收购初创公司Calytrix，再添一笔收购交易",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
       "summary": "Lilly&rsquo;s 15th announced acquisition this year&nbsp;&mdash; by far the most in the biopharmaceutical sector&nbsp;&mdash; centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms.",
       "publishedAt": "2026-11-16T12:44:00+00:00"
@@ -867,7 +879,7 @@
       "publishedAt": "2026-11-16T10:22:15+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -883,27 +895,15 @@
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
-      "category": "市场",
-      "title": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
+      "category": "研发",
+      "title": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs",
       "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
-      "summary": "The startup, which also just disclosed an up to $1.2 billion partnership with Sanofi, is backed by&nbsp;Versant, MPM BioImpact, Eli Lilly and Novartis&rsquo; venture arm.",
+      "link": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
+      "summary": "Faster drug discovery depends on more than the model. What drug developers need to know about AI.",
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
       "id": "biopharma-dive-8",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "研发",
-      "title": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
-      "summary": "Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging.",
-      "publishedAt": "2026-11-16T10:00:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -912,6 +912,18 @@
       "titleZh": "",
       "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
       "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
+      "publishedAt": "2026-11-16T10:00:00+00:00"
+    },
+    {
+      "id": "biopharma-dive-9",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "研发",
+      "title": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
+      "titleZh": "",
+      "link": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
+      "summary": "Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging.",
       "publishedAt": "2026-11-16T10:00:00+00:00"
     },
     {
@@ -939,7 +951,7 @@
       "publishedAt": "2026-11-16T00:32:12+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1047,7 +1059,7 @@
       "publishedAt": "2026-11-14T04:26:12+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1057,18 +1069,6 @@
       "link": "https://www.genengnews.com/topics/cancer/dcis-cell-atlas-reveals-clues-to-invasive-breast-cancer-progression/",
       "summary": "Researchers created a detailed map of the tumor microenvironment surrounding estrogen receptor-positive ductal carcinoma in situ, which may help better predict progression to invasive breast cancer and inform on future therapeutic strategies. The post DCIS Cell Atlas Reveals Clues to Invasive Breast",
       "publishedAt": "2026-11-13T22:04:09+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "How Vancomycin-Resistant Enterococcus Evolved in a Danish Hospital",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/infectious-diseases/how-vancomycin-resistant-enterococcus-evolved-in-a-danish-hospital/",
-      "summary": "A genomic study reveals how genetic mutations, recombination, and resistance-carrying plasmids shaped the evolution, diversification, and decline of vancomycin-resistant Enterococcus faecium in Danish hospitals between 2012 and 2020. The post How Vancomycin-Resistant &lt;i&gt;Enterococcus&lt;/i&gt; ",
-      "publishedAt": "2026-11-13T20:02:36+00:00"
     },
     {
       "id": "nature-biotech-0",
