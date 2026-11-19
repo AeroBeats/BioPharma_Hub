@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-18T21:51:20.881384+00:00",
+  "updatedAt": "2026-11-19T03:15:55.771165+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,9 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: Epic Systems defends competitive practices, promises to let AI access its records": "STAT+：Epic Systems为竞争行为辩护，承诺允许人工智能访问其记录",
+    "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus": "阿尔茨海默病和衰老与下丘脑的变化相关",
+    "How Trump FDA nominee Heidi Overton's confirmation failed": "特朗普提名的FDA候选人海蒂·奥弗顿（Heidi Overton）为何未能获得确认",
     "CRISPR Screening Reveals How Genetic Variants Drive Neurodegenerative Risk": "CRISPR筛选揭示了遗传变异如何驱动神经退行性疾病风险",
     "STAT+: Influential preventive services panel to meet for first time in more than a year": "STAT+：具有影响力的预防服务专家组时隔一年多首次召开会议",
     "nChroma Bio stops its only clinical study early, lays off 50%": "nChroma Bio提前终止其唯一一项临床研究，裁员50%",
@@ -89,7 +92,6 @@
     "Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice": "酒精会抑制某些T细胞，增强其他T细胞，削弱小鼠的抗PD-1反应",
     "Why obesity affects men and women differently may be hiding in their fat": "肥胖对男性和女性产生不同影响的原因可能隐藏在他们的脂肪中",
     "Beyond Amyloid and Tau: Alzheimer’s Drug Developer Sees Early Clinical Success for Immunotherapy-Based Approach": "超越淀粉样蛋白和Tau蛋白：阿尔茨海默病药物研发商在基于免疫疗法的方法上取得早期临床成功",
-    "Genetic Barcoding Reveals How Pre-Bone Marrow Transplant Conditioning Impacts Immune System Regeneration": "遗传条形码揭示了骨髓移植前预处理如何影响免疫系统的再生",
     "FDA letter rejecting Summit cancer drug cites ‘modest’ benefit in data compared with toxicity risk": "美国食品药品监督管理局（FDA）的函件拒绝了Summit的抗癌药物，理由是数据显示其益处“有限”，而毒性风险却较高。",
     "Beren wins FDA approval for long-studied rare disease drug": "Beren的罕见病药物经过长期研究后获得FDA批准",
     "GSK’s Nuvalent buyout delivers again as FDA clears Nelkarmi for lung cancer": "GSK 收购的 Nuvalent 再创佳绩，Nelkarmi 获 FDA 批准用于治疗肺癌",
@@ -105,13 +107,47 @@
     "U.S. loses measles elimination status, marking embarrassing stain on its public health record": "美国失去麻疹消除国地位，这在其公共卫生记录上留下尴尬的一笔",
     "#CTAD26: Cognito plans FDA submission of light and sound therapy for Alzheimer’s": "#CTAD26：Cognito计划向FDA提交阿尔茨海默病的光疗和声疗申请",
     "AI drugmaker Isomorphic restocks with $5B fundraise": "人工智能制药公司Isomorphic筹集50亿美元资金",
-    "STAT+: ‘Medicare for More’ gains traction": "STAT+：“Medicare for More”计划获得支持",
-    "Novo revamps its direct-to-consumer platform; Roche drug Gazyva approved again": "诺和诺德重塑其直面消费者的平台；罗氏的药物Gazyva再次获得批准",
-    "#CTAD26: Priavoid’s amyloid-detangling pill PRI-002 fails Phase 2 study in Alzheimer’s": "#CTAD26：Priavoid 的淀粉样蛋白消融药物 PRI-002 在阿尔茨海默病 2 期研究中失败"
+    "STAT+: ‘Medicare for More’ gains traction": "STAT+：“Medicare for More”计划获得支持"
   },
   "items": [
     {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
+      "title": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records",
+      "titleZh": "STAT+：Epic Systems为竞争行为辩护，承诺允许人工智能访问其记录",
+      "link": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss",
+      "summary": "Executives from Epic, the largest electronics health records vendor, defended its competitive practices during a panel discussion at HLTH.",
+      "publishedAt": "2026-11-18T23:07:55+00:00"
+    },
+    {
       "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus",
+      "titleZh": "阿尔茨海默病和衰老与下丘脑的变化相关",
+      "link": "https://www.genengnews.com/topics/translational-medicine/alzheimers-disease-and-aging-linked-to-changes-in-the-hypothalamus/",
+      "summary": "Researchers combined measurements from brain images and single cell transcriptome maps to build a resource, HypoAD, as an atlas of the human hypothalamus in aging and AD, which they have made available to the research community. The post Alzheimer’s Disease and Aging Linked to Changes in the Hypotha",
+      "publishedAt": "2026-11-18T22:50:25+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "How Trump FDA nominee Heidi Overton's confirmation failed",
+      "titleZh": "特朗普提名的FDA候选人海蒂·奥弗顿（Heidi Overton）为何未能获得确认",
+      "link": "https://endpoints.news/how-trump-fda-nominee-heidi-overtons-confirmation-failed/",
+      "summary": "It was less than 24 hours before the Trump administration’s FDA nominee Heidi Overton would face a crucial vote by the Senate HELP Committee. It was going to be close. But Overton’s team had reason ...",
+      "publishedAt": "2026-11-18T22:29:13+00:00"
+    },
+    {
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -123,7 +159,7 @@
       "publishedAt": "2026-11-18T21:26:39+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +171,7 @@
       "publishedAt": "2026-11-18T21:21:26+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -147,7 +183,7 @@
       "publishedAt": "2026-11-18T21:19:50+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -159,7 +195,7 @@
       "publishedAt": "2026-11-18T21:16:04+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -171,7 +207,7 @@
       "publishedAt": "2026-11-18T21:10:58+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +219,7 @@
       "publishedAt": "2026-11-18T20:29:14+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -195,7 +231,7 @@
       "publishedAt": "2026-11-18T19:33:57+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -207,7 +243,7 @@
       "publishedAt": "2026-11-18T19:25:59+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -231,7 +267,7 @@
       "publishedAt": "2026-11-18T18:51:00+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +279,7 @@
       "publishedAt": "2026-11-18T18:25:52+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -255,7 +291,7 @@
       "publishedAt": "2026-11-18T17:00:37+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -267,7 +303,7 @@
       "publishedAt": "2026-11-18T17:00:31+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -279,7 +315,7 @@
       "publishedAt": "2026-11-18T17:00:19+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -303,7 +339,7 @@
       "publishedAt": "2026-11-18T17:00:00+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -327,7 +363,7 @@
       "publishedAt": "2026-11-18T15:55:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +375,7 @@
       "publishedAt": "2026-11-18T15:36:19+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +387,7 @@
       "publishedAt": "2026-11-18T15:29:39+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +399,7 @@
       "publishedAt": "2026-11-18T14:37:13+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +423,7 @@
       "publishedAt": "2026-11-18T14:21:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +447,7 @@
       "publishedAt": "2026-11-18T12:33:09+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +471,7 @@
       "publishedAt": "2026-11-18T12:06:44+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -459,7 +495,7 @@
       "publishedAt": "2026-11-18T11:53:30+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -471,7 +507,7 @@
       "publishedAt": "2026-11-18T11:43:38+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +519,7 @@
       "publishedAt": "2026-11-18T09:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +531,7 @@
       "publishedAt": "2026-11-18T09:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +555,7 @@
       "publishedAt": "2026-11-18T03:49:24+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -543,7 +579,7 @@
       "publishedAt": "2026-11-18T01:10:14+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +591,7 @@
       "publishedAt": "2026-11-18T00:44:05+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -567,7 +603,7 @@
       "publishedAt": "2026-11-18T00:34:10+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -591,7 +627,7 @@
       "publishedAt": "2026-11-17T23:04:12+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -603,19 +639,7 @@
       "publishedAt": "2026-11-17T21:10:25+00:00"
     },
     {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genetic Barcoding Reveals How Pre-Bone Marrow Transplant Conditioning Impacts Immune System Regeneration",
-      "titleZh": "遗传条形码揭示了骨髓移植前预处理如何影响免疫系统的再生",
-      "link": "https://www.genengnews.com/topics/translational-medicine/genetic-barcoding-reveals-how-pre-bone-marrow-transplant-conditioning-impacts-immune-system-regeneration/",
-      "summary": "Researchers used genetic barcoding to track human blood-forming stem and progenitor cells transplanted into mice, revealing how the different cell types regenerate the blood and immune system, and how different forms of pretransplant conditioning affected blood and immune cell recovery. The post Gen",
-      "publishedAt": "2026-11-17T20:40:51+00:00"
-    },
-    {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +651,7 @@
       "publishedAt": "2026-11-17T20:35:54+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,7 +663,7 @@
       "publishedAt": "2026-11-17T20:25:23+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +675,7 @@
       "publishedAt": "2026-11-17T19:50:35+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -663,7 +687,7 @@
       "publishedAt": "2026-11-17T19:49:31+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -675,7 +699,7 @@
       "publishedAt": "2026-11-17T19:44:14+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +711,7 @@
       "publishedAt": "2026-11-17T18:32:28+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -699,7 +723,7 @@
       "publishedAt": "2026-11-17T18:14:50+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -723,7 +747,7 @@
       "publishedAt": "2026-11-17T17:18:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -735,7 +759,7 @@
       "publishedAt": "2026-11-17T17:05:10+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -747,7 +771,7 @@
       "publishedAt": "2026-11-17T16:34:45+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -759,7 +783,7 @@
       "publishedAt": "2026-11-17T16:16:08+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -771,7 +795,7 @@
       "publishedAt": "2026-11-17T16:07:21+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -795,7 +819,7 @@
       "publishedAt": "2026-11-17T15:51:00+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -807,31 +831,19 @@
       "publishedAt": "2026-11-17T15:27:50+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
       "title": "Novo revamps its direct-to-consumer platform; Roche drug Gazyva approved again",
-      "titleZh": "诺和诺德重塑其直面消费者的平台；罗氏的药物Gazyva再次获得批准",
+      "titleZh": "",
       "link": "https://endpoints.news/novo-revamps-its-direct-to-consumer-platform-roche-drug-gazyva-approved-again/",
       "summary": "Plus news about Uniquity Bio, Commit Biologics, Rosemont Pharmaceuticals, Aytu and Aclaris Therapeutics. Novo relaunches NovoCare direct-to-consumer platform: Novo is revamping its DTC business with what it calls a \"reimagined consumer ...",
       "publishedAt": "2026-11-17T15:13:36+00:00"
     },
     {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "#CTAD26: Priavoid’s amyloid-detangling pill PRI-002 fails Phase 2 study in Alzheimer’s",
-      "titleZh": "#CTAD26：Priavoid 的淀粉样蛋白消融药物 PRI-002 在阿尔茨海默病 2 期研究中失败",
-      "link": "https://endpoints.news/priavoids-amyloid-detangling-pill-pri-002-fails-phase-2-study-in-alzheimers/",
-      "summary": "BOSTON — For nearly a decade, the German biotech startup Priavoid has been working on a pill to break up small clumps of amyloid proteins that accumulate in the brains of people with Alzheimer’s disease. Now ...",
-      "publishedAt": "2026-11-17T15:05:43+00:00"
-    },
-    {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -841,18 +853,6 @@
       "link": "https://www.statnews.com/pharmalot/2026/11/17/roche-breast-cancer-pill-obesity-drugs-in-children/?utm_campaign=rss",
       "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product",
       "publishedAt": "2026-11-17T14:25:41+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "NIH’s infectious disease unit has a new head at last",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/11/17/health-news-nih-infectious-disease-unit-has-a-new-head-at-last/?utm_campaign=rss",
-      "summary": "The NIH has been without a permanent director since 2025. Now officials announce that acting director John Powers III will take the helm.",
-      "publishedAt": "2026-11-17T13:27:01+00:00"
     },
     {
       "id": "science-daily-health-9",
