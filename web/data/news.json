@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-19T03:15:55.771165+00:00",
+  "updatedAt": "2026-11-19T12:53:30.595205+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,9 +48,19 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: Merck, Isomorphic Labs partner to develop oncology drug candidates": "STAT+：默沙东与Isomorphic Labs合作开发肿瘤候选药物",
+    "STAT+: In cancer drug development, the spotlight shifts onto Erasca’s KRAS-targeted treatment": "STAT+：在抗癌药物的研发中，人们的目光转向了Erasca的KRAS靶向治疗药物",
+    "Scientists tested 212 plant-based foods. Every single one contained fungal toxins": "科学家们测试了212种植物性食品。每一种都含有真菌毒素",
+    "STAT+: Before midterm losses, MAHA spent on itself instead of candidates": "STAT+：在中期选举失利之前，MAHA将资金用于自身而非候选人",
+    "Opinion: STAT+: I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins": "观点：STAT+：我是一名心脏病专家。我对关于停用他汀类药物的轰动性新研究感到有些困惑",
+    "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?": "为什么像Ozempic和Wegovy这样的减肥药物并非对每个人都有效？",
+    "AbbVie and Disco strike deal worth up to $2.54B for solid tumor targets": "艾伯维与Disco达成价值高达25.4亿美元的实体瘤靶点交易",
+    "Scientists discover a hidden hereditary form of aggressive prostate cancer": "科学家发现一种隐性遗传性侵袭性前列腺癌",
+    "Is free will an illusion? New brain research reveals a surprising twist": "自由意志是一种幻觉吗？新的大脑研究揭示了一个令人惊讶的转折",
     "STAT+: Epic Systems defends competitive practices, promises to let AI access its records": "STAT+：Epic Systems为竞争行为辩护，承诺允许人工智能访问其记录",
     "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus": "阿尔茨海默病和衰老与下丘脑的变化相关",
     "How Trump FDA nominee Heidi Overton's confirmation failed": "特朗普提名的FDA候选人海蒂·奥弗顿（Heidi Overton）为何未能获得确认",
+    "Too much exercise could leave your brain stuck in overdrive": "运动过度可能会让您的大脑处于过度兴奋状态",
     "CRISPR Screening Reveals How Genetic Variants Drive Neurodegenerative Risk": "CRISPR筛选揭示了遗传变异如何驱动神经退行性疾病风险",
     "STAT+: Influential preventive services panel to meet for first time in more than a year": "STAT+：具有影响力的预防服务专家组时隔一年多首次召开会议",
     "nChroma Bio stops its only clinical study early, lays off 50%": "nChroma Bio提前终止其唯一一项临床研究，裁员50%",
@@ -77,9 +87,8 @@
     "What redesigning medical school might look like": "医学院的改革可能是什么样的",
     "A rare disease reveals a hidden flaw in the immune system": "一种罕见疾病揭示了免疫系统中的隐性缺陷",
     "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics": "辉瑞通过与Starna Therapeutics的许可协议进军体内CAR-T领域",
-    "MIT discovers that aging weakens the brain’s nighttime cleaning system": "麻省理工学院发现衰老会削弱大脑的夜间清洁系统",
     "AI bio startup Boltz raises $110M Series A": "人工智能生物初创公司Boltz完成1.1亿美元A轮融资",
-    "A little-known protein could be a powerful weapon against Alzheimer’s": "一种鲜为人知的蛋白质可能是对抗阿尔茨海默病的有力武器",
+    "Why do farts smell so bad? The secret is brewing in your gut": "为什么屁的味道这么难闻？秘密正在您的肠道中酝酿",
     "Merck ends the sorry saga of BTK inhibitor it got from ArQule": "默沙东结束了从ArQule收购的BTK抑制剂的悲惨历程",
     "STAT+: Scientists heralded a blue wave. But will they miss Susan Collins?": "STAT+：科学家们预示着一波蓝潮。但他们会想念苏珊·柯林斯吗？",
     "Opinion: Maybe in-person four-year institutions aren’t the right approach to medical education": "观点：也许线下四年制院校并不是医学教育的正确途径",
@@ -98,20 +107,119 @@
     "On eve of Senate committee vote, Trump's FDA pick hasn't locked up confirmation": "在参议院委员会投票前夕，特朗普提名的FDA人选尚未获得确认",
     "STAT+: Updated health data privacy rule sets standards for sharing records with apps": "STAT+：更新后的健康数据隐私规则为与应用程序共享记录设定了标准",
     "Sellas claims Phase 3 win on AML cancer vaccine": "Sellas声称其AML癌症疫苗III期试验取得成功",
-    "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes": "STAT+：共和党和MAHA领导人就FDA提名人选的电子烟记录发生争执",
-    "STAT+: What to know about the new AI roadmap from CMS, and news from HLTH": "STAT+：关于CMS新的人工智能路线图以及HLTH新闻的须知事项",
-    "Roche breast cancer pill cleared by FDA": "罗氏乳腺癌药物获FDA批准",
-    "STAT+: Flagship opens biotech-creation outpost in the U.K.": "STAT+：Flagship在英国开设生物技术创新前哨站",
-    "Analysis: 3 thoughts on Isomorphic's record $5B Series C for AI in bio": "分析：关于Isomorphic在生物领域AI方面创纪录的50亿美元C轮融资的3点看法",
-    "Health tech preps for a consumer-driven future": "健康科技为以消费者为主导的未来做好准备",
-    "U.S. loses measles elimination status, marking embarrassing stain on its public health record": "美国失去麻疹消除国地位，这在其公共卫生记录上留下尴尬的一笔",
-    "#CTAD26: Cognito plans FDA submission of light and sound therapy for Alzheimer’s": "#CTAD26：Cognito计划向FDA提交阿尔茨海默病的光疗和声疗申请",
-    "AI drugmaker Isomorphic restocks with $5B fundraise": "人工智能制药公司Isomorphic筹集50亿美元资金",
-    "STAT+: ‘Medicare for More’ gains traction": "STAT+：“Medicare for More”计划获得支持"
+    "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes": "STAT+：共和党和MAHA领导人就FDA提名人选的电子烟记录发生争执"
   },
   "items": [
     {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "市场",
+      "title": "STAT+: Merck, Isomorphic Labs partner to develop oncology drug candidates",
+      "titleZh": "STAT+：默沙东与Isomorphic Labs合作开发肿瘤候选药物",
+      "link": "https://www.statnews.com/2026/11/19/merck-isomorphic-labs-partner-to-develop-oncology-drug-candidates/?utm_campaign=rss",
+      "summary": "Merck and Isomorphic Labs said they are entering into a research collaboration to discover small molecule candidates in oncology.",
+      "publishedAt": "2026-11-19T11:45:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: In cancer drug development, the spotlight shifts onto Erasca’s KRAS-targeted treatment",
+      "titleZh": "STAT+：在抗癌药物的研发中，人们的目光转向了Erasca的KRAS靶向治疗药物",
+      "link": "https://www.statnews.com/2026/11/19/erasca-kras-targeted-treatment-new-data-pancreatic-cancer/?utm_campaign=rss",
+      "summary": "Did the biotech company Erasca find a more potent, better-tolerated pan-RAS cancer drug than Revolution Medicines?",
+      "publishedAt": "2026-11-19T11:30:00+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+      "titleZh": "科学家们测试了212种植物性食品。每一种都含有真菌毒素",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+      "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially har",
+      "publishedAt": "2026-11-19T11:13:29+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Before midterm losses, MAHA spent on itself instead of candidates",
+      "titleZh": "STAT+：在中期选举失利之前，MAHA将资金用于自身而非候选人",
+      "link": "https://www.statnews.com/2026/11/19/maha-pac-how-it-spent-money-insiders-candidates-nonprofit/?utm_campaign=rss",
+      "summary": "MAHA PAC spent more at a D.C. steakhouse than it did on the House race of a key ally.",
+      "publishedAt": "2026-11-19T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: STAT+: I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins",
+      "titleZh": "观点：STAT+：我是一名心脏病专家。我对关于停用他汀类药物的轰动性新研究感到有些困惑",
+      "link": "https://www.statnews.com/2026/11/19/deprescribing-statins-study-stream-trial-aha-questions/?utm_campaign=rss",
+      "summary": "STAT columnist Vishal Khetpal examines the STREAM trial and its findings about discontinuing use of statins.",
+      "publishedAt": "2026-11-19T09:30:00+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "市场",
+      "title": "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?",
+      "titleZh": "为什么像Ozempic和Wegovy这样的减肥药物并非对每个人都有效？",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
+      "summary": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body's hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.",
+      "publishedAt": "2026-11-19T08:43:56+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "AbbVie and Disco strike deal worth up to $2.54B for solid tumor targets",
+      "titleZh": "艾伯维与Disco达成价值高达25.4亿美元的实体瘤靶点交易",
+      "link": "https://endpoints.news/abbvvie-and-disco-strike-deal-worth-more-than-2-5b-for-solid-tumor-targets/",
+      "summary": "AbbVie is partnering with Disco Pharmaceuticals, a preclinical cancer biotech, to build out its antibody-drug conjugate and T cell engager programs. The Cologne, Germany-headquartered biotech will receive $40 million upfront and up to $2.5 billion ...",
+      "publishedAt": "2026-11-19T07:00:40+00:00"
+    },
+    {
+      "id": "science-daily-health-6",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
+      "titleZh": "科学家发现一种隐性遗传性侵袭性前列腺癌",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
+      "summary": "Scientists have discovered a rare inherited mutation in the CDK12 gene linked to aggressive prostate cancer, with all five identified carriers developing metastatic disease between ages 44 and 62. The finding could lead to expanded genetic testing, helping families uncover hidden cancer risks and po",
+      "publishedAt": "2026-11-19T02:31:02+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Is free will an illusion? New brain research reveals a surprising twist",
+      "titleZh": "自由意志是一种幻觉吗？新的大脑研究揭示了一个令人惊讶的转折",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
+      "summary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still s",
+      "publishedAt": "2026-11-19T01:21:35+00:00"
+    },
+    {
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +243,7 @@
       "publishedAt": "2026-11-18T22:50:25+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -145,6 +253,18 @@
       "link": "https://endpoints.news/how-trump-fda-nominee-heidi-overtons-confirmation-failed/",
       "summary": "It was less than 24 hours before the Trump administration’s FDA nominee Heidi Overton would face a crucial vote by the Senate HELP Committee. It was going to be close. But Overton’s team had reason ...",
       "publishedAt": "2026-11-18T22:29:13+00:00"
+    },
+    {
+      "id": "science-daily-health-5",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Too much exercise could leave your brain stuck in overdrive",
+      "titleZh": "运动过度可能会让您的大脑处于过度兴奋状态",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
+      "summary": "Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways. Scientists found that mice subjected to prolonged, intense training had elevated dopamine levels in a brain region linked to memory and emotions, even 48 hours after exercising. The discovery could help exp",
+      "publishedAt": "2026-11-18T21:28:29+00:00"
     },
     {
       "id": "gen-1",
@@ -159,7 +279,7 @@
       "publishedAt": "2026-11-18T21:26:39+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -171,7 +291,7 @@
       "publishedAt": "2026-11-18T21:21:26+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +327,7 @@
       "publishedAt": "2026-11-18T21:10:58+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +339,7 @@
       "publishedAt": "2026-11-18T20:29:14+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +351,7 @@
       "publishedAt": "2026-11-18T19:33:57+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +363,7 @@
       "publishedAt": "2026-11-18T19:25:59+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +387,7 @@
       "publishedAt": "2026-11-18T18:51:00+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +459,7 @@
       "publishedAt": "2026-11-18T17:00:00+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +483,7 @@
       "publishedAt": "2026-11-18T15:55:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +495,7 @@
       "publishedAt": "2026-11-18T15:36:19+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +507,7 @@
       "publishedAt": "2026-11-18T15:29:39+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +519,7 @@
       "publishedAt": "2026-11-18T14:37:13+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +543,7 @@
       "publishedAt": "2026-11-18T14:21:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +555,7 @@
       "publishedAt": "2026-11-18T13:03:55+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -447,7 +567,7 @@
       "publishedAt": "2026-11-18T12:33:09+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -459,19 +579,7 @@
       "publishedAt": "2026-11-18T12:23:46+00:00"
     },
     {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
-      "titleZh": "麻省理工学院发现衰老会削弱大脑的夜间清洁系统",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
-      "summary": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age. The decline is linked to weaker deep-sleep brain waves and changes in blood flow, potentially offering new clues about why aging increases the risk of Alzhei",
-      "publishedAt": "2026-11-18T12:06:44+00:00"
-    },
-    {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -483,19 +591,19 @@
       "publishedAt": "2026-11-18T12:00:27+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
-      "category": "研发",
-      "title": "A little-known protein could be a powerful weapon against Alzheimer’s",
-      "titleZh": "一种鲜为人知的蛋白质可能是对抗阿尔茨海默病的有力武器",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
-      "summary": "Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments. By boosting a protein called SORLA, researchers significantly reduced toxic tau tangles, protected connections between brain cells, and prevented some of the brain shrinkage a",
-      "publishedAt": "2026-11-18T11:53:30+00:00"
+      "category": "技术",
+      "title": "Why do farts smell so bad? The secret is brewing in your gut",
+      "titleZh": "为什么屁的味道这么难闻？秘密正在您的肠道中酝酿",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
+      "summary": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food. Scientists reveal why some foods make farts smell worse, why loud farts aren't always the stinkiest, and how our noses evolved to detect these powerful odors.",
+      "publishedAt": "2026-11-18T11:55:21+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -507,7 +615,7 @@
       "publishedAt": "2026-11-18T11:43:38+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +627,7 @@
       "publishedAt": "2026-11-18T09:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +639,7 @@
       "publishedAt": "2026-11-18T09:30:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +651,7 @@
       "publishedAt": "2026-11-18T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -555,7 +663,7 @@
       "publishedAt": "2026-11-18T03:49:24+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -567,7 +675,7 @@
       "publishedAt": "2026-11-18T01:10:35+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -579,7 +687,7 @@
       "publishedAt": "2026-11-18T01:10:14+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +699,7 @@
       "publishedAt": "2026-11-18T00:44:05+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -615,7 +723,7 @@
       "publishedAt": "2026-11-17T23:36:40+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -639,7 +747,7 @@
       "publishedAt": "2026-11-17T21:10:25+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +759,7 @@
       "publishedAt": "2026-11-17T20:35:54+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -663,7 +771,7 @@
       "publishedAt": "2026-11-17T20:25:23+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -675,7 +783,7 @@
       "publishedAt": "2026-11-17T19:50:35+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +795,7 @@
       "publishedAt": "2026-11-17T19:49:31+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -699,7 +807,7 @@
       "publishedAt": "2026-11-17T19:44:14+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -711,7 +819,7 @@
       "publishedAt": "2026-11-17T18:32:28+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -723,13 +831,13 @@
       "publishedAt": "2026-11-17T18:14:50+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "技术",
       "title": "STAT+: What to know about the new AI roadmap from CMS, and news from HLTH",
-      "titleZh": "STAT+：关于CMS新的人工智能路线图以及HLTH新闻的须知事项",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/11/17/cms-ai-roadmap-and-news-from-hlth-health-tech/?utm_campaign=rss",
       "summary": "In this edition of STAT Health Tech: What you need to know about CMS' recently released AI roadmap, and highlights from HLTH.",
       "publishedAt": "2026-11-17T17:49:24+00:00"
@@ -741,67 +849,43 @@
       "lang": "en",
       "category": "审批",
       "title": "Roche breast cancer pill cleared by FDA",
-      "titleZh": "罗氏乳腺癌药物获FDA批准",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/roche-fda-approve-wilserdly-giredestrant-breast-cancer/874884/",
       "summary": "Wilserdly&rsquo;s U.S. approval is seen by analysts as a &ldquo;key first step&rdquo; in an important launch for Roche, which has claimed the drug could become its top-selling product.",
       "publishedAt": "2026-11-17T17:18:00+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "技术",
-      "title": "STAT+: Flagship opens biotech-creation outpost in the U.K.",
-      "titleZh": "STAT+：Flagship在英国开设生物技术创新前哨站",
-      "link": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/?utm_campaign=rss",
-      "summary": "Flagship is putting up 100 million pounds to start “AI-native platform companies\" focused on human and planetary health in the U.K.:",
-      "publishedAt": "2026-11-17T17:05:10+00:00"
-    },
-    {
-      "id": "endpoints-16",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "技术",
-      "title": "Analysis: 3 thoughts on Isomorphic's record $5B Series C for AI in bio",
-      "titleZh": "分析：关于Isomorphic在生物领域AI方面创纪录的50亿美元C轮融资的3点看法",
-      "link": "https://endpoints.news/analysis-3-thoughts-on-isomorphics-record-5b-series-c-for-ai-in-bio/",
-      "summary": "Just six months after raising $2.1 billion, Google-backed Isomorphic Labs has one-upped itself with a historic $5 billion Series C round. It is the largest private raise in biotech history, surpassing Altos ...",
-      "publishedAt": "2026-11-17T16:34:45+00:00"
     },
     {
       "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
-      "category": "市场",
-      "title": "Health tech preps for a consumer-driven future",
-      "titleZh": "健康科技为以消费者为主导的未来做好准备",
-      "link": "https://endpoints.news/health-tech-preps-for-a-consumer-driven-future/",
-      "summary": "Hello from Las Vegas! The Endpoints team was undeterred by Friday’s ground stop and has been roaming the conference floor at HLTH to get a sense of where health tech is headed. Here’s what we’ve ...",
-      "publishedAt": "2026-11-17T16:16:08+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "U.S. loses measles elimination status, marking embarrassing stain on its public health record",
-      "titleZh": "美国失去麻疹消除国地位，这在其公共卫生记录上留下尴尬的一笔",
-      "link": "https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss",
-      "summary": "Measles is no longer considered eliminated in the U.S., a finding that was expected but that marks an embarrassing backslide in the country’s basic public health standing.",
-      "publishedAt": "2026-11-17T16:07:21+00:00"
+      "category": "技术",
+      "title": "Analysis: 3 thoughts on Isomorphic's record $5B Series C for AI in bio",
+      "titleZh": "",
+      "link": "https://endpoints.news/analysis-3-thoughts-on-isomorphics-record-5b-series-c-for-ai-in-bio/",
+      "summary": "Just six months after raising $2.1 billion, Google-backed Isomorphic Labs has one-upped itself with a historic $5 billion Series C round. It is the largest private raise in biotech history, surpassing Altos ...",
+      "publishedAt": "2026-11-17T16:34:45+00:00"
     },
     {
       "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
+      "category": "市场",
+      "title": "Health tech preps for a consumer-driven future",
+      "titleZh": "",
+      "link": "https://endpoints.news/health-tech-preps-for-a-consumer-driven-future/",
+      "summary": "Hello from Las Vegas! The Endpoints team was undeterred by Friday’s ground stop and has been roaming the conference floor at HLTH to get a sense of where health tech is headed. Here’s what we’ve ...",
+      "publishedAt": "2026-11-17T16:16:08+00:00"
+    },
+    {
+      "id": "endpoints-19",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
       "category": "审批",
       "title": "#CTAD26: Cognito plans FDA submission of light and sound therapy for Alzheimer’s",
-      "titleZh": "#CTAD26：Cognito计划向FDA提交阿尔茨海默病的光疗和声疗申请",
+      "titleZh": "",
       "link": "https://endpoints.news/ctad26-cognito-plans-fda-submission-of-light-and-sound-therapy-for-alzheimers/",
       "summary": "BOSTON — A decade ago, neuroscientists at MIT published data that seemed too good, or perhaps just too wacky, to be true. Light flickered at just the right frequency induced brain waves that appeared to help ...",
       "publishedAt": "2026-11-17T16:01:42+00:00"
@@ -813,49 +897,13 @@
       "lang": "en",
       "category": "市场",
       "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
-      "titleZh": "人工智能制药公司Isomorphic筹集50亿美元资金",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/",
       "summary": "Even as the larger AI industry faces turmoil, investors have given Isomorphic the two largest cash infusions in the biotech sector this year.",
       "publishedAt": "2026-11-17T15:51:00+00:00"
     },
     {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: ‘Medicare for More’ gains traction",
-      "titleZh": "STAT+：“Medicare for More”计划获得支持",
-      "link": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
-      "summary": "Democrats coalesce around a new health care policy, and Trump's new chief of staff embraces MAHA.",
-      "publishedAt": "2026-11-17T15:27:50+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Novo revamps its direct-to-consumer platform; Roche drug Gazyva approved again",
-      "titleZh": "",
-      "link": "https://endpoints.news/novo-revamps-its-direct-to-consumer-platform-roche-drug-gazyva-approved-again/",
-      "summary": "Plus news about Uniquity Bio, Commit Biologics, Rosemont Pharmaceuticals, Aytu and Aclaris Therapeutics. Novo relaunches NovoCare direct-to-consumer platform: Novo is revamping its DTC business with what it calls a \"reimagined consumer ...",
-      "publishedAt": "2026-11-17T15:13:36+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Pharmalittle: We’re reading about a Roche breast cancer pill, obesity drugs in children, and more",
-      "titleZh": "",
-      "link": "https://www.statnews.com/pharmalot/2026/11/17/roche-breast-cancer-pill-obesity-drugs-in-children/?utm_campaign=rss",
-      "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product",
-      "publishedAt": "2026-11-17T14:25:41+00:00"
-    },
-    {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -879,7 +927,7 @@
       "publishedAt": "2026-11-17T12:00:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,7 +939,7 @@
       "publishedAt": "2026-11-17T11:51:35+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -903,7 +951,7 @@
       "publishedAt": "2026-11-17T11:39:45+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,7 +963,7 @@
       "publishedAt": "2026-11-17T04:54:15+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -963,7 +1011,7 @@
       "publishedAt": "2026-11-16T16:57:00+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,7 +1023,7 @@
       "publishedAt": "2026-11-16T14:31:10+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,7 +1035,7 @@
       "publishedAt": "2026-11-16T14:16:56+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -999,7 +1047,7 @@
       "publishedAt": "2026-11-16T12:41:09+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1011,7 +1059,7 @@
       "publishedAt": "2026-11-16T10:22:15+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1023,55 +1071,19 @@
       "publishedAt": "2026-11-16T01:40:04+00:00"
     },
     {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "An ancient virus may help explain what makes the human brain different",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm",
-      "summary": "A virus that infected chimpanzees millions of years ago may have helped shape one of the most important differences between humans and our closest relatives: how our brains develop. Scientists at Lund University discovered that ancient viral DNA embedded in the chimpanzee genome switches off a gene ",
-      "publishedAt": "2026-11-16T00:32:12+00:00"
-    },
-    {
-      "id": "science-daily-health-14",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
-      "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possib",
-      "publishedAt": "2026-11-15T14:13:18+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
-      "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
-      "publishedAt": "2026-11-15T14:03:39+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
-      "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of A",
-      "publishedAt": "2026-11-15T04:31:56+00:00"
-    },
-    {
       "id": "nature-biotech-0",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
+      "title": "Programmable functional RNA design with a virtual scientist",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03362-3",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-1",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1083,7 +1095,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-1",
+      "id": "nature-biotech-2",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1095,7 +1107,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-2",
+      "id": "nature-biotech-3",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1107,7 +1119,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-3",
+      "id": "nature-biotech-4",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1119,7 +1131,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-4",
+      "id": "nature-biotech-5",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1131,7 +1143,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-5",
+      "id": "nature-biotech-6",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1143,7 +1155,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-6",
+      "id": "nature-biotech-7",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1155,19 +1167,55 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
+      "id": "nature-medicine-0",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
-      "title": "Silence snapped up for $1.3 billion",
+      "title": "Harnessing smartwatches to spot undiagnosed hypertension",
       "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03393-w",
+      "link": "https://www.nature.com/articles/d41591-026-00058-8",
       "summary": "",
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-0",
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Author Correction: Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04803-x",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04731-w",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-3",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04783-y",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1179,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1211,54 +1259,6 @@
       "title": "Vaccines could be a new frontier in KRAS targeting",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04772-1",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-4",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Gut and urogenital microbiomes influence menopausal hormone therapy outcomes",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04789-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-5",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Young people with obesity deserve better care",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04784-x",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Effect of two common GVHD prophylaxis regimens on the gut microbiome in a randomized phase 3 trial",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04712-z",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "市场",
-      "title": "Lessons from recent investigator-initiated trials of gene-editing therapies in China",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04768-x",
       "summary": "",
       "publishedAt": ""
     }
