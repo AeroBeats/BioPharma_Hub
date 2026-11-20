@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-20T03:03:32.160356+00:00",
+  "updatedAt": "2026-11-20T11:26:57.615286+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,11 @@
   ],
   "failedSources": [],
   "translations": {
+    "Patients have little say in how brain implant trials are done. Ian Burkhart wants to change that": "在如何开展脑植入物试验方面，患者几乎没有发言权。伊恩·伯克哈特（Ian Burkhart）希望改变这一点",
+    "FDA’s search for a new leader, and China’s largest drugmakers": "FDA 寻找新领导人，以及中国最大的制药公司",
+    "Opinion: More doctors should prescribe exercise after a concussion": "观点：更多医生应在脑震荡后开具运动处方",
+    "Opinion: More surgeons in Africa isn’t enough when only 10% are women": "观点：非洲的外科医生人数虽有所增加，但女性仅占10%，这还远远不够",
+    "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores": "STAT+：UnitedHealth 提起诉讼，要求撤销对 Medicare Advantage 质量评分的下调",
     "Experimental compound burns fat without sacrificing muscle": "实验化合物燃烧脂肪而不牺牲肌肉",
     "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China": "STAT+：大型制药商告诉众议院委员会，他们将停止在中国一些医院的临床试验",
     "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it": "观点：美国失去了消灭麻疹的地位。下届国会应该帮助恢复它",
@@ -87,13 +92,9 @@
     "How Trump FDA nominee Heidi Overton's confirmation failed": "特朗普提名的FDA候选人海蒂·奥弗顿（Heidi Overton）为何未能获得确认",
     "Too much exercise could leave your brain stuck in overdrive": "运动过度可能会让您的大脑处于过度兴奋状态",
     "CRISPR Screening Reveals How Genetic Variants Drive Neurodegenerative Risk": "CRISPR筛选揭示了遗传变异如何驱动神经退行性疾病风险",
-    "STAT+: Influential preventive services panel to meet for first time in more than a year": "STAT+：具有影响力的预防服务专家组时隔一年多首次召开会议",
     "nChroma Bio stops its only clinical study early, lays off 50%": "nChroma Bio提前终止其唯一一项临床研究，裁员50%",
     "Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice": "靶向叶酸受体可逆转小鼠结直肠癌对免疫疗法的耐药性",
     "London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies": "伦敦召唤：Flagship 在英国扩张，以打造原生 AI 平台公司",
-    "STAT+: NIH to move last group of its research chimps to a sanctuary": "STAT+：美国国立卫生研究院将把最后一批研究用黑猩猩迁至保护区",
-    "STAT+: 7 burning questions about the FDA’s post-Overton future": "STAT+：关于FDA在Overton事件后的未来的7个热门问题",
-    "STAT+: The emerging winners and losers in the AI scribe market": "STAT+：人工智能记录员市场的新兴赢家和输家",
     "Hims launches popular peptides and other longevity treatments": "Hims推出热门肽类和其他延寿疗法",
     "‘Selling and marketing snake oil’: The debate over compounded GLP-1s": "“兜售和营销蛇油”：关于复方GLP-1的争论",
     "Novo’s consumer push gains momentum with Wegovy pill, CagriSema on deck": "随着Wegovy片剂和CagriSema即将上市，诺和诺德的消费品业务势头正劲",
@@ -104,12 +105,71 @@
     "White House pulls nomination for FDA nominee Overton": "白宫撤销对FDA提名人选奥弗顿的提名",
     "#CTAD26: Lilly’s dopamine drug mevidalen fails Phase 2 study in Alzheimer’s": "#CTAD26：礼来的多巴胺药物Mevidalen在阿尔茨海默病2期研究中失败",
     "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal": "辉瑞通过最新中国交易进军“体内”CAR-T领域",
-    "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’": "STAT+：卡西迪拒绝特朗普提名的NSF负责人选，称其未能“捍卫科学”",
     "Dispatches from Jefferies: Latent Labs on AI, Relay’s PI3Kα ambitions and Biohaven’s protein degrader approach": "杰富瑞快讯：Latent Labs的人工智能、Relay的PI3Kα雄心以及Biohaven的蛋白降解剂方法",
     "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK": "FDA发布对Summit药物的拒绝函；Nuvalent收购为GSK带来更多分红",
     "A rare disease reveals a hidden flaw in the immune system": "一种罕见疾病揭示了免疫系统中的隐性缺陷"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Patients have little say in how brain implant trials are done. Ian Burkhart wants to change that",
+      "titleZh": "在如何开展脑植入物试验方面，患者几乎没有发言权。伊恩·伯克哈特（Ian Burkhart）希望改变这一点",
+      "link": "https://www.statnews.com/2026/11/20/ian-burkhart-how-brain-implant-trials-can-serve-patients-better/?utm_campaign=rss",
+      "summary": "Ian Burkhart, founder of a coalition of brain implant trial participants, says device developers should give patients more agency in research.",
+      "publishedAt": "2026-11-20T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA’s search for a new leader, and China’s largest drugmakers",
+      "titleZh": "FDA 寻找新领导人，以及中国最大的制药公司",
+      "link": "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss",
+      "summary": "This week on \"The Readout LOUD\" podcast: the FDA is again searching for a new leader and a closely tracked lung cancer drug suffers an agency rejection.",
+      "publishedAt": "2026-11-20T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: More doctors should prescribe exercise after a concussion",
+      "titleZh": "观点：更多医生应在脑震荡后开具运动处方",
+      "link": "https://www.statnews.com/2026/11/20/concussion-exercise-dark-room-leddy-robert-perske-cardiology/?utm_campaign=rss",
+      "summary": "Nearly everyone caring for me had been trying to keep me safe. My ski instructor expected something hard of me. I needed both.",
+      "publishedAt": "2026-11-20T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: More surgeons in Africa isn’t enough when only 10% are women",
+      "titleZh": "观点：非洲的外科医生人数虽有所增加，但女性仅占10%，这还远远不够",
+      "link": "https://www.statnews.com/2026/11/20/women-surgeon-shortage-global-cosecsa-lancet-commission-mukagaju-africa-making-of-a-surgeon/?utm_campaign=rss",
+      "summary": "The systems built to grow global surgery are not required to measure the number of women surgeons.",
+      "publishedAt": "2026-11-20T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-4",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
+      "titleZh": "STAT+：UnitedHealth 提起诉讼，要求撤销对 Medicare Advantage 质量评分的下调",
+      "link": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/?utm_campaign=rss",
+      "summary": "UnitedHealth Group joined the ranks of insurers that have sued the federal government over lowered Medicare Advantage ratings, with billions at stake.",
+      "publishedAt": "2026-11-20T07:23:34+00:00"
+    },
     {
       "id": "science-daily-health-0",
       "source": "ScienceDaily Health",
@@ -123,7 +183,7 @@
       "publishedAt": "2026-11-20T00:19:49+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +195,7 @@
       "publishedAt": "2026-11-20T00:00:00+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +207,7 @@
       "publishedAt": "2026-11-19T22:55:19+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +291,7 @@
       "publishedAt": "2026-11-19T17:07:27+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +303,7 @@
       "publishedAt": "2026-11-19T17:04:46+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +351,7 @@
       "publishedAt": "2026-11-19T16:36:21+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +375,7 @@
       "publishedAt": "2026-11-19T16:23:11+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +411,7 @@
       "publishedAt": "2026-11-19T15:10:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +447,7 @@
       "publishedAt": "2026-11-19T14:00:25+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +459,7 @@
       "publishedAt": "2026-11-19T13:36:33+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +471,7 @@
       "publishedAt": "2026-11-19T12:59:54+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +483,7 @@
       "publishedAt": "2026-11-19T11:45:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +507,7 @@
       "publishedAt": "2026-11-19T11:13:29+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +519,7 @@
       "publishedAt": "2026-11-19T09:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +579,7 @@
       "publishedAt": "2026-11-19T01:21:35+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,18 +639,6 @@
       "publishedAt": "2026-11-18T21:26:39+00:00"
     },
     {
-      "id": "stat-news-15",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
-      "titleZh": "STAT+：具有影响力的预防服务专家组时隔一年多首次召开会议",
-      "link": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
-      "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
-      "publishedAt": "2026-11-18T21:21:26+00:00"
-    },
-    {
       "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
@@ -625,42 +673,6 @@
       "link": "https://www.genengnews.com/topics/artificial-intelligence/london-calling-flagship-expands-in-u-k-to-build-ai-native-platform-companies/",
       "summary": "Flagship expects to recruit and train an initial team of approximately 50 U.K.-based scientist-entrepreneurs and operators for the new Origination Lab, U.K., which will build on three years of experience partnering and conducting R&#038;D across the kingdom. The post London Calling: Flagship Expands",
       "publishedAt": "2026-11-18T21:10:58+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: NIH to move last group of its research chimps to a sanctuary",
-      "titleZh": "STAT+：美国国立卫生研究院将把最后一批研究用黑猩猩迁至保护区",
-      "link": "https://www.statnews.com/pharmalot/2026/11/18/nih-to-move-last-group-of-research-chimps-to-sanctuary/?utm_campaign=rss",
-      "summary": "The last chimpanzees owned by the U.S. government and still living in a laboratory will be moved to a sanctuary next year.",
-      "publishedAt": "2026-11-18T20:29:14+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: 7 burning questions about the FDA’s post-Overton future",
-      "titleZh": "STAT+：关于FDA在Overton事件后的未来的7个热门问题",
-      "link": "https://www.statnews.com/2026/11/18/fda-after-heidi-overton-burning-questions-agency-future/?utm_campaign=rss",
-      "summary": "STAT tackles the most important questions about the FDA's uncertain future.",
-      "publishedAt": "2026-11-18T19:33:57+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: The emerging winners and losers in the AI scribe market",
-      "titleZh": "STAT+：人工智能记录员市场的新兴赢家和输家",
-      "link": "https://www.statnews.com/2026/11/18/ai-scribe-market-emerging-winners-losers-ai-prognosis/?utm_campaign=rss",
-      "summary": "In this edition of AI Prognosis: A closer look at how the AI scribe market is shaking out, news from the HLTH conference, and more",
-      "publishedAt": "2026-11-18T19:25:59+00:00"
     },
     {
       "id": "endpoints-12",
@@ -781,18 +793,6 @@
       "link": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
       "summary": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body.",
       "publishedAt": "2026-11-18T15:55:00+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’",
-      "titleZh": "STAT+：卡西迪拒绝特朗普提名的NSF负责人选，称其未能“捍卫科学”",
-      "link": "https://www.statnews.com/2026/11/18/bill-cassidy-rejects-jim-oneill-lead-national-science-foundation/?utm_campaign=rss",
-      "summary": "Bill Cassidy's rejection of Jim O'Neill comes shortly after the White House pulled FDA commissioner nominee Heidi Overton.",
-      "publishedAt": "2026-11-18T15:36:19+00:00"
     },
     {
       "id": "endpoints-15",
@@ -1172,6 +1172,30 @@
       "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
+      "title": "Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04781-0",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Reply to: Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04782-z",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
       "title": "Harnessing smartwatches to spot undiagnosed hypertension",
       "titleZh": "",
       "link": "https://www.nature.com/articles/d41591-026-00058-8",
@@ -1179,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1235,30 +1259,6 @@
       "title": "Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04798-5",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "技术",
-      "title": "An open agentic AI co-scientist for clinical and biomedical discovery",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04808-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Vaccines could be a new frontier in KRAS targeting",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04772-1",
       "summary": "",
       "publishedAt": ""
     }
