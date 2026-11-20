@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-19T21:25:38.104057+00:00",
+  "updatedAt": "2026-11-20T03:03:32.160356+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,11 @@
   ],
   "failedSources": [],
   "translations": {
+    "Experimental compound burns fat without sacrificing muscle": "实验化合物燃烧脂肪而不牺牲肌肉",
+    "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China": "STAT+：大型制药商告诉众议院委员会，他们将停止在中国一些医院的临床试验",
+    "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it": "观点：美国失去了消灭麻疹的地位。下届国会应该帮助恢复它",
+    "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria": "研究对联合疫苗和单克隆抗体预防疟疾提出质疑",
+    "Former Verily Leaders Build AI Platform to Get More from Proteomics Data": "Verily 前领导者构建 AI 平台以从蛋白质组数据中获取更多信息",
     "Type 1 Diabetes Delayed in Mice by Stem Cell-Derived Vesicles That Calm Immune Response": "干细胞衍生的囊泡通过抑制免疫反应来延迟小鼠的1型糖尿病发病",
     "Congressional biotech commission warns of China deal flow": "美国国会生物技术委员会对中国交易流发出警告",
     "Sanofi's Infilbray wins first approval for neurological symptoms of Gaucher": "赛诺菲的Infilbray首次获批用于治疗戈谢病的神经系统症状",
@@ -55,7 +60,7 @@
     "Lilly starts work on Pennsylvania obesity plant; ITM, AtomVie strike supply deal": "礼来开始在宾夕法尼亚州建设肥胖症药物工厂；ITM与AtomVie达成供应协议",
     "STAT+: Lawmakers want U.S. biotech to outcompete China": "STAT+：美国立法者希望美国生物技术企业能够胜过中国",
     "STAT+: Peptide market poised to explode with new Hims and Noom launches": "STAT+：肽市场即将迎来Hims和Noom新产品的推出而蓬勃发展",
-    "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns": "美国专家小组警告称，中国可能会通过新计划“垄断”生物制药行业",
+    "China could ‘corner’ biopharma sector with new plan, US panel warns": "美国专家组警告称，中国可能通过新计划“垄断”生物制药行业",
     "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck": "中国人工智能实验室MegaRobo筹集近2亿美元；Isomorphic与默克合作",
     "Sanofi considering a deal to acquire Insmed, according to report": "据报道，赛诺菲正在考虑收购Insmed的交易",
     "STAT+: MAHA PAC’s steakhouse spend": "STAT+：MAHA PAC 的牛排馆消费情况",
@@ -101,17 +106,72 @@
     "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal": "辉瑞通过最新中国交易进军“体内”CAR-T领域",
     "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’": "STAT+：卡西迪拒绝特朗普提名的NSF负责人选，称其未能“捍卫科学”",
     "Dispatches from Jefferies: Latent Labs on AI, Relay’s PI3Kα ambitions and Biohaven’s protein degrader approach": "杰富瑞快讯：Latent Labs的人工智能、Relay的PI3Kα雄心以及Biohaven的蛋白降解剂方法",
-    "STAT+: FDA discloses reasons for rejecting Summit drug": "STAT+：FDA披露拒绝Summit药物的原因",
-    "STAT+: Pharmalittle: We’re reading about Overton FDA nomination being yanked, a Merck setback, and more": "STAT+：Pharmalittle：我们正在阅读有关Overton的FDA提名被撤销、默沙东遭遇挫折等消息",
     "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK": "FDA发布对Summit药物的拒绝函；Nuvalent收购为GSK带来更多分红",
-    "What redesigning medical school might look like": "医学院的改革可能是什么样的",
-    "A rare disease reveals a hidden flaw in the immune system": "一种罕见疾病揭示了免疫系统中的隐性缺陷",
-    "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics": "辉瑞通过与Starna Therapeutics的许可协议进军体内CAR-T领域",
-    "AI bio startup Boltz raises $110M Series A": "人工智能生物初创公司Boltz完成1.1亿美元A轮融资"
+    "A rare disease reveals a hidden flaw in the immune system": "一种罕见疾病揭示了免疫系统中的隐性缺陷"
   },
   "items": [
     {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Experimental compound burns fat without sacrificing muscle",
+      "titleZh": "实验化合物燃烧脂肪而不牺牲肌肉",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+      "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fa",
+      "publishedAt": "2026-11-20T00:19:49+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
+      "titleZh": "STAT+：大型制药商告诉众议院委员会，他们将停止在中国一些医院的临床试验",
+      "link": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/?utm_campaign=rss",
+      "summary": "Big drugmakers tell U.S. House committee they will halt clinical trials at some hospitals in China.",
+      "publishedAt": "2026-11-20T00:00:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
+      "titleZh": "观点：美国失去了消灭麻疹的地位。下届国会应该帮助恢复它",
+      "link": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/?utm_campaign=rss",
+      "summary": "Infectious disease physician and STAT “ID Consult” columnist Krutika Kuppalli offers Congress a must-do list on measles.",
+      "publishedAt": "2026-11-19T22:55:19+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
+      "titleZh": "研究对联合疫苗和单克隆抗体预防疟疾提出质疑",
+      "link": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
+      "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies.",
+      "publishedAt": "2026-11-19T22:20:00+00:00"
+    },
+    {
       "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Former Verily Leaders Build AI Platform to Get More from Proteomics Data",
+      "titleZh": "Verily 前领导者构建 AI 平台以从蛋白质组数据中获取更多信息",
+      "link": "https://www.genengnews.com/topics/artificial-intelligence/former-verily-leaders-build-ai-platform-to-get-more-from-proteomics-data/",
+      "summary": "Tesorai’s AI platform reanalyzes massive proteomics repositories, letting researchers mine raw mass spectrometry data instead of condensed forms. In an Alzheimer’s project, it found phosphorylated tau 217 in four datasets where the original authors did not report it. The post Former Verily Leaders B",
+      "publishedAt": "2026-11-19T21:45:24+00:00"
+    },
+    {
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -171,7 +231,7 @@
       "publishedAt": "2026-11-19T17:07:27+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +243,7 @@
       "publishedAt": "2026-11-19T17:04:46+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -200,8 +260,8 @@
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "审批",
-      "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
-      "titleZh": "美国专家小组警告称，中国可能会通过新计划“垄断”生物制药行业",
+      "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
+      "titleZh": "美国专家组警告称，中国可能通过新计划“垄断”生物制药行业",
       "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
       "summary": "A commission called on U.S. lawmakers to act quickly to prevent an &ldquo;overdependence&rdquo; on China that could leave American patients &ldquo;vulnerable to supply chain weaponization.&rdquo;",
       "publishedAt": "2026-11-19T16:42:00+00:00"
@@ -231,7 +291,7 @@
       "publishedAt": "2026-11-19T16:36:21+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +315,7 @@
       "publishedAt": "2026-11-19T16:23:11+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +351,7 @@
       "publishedAt": "2026-11-19T15:10:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +387,7 @@
       "publishedAt": "2026-11-19T14:00:25+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +399,7 @@
       "publishedAt": "2026-11-19T13:36:33+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +411,7 @@
       "publishedAt": "2026-11-19T12:59:54+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +423,7 @@
       "publishedAt": "2026-11-19T11:45:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +435,7 @@
       "publishedAt": "2026-11-19T11:30:00+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-1",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -387,7 +447,7 @@
       "publishedAt": "2026-11-19T11:13:29+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +459,7 @@
       "publishedAt": "2026-11-19T09:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +471,7 @@
       "publishedAt": "2026-11-19T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -435,7 +495,7 @@
       "publishedAt": "2026-11-19T07:00:40+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -447,7 +507,7 @@
       "publishedAt": "2026-11-19T02:31:02+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -459,7 +519,7 @@
       "publishedAt": "2026-11-19T01:21:35+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +531,7 @@
       "publishedAt": "2026-11-18T23:07:55+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -495,7 +555,7 @@
       "publishedAt": "2026-11-18T22:29:13+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -507,7 +567,7 @@
       "publishedAt": "2026-11-18T21:28:29+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -519,7 +579,7 @@
       "publishedAt": "2026-11-18T21:26:39+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +603,7 @@
       "publishedAt": "2026-11-18T21:19:50+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -555,7 +615,7 @@
       "publishedAt": "2026-11-18T21:16:04+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -567,7 +627,7 @@
       "publishedAt": "2026-11-18T21:10:58+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +639,7 @@
       "publishedAt": "2026-11-18T20:29:14+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +651,7 @@
       "publishedAt": "2026-11-18T19:33:57+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -639,7 +699,7 @@
       "publishedAt": "2026-11-18T18:25:52+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -651,7 +711,7 @@
       "publishedAt": "2026-11-18T17:00:37+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -663,7 +723,7 @@
       "publishedAt": "2026-11-18T17:00:31+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -675,7 +735,7 @@
       "publishedAt": "2026-11-18T17:00:19+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -723,7 +783,7 @@
       "publishedAt": "2026-11-18T15:55:00+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -747,30 +807,6 @@
       "publishedAt": "2026-11-18T15:29:39+00:00"
     },
     {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: FDA discloses reasons for rejecting Summit drug",
-      "titleZh": "STAT+：FDA披露拒绝Summit药物的原因",
-      "link": "https://www.statnews.com/2026/11/18/biotech-news-fda-discloses-reasons-for-rejecting-summit-drug/?utm_campaign=rss",
-      "summary": "The FDA published its complete response letter to Summit Therapeutics explaining why it rejected the biotech's closely watched lung cancer drug:",
-      "publishedAt": "2026-11-18T14:37:13+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Pharmalittle: We’re reading about Overton FDA nomination being yanked, a Merck setback, and more",
-      "titleZh": "STAT+：Pharmalittle：我们正在阅读有关Overton的FDA提名被撤销、默沙东遭遇挫折等消息",
-      "link": "https://www.statnews.com/pharmalot/2026/11/18/heidi-overton-fda-nomination-yanked-merck-cancer-drug-setback/?utm_campaign=rss",
-      "summary": "The Trump administration is pulling the nomination of Heidi Overton to lead the FDA over concerns she lacked support to get confirmed by the Senate",
-      "publishedAt": "2026-11-18T14:26:04+00:00"
-    },
-    {
       "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
@@ -783,19 +819,7 @@
       "publishedAt": "2026-11-18T14:21:00+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "What redesigning medical school might look like",
-      "titleZh": "医学院的改革可能是什么样的",
-      "link": "https://www.statnews.com/2026/11/18/health-news-what-redesigning-medical-school-might-look-like/?utm_campaign=rss",
-      "summary": "\"I am asking whether every part of [the medical school] infrastructure needs to be bundled into the same four-year institution,” writes M.D./Ph.D. student Alex Serafini.",
-      "publishedAt": "2026-11-18T13:03:55+00:00"
-    },
-    {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -813,7 +837,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics",
-      "titleZh": "辉瑞通过与Starna Therapeutics的许可协议进军体内CAR-T领域",
+      "titleZh": "",
       "link": "https://endpoints.news/pfizer-gets-into-in-vivo-car-t-through-licensing-deal-with-starna-therapeutics/",
       "summary": "Pfizer is entering the in vivo CAR-T race, paying $330 million upfront to Starna Therapeutics. The deal gives Pfizer exclusive rights outside of Greater China to three pre-IND assets in autoimmune disease. The pharma will ...",
       "publishedAt": "2026-11-18T12:23:46+00:00"
@@ -825,13 +849,13 @@
       "lang": "en",
       "category": "技术",
       "title": "AI bio startup Boltz raises $110M Series A",
-      "titleZh": "人工智能生物初创公司Boltz完成1.1亿美元A轮融资",
+      "titleZh": "",
       "link": "https://endpoints.news/ai-bio-startup-boltz-raises-110m-series-a/",
       "summary": "LONDON — Less than a year after launching from stealth with $28 million, the AI bio startup Boltz has raised a $110 million Series A round, its leaders exclusively told Endpoints News. The ...",
       "publishedAt": "2026-11-18T12:00:27+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -855,7 +879,7 @@
       "publishedAt": "2026-11-18T11:43:38+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -879,7 +903,7 @@
       "publishedAt": "2026-11-18T01:10:35+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,19 +915,7 @@
       "publishedAt": "2026-11-18T01:10:14+00:00"
     },
     {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/cancer/alcohol-suppresses-some-t-cells-boosts-others-blunting-anti-pd-1-response-in-mice/",
-      "summary": "In mice, alcohol cut the efficacy of anti-PD-1 immunotherapy by roughly 50%, suppressing tumor-infiltrating and memory T cells while boosting TIGIT-carrying ones. Blocking TIGIT restored the response. The post Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice appear",
-      "publishedAt": "2026-11-17T23:36:40+00:00"
-    },
-    {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -939,7 +951,7 @@
       "publishedAt": "2026-11-17T15:51:00+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -963,7 +975,7 @@
       "publishedAt": "2026-11-17T12:00:00+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,7 +987,7 @@
       "publishedAt": "2026-11-17T11:51:35+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,7 +999,7 @@
       "publishedAt": "2026-11-17T11:39:45+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -999,7 +1011,7 @@
       "publishedAt": "2026-11-17T04:54:15+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1011,7 +1023,7 @@
       "publishedAt": "2026-11-17T02:57:22+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1023,7 +1035,7 @@
       "publishedAt": "2026-11-16T14:31:10+00:00"
     },
     {
-      "id": "science-daily-health-17",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1035,7 +1047,7 @@
       "publishedAt": "2026-11-16T14:16:56+00:00"
     },
     {
-      "id": "science-daily-health-18",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1047,7 +1059,7 @@
       "publishedAt": "2026-11-16T12:41:09+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1057,18 +1069,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm",
       "summary": "A revolutionary new wearable patch could help people get more restorative sleep without medication or surgery. Developed by University of Texas researchers, the device uses gentle ultrasound to stimulate deep brain regions, helping participants enter REM sleep 43 minutes faster and remain there 16 m",
       "publishedAt": "2026-11-16T10:22:15+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm",
-      "summary": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the way for new treatments aimed at improving sleep and memory while potentially red",
-      "publishedAt": "2026-11-16T01:40:04+00:00"
     },
     {
       "id": "nature-biotech-0",
