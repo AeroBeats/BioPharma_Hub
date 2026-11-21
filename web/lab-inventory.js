@@ -1,4 +1,8 @@
-// 库存管理：试剂/耗材台账，localStorage 持久化，CSV 导入导出
+// 库存管理：试剂/耗材台账。
+// 双模式：未登录或无当前组织 → localStorage（本浏览器）；登录且有组织 → 按组织共享的服务器台账。
+// QA 角色为只读（GLP 职责分离）。支持 CSV 导入导出、批量粘贴、批量管理与一次性本地迁移。
+import { isLoggedIn, currentOrg, api } from "./auth.js";
+
 const $ = (s, el = document) => el.querySelector(s);
 const $$ = (s, el = document) => [...el.querySelectorAll(s)];
 
@@ -13,8 +17,20 @@ const BOM = String.fromCharCode(0xfeff);
 const stripBOM = (s) => (s.charCodeAt(0) === 0xfeff ? s.slice(1) : s);
 const CATEGORIES = ["试剂", "酶", "耗材", "菌株/细胞", "质粒/载体", "其他"];
 const CSV_HEADERS = ["名称", "类别", "规格", "数量", "单位", "位置", "有效期", "低库存阈值", "备注", "厂家", "生产批次"];
+const ITEM_FIELDS = ["name", "category", "spec", "qty", "unit", "location", "expiry", "low", "note", "vendor", "batch"];
 
-const invState = { items: load(), query: "", category: "全部", editing: null, formOpen: false, message: null, selected: new Set(), pasteOpen: false, prefill: null };
+const invState = {
+  items: load(), query: "", category: "全部", editing: null, formOpen: false,
+  message: null, selected: new Set(), pasteOpen: false, prefill: null,
+  loading: false, loadError: null, canWrite: true,
+};
+
+// 当前已加载库存所属组织 id；null 表示本地（localStorage）模式。
+let _activeOrgId = null;
+
+function orgMode() {
+  return isLoggedIn() && !!currentOrg();
+}
 
 function load() {
   try {
@@ -28,6 +44,10 @@ function load() {
 
 function save() {
   localStorage.setItem(STORE_KEY, JSON.stringify(invState.items));
+  pruneSelected();
+}
+
+function pruneSelected() {
   const ids = new Set(invState.items.map((i) => i.id));
   invState.selected.forEach((id) => { if (!ids.has(id)) invState.selected.delete(id); });
 }
@@ -130,27 +150,134 @@ function filteredItems() {
   return items;
 }
 
+// ── 服务器（组织）台账 API ─────────────────────────────────────────
+function _normalizeOrgItem(it) {
+  // 统一 id 为字符串，与本地模式一致，避免选择/比较时类型不匹配。
+  return { ...it, id: String(it.id) };
+}
+
+function _invPath(suffix = "") {
+  return `/api/orgs/${_activeOrgId}/inventory${suffix}`;
+}
+
+async function _fetchOrgItems(orgId, container) {
+  const res = await api(`/api/orgs/${orgId}/inventory`);
+  if (_activeOrgId !== orgId) return; // 期间已切换组织/模式
+  if (res.ok) {
+    invState.items = (res.items || []).map(_normalizeOrgItem);
+    invState.canWrite = res.canWrite !== false;
+    invState.loadError = null;
+  } else {
+    invState.loadError = res.error === "network" ? (res.message || "无法连接服务器") : (res.error || "加载库存失败");
+  }
+  invState.loading = false;
+  pruneSelected();
+  if (_activeOrgId === orgId) _paint(container);
+}
+
+async function _reloadOrg(container) {
+  if (_activeOrgId == null) return;
+  invState.loading = true;
+  invState.loadError = null;
+  _paint(container);
+  await _fetchOrgItems(_activeOrgId, container);
+}
+
+// ── 渲染入口：模式分发 ─────────────────────────────────────────────
 export function renderInventory(container) {
+  const org = orgMode() ? currentOrg() : null;
+  const wantOrgId = org ? org.id : null;
+
+  if (wantOrgId !== _activeOrgId) {
+    _activeOrgId = wantOrgId;
+    invState.selected.clear();
+    invState.formOpen = false;
+    invState.editing = null;
+    invState.prefill = null;
+    invState.pasteOpen = false;
+    invState.message = null;
+    invState.loadError = null;
+    if (wantOrgId === null) {
+      invState.items = load();
+      invState.canWrite = true;
+      invState.loading = false;
+    } else {
+      invState.items = [];
+      invState.canWrite = true;
+      invState.loading = true;
+      _paint(container);
+      _fetchOrgItems(wantOrgId, container);
+      return;
+    }
+  }
+  _paint(container);
+}
+
+function _writable() {
+  return !orgMode() || invState.canWrite;
+}
+
+function _migrationInfo() {
+  if (!orgMode() || !invState.canWrite) return null;
+  const flagKey = `bph_inv_migrated_${_activeOrgId}`;
+  if (localStorage.getItem(flagKey)) return null;
+  const localItems = load();
+  if (!localItems.length) return null;
+  return { count: localItems.length, flagKey, localItems };
+}
+
+function _paint(container) {
+  if (invState.loading) {
+    container.innerHTML = `
+      <div class="card inv-panel">
+        <div class="inv-head"><div><h2>库存管理</h2>
+          <p class="panel-desc">正在从组织服务器加载共享台账…</p></div></div>
+        <div class="state"><div class="state-title">加载中…</div></div>
+      </div>`;
+    return;
+  }
+
+  const org = orgMode() ? currentOrg() : null;
+  const writable = _writable();
   const items = filteredItems();
   const low = invState.items.filter((i) => itemStatus(i).key === "low").length;
   const soon = invState.items.filter((i) => itemStatus(i).key === "soon").length;
   const expired = invState.items.filter((i) => itemStatus(i).key === "expired").length;
+  const mig = _migrationInfo();
+  const colspan = writable ? 11 : 10;
+
+  const modeDesc = org
+    ? (writable
+      ? `数据按组织共享（服务器台账）：${esc(org.name)}。支持 CSV 导入导出备份。`
+      : `当前组织「${esc(org.name)}」的共享台账。你的角色为只读（QA），不能修改。`)
+    : "试剂与耗材台账，数据保存在本浏览器（localStorage）。支持 CSV 导入导出备份。";
 
   container.innerHTML = `
     <div class="card inv-panel">
       <div class="inv-head">
         <div>
           <h2>库存管理</h2>
-          <p class="panel-desc">试剂与耗材台账，数据保存在本浏览器（localStorage）。支持 CSV 导入导出备份。</p>
+          <p class="panel-desc">${modeDesc}</p>
         </div>
         <div class="inv-head-actions">
-          <button class="btn btn-primary btn-sm" id="inv-add">+ 新增条目</button>
-          <button class="btn btn-sm" id="inv-paste-toggle">批量粘贴</button>
+          ${writable ? `<button class="btn btn-primary btn-sm" id="inv-add">+ 新增条目</button>
+          <button class="btn btn-sm" id="inv-paste-toggle">批量粘贴</button>` : ""}
           <button class="btn btn-sm" id="inv-export">导出 CSV</button>
-          <label class="btn btn-sm" for="inv-import">导入 CSV</label>
-          <input type="file" id="inv-import" accept=".csv,text/csv" hidden />
+          ${writable ? `<label class="btn btn-sm" for="inv-import">导入 CSV</label>
+          <input type="file" id="inv-import" accept=".csv,text/csv" hidden />` : ""}
+          ${org ? `<button class="btn btn-sm btn-ghost" id="inv-refresh" title="从服务器刷新">刷新</button>` : ""}
         </div>
       </div>
+
+      ${invState.loadError ? `<div class="ai-unavailable" style="border-left:3px solid var(--rose);background:var(--rose-soft);color:var(--rose);margin-bottom:12px">
+        ${esc(invState.loadError)} <button class="btn btn-sm" id="inv-retry" style="margin-left:8px">重试</button></div>` : ""}
+
+      ${mig ? `<div class="ai-unavailable" style="border-left:3px solid var(--accent);background:var(--accent-soft);color:var(--accent-hover);margin-bottom:12px">
+        检测到本浏览器有 <strong>${mig.count}</strong> 条本地库存。
+        <button class="btn btn-sm btn-primary" id="inv-migrate" style="margin-left:8px">迁移到组织台账</button>
+        <button class="btn btn-sm btn-ghost" id="inv-migrate-skip" style="margin-left:4px">暂不</button>
+      </div>` : ""}
+
       <div class="inv-stats">
         <span>共 <strong>${invState.items.length}</strong> 条</span>
         <span class="dot"></span>
@@ -176,12 +303,12 @@ export function renderInventory(container) {
       <div class="inv-table-wrap">
         ${items.length ? `
         <table class="inv-table">
-          <thead><tr><th class="inv-check-col"><input type="checkbox" id="inv-sel-all" aria-label="全选当前列表" ${items.length && items.every((i) => invState.selected.has(i.id)) ? "checked" : ""} /></th><th>名称</th><th>类别</th><th>规格</th><th>厂家</th><th>生产批次</th><th>数量</th><th>位置</th><th>有效期</th><th>状态</th><th></th></tr></thead>
+          <thead><tr>${writable ? `<th class="inv-check-col"><input type="checkbox" id="inv-sel-all" aria-label="全选当前列表" ${items.length && items.every((i) => invState.selected.has(i.id)) ? "checked" : ""} /></th>` : ""}<th>名称</th><th>类别</th><th>规格</th><th>厂家</th><th>生产批次</th><th>数量</th><th>位置</th><th>有效期</th><th>状态</th><th></th></tr></thead>
           <tbody>
             ${items.map((i) => {
               const st = itemStatus(i);
               return `<tr>
-                <td class="inv-check-col"><input type="checkbox" class="inv-check" data-sel="${i.id}" aria-label="选择 ${esc(i.name)}" ${invState.selected.has(i.id) ? "checked" : ""} /></td>
+                ${writable ? `<td class="inv-check-col"><input type="checkbox" class="inv-check" data-sel="${i.id}" aria-label="选择 ${esc(i.name)}" ${invState.selected.has(i.id) ? "checked" : ""} /></td>` : ""}
                 <td class="inv-name">${esc(i.name)}${i.note ? `<div class="hint">${esc(i.note)}</div>` : ""}</td>
                 <td>${esc(i.category)}</td>
                 <td>${esc(i.spec)}</td>
@@ -192,8 +319,8 @@ export function renderInventory(container) {
                 <td class="input-mono">${esc(i.expiry) || "—"}</td>
                 <td><span class="inv-badge inv-badge-${st.cls}">${st.label}</span></td>
                 <td class="inv-ops">
-                  <button class="btn btn-sm btn-ghost" data-edit="${i.id}">编辑</button>
-                  <button class="btn btn-sm btn-ghost" data-del="${i.id}" style="color:var(--rose)">删除</button>
+                  ${writable ? `<button class="btn btn-sm btn-ghost" data-edit="${i.id}">编辑</button>
+                  <button class="btn btn-sm btn-ghost" data-del="${i.id}" style="color:var(--rose)">删除</button>` : `<span class="hint">只读</span>`}
                 </td>
               </tr>`;
             }).join("")}
@@ -202,22 +329,34 @@ export function renderInventory(container) {
         <div class="state">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 8v13H3V8"/><path d="M1 3h22v5H1z"/><path d="M10 12h4"/></svg>
           <div class="state-title">${invState.items.length ? "没有匹配的条目" : "库存为空"}</div>
-          <div class="state-desc">${invState.items.length ? "调整搜索或筛选条件。" : "点击「+ 新增条目」开始建立试剂台账，或导入已有 CSV。"}</div>
+          <div class="state-desc">${invState.items.length ? "调整搜索或筛选条件。" : (writable ? "点击「+ 新增条目」开始建立试剂台账，或导入已有 CSV。" : "该组织暂无库存记录。")}</div>
         </div>`}
       </div>
     </div>
   `;
 
-  if (invState.formOpen) renderForm(container);
+  // ── 事件绑定 ──
+  $("#inv-retry")?.addEventListener("click", () => _reloadOrg(container));
+  $("#inv-refresh")?.addEventListener("click", () => _reloadOrg(container));
 
-  $("#inv-add").addEventListener("click", () => {
+  if (mig) {
+    $("#inv-migrate").addEventListener("click", () => _migrateLocal(container, mig));
+    $("#inv-migrate-skip").addEventListener("click", () => {
+      localStorage.setItem(mig.flagKey, "skipped");
+      _paint(container);
+    });
+  }
+
+  if (invState.formOpen && writable) renderForm(container);
+
+  $("#inv-add")?.addEventListener("click", () => {
     invState.editing = null;
     invState.formOpen = true;
     renderForm(container);
   });
   $("#inv-search").addEventListener("input", (e) => {
     invState.query = e.target.value.trim();
-    renderInventory(container);
+    _paint(container);
     const inp = $("#inv-search");
     inp.focus();
     inp.setSelectionRange(inp.value.length, inp.value.length);
@@ -226,60 +365,121 @@ export function renderInventory(container) {
     const btn = e.target.closest(".chip");
     if (!btn) return;
     invState.category = btn.dataset.cat;
-    renderInventory(container);
+    _paint(container);
   });
   $("#inv-export").addEventListener("click", exportCSV);
-  $("#inv-import").addEventListener("change", (e) => {
+  $("#inv-import")?.addEventListener("change", (e) => {
     const file = e.target.files?.[0];
     if (!file) return;
     const reader = new FileReader();
     reader.onload = () => {
-      const added = importCSV(String(reader.result));
-      invState.message = `导入完成：新增 ${added} 条（重复条目已跳过）。`;
-      save();
-      renderInventory(container);
+      const clean = stripBOM(String(reader.result));
+      ingestRows(parseCSV(clean, detectDelim(clean)), container, "CSV 导入");
     };
     reader.readAsText(file, "utf-8");
   });
-  $$("[data-edit]", container).forEach((btn) => {
-    btn.addEventListener("click", () => {
-      invState.editing = invState.items.find((i) => i.id === btn.dataset.edit) || null;
-      invState.formOpen = true;
-      renderForm(container);
-    });
-  });
-  $$("[data-del]", container).forEach((btn) => {
-    btn.addEventListener("click", () => {
-      const item = invState.items.find((i) => i.id === btn.dataset.del);
-      if (!item) return;
-      if (!confirm(`删除「${item.name}」？此操作不可撤销。`)) return;
-      invState.items = invState.items.filter((i) => i.id !== item.id);
-      save();
-      renderInventory(container);
-    });
-  });
 
-  $("#inv-paste-toggle").addEventListener("click", () => {
-    invState.pasteOpen = !invState.pasteOpen;
+  if (writable) {
+    $$("[data-edit]", container).forEach((btn) => {
+      btn.addEventListener("click", () => {
+        invState.editing = invState.items.find((i) => i.id === btn.dataset.edit) || null;
+        invState.formOpen = true;
+        renderForm(container);
+      });
+    });
+    $$("[data-del]", container).forEach((btn) => {
+      btn.addEventListener("click", () => deleteOne(btn.dataset.del, container));
+    });
+    $("#inv-paste-toggle").addEventListener("click", () => {
+      invState.pasteOpen = !invState.pasteOpen;
+      renderPastePanel(container);
+    });
+    $("#inv-sel-all")?.addEventListener("change", (e) => {
+      const ids = items.map((i) => i.id);
+      ids.forEach((id) => e.target.checked ? invState.selected.add(id) : invState.selected.delete(id));
+      _paint(container);
+    });
+    $$(".inv-check", container).forEach((cb) => {
+      cb.addEventListener("change", () => {
+        if (cb.checked) invState.selected.add(cb.dataset.sel);
+        else invState.selected.delete(cb.dataset.sel);
+        _paint(container);
+      });
+    });
+    const selAll = $("#inv-sel-all");
+    if (selAll) selAll.indeterminate = !selAll.checked && items.some((i) => invState.selected.has(i.id));
     renderPastePanel(container);
-  });
-  $("#inv-sel-all")?.addEventListener("change", (e) => {
-    const ids = items.map((i) => i.id);
-    ids.forEach((id) => e.target.checked ? invState.selected.add(id) : invState.selected.delete(id));
-    renderInventory(container);
-  });
-  $$(".inv-check", container).forEach((cb) => {
-    cb.addEventListener("change", () => {
-      if (cb.checked) invState.selected.add(cb.dataset.sel);
-      else invState.selected.delete(cb.dataset.sel);
-      renderInventory(container);
-    });
-  });
-  const selAll = $("#inv-sel-all");
-  if (selAll) selAll.indeterminate = !selAll.checked && items.some((i) => invState.selected.has(i.id));
+    renderBulkBar(container);
+  } else {
+    const ps = $("#inv-paste-slot"); if (ps) ps.innerHTML = "";
+    const bs = $("#inv-bulk-slot"); if (bs) bs.innerHTML = "";
+  }
+}
 
-  renderPastePanel(container);
-  renderBulkBar(container);
+// ── 一次性迁移：本浏览器 localStorage → 组织服务器台账 ─────────────
+async function _migrateLocal(container, mig) {
+  const ok = confirm(`将本浏览器的 ${mig.count} 条库存复制到组织台账？\n（本地数据保留，不会删除）`);
+  if (!ok) return;
+  const rows = mig.localItems.map((i) => {
+    const o = {};
+    ITEM_FIELDS.forEach((f) => { o[f] = i[f] == null ? "" : String(i[f]); });
+    return o;
+  }).filter((r) => r.name);
+  const btn = $("#inv-migrate");
+  if (btn) { btn.disabled = true; btn.textContent = "迁移中…"; }
+  const res = await api(_invPath("/bulk"), { method: "POST", body: { items: rows } });
+  if (!res.ok) {
+    invState.message = res.error === "network" ? (res.message || "无法连接服务器") : (res.error || "迁移失败");
+    _paint(container);
+    return;
+  }
+  localStorage.setItem(mig.flagKey, String(res.count));
+  invState.message = `已迁移 ${res.count} 条到组织台账。`;
+  await _reloadOrg(container);
+}
+
+// ── 变更操作（双模式） ─────────────────────────────────────────────
+async function deleteOne(id, container) {
+  const item = invState.items.find((i) => i.id === id);
+  if (!item) return;
+  if (!confirm(`删除「${item.name}」？`)) return;
+  if (orgMode()) {
+    const res = await api(_invPath(`/${id}`), { method: "DELETE", body: { reason: "用户删除" } });
+    if (!res.ok) { invState.message = res.error === "network" ? (res.message || "无法连接服务器") : (res.error || "删除失败"); _paint(container); return; }
+    invState.items = invState.items.filter((i) => i.id !== id);
+    invState.selected.delete(id);
+  } else {
+    invState.items = invState.items.filter((i) => i.id !== id);
+    save();
+  }
+  invState.message = orgMode() ? `已删除「${item.name}」（审计留痕）。` : null;
+  _paint(container);
+}
+
+async function ingestRows(rows, container, sourceLabel) {
+  const { newItems, added, skipped } = rowsToItems(rows);
+  if (!added) {
+    invState.message = `${sourceLabel}：没有新增（重复或无效行 ${skipped} 条）。`;
+    invState.pasteOpen = false;
+    _paint(container);
+    return;
+  }
+  if (orgMode()) {
+    const res = await api(_invPath("/bulk"), { method: "POST", body: { items: newItems } });
+    if (!res.ok) {
+      invState.message = res.error === "network" ? (res.message || "无法连接服务器") : (res.error || "导入失败");
+      _paint(container);
+      return;
+    }
+    (res.items || []).forEach((it) => invState.items.unshift(_normalizeOrgItem(it)));
+    invState.message = `${sourceLabel}：新增 ${res.count} 条，跳过重复 ${skipped} 条（审计留痕）。`;
+  } else {
+    newItems.forEach((d) => invState.items.push({ id: uid(), ...d }));
+    save();
+    invState.message = `${sourceLabel}：新增 ${added} 条，跳过重复 ${skipped} 条。`;
+  }
+  invState.pasteOpen = false;
+  _paint(container);
 }
 
 function renderPastePanel(container) {
@@ -300,13 +500,9 @@ function renderPastePanel(container) {
   `;
   $("#inv-paste-run").addEventListener("click", () => {
     const text = $("#inv-paste-text").value;
-    if (!text.trim()) { invState.message = "粘贴内容为空。"; renderInventory(container); return; }
+    if (!text.trim()) { invState.message = "粘贴内容为空。"; _paint(container); return; }
     const clean = stripBOM(text);
-    const { added, skipped } = rowsToItems(parseCSV(clean, detectDelim(clean)));
-    invState.message = `粘贴导入完成：新增 ${added} 条，跳过重复 ${skipped} 条。`;
-    invState.pasteOpen = false;
-    save();
-    renderInventory(container);
+    ingestRows(parseCSV(clean, detectDelim(clean)), container, "粘贴导入");
   });
   $("#inv-paste-tpl").addEventListener("click", () => {
     downloadCSV([
@@ -340,38 +536,64 @@ function renderBulkBar(container) {
     </div>
   `;
   const selectedItems = () => invState.items.filter((i) => invState.selected.has(i.id));
-  $("#inv-bulk-cat").addEventListener("change", (e) => {
+  const selectedIds = () => selectedItems().map((i) => i.id);
+
+  $("#inv-bulk-cat").addEventListener("change", async (e) => {
     const cat = e.target.value;
     if (!cat) return;
-    selectedItems().forEach((i) => { i.category = cat; });
-    invState.message = `已将 ${n} 条类别改为「${cat}」。`;
-    save();
-    renderInventory(container);
+    if (orgMode()) {
+      const res = await api(_invPath("/bulk-update"), { method: "POST", body: { ids: selectedIds().map(Number), patch: { category: cat } } });
+      if (!res.ok) { invState.message = res.error === "network" ? (res.message || "无法连接服务器") : (res.error || "批量修改失败"); _paint(container); return; }
+      selectedItems().forEach((i) => { i.category = cat; });
+      invState.message = `已将 ${res.count} 条类别改为「${cat}」（审计留痕）。`;
+    } else {
+      selectedItems().forEach((i) => { i.category = cat; });
+      invState.message = `已将 ${n} 条类别改为「${cat}」。`;
+      save();
+    }
+    _paint(container);
   });
-  const applyLoc = () => {
+
+  const applyLoc = async () => {
     const loc = $("#inv-bulk-loc").value.trim();
     if (!loc) return;
-    selectedItems().forEach((i) => { i.location = loc; });
-    invState.message = `已将 ${n} 条位置改为「${loc}」。`;
-    save();
-    renderInventory(container);
+    if (orgMode()) {
+      const res = await api(_invPath("/bulk-update"), { method: "POST", body: { ids: selectedIds().map(Number), patch: { location: loc } } });
+      if (!res.ok) { invState.message = res.error === "network" ? (res.message || "无法连接服务器") : (res.error || "批量修改失败"); _paint(container); return; }
+      selectedItems().forEach((i) => { i.location = loc; });
+      invState.message = `已将 ${res.count} 条位置改为「${loc}」（审计留痕）。`;
+    } else {
+      selectedItems().forEach((i) => { i.location = loc; });
+      invState.message = `已将 ${n} 条位置改为「${loc}」。`;
+      save();
+    }
+    _paint(container);
   };
   $("#inv-bulk-loc").addEventListener("change", applyLoc);
   $("#inv-bulk-loc").addEventListener("keydown", (e) => { if (e.key === "Enter") { e.preventDefault(); applyLoc(); } });
+
   $("#inv-bulk-export").addEventListener("click", () => {
     exportItems(selectedItems(), `lab-inventory-selected-${new Date().toISOString().slice(0, 10)}.csv`);
   });
-  $("#inv-bulk-del").addEventListener("click", () => {
-    if (!confirm(`删除所选 ${n} 条？此操作不可撤销。`)) return;
-    invState.items = invState.items.filter((i) => !invState.selected.has(i.id));
+  $("#inv-bulk-del").addEventListener("click", async () => {
+    if (!confirm(`删除所选 ${n} 条？`)) return;
+    if (orgMode()) {
+      const res = await api(_invPath("/bulk-delete"), { method: "POST", body: { ids: selectedIds().map(Number), reason: "批量删除" } });
+      if (!res.ok) { invState.message = res.error === "network" ? (res.message || "无法连接服务器") : (res.error || "批量删除失败"); _paint(container); return; }
+      const del = new Set(selectedIds());
+      invState.items = invState.items.filter((i) => !del.has(i.id));
+      invState.message = `已删除 ${res.count} 条（审计留痕）。`;
+    } else {
+      invState.items = invState.items.filter((i) => !invState.selected.has(i.id));
+      invState.message = `已删除 ${n} 条。`;
+      save();
+    }
     invState.selected.clear();
-    invState.message = `已删除 ${n} 条。`;
-    save();
-    renderInventory(container);
+    _paint(container);
   });
   $("#inv-bulk-clear").addEventListener("click", () => {
     invState.selected.clear();
-    renderInventory(container);
+    _paint(container);
   });
 }
 
@@ -407,34 +629,47 @@ function renderForm(container) {
     invState.prefill = null;
     slot.innerHTML = "";
   });
-  $("#inv-form").addEventListener("submit", (e) => {
+  $("#inv-form").addEventListener("submit", async (e) => {
     e.preventDefault();
     const fd = new FormData(e.target);
-    const data = {
-      name: String(fd.get("name") || "").trim(),
-      category: String(fd.get("category") || "试剂"),
-      spec: String(fd.get("spec") || "").trim(),
-      qty: String(fd.get("qty") || "").trim(),
-      unit: String(fd.get("unit") || "").trim(),
-      vendor: String(fd.get("vendor") || "").trim(),
-      batch: String(fd.get("batch") || "").trim(),
-      location: String(fd.get("location") || "").trim(),
-      expiry: String(fd.get("expiry") || "").trim(),
-      low: String(fd.get("low") || "").trim(),
-      note: String(fd.get("note") || "").trim(),
-    };
+    const data = {};
+    ITEM_FIELDS.forEach((f) => { data[f] = String(fd.get(f) ?? "").trim(); });
+    if (!data.category) data.category = "试剂";
     if (!data.name || data.qty === "") return;
-    if (invState.editing) {
-      Object.assign(invState.editing, data);
+
+    const submitBtn = e.target.querySelector('button[type="submit"]');
+    if (orgMode()) {
+      submitBtn.disabled = true;
+      const editing = invState.editing;
+      const res = editing
+        ? await api(_invPath(`/${editing.id}`), { method: "PATCH", body: data })
+        : await api(_invPath(), { method: "POST", body: data });
+      submitBtn.disabled = false;
+      if (!res.ok) {
+        invState.message = res.error === "network" ? (res.message || "无法连接服务器") : (res.error || "保存失败");
+        _paint(container);
+        return;
+      }
+      const norm = _normalizeOrgItem(res.item);
+      if (editing) {
+        const idx = invState.items.findIndex((x) => x.id === norm.id);
+        if (idx >= 0) invState.items[idx] = norm; else invState.items.unshift(norm);
+      } else {
+        invState.items.unshift(norm);
+      }
     } else {
-      invState.items.push({ id: uid(), ...data });
+      if (invState.editing) {
+        Object.assign(invState.editing, data);
+      } else {
+        invState.items.push({ id: uid(), ...data });
+      }
+      save();
     }
     invState.formOpen = false;
     invState.editing = null;
     invState.prefill = null;
     invState.message = null;
-    save();
-    renderInventory(container);
+    _paint(container);
   });
 }
 
@@ -488,14 +723,9 @@ function parseCSV(text, delim = ",") {
   return rows.filter((r) => r.some((c) => c.trim() !== ""));
 }
 
-function importCSV(text) {
-  const clean = stripBOM(text);
-  const rows = parseCSV(clean, detectDelim(clean));
-  return rowsToItems(rows).added;
-}
-
+// 解析为「待新增」的字段对象（不含 id），并对名称+规格+位置去重。
 function rowsToItems(rows) {
-  if (!rows.length) return { added: 0, skipped: 0 };
+  if (!rows.length) return { newItems: [], added: 0, skipped: 0 };
   let header = rows[0].map((h) => h.trim());
   let dataRows = rows.slice(1);
   if (!header.includes("名称")) { header = CSV_HEADERS; dataRows = rows; }
@@ -504,15 +734,17 @@ function rowsToItems(rows) {
     const i = idx(name);
     return i === -1 ? "" : (r[i] || "").trim();
   };
+  const newItems = [];
   let added = 0, skipped = 0;
+  const seen = (name, spec, location) =>
+    invState.items.some((i) => i.name === name && i.spec === spec && i.location === location) ||
+    newItems.some((i) => i.name === name && i.spec === spec && i.location === location);
   for (const r of dataRows) {
     const name = get(r, "名称");
     if (!name) continue;
     const spec = get(r, "规格"), location = get(r, "位置");
-    const dup = invState.items.some((i) => i.name === name && i.spec === spec && i.location === location);
-    if (dup) { skipped++; continue; }
-    invState.items.push({
-      id: uid(),
+    if (seen(name, spec, location)) { skipped++; continue; }
+    newItems.push({
       name,
       category: CATEGORIES.includes(get(r, "类别")) ? get(r, "类别") : "其他",
       spec,
@@ -527,5 +759,5 @@ function rowsToItems(rows) {
     });
     added++;
   }
-  return { added, skipped };
+  return { newItems, added, skipped };
 }

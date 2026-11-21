@@ -2,6 +2,12 @@ import { TEMPLATES, getTemplate } from "./templates.js";
 import { renderSeq } from "./lab-seq.js";
 import { renderGel } from "./lab-gel.js";
 import { renderInventory, inventoryItems, inventoryStatus, matchInventory, prefillNewItem, setInventoryQuery } from "./lab-inventory.js";
+import {
+  authState, loadMe, logout, isLoggedIn, isSuperAdmin, currentOrg, setUnauthorizedHandler,
+} from "./auth.js";
+import { renderLogin, renderRegister, renderAccount } from "./auth-views.js";
+import { renderOrg } from "./org-views.js";
+import { renderAdmin } from "./admin-views.js";
 
 // ── Backend config ─────────────────────────────────
 // Absolute URL of the deployed AI backend (Cloudflare Worker, see worker/worker.js).
@@ -47,6 +53,11 @@ const ROUTES = {
   tools: { title: "小工具", render: renderTools },
   english: { title: "英语学习", render: renderEnglish },
   about: { title: "关于", render: renderAbout },
+  login: { title: "登录", render: renderLogin, public: true },
+  register: { title: "注册", render: renderRegister, public: true },
+  account: { title: "账号", render: renderAccount, auth: true },
+  org: { title: "组织", render: renderOrg, auth: true },
+  admin: { title: "管理后台", render: renderAdmin, auth: true, super: true },
 };
 
 function navigate() {
@@ -55,16 +66,78 @@ function navigate() {
     hash = "lab"; // old bookmark alias
     history.replaceState(null, "", "#/lab");
   }
-  const route = ROUTES[hash] ? hash : "news";
+  let route = ROUTES[hash] ? hash : "news";
+
+  // 路由门禁
+  const def = ROUTES[route];
+  if (def.auth && !isLoggedIn()) {
+    route = "login";
+    history.replaceState(null, "", "#/login");
+  } else if (def.super && !isSuperAdmin()) {
+    route = "news";
+    history.replaceState(null, "", "#/news");
+  } else if ((route === "login" || route === "register") && isLoggedIn()) {
+    route = "news";
+    history.replaceState(null, "", "#/news");
+  }
 
   $$(".nav-item").forEach((a) => a.classList.toggle("active", a.dataset.route === route));
   $("#topbar-title").textContent = ROUTES[route].title;
-  $("#topbar-actions").innerHTML = "";
+  renderTopbarActions();
+  updateNavVisibility();
   closeSidebar();
 
   const view = $("#view");
   view.innerHTML = "";
   ROUTES[route].render(view);
+}
+
+function updateNavVisibility() {
+  const authed = isLoggedIn();
+  const sup = isSuperAdmin();
+  $$(".nav-auth").forEach((a) => { a.hidden = !authed; });
+  $$(".nav-super").forEach((a) => { a.hidden = !sup; });
+}
+
+function renderTopbarActions() {
+  const box = $("#topbar-actions");
+  box.innerHTML = "";
+  if (!isLoggedIn()) {
+    box.innerHTML = `<a class="btn btn-sm btn-primary" href="#/login">登录</a>`;
+    return;
+  }
+  const u = authState.user || {};
+  const name = u.displayName || u.username || "我";
+  const org = currentOrg();
+  box.innerHTML = `
+    <div class="usermenu" id="usermenu">
+      <button class="usermenu-btn" id="usermenu-btn" aria-haspopup="true" aria-expanded="false">
+        <span class="usermenu-avatar">${esc(name.slice(0, 1).toUpperCase())}</span>
+        <span class="usermenu-name">${esc(name)}</span>
+        ${isSuperAdmin() ? '<span class="chip chip-super">超管</span>' : ""}
+        <svg class="usermenu-caret" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+      </button>
+      <div class="usermenu-pop" id="usermenu-pop" hidden>
+        ${org ? `<div class="usermenu-org">当前组织：${esc(org.name)}</div>` : ""}
+        <a href="#/account" class="usermenu-link">账号设置</a>
+        <a href="#/org" class="usermenu-link">组织管理</a>
+        ${isSuperAdmin() ? '<a href="#/admin" class="usermenu-link">管理后台</a>' : ""}
+        <button class="usermenu-link usermenu-logout" id="usermenu-logout" type="button">退出登录</button>
+      </div>
+    </div>`;
+  const btn = $("#usermenu-btn");
+  const pop = $("#usermenu-pop");
+  btn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    pop.hidden = !pop.hidden;
+    btn.setAttribute("aria-expanded", String(!pop.hidden));
+  });
+  $("#usermenu-logout").addEventListener("click", () => {
+    logout();
+    pop.hidden = true;
+    if (location.hash === "#/news") navigate();
+    else location.hash = "#/news";
+  });
 }
 
 window.addEventListener("hashchange", navigate);
@@ -1344,4 +1417,23 @@ function renderAbout(container) {
 }
 
 // ── Init ─────────────────────────────────
-navigate();
+// 点击页面任意处关闭用户菜单
+document.addEventListener("click", (e) => {
+  const pop = $("#usermenu-pop");
+  const btn = $("#usermenu-btn");
+  if (pop && !pop.hidden && !e.target.closest("#usermenu")) {
+    pop.hidden = true;
+    btn && btn.setAttribute("aria-expanded", "false");
+  }
+});
+
+// 会话失效（401）时跳转登录
+setUnauthorizedHandler(() => {
+  if (location.hash === "#/login") navigate();
+  else location.hash = "#/login";
+});
+
+(async () => {
+  await loadMe();
+  navigate();
+})();

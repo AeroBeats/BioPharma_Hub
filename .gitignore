@@ -10,3 +10,7 @@ dist/
 *.qoder.site
 __pycache__/
 *.pyc
+.venv/
+venv/
+*.db
+*.sqlite3
