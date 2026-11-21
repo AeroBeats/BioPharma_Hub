@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-21T09:39:19.444215+00:00",
+  "updatedAt": "2026-11-21T17:23:55.464360+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,7 +48,11 @@
   ],
   "failedSources": [],
   "translations": {
+    "AI may not work like the human brain after all, scientists discover": "科学家发现，人工智能可能毕竟不像人脑那样工作",
+    "Opinion: When should medical school start?": "观点：医学院的学习应该何时开始？",
+    "It’s Over-ton; Thoughts on Isomorphic’s latest haul; and more": "Over-ton；对Isomorphic最新成果的思考；以及更多内容",
     "Opinion: How Kennedy and MAHA could help stop measles": "观点：肯尼迪和MAHA如何有助于遏制麻疹",
+    "Microplastics may be more dangerous than we thought. Scientists just discovered why": "微塑料可能比我们想象的更危险。科学家刚刚发现了原因",
     "Capricor's Duchenne therapy is rejected again, as FDA cites significant issues with trial": "Capricor的杜氏肌营养不良症疗法再次被拒，FDA指出试验存在重大问题",
     "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming": "STAT+：FDA拒绝批准Capricor Therapeutics的杜氏肌营养不良症治疗药物，这一决定早已在意料之中",
     "ICE detention of Princeton scientist rattles academia": "移民和海关执法局（ICE）拘留普林斯顿科学家，令学术界感到震惊",
@@ -70,7 +74,7 @@
     "Keto diet slashes liver fat by 67% in just 4 months": "生酮饮食仅用4个月就将肝脏脂肪减少了67%",
     "Celldex culls eczema study after Phase 2 failure": "Celldex 在 2 期试验失败后终止湿疹研究",
     "CNS dispatches from Jefferies: Acadia’s search for deals, Alto’s psychiatry question and ProMIS’ Alzheimer’s ambitions": "来自杰富瑞的CNS快讯：Acadia的交易寻觅、Alto的精神病学问题和ProMIS的阿尔茨海默病雄心",
-    "This simple habit is linked to a 33% lower risk of Alzheimer's": "这种简单的习惯与阿尔茨海默病风险降低33%有关",
+    "This simple habit is linked to a 33% lower risk of Alzheimer&#039;s": "这种简单的习惯与阿尔茨海默病风险降低33%有关",
     "Genome Writing Inserts Human X-Linked Disease DNA Into Mice": "基因组写入将人类X连锁疾病DNA插入小鼠体内",
     "Teva on the hunt for new R&D head; Summit's rejection came after commercial chief's exit": "Teva正在寻找新的研发主管；在商业主管离职后，Summit拒绝了该职位",
     "This week in charts: Biotech investors’ China bets are already paying off": "本周图表：生物科技投资者的中国押注已开始见效",
@@ -97,21 +101,53 @@
     "China could ‘corner’ biopharma sector with new plan, US panel warns": "美国专家组警告称，中国可能通过新计划“垄断”生物制药行业",
     "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck": "中国人工智能实验室MegaRobo筹集近2亿美元；Isomorphic与默克合作",
     "Sanofi considering a deal to acquire Insmed, according to report": "据报道，赛诺菲正在考虑收购Insmed的交易",
-    "STAT+: MAHA PAC’s steakhouse spend": "STAT+：MAHA PAC 的牛排馆消费情况",
     "Why Oura is buying Counsel": "Oura 收购 Counsel 的原因",
     "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter": "诺华在经历艰难的季度后，详细介绍了湿疹治疗药物的成功以及在自身免疫性CAR-T方面的努力",
     "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease": "在FDA的批准下，Regeneron推出一款用于治疗自身免疫性疾病的RNAi药物",
     "Regeneron enters neurology field as FDA approves siRNA for myasthenia gravis": "随着FDA批准siRNA用于治疗重症肌无力，Regeneron进军神经学领域",
     "Lilly adds General Medicine for Alzheimer's disease diagnosis": "礼来将全科医学纳入阿尔茨海默病诊断范围",
     "Scientists tested 212 plant-based foods. Every single one contained fungal toxins": "科学家们测试了212种植物性食品。每一种都含有真菌毒素",
-    "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?": "为什么像Ozempic和Wegovy这样的减肥药物并非对每个人都有效？",
-    "AbbVie and Disco strike deal worth up to $2.54B for solid tumor targets": "艾伯维与Disco达成价值高达25.4亿美元的实体瘤靶点交易",
-    "Scientists discover a hidden hereditary form of aggressive prostate cancer": "科学家发现一种隐性遗传性侵袭性前列腺癌",
-    "Is free will an illusion? New brain research reveals a surprising twist": "自由意志是一种幻觉吗？新的大脑研究揭示了一个令人惊讶的转折"
+    "Why don&#039;t weight-loss drugs like Ozempic and Wegovy work for everyone?": "为什么像Ozempic和Wegovy这样的减肥药物并非对每个人都有效？"
   },
   "items": [
     {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "AI may not work like the human brain after all, scientists discover",
+      "titleZh": "科学家发现，人工智能可能毕竟不像人脑那样工作",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+      "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn&#039;t use, raising impor",
+      "publishedAt": "2026-11-21T15:24:58+00:00"
+    },
+    {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: When should medical school start?",
+      "titleZh": "观点：医学院的学习应该何时开始？",
+      "link": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
+      "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
+      "publishedAt": "2026-11-21T12:00:00+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "It’s Over-ton; Thoughts on Isomorphic’s latest haul; and more",
+      "titleZh": "Over-ton；对Isomorphic最新成果的思考；以及更多内容",
+      "link": "https://endpoints.news/its-over-ton-thoughts-on-isomorphics-latest-haul-and-more/",
+      "summary": "Welcome back to another edition of Endpoints Weekly! All the tech outages this week can’t stop us from bringing you the latest in biopharma news. The biggest news this week came from Washington, where President ...",
+      "publishedAt": "2026-11-21T11:00:41+00:00"
+    },
+    {
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -123,7 +159,19 @@
       "publishedAt": "2026-11-21T09:30:00+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
+      "titleZh": "微塑料可能比我们想象的更危险。科学家刚刚发现了原因",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
+      "summary": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules capable of damaging cells and tissues. This unexpected chemical activity could help exp",
+      "publishedAt": "2026-11-21T02:35:26+00:00"
+    },
+    {
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -135,7 +183,7 @@
       "publishedAt": "2026-11-21T01:11:10+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +195,7 @@
       "publishedAt": "2026-11-20T23:43:53+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +207,7 @@
       "publishedAt": "2026-11-20T21:19:27+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +231,7 @@
       "publishedAt": "2026-11-20T19:53:09+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +267,7 @@
       "publishedAt": "2026-11-20T19:04:09+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +291,7 @@
       "publishedAt": "2026-11-20T17:18:00+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +303,7 @@
       "publishedAt": "2026-11-20T16:37:46+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +315,7 @@
       "publishedAt": "2026-11-20T16:22:25+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +327,7 @@
       "publishedAt": "2026-11-20T15:52:19+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +339,7 @@
       "publishedAt": "2026-11-20T15:31:58+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +351,7 @@
       "publishedAt": "2026-11-20T14:16:35+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +363,7 @@
       "publishedAt": "2026-11-20T14:01:41+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +387,7 @@
       "publishedAt": "2026-11-20T13:03:00+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -351,7 +399,7 @@
       "publishedAt": "2026-11-20T12:44:39+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +411,7 @@
       "publishedAt": "2026-11-20T12:36:09+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -375,12 +423,12 @@
       "publishedAt": "2026-11-20T12:11:57+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
-      "title": "This simple habit is linked to a 33% lower risk of Alzheimer's",
+      "title": "This simple habit is linked to a 33% lower risk of Alzheimer&#039;s",
       "titleZh": "这种简单的习惯与阿尔茨海默病风险降低33%有关",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
       "summary": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings that just five minutes of fiction can reduce stress by up to 20%, while reading h",
@@ -399,7 +447,7 @@
       "publishedAt": "2026-11-20T12:03:02+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -423,7 +471,7 @@
       "publishedAt": "2026-11-20T12:00:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +483,7 @@
       "publishedAt": "2026-11-20T09:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +495,7 @@
       "publishedAt": "2026-11-20T09:30:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +507,7 @@
       "publishedAt": "2026-11-20T09:30:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +519,7 @@
       "publishedAt": "2026-11-20T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -483,7 +531,7 @@
       "publishedAt": "2026-11-20T09:09:17+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +543,7 @@
       "publishedAt": "2026-11-20T07:23:34+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -507,7 +555,7 @@
       "publishedAt": "2026-11-20T04:31:15+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -519,7 +567,7 @@
       "publishedAt": "2026-11-20T01:50:20+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -531,7 +579,7 @@
       "publishedAt": "2026-11-20T00:19:49+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +591,7 @@
       "publishedAt": "2026-11-20T00:00:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +603,7 @@
       "publishedAt": "2026-11-19T22:55:19+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +639,7 @@
       "publishedAt": "2026-11-19T19:58:18+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -603,7 +651,7 @@
       "publishedAt": "2026-11-19T19:40:07+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +675,7 @@
       "publishedAt": "2026-11-19T17:17:00+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,7 +687,7 @@
       "publishedAt": "2026-11-19T17:07:27+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +699,7 @@
       "publishedAt": "2026-11-19T17:04:46+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -675,7 +723,7 @@
       "publishedAt": "2026-11-19T16:42:00+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -687,7 +735,7 @@
       "publishedAt": "2026-11-19T16:41:06+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,19 +747,7 @@
       "publishedAt": "2026-11-19T16:36:21+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: MAHA PAC’s steakhouse spend",
-      "titleZh": "STAT+：MAHA PAC 的牛排馆消费情况",
-      "link": "https://www.statnews.com/2026/11/19/maha-pac-midterm-election-spending-fda-questions-after-heidi-overton/?utm_campaign=rss",
-      "summary": "MAHA PAC's curious spending decisions, and a close look at what's next for the FDA.",
-      "publishedAt": "2026-11-19T16:30:07+00:00"
-    },
-    {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -723,7 +759,7 @@
       "publishedAt": "2026-11-19T16:23:11+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -747,7 +783,7 @@
       "publishedAt": "2026-11-19T15:10:00+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -759,7 +795,7 @@
       "publishedAt": "2026-11-19T14:15:15+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -771,7 +807,7 @@
       "publishedAt": "2026-11-19T14:00:25+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -783,49 +819,49 @@
       "publishedAt": "2026-11-19T11:13:29+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "市场",
-      "title": "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?",
+      "title": "Why don&#039;t weight-loss drugs like Ozempic and Wegovy work for everyone?",
       "titleZh": "为什么像Ozempic和Wegovy这样的减肥药物并非对每个人都有效？",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
-      "summary": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body's hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.",
+      "summary": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body&#039;s hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.",
       "publishedAt": "2026-11-19T08:43:56+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "市场",
       "title": "AbbVie and Disco strike deal worth up to $2.54B for solid tumor targets",
-      "titleZh": "艾伯维与Disco达成价值高达25.4亿美元的实体瘤靶点交易",
+      "titleZh": "",
       "link": "https://endpoints.news/abbvvie-and-disco-strike-deal-worth-more-than-2-5b-for-solid-tumor-targets/",
       "summary": "AbbVie is partnering with preclinical cancer biotech Disco Pharmaceuticals to build out its antibody-drug conjugate and T cell engager programs. The Cologne, Germany-based biotech will receive $40 million upfront and up to $2.5 billion in ...",
       "publishedAt": "2026-11-19T07:00:40+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
-      "titleZh": "科学家发现一种隐性遗传性侵袭性前列腺癌",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
       "summary": "Scientists have discovered a rare inherited mutation in the CDK12 gene linked to aggressive prostate cancer, with all five identified carriers developing metastatic disease between ages 44 and 62. The finding could lead to expanded genetic testing, helping families uncover hidden cancer risks and po",
       "publishedAt": "2026-11-19T02:31:02+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Is free will an illusion? New brain research reveals a surprising twist",
-      "titleZh": "自由意志是一种幻觉吗？新的大脑研究揭示了一个令人惊讶的转折",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
       "summary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still s",
       "publishedAt": "2026-11-19T01:21:35+00:00"
@@ -843,7 +879,7 @@
       "publishedAt": "2026-11-18T22:50:25+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -855,7 +891,7 @@
       "publishedAt": "2026-11-18T22:29:13+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -877,18 +913,6 @@
       "link": "https://www.genengnews.com/topics/translational-medicine/crispr-screening-reveals-how-genetic-variants-drive-neurodegenerative-risk/",
       "summary": "Researchers studying human induced pluripotent stem cell-derived microglia-like cells showed how genetic variants can impact cell behavior and used CRISPR gene editing to show how one gene’s effect depends on its cellular context. The post CRISPR Screening Reveals How Genetic Variants Drive Neurodeg",
       "publishedAt": "2026-11-18T21:26:39+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "nChroma Bio stops its only clinical study early, lays off 50%",
-      "titleZh": "",
-      "link": "https://endpoints.news/nchroma-bio-stops-its-only-clinical-study-early-lays-off-50/",
-      "summary": "A couple of years ago, two Boston-area biotech CEOs decided to merge their startups, hoping to survive a down market for genetic medicine companies. Jeff Walsh, the CEO of that combined company, nChroma Bio,",
-      "publishedAt": "2026-11-18T21:19:50+00:00"
     },
     {
       "id": "gen-7",
@@ -963,7 +987,7 @@
       "publishedAt": "2026-11-18T15:55:00+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,7 +999,7 @@
       "publishedAt": "2026-11-18T12:33:09+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -983,11 +1007,11 @@
       "title": "Why do farts smell so bad? The secret is brewing in your gut",
       "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
-      "summary": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food. Scientists reveal why some foods make farts smell worse, why loud farts aren't always the stinkiest, and how our noses evolved to detect these powerful odors.",
+      "summary": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food. Scientists reveal why some foods make farts smell worse, why loud farts aren&#039;t always the stinkiest, and how our noses evolved to detect these powerful o",
       "publishedAt": "2026-11-18T11:55:21+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -999,7 +1023,7 @@
       "publishedAt": "2026-11-18T03:49:24+00:00"
     },
     {
-      "id": "science-daily-health-17",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1011,7 +1035,7 @@
       "publishedAt": "2026-11-18T01:10:14+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1023,7 +1047,7 @@
       "publishedAt": "2026-11-17T23:04:12+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1035,7 +1059,7 @@
       "publishedAt": "2026-11-17T11:51:35+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1045,30 +1069,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
       "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzh",
       "publishedAt": "2026-11-17T11:39:45+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Wine, beer, or spirits? Massive study reveals a surprising health divide",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116015104.htm",
-      "summary": "A massive study of more than 340,000 adults found that moderate wine drinkers had a 21% lower risk of cardiovascular death, while even light consumption of beer, cider, or spirits was linked to increased risk. Although heavy drinking was harmful regardless of beverage type, the findings suggest that",
-      "publishedAt": "2026-11-17T04:54:15+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Cannabis addiction linked to 57% higher odds of suicidal thoughts",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116023342.htm",
-      "summary": "A massive study involving more than 415,000 Americans has uncovered a concerning connection between cannabis use disorder and suicidal thoughts. Researchers found that adults with the disorder had 57% higher odds of experiencing suicidal thoughts, with women and younger adults facing particularly el",
-      "publishedAt": "2026-11-17T02:57:22+00:00"
     },
     {
       "id": "nature-biotech-0",
