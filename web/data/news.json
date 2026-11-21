@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-21T01:26:12.668725+00:00",
+  "updatedAt": "2026-11-21T09:39:19.444215+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "Opinion: How Kennedy and MAHA could help stop measles": "观点：肯尼迪和MAHA如何有助于遏制麻疹",
     "Capricor's Duchenne therapy is rejected again, as FDA cites significant issues with trial": "Capricor的杜氏肌营养不良症疗法再次被拒，FDA指出试验存在重大问题",
     "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming": "STAT+：FDA拒绝批准Capricor Therapeutics的杜氏肌营养不良症治疗药物，这一决定早已在意料之中",
     "ICE detention of Princeton scientist rattles academia": "移民和海关执法局（ICE）拘留普林斯顿科学家，令学术界感到震惊",
@@ -69,7 +70,7 @@
     "Keto diet slashes liver fat by 67% in just 4 months": "生酮饮食仅用4个月就将肝脏脂肪减少了67%",
     "Celldex culls eczema study after Phase 2 failure": "Celldex 在 2 期试验失败后终止湿疹研究",
     "CNS dispatches from Jefferies: Acadia’s search for deals, Alto’s psychiatry question and ProMIS’ Alzheimer’s ambitions": "来自杰富瑞的CNS快讯：Acadia的交易寻觅、Alto的精神病学问题和ProMIS的阿尔茨海默病雄心",
-    "This simple habit is linked to a 33% lower risk of Alzheimer&#039;s": "这种简单的习惯与阿尔茨海默病风险降低33%有关",
+    "This simple habit is linked to a 33% lower risk of Alzheimer's": "这种简单的习惯与阿尔茨海默病风险降低33%有关",
     "Genome Writing Inserts Human X-Linked Disease DNA Into Mice": "基因组写入将人类X连锁疾病DNA插入小鼠体内",
     "Teva on the hunt for new R&D head; Summit's rejection came after commercial chief's exit": "Teva正在寻找新的研发主管；在商业主管离职后，Summit拒绝了该职位",
     "This week in charts: Biotech investors’ China bets are already paying off": "本周图表：生物科技投资者的中国押注已开始见效",
@@ -98,18 +99,29 @@
     "Sanofi considering a deal to acquire Insmed, according to report": "据报道，赛诺菲正在考虑收购Insmed的交易",
     "STAT+: MAHA PAC’s steakhouse spend": "STAT+：MAHA PAC 的牛排馆消费情况",
     "Why Oura is buying Counsel": "Oura 收购 Counsel 的原因",
-    "National Academies report calls for faster decisions on publication retractions and corrections": "美国国家科学院报告呼吁更快地做出撤回和更正论文的决定",
     "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter": "诺华在经历艰难的季度后，详细介绍了湿疹治疗药物的成功以及在自身免疫性CAR-T方面的努力",
     "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease": "在FDA的批准下，Regeneron推出一款用于治疗自身免疫性疾病的RNAi药物",
     "Regeneron enters neurology field as FDA approves siRNA for myasthenia gravis": "随着FDA批准siRNA用于治疗重症肌无力，Regeneron进军神经学领域",
     "Lilly adds General Medicine for Alzheimer's disease diagnosis": "礼来将全科医学纳入阿尔茨海默病诊断范围",
     "Scientists tested 212 plant-based foods. Every single one contained fungal toxins": "科学家们测试了212种植物性食品。每一种都含有真菌毒素",
-    "Why don&#039;t weight-loss drugs like Ozempic and Wegovy work for everyone?": "为什么像Ozempic和Wegovy这样的减肥药物并非对每个人都有效？",
+    "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?": "为什么像Ozempic和Wegovy这样的减肥药物并非对每个人都有效？",
     "AbbVie and Disco strike deal worth up to $2.54B for solid tumor targets": "艾伯维与Disco达成价值高达25.4亿美元的实体瘤靶点交易",
     "Scientists discover a hidden hereditary form of aggressive prostate cancer": "科学家发现一种隐性遗传性侵袭性前列腺癌",
     "Is free will an illusion? New brain research reveals a surprising twist": "自由意志是一种幻觉吗？新的大脑研究揭示了一个令人惊讶的转折"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "Opinion: How Kennedy and MAHA could help stop measles",
+      "titleZh": "观点：肯尼迪和MAHA如何有助于遏制麻疹",
+      "link": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
+      "summary": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari.",
+      "publishedAt": "2026-11-21T09:30:00+00:00"
+    },
     {
       "id": "endpoints-0",
       "source": "Endpoints News",
@@ -123,7 +135,7 @@
       "publishedAt": "2026-11-21T01:11:10+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-1",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +147,7 @@
       "publishedAt": "2026-11-20T23:43:53+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +159,7 @@
       "publishedAt": "2026-11-20T21:19:27+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -207,7 +219,7 @@
       "publishedAt": "2026-11-20T19:04:09+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +267,7 @@
       "publishedAt": "2026-11-20T16:22:25+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +291,7 @@
       "publishedAt": "2026-11-20T15:31:58+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +303,7 @@
       "publishedAt": "2026-11-20T14:16:35+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +315,7 @@
       "publishedAt": "2026-11-20T14:01:41+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -368,7 +380,7 @@
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
-      "title": "This simple habit is linked to a 33% lower risk of Alzheimer&#039;s",
+      "title": "This simple habit is linked to a 33% lower risk of Alzheimer's",
       "titleZh": "这种简单的习惯与阿尔茨海默病风险降低33%有关",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
       "summary": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings that just five minutes of fiction can reduce stress by up to 20%, while reading h",
@@ -411,7 +423,7 @@
       "publishedAt": "2026-11-20T12:00:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +435,7 @@
       "publishedAt": "2026-11-20T09:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +447,7 @@
       "publishedAt": "2026-11-20T09:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +459,7 @@
       "publishedAt": "2026-11-20T09:30:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +483,7 @@
       "publishedAt": "2026-11-20T09:09:17+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -519,7 +531,7 @@
       "publishedAt": "2026-11-20T00:19:49+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +543,7 @@
       "publishedAt": "2026-11-20T00:00:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +555,7 @@
       "publishedAt": "2026-11-19T22:55:19+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +639,7 @@
       "publishedAt": "2026-11-19T17:07:27+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -639,7 +651,7 @@
       "publishedAt": "2026-11-19T17:04:46+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -687,7 +699,7 @@
       "publishedAt": "2026-11-19T16:36:21+00:00"
     },
     {
-      "id": "stat-news-18",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -709,18 +721,6 @@
       "link": "https://endpoints.news/why-oura-bought-counsel/",
       "summary": "Every year at HLTH, there is usually one piece of news that everyone has an opinion about. This year, it was Oura buying Counsel Health. That’s for good reason. It’s been rare to see a ...",
       "publishedAt": "2026-11-19T16:23:11+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "National Academies report calls for faster decisions on publication retractions and corrections",
-      "titleZh": "美国国家科学院报告呼吁更快地做出撤回和更正论文的决定",
-      "link": "https://www.statnews.com/2026/11/19/national-academies-report-proposes-faster-research-retractions/?utm_campaign=rss",
-      "summary": "The National Academies urged the scientific community to respond more aggressively to claims of errors or manipulated data in published research",
-      "publishedAt": "2026-11-19T16:00:00+00:00"
     },
     {
       "id": "endpoints-14",
@@ -788,10 +788,10 @@
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "市场",
-      "title": "Why don&#039;t weight-loss drugs like Ozempic and Wegovy work for everyone?",
+      "title": "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?",
       "titleZh": "为什么像Ozempic和Wegovy这样的减肥药物并非对每个人都有效？",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
-      "summary": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body&#039;s hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.",
+      "summary": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body's hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.",
       "publishedAt": "2026-11-19T08:43:56+00:00"
     },
     {
@@ -983,7 +983,7 @@
       "title": "Why do farts smell so bad? The secret is brewing in your gut",
       "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
-      "summary": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food. Scientists reveal why some foods make farts smell worse, why loud farts aren&#039;t always the stinkiest, and how our noses evolved to detect these powerful o",
+      "summary": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food. Scientists reveal why some foods make farts smell worse, why loud farts aren't always the stinkiest, and how our noses evolved to detect these powerful odors.",
       "publishedAt": "2026-11-18T11:55:21+00:00"
     },
     {
