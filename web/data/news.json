@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-21T17:23:55.464360+00:00",
+  "updatedAt": "2026-11-21T23:06:17.370045+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,7 @@
   ],
   "failedSources": [],
   "translations": {
+    "FDA again turns back Capricor Duchenne cell therapy": "FDA再次驳回Capricor的杜氏肌营养不良症细胞疗法",
     "AI may not work like the human brain after all, scientists discover": "科学家发现，人工智能可能毕竟不像人脑那样工作",
     "Opinion: When should medical school start?": "观点：医学院的学习应该何时开始？",
     "It’s Over-ton; Thoughts on Isomorphic’s latest haul; and more": "Over-ton；对Isomorphic最新成果的思考；以及更多内容",
@@ -106,10 +107,21 @@
     "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease": "在FDA的批准下，Regeneron推出一款用于治疗自身免疫性疾病的RNAi药物",
     "Regeneron enters neurology field as FDA approves siRNA for myasthenia gravis": "随着FDA批准siRNA用于治疗重症肌无力，Regeneron进军神经学领域",
     "Lilly adds General Medicine for Alzheimer's disease diagnosis": "礼来将全科医学纳入阿尔茨海默病诊断范围",
-    "Scientists tested 212 plant-based foods. Every single one contained fungal toxins": "科学家们测试了212种植物性食品。每一种都含有真菌毒素",
-    "Why don&#039;t weight-loss drugs like Ozempic and Wegovy work for everyone?": "为什么像Ozempic和Wegovy这样的减肥药物并非对每个人都有效？"
+    "Scientists tested 212 plant-based foods. Every single one contained fungal toxins": "科学家们测试了212种植物性食品。每一种都含有真菌毒素"
   },
   "items": [
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA again turns back Capricor Duchenne cell therapy",
+      "titleZh": "FDA再次驳回Capricor的杜氏肌营养不良症细胞疗法",
+      "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
+      "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
+      "publishedAt": "2026-11-21T20:46:00+00:00"
+    },
     {
       "id": "science-daily-health-0",
       "source": "ScienceDaily Health",
@@ -219,7 +231,7 @@
       "publishedAt": "2026-11-20T20:26:10+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -279,7 +291,7 @@
       "publishedAt": "2026-11-20T19:04:04+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -375,7 +387,7 @@
       "publishedAt": "2026-11-20T13:53:10+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -459,7 +471,7 @@
       "publishedAt": "2026-11-20T12:00:46+00:00"
     },
     {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -663,7 +675,7 @@
       "publishedAt": "2026-11-19T19:18:12+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -711,7 +723,7 @@
       "publishedAt": "2026-11-19T16:59:47+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -771,7 +783,7 @@
       "publishedAt": "2026-11-19T15:34:02+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -825,7 +837,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Why don&#039;t weight-loss drugs like Ozempic and Wegovy work for everyone?",
-      "titleZh": "为什么像Ozempic和Wegovy这样的减肥药物并非对每个人都有效？",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
       "summary": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body&#039;s hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.",
       "publishedAt": "2026-11-19T08:43:56+00:00"
@@ -939,7 +951,7 @@
       "publishedAt": "2026-11-18T21:10:58+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -963,7 +975,7 @@
       "publishedAt": "2026-11-18T17:00:37+00:00"
     },
     {
-      "id": "biopharma-dive-8",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -973,18 +985,6 @@
       "link": "https://www.biopharmadive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/874961/",
       "summary": "The sudden end of Heidi Overton&rsquo;s candidacy likely ensures a Democrat-controlled Congress will choose the FDA&rsquo;s next leader &mdash; but shouldn&rsquo;t disrupt the agency, analysts say.&nbsp;",
       "publishedAt": "2026-11-18T17:00:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "市场",
-      "title": "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
-      "summary": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body.",
-      "publishedAt": "2026-11-18T15:55:00+00:00"
     },
     {
       "id": "science-daily-health-12",
