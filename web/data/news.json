@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-20T20:01:56.954032+00:00",
+  "updatedAt": "2026-11-21T01:26:12.668725+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,10 @@
   ],
   "failedSources": [],
   "translations": {
+    "Capricor's Duchenne therapy is rejected again, as FDA cites significant issues with trial": "Capricor的杜氏肌营养不良症疗法再次被拒，FDA指出试验存在重大问题",
+    "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming": "STAT+：FDA拒绝批准Capricor Therapeutics的杜氏肌营养不良症治疗药物，这一决定早已在意料之中",
+    "ICE detention of Princeton scientist rattles academia": "移民和海关执法局（ICE）拘留普林斯顿科学家，令学术界感到震惊",
+    "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves": "STAT+：MAHA 的智库是否陷入困境？税务申报显示储备金较低",
     "Will the first approved psychedelic become a blockbuster?": "首款获批的迷幻药物会成为重磅药物吗？",
     "More lawmakers stake out stances on China biotech investment": "更多立法者就中国生物技术投资表明立场",
     "PTSD Brain DNA Methylation Patterns Linked to Age of Trauma Exposure, Sex, and Ethnicity": "与创伤暴露年龄、性别和种族相关的PTSD大脑DNA甲基化模式",
@@ -97,19 +101,63 @@
     "National Academies report calls for faster decisions on publication retractions and corrections": "美国国家科学院报告呼吁更快地做出撤回和更正论文的决定",
     "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter": "诺华在经历艰难的季度后，详细介绍了湿疹治疗药物的成功以及在自身免疫性CAR-T方面的努力",
     "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease": "在FDA的批准下，Regeneron推出一款用于治疗自身免疫性疾病的RNAi药物",
-    "STAT+: Epic defends competitive practices; promises AI access to records": "STAT+：Epic 为其竞争行为辩护；承诺 AI 可访问记录",
     "Regeneron enters neurology field as FDA approves siRNA for myasthenia gravis": "随着FDA批准siRNA用于治疗重症肌无力，Regeneron进军神经学领域",
     "Lilly adds General Medicine for Alzheimer's disease diagnosis": "礼来将全科医学纳入阿尔茨海默病诊断范围",
-    "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more": "STAT+：Pharmalittle：我们正在阅读有关默沙东AI交易、中国和医药供应链等内容",
-    "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress": "桑德斯的“全民医保”计划在国会中获得了更多自由派和温和派的支持",
     "Scientists tested 212 plant-based foods. Every single one contained fungal toxins": "科学家们测试了212种植物性食品。每一种都含有真菌毒素",
     "Why don&#039;t weight-loss drugs like Ozempic and Wegovy work for everyone?": "为什么像Ozempic和Wegovy这样的减肥药物并非对每个人都有效？",
     "AbbVie and Disco strike deal worth up to $2.54B for solid tumor targets": "艾伯维与Disco达成价值高达25.4亿美元的实体瘤靶点交易",
     "Scientists discover a hidden hereditary form of aggressive prostate cancer": "科学家发现一种隐性遗传性侵袭性前列腺癌",
-    "Is free will an illusion? New brain research reveals a surprising twist": "自由意志是一种幻觉吗？新的大脑研究揭示了一个令人惊讶的转折",
-    "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus": "阿尔茨海默病和衰老与下丘脑的变化相关"
+    "Is free will an illusion? New brain research reveals a surprising twist": "自由意志是一种幻觉吗？新的大脑研究揭示了一个令人惊讶的转折"
   },
   "items": [
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Capricor's Duchenne therapy is rejected again, as FDA cites significant issues with trial",
+      "titleZh": "Capricor的杜氏肌营养不良症疗法再次被拒，FDA指出试验存在重大问题",
+      "link": "https://endpoints.news/capricors-duchenne-therapy-is-rejected-again-as-fda-cites-significant-issues-with-trial/",
+      "summary": "Capricor Therapeutics’ deramiocel cell therapy was rejected for a second time by the FDA on Friday, despite the company's pivot to a narrower indication within Duchenne muscular dystrophy. In a",
+      "publishedAt": "2026-11-21T01:11:10+00:00"
+    },
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
+      "titleZh": "STAT+：FDA拒绝批准Capricor Therapeutics的杜氏肌营养不良症治疗药物，这一决定早已在意料之中",
+      "link": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
+      "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+      "publishedAt": "2026-11-20T23:43:53+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "ICE detention of Princeton scientist rattles academia",
+      "titleZh": "移民和海关执法局（ICE）拘留普林斯顿科学家，令学术界感到震惊",
+      "link": "https://www.statnews.com/2026/11/20/princeton-researcher-eva-yi-xie-ice-detention-rattles-interational-scholars/?utm_campaign=rss",
+      "summary": "A graduate student who is a scientific researcher at Princeton was detained by ICE while traveling home after presenting at a neuroscience conference.",
+      "publishedAt": "2026-11-20T21:19:27+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
+      "titleZh": "STAT+：MAHA 的智库是否陷入困境？税务申报显示储备金较低",
+      "link": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
+      "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
+      "publishedAt": "2026-11-20T20:26:10+00:00"
+    },
     {
       "id": "biopharma-dive-0",
       "source": "BioPharma Dive",
@@ -123,7 +171,7 @@
       "publishedAt": "2026-11-20T19:53:09+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -159,7 +207,7 @@
       "publishedAt": "2026-11-20T19:04:09+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +231,7 @@
       "publishedAt": "2026-11-20T17:18:00+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +243,7 @@
       "publishedAt": "2026-11-20T16:37:46+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +255,7 @@
       "publishedAt": "2026-11-20T16:22:25+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +267,7 @@
       "publishedAt": "2026-11-20T15:52:19+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -231,7 +279,7 @@
       "publishedAt": "2026-11-20T15:31:58+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +291,7 @@
       "publishedAt": "2026-11-20T14:16:35+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -255,7 +303,7 @@
       "publishedAt": "2026-11-20T14:01:41+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +339,7 @@
       "publishedAt": "2026-11-20T12:44:39+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -303,7 +351,7 @@
       "publishedAt": "2026-11-20T12:36:09+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +387,7 @@
       "publishedAt": "2026-11-20T12:03:02+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +411,7 @@
       "publishedAt": "2026-11-20T12:00:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +423,7 @@
       "publishedAt": "2026-11-20T09:30:00+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +435,7 @@
       "publishedAt": "2026-11-20T09:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +447,7 @@
       "publishedAt": "2026-11-20T09:30:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -423,7 +471,7 @@
       "publishedAt": "2026-11-20T09:09:17+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +519,7 @@
       "publishedAt": "2026-11-20T00:19:49+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +531,7 @@
       "publishedAt": "2026-11-20T00:00:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +543,7 @@
       "publishedAt": "2026-11-19T22:55:19+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,7 +579,7 @@
       "publishedAt": "2026-11-19T19:58:18+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -543,7 +591,7 @@
       "publishedAt": "2026-11-19T19:40:07+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -567,7 +615,7 @@
       "publishedAt": "2026-11-19T17:17:00+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -579,7 +627,7 @@
       "publishedAt": "2026-11-19T17:07:27+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +639,7 @@
       "publishedAt": "2026-11-19T17:04:46+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -615,7 +663,7 @@
       "publishedAt": "2026-11-19T16:42:00+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -627,7 +675,7 @@
       "publishedAt": "2026-11-19T16:41:06+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -639,7 +687,7 @@
       "publishedAt": "2026-11-19T16:36:21+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +699,7 @@
       "publishedAt": "2026-11-19T16:30:07+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -663,7 +711,7 @@
       "publishedAt": "2026-11-19T16:23:11+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -675,7 +723,7 @@
       "publishedAt": "2026-11-19T16:00:00+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,19 +747,7 @@
       "publishedAt": "2026-11-19T15:10:00+00:00"
     },
     {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "技术",
-      "title": "STAT+: Epic defends competitive practices; promises AI access to records",
-      "titleZh": "STAT+：Epic 为其竞争行为辩护；承诺 AI 可访问记录",
-      "link": "https://www.statnews.com/2026/11/19/epic-defends-competitive-practices-promises-ai-access-health-tech/?utm_campaign=rss",
-      "summary": "In this edition of STAT Health Tech: EHR giant, Epic defends its competitive tactics, new data on AI and health care costs, and HLTH news.",
-      "publishedAt": "2026-11-19T14:21:08+00:00"
-    },
-    {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -723,7 +759,7 @@
       "publishedAt": "2026-11-19T14:15:15+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -733,30 +769,6 @@
       "link": "https://endpoints.news/lillydirect-adds-general-medicine-for-alzheimers-disease-diagnosis/",
       "summary": "Eli Lilly is experimenting with a quicker way to get diagnoses and care for people with Alzheimer's disease. People experiencing memory loss or other signs of Alzheimer's can now see a virtual clinician through health ...",
       "publishedAt": "2026-11-19T14:00:25+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "市场",
-      "title": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more",
-      "titleZh": "STAT+：Pharmalittle：我们正在阅读有关默沙东AI交易、中国和医药供应链等内容",
-      "link": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
-      "summary": "Merck is entering a research collaboration with Isomorphic Labs, the AI drug designer built on a Nobel-winning technology",
-      "publishedAt": "2026-11-19T13:36:33+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
-      "titleZh": "桑德斯的“全民医保”计划在国会中获得了更多自由派和温和派的支持",
-      "link": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
-      "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
-      "publishedAt": "2026-11-19T12:59:54+00:00"
     },
     {
       "id": "science-daily-health-3",
@@ -783,7 +795,7 @@
       "publishedAt": "2026-11-19T08:43:56+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -825,13 +837,13 @@
       "lang": "en",
       "category": "研发",
       "title": "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus",
-      "titleZh": "阿尔茨海默病和衰老与下丘脑的变化相关",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/translational-medicine/alzheimers-disease-and-aging-linked-to-changes-in-the-hypothalamus/",
       "summary": "Researchers combined measurements from brain images and single cell transcriptome maps to build a resource, HypoAD, as an atlas of the human hypothalamus in aging and AD, which they have made available to the research community. The post Alzheimer’s Disease and Aging Linked to Changes in the Hypotha",
       "publishedAt": "2026-11-18T22:50:25+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -867,7 +879,7 @@
       "publishedAt": "2026-11-18T21:26:39+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -901,18 +913,6 @@
       "link": "https://www.genengnews.com/topics/artificial-intelligence/london-calling-flagship-expands-in-u-k-to-build-ai-native-platform-companies/",
       "summary": "Flagship expects to recruit and train an initial team of approximately 50 U.K.-based scientist-entrepreneurs and operators for the new Origination Lab, U.K., which will build on three years of experience partnering and conducting R&#038;D across the kingdom. The post London Calling: Flagship Expands",
       "publishedAt": "2026-11-18T21:10:58+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Hims launches popular peptides and other longevity treatments",
-      "titleZh": "",
-      "link": "https://endpoints.news/hims-launches-popular-peptides-and-other-longevity-treatments/",
-      "summary": "Hims &amp; Hers started offering peptides and other treatments marketed for longevity and wellness uses on Wednesday. But the telehealth company is holding off on prescribing some of the more controversial peptides that compounding pharmacies ...",
-      "publishedAt": "2026-11-18T19:15:47+00:00"
     },
     {
       "id": "biopharma-dive-7",
