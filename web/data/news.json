@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-22T15:13:28.906058+00:00",
+  "updatedAt": "2026-11-22T21:43:12.089508+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,14 @@
   ],
   "failedSources": [],
   "translations": {
+    "Common medications may secretly rewire your gut, with effects lasting for years": "常见药物可能会悄然改变您的肠道，其影响可能持续数年",
+    "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds": "一项重大综述发现，2型糖尿病与阿尔茨海默病风险高53%相关",
+    "StockWatch: Insmed Jumps on Report of Takeover Interest by Sanofi, as Analysts Conclude a Deal Would Make Sense": "StockWatch：有报道称赛诺菲有意收购Insmed，该公司股价应声大涨，分析师认为收购交易合情合理",
+    "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA": "一只194岁的乌龟在其DNA中隐藏着一个非凡的抗衰老秘密",
+    "Scientists discover a hidden eye disease that slowly steals night vision": "科学家发现一种隐性眼疾，它会缓慢地夺走夜视能力",
+    "AI uncovers hidden bladder cancer warning signs years before diagnosis": "人工智能在诊断前数年发现膀胱癌的隐性预警信号",
+    "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system": "阿尔茨海默病研究的突破揭示了大脑清理系统中的一个隐性缺陷",
+    "A common blood pressure drug has a surprising effect on calorie-burning brown fat": "一种常见的降压药物对燃烧卡路里的棕色脂肪有惊人的作用",
     "FDA again turns back Capricor Duchenne cell therapy": "FDA再次驳回Capricor的杜氏肌营养不良症细胞疗法",
     "AI may not work like the human brain after all, scientists discover": "科学家发现，人工智能可能毕竟不像人脑那样工作",
     "Opinion: When should medical school start?": "观点：医学院的学习应该何时开始？",
@@ -75,7 +83,7 @@
     "Keto diet slashes liver fat by 67% in just 4 months": "生酮饮食仅用4个月就将肝脏脂肪减少了67%",
     "Celldex culls eczema study after Phase 2 failure": "Celldex 在 2 期试验失败后终止湿疹研究",
     "CNS dispatches from Jefferies: Acadia’s search for deals, Alto’s psychiatry question and ProMIS’ Alzheimer’s ambitions": "来自杰富瑞的CNS快讯：Acadia的交易寻觅、Alto的精神病学问题和ProMIS的阿尔茨海默病雄心",
-    "This simple habit is linked to a 33% lower risk of Alzheimer&#039;s": "这种简单的习惯与阿尔茨海默病风险降低33%有关",
+    "This simple habit is linked to a 33% lower risk of Alzheimer's": "这种简单的习惯与阿尔茨海默病风险降低33%有关",
     "Genome Writing Inserts Human X-Linked Disease DNA Into Mice": "基因组写入将人类X连锁疾病DNA插入小鼠体内",
     "Teva on the hunt for new R&D head; Summit's rejection came after commercial chief's exit": "Teva正在寻找新的研发主管；在商业主管离职后，Summit拒绝了该职位",
     "This week in charts: Biotech investors’ China bets are already paying off": "本周图表：生物科技投资者的中国押注已开始见效",
@@ -99,17 +107,105 @@
     "Lilly starts work on Pennsylvania obesity plant; ITM, AtomVie strike supply deal": "礼来开始在宾夕法尼亚州建设肥胖症药物工厂；ITM与AtomVie达成供应协议",
     "STAT+: Lawmakers want U.S. biotech to outcompete China": "STAT+：美国立法者希望美国生物技术企业能够胜过中国",
     "STAT+: Peptide market poised to explode with new Hims and Noom launches": "STAT+：肽市场即将迎来Hims和Noom新产品的推出而蓬勃发展",
-    "China could ‘corner’ biopharma sector with new plan, US panel warns": "美国专家组警告称，中国可能通过新计划“垄断”生物制药行业",
-    "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck": "中国人工智能实验室MegaRobo筹集近2亿美元；Isomorphic与默克合作",
-    "Sanofi considering a deal to acquire Insmed, according to report": "据报道，赛诺菲正在考虑收购Insmed的交易",
-    "Why Oura is buying Counsel": "Oura 收购 Counsel 的原因",
-    "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter": "诺华在经历艰难的季度后，详细介绍了湿疹治疗药物的成功以及在自身免疫性CAR-T方面的努力",
-    "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease": "在FDA的批准下，Regeneron推出一款用于治疗自身免疫性疾病的RNAi药物",
-    "Regeneron enters neurology field as FDA approves siRNA for myasthenia gravis": "随着FDA批准siRNA用于治疗重症肌无力，Regeneron进军神经学领域",
-    "Lilly adds General Medicine for Alzheimer's disease diagnosis": "礼来将全科医学纳入阿尔茨海默病诊断范围",
-    "Scientists tested 212 plant-based foods. Every single one contained fungal toxins": "科学家们测试了212种植物性食品。每一种都含有真菌毒素"
+    "China could ‘corner’ biopharma sector with new plan, US panel warns": "美国专家组警告称，中国可能通过新计划“垄断”生物制药行业"
   },
   "items": [
+    {
+      "id": "science-daily-health-6",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+      "titleZh": "常见药物可能会悄然改变您的肠道，其影响可能持续数年",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+      "summary": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbial “fingerprints” long ",
+      "publishedAt": "2026-11-22T21:35:19+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
+      "titleZh": "一项重大综述发现，2型糖尿病与阿尔茨海默病风险高53%相关",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
+      "summary": "People with type 2 diabetes face a 53% higher risk of developing Alzheimer’s disease, according to a major new review of 40 studies. Researchers estimate that nearly five out of every 1,000 people with type 2 diabetes develop Alzheimer’s each year. By focusing specifically on these two conditions, t",
+      "publishedAt": "2026-11-22T20:57:35+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "StockWatch: Insmed Jumps on Report of Takeover Interest by Sanofi, as Analysts Conclude a Deal Would Make Sense",
+      "titleZh": "StockWatch：有报道称赛诺菲有意收购Insmed，该公司股价应声大涨，分析师认为收购交易合情合理",
+      "link": "https://www.genengnews.com/topics/translational-medicine/stockwatch-insmed-jumps-on-report-of-takeover-interest-by-sanofi-as-analysts-conclude-a-deal-would-make-sense/",
+      "summary": "Bloomberg News cited unnamed sources in reporting that Sanofi (Euronext Paris: SAN and Nasdaq: SNY) was weighing whether to acquire Insmed, in a potential blockbuster deal that the news outlet and others speculated could be biopharma's largest merger-and-acquisition (M&#038;A) deal since 2023. The p",
+      "publishedAt": "2026-11-22T18:52:58+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+      "titleZh": "一只194岁的乌龟在其DNA中隐藏着一个非凡的抗衰老秘密",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+      "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control",
+      "publishedAt": "2026-11-22T11:04:06+00:00"
+    },
+    {
+      "id": "science-daily-health-10",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover a hidden eye disease that slowly steals night vision",
+      "titleZh": "科学家发现一种隐性眼疾，它会缓慢地夺走夜视能力",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194547.htm",
+      "summary": "Scientists have discovered a new genetic eye disease that can silently damage peripheral and night vision while leaving central sight largely unaffected for years. The condition may be detectable through an unusual difficulty adjusting to darkness, offering a potential early warning sign before irre",
+      "publishedAt": "2026-11-22T10:48:36+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+      "titleZh": "人工智能在诊断前数年发现膀胱癌的隐性预警信号",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+      "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing subtle patterns that conventional screening misses, the technology could help docto",
+      "publishedAt": "2026-11-22T03:43:18+00:00"
+    },
+    {
+      "id": "science-daily-health-4",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
+      "titleZh": "阿尔茨海默病研究的突破揭示了大脑清理系统中的一个隐性缺陷",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
+      "summary": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease. When the gene malfunctioned in mice, toxic buildup accelerated and cognitive abilities declined, raising hopes that restoring its",
+      "publishedAt": "2026-11-22T03:00:27+00:00"
+    },
+    {
+      "id": "science-daily-health-9",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A common blood pressure drug has a surprising effect on calorie-burning brown fat",
+      "titleZh": "一种常见的降压药物对燃烧卡路里的棕色脂肪有惊人的作用",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194558.htm",
+      "summary": "Scientists have discovered that a common blood pressure drug can activate calorie-burning brown fat in mice, potentially opening a new path toward improving metabolic health. An analysis of more than 100,000 patients also revealed surprising links between brown fat and lower rates of heart disease, ",
+      "publishedAt": "2026-11-22T01:54:11+00:00"
+    },
     {
       "id": "biopharma-dive-0",
       "source": "BioPharma Dive",
@@ -123,7 +219,7 @@
       "publishedAt": "2026-11-21T20:46:00+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -131,7 +227,7 @@
       "title": "AI may not work like the human brain after all, scientists discover",
       "titleZh": "科学家发现，人工智能可能毕竟不像人脑那样工作",
       "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-      "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn&#039;t use, raising impor",
+      "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important ",
       "publishedAt": "2026-11-21T15:24:58+00:00"
     },
     {
@@ -171,7 +267,7 @@
       "publishedAt": "2026-11-21T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -255,7 +351,7 @@
       "publishedAt": "2026-11-20T19:52:42+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -267,7 +363,7 @@
       "publishedAt": "2026-11-20T19:36:46+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -399,7 +495,7 @@
       "publishedAt": "2026-11-20T13:03:00+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -435,19 +531,19 @@
       "publishedAt": "2026-11-20T12:11:57+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
-      "title": "This simple habit is linked to a 33% lower risk of Alzheimer&#039;s",
+      "title": "This simple habit is linked to a 33% lower risk of Alzheimer's",
       "titleZh": "这种简单的习惯与阿尔茨海默病风险降低33%有关",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
       "summary": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings that just five minutes of fiction can reduce stress by up to 20%, while reading h",
       "publishedAt": "2026-11-20T12:06:07+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -531,7 +627,7 @@
       "publishedAt": "2026-11-20T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -555,7 +651,7 @@
       "publishedAt": "2026-11-20T07:23:34+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -567,7 +663,7 @@
       "publishedAt": "2026-11-20T04:31:15+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -579,7 +675,7 @@
       "publishedAt": "2026-11-20T01:50:20+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -627,7 +723,7 @@
       "publishedAt": "2026-11-19T22:20:00+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -639,7 +735,7 @@
       "publishedAt": "2026-11-19T21:45:24+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -741,7 +837,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck",
-      "titleZh": "中国人工智能实验室MegaRobo筹集近2亿美元；Isomorphic与默克合作",
+      "titleZh": "",
       "link": "https://endpoints.news/chinese-ai-lab-megarobo-raises-nearly-200m-isomorphic-partners-with-merck/",
       "summary": "Plus news about Adcendo, Biohaven, Sellas, Yuanshi, VitriVax and Ansa Biotechnologies. MegaRobo raises nearly $200 million: The Chinese AI and lab-automation company announced the raise in a post on WeChat. This ...",
       "publishedAt": "2026-11-19T16:41:06+00:00"
@@ -753,7 +849,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Sanofi considering a deal to acquire Insmed, according to report",
-      "titleZh": "据报道，赛诺菲正在考虑收购Insmed的交易",
+      "titleZh": "",
       "link": "https://endpoints.news/sanofi-considering-a-deal-to-acquire-insmed-according-to-report/",
       "summary": "Sanofi is looking at a deal to buy the US drugmaker Insmed, Bloomberg News reported Thursday, in what would be one of the biggest biopharma takeovers of the last several years. The Bloomberg report made ...",
       "publishedAt": "2026-11-19T16:36:21+00:00"
@@ -765,7 +861,7 @@
       "lang": "en",
       "category": "市场",
       "title": "Why Oura is buying Counsel",
-      "titleZh": "Oura 收购 Counsel 的原因",
+      "titleZh": "",
       "link": "https://endpoints.news/why-oura-bought-counsel/",
       "summary": "Every year at HLTH, there is usually one piece of news that everyone has an opinion about. This year, it was Oura buying Counsel Health. That’s for good reason. It’s been rare to see a ...",
       "publishedAt": "2026-11-19T16:23:11+00:00"
@@ -777,7 +873,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter",
-      "titleZh": "诺华在经历艰难的季度后，详细介绍了湿疹治疗药物的成功以及在自身免疫性CAR-T方面的努力",
+      "titleZh": "",
       "link": "https://endpoints.news/novartis-details-eczema-win-autoimmune-car-t-efforts-after-rocky-quarter/",
       "summary": "Novartis touted a mid-stage win for its eczema drug, revealed it is working toward restarting trials of its autoimmune CAR-T cell therapy, and slightly trimmed the top of its sales-growth guidance through 2031. CEO Vas ...",
       "publishedAt": "2026-11-19T15:34:02+00:00"
@@ -789,7 +885,7 @@
       "lang": "en",
       "category": "审批",
       "title": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
-      "titleZh": "在FDA的批准下，Regeneron推出一款用于治疗自身免疫性疾病的RNAi药物",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/regeneron-fda-approve-cemdisiran-livsayis-myasthenia-gravis-alnylam/875160/",
       "summary": "The product of a collaboration with Alnylam, Livsayis is now Regeneron&rsquo;s first marketed RNAi drug and will compete against established medicines from AstraZeneca and Argenx.&nbsp;",
       "publishedAt": "2026-11-19T15:10:00+00:00"
@@ -801,7 +897,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Regeneron enters neurology field as FDA approves siRNA for myasthenia gravis",
-      "titleZh": "随着FDA批准siRNA用于治疗重症肌无力，Regeneron进军神经学领域",
+      "titleZh": "",
       "link": "https://endpoints.news/regeneron-enters-neurology-field-as-fda-approves-sirna-for-myasthenia-gravis/",
       "summary": "Regeneron’s siRNA therapy cemdisiran has become the second new drug approved by the FDA for myasthenia gravis inside of a week. Now named Livsayis, the therapy was approved by the FDA for ...",
       "publishedAt": "2026-11-19T14:15:15+00:00"
@@ -813,33 +909,33 @@
       "lang": "en",
       "category": "市场",
       "title": "Lilly adds General Medicine for Alzheimer's disease diagnosis",
-      "titleZh": "礼来将全科医学纳入阿尔茨海默病诊断范围",
+      "titleZh": "",
       "link": "https://endpoints.news/lillydirect-adds-general-medicine-for-alzheimers-disease-diagnosis/",
       "summary": "Eli Lilly is experimenting with a quicker way to get diagnoses and care for people with Alzheimer's disease. People experiencing memory loss or other signs of Alzheimer's can now see a virtual clinician through health ...",
       "publishedAt": "2026-11-19T14:00:25+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-      "titleZh": "科学家们测试了212种植物性食品。每一种都含有真菌毒素",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
       "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially har",
       "publishedAt": "2026-11-19T11:13:29+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "市场",
-      "title": "Why don&#039;t weight-loss drugs like Ozempic and Wegovy work for everyone?",
+      "title": "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?",
       "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
-      "summary": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body&#039;s hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.",
+      "summary": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body's hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.",
       "publishedAt": "2026-11-19T08:43:56+00:00"
     },
     {
@@ -855,19 +951,7 @@
       "publishedAt": "2026-11-19T07:00:40+00:00"
     },
     {
-      "id": "science-daily-health-14",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
-      "summary": "Scientists have discovered a rare inherited mutation in the CDK12 gene linked to aggressive prostate cancer, with all five identified carriers developing metastatic disease between ages 44 and 62. The finding could lead to expanded genetic testing, helping families uncover hidden cancer risks and po",
-      "publishedAt": "2026-11-19T02:31:02+00:00"
-    },
-    {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -879,7 +963,7 @@
       "publishedAt": "2026-11-19T01:21:35+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -903,19 +987,7 @@
       "publishedAt": "2026-11-18T22:29:13+00:00"
     },
     {
-      "id": "science-daily-health-13",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Too much exercise could leave your brain stuck in overdrive",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
-      "summary": "Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways. Scientists found that mice subjected to prolonged, intense training had elevated dopamine levels in a brain region linked to memory and emotions, even 48 hours after exercising. The discovery could help exp",
-      "publishedAt": "2026-11-18T21:28:29+00:00"
-    },
-    {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -927,7 +999,7 @@
       "publishedAt": "2026-11-18T21:26:39+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -939,7 +1011,7 @@
       "publishedAt": "2026-11-18T21:16:04+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -963,18 +1035,6 @@
       "publishedAt": "2026-11-18T18:51:00+00:00"
     },
     {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "The Advent of Automated, Gene-Engineered TIL Manufacturing",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/bioprocessing/the-advent-of-automated-gene-engineered-til-manufacturing/",
-      "summary": "Automating engineered TIL manufacturing in a way that maintains their tumor-fighting capabilities may move this emerging therapeutic class into a commercially reproducible, economically viable therapeutic option. The post The Advent of Automated, Gene-Engineered TIL Manufacturing appeared first on G",
-      "publishedAt": "2026-11-18T17:00:37+00:00"
-    },
-    {
       "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
@@ -987,7 +1047,7 @@
       "publishedAt": "2026-11-18T17:00:00+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -999,7 +1059,7 @@
       "publishedAt": "2026-11-18T12:33:09+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1007,68 +1067,8 @@
       "title": "Why do farts smell so bad? The secret is brewing in your gut",
       "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
-      "summary": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food. Scientists reveal why some foods make farts smell worse, why loud farts aren&#039;t always the stinkiest, and how our noses evolved to detect these powerful o",
+      "summary": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food. Scientists reveal why some foods make farts smell worse, why loud farts aren't always the stinkiest, and how our noses evolved to detect these powerful odors.",
       "publishedAt": "2026-11-18T11:55:21+00:00"
-    },
-    {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "Tiny magnets deep inside the brain could transform Parkinson’s treatment",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116023354.htm",
-      "summary": "Scientists have developed a new technique that uses magnetic nanoparticles to stimulate deep brain regions, dramatically improving Parkinson’s-like movement problems in mice without permanently implanted electrodes. The breakthrough could pave the way for less invasive treatments using injectable pa",
-      "publishedAt": "2026-11-18T03:49:24+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Autistic brains look surprisingly similar on average. Then scientists looked closer.",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116023344.htm",
-      "summary": "Scientists discovered that although people with and without autism show surprisingly similar average brain activity, individuals with autism exhibit much greater differences from one another, especially in regions involved in social understanding. The findings suggest that traditional research metho",
-      "publishedAt": "2026-11-18T01:10:14+00:00"
-    },
-    {
-      "id": "science-daily-health-15",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "Why obesity affects men and women differently may be hiding in their fat",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261117033907.htm",
-      "summary": "Scientists at the University of California, Riverside have uncovered a surprising reason why males and females may respond differently to obesity. In a study involving mice, researchers discovered that immune cells traditionally associated with allergies and asthma can either protect against obesity",
-      "publishedAt": "2026-11-17T23:04:12+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "The hidden language of psychopathy is not what scientists expected",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
-      "summary": "Scientists have discovered that psychopathic traits are associated with surprisingly different patterns of language, with some individuals using more positive words and others expressing greater negativity or less anxiety. The findings challenge familiar stereotypes about psychopathy and suggest tha",
-      "publishedAt": "2026-11-17T11:51:35+00:00"
-    },
-    {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
-      "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzh",
-      "publishedAt": "2026-11-17T11:39:45+00:00"
     },
     {
       "id": "nature-biotech-0",
