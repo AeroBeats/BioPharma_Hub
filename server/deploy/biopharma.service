@@ -1,0 +1,18 @@
+[Unit]
+Description=BioPharma Hub backend (gunicorn)
+After=network.target postgresql.service
+Wants=postgresql.service
+
+[Service]
+Type=simple
+User=root
+Group=root
+WorkingDirectory=/opt/BioPharma_Hub/server
+ExecStart=/opt/BioPharma_Hub/server/.venv/bin/gunicorn --bind 127.0.0.1:8000 --workers 2 --timeout 60 wsgi:app
+Restart=on-failure
+RestartSec=3
+# 应用通过 python-dotenv 自动读取 server/.env（按绝对路径），无需 EnvironmentFile。
+# 若你把代码放在别处，改 WorkingDirectory 和 ExecStart 里的路径即可。
+
+[Install]
+WantedBy=multi-user.target

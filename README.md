@@ -189,7 +189,7 @@ AI 智能优化功能依赖后端服务，部署到 Cloudflare Workers（免费�
 - **组织注册**：超级管理员生成邀请码 → 用户凭「邀请码 + 组织名」创建组织，自动成为该组织管理员，系统生成组织码
 - **个人加入**：组织管理员分发组织码 → 成员凭组织码加入组织
 - **数据归属**：库存等实验数据按组织共享（同一组织成员共用一套台账），现有浏览器本地库存提供一次性迁移导入
-- **技术栈**：Python Flask + PostgreSQL（自有服务器）+ JWT 登录 + bcrypt 密码哈希；前端仍为静态 SPA，经 Cloudflare 绑定子域名（如 `hubapi.aerobeats.xyz`）获得 HTTPS 接入
+- **技术栈**：Python Flask + PostgreSQL（自有服务器）+ JWT 登录 + bcrypt 密码哈希；前端仍为静态 SPA。后端部署在**境内阿里云（Debian）**，子域名 `hubapi.aerobeats.xyz` 经 Cloudflare **灰云（仅解析）**直连服务器，HTTPS 用 **Let's Encrypt**（备案通过后由 certbot 签发）
 - **后端代码与部署**：见 [`server/`](server/)，完整部署步骤（venv / PostgreSQL / `.env` / 超管初始化 / gunicorn+systemd / nginx / Cloudflare / 防火墙 / 备案分支 / API 概览）见 [`server/README.md`](server/README.md)
 
 ### GLP 合规路线
@@ -217,8 +217,8 @@ GLP（良好实验室规范，NMPA / FDA 21 CFR Part 58 / OECD GLP）是设施�
 
 ### 备案说明
 
-- 现有 GitHub Pages 站点与 Cloudflare Worker 服务器均在境外，**无需 ICP 备案**
-- 新后端是否需备案**取决于自有服务器位置**：境外服务器无需备案；中国大陆服务器绑定公网域名需对 `aerobeats.xyz` 做**非经营性 ICP 备案**（经服务器厂商提交，约 1–3 周，备案后 30 天内做公安备案）
+- 现有 GitHub Pages 站点与 Cloudflare Worker（`api.aerobeats.xyz`）均在境外，**无需 ICP 备案**
+- 新用户/组织后端部署在**境内阿里云**，绑定公网域名 `hubapi.aerobeats.xyz` **必须做非经营性 ICP 备案**（经阿里云提交，约 1–3 周，备案后 30 天内做公安联网备案）。备案前阿里云会拦截该域名的 80/443，可先部署好、本机测通，备案通过后再开 HTTPS 对外。具体步骤见 [`server/README.md`](server/README.md) 第 4 节
 
 ## 许可证
 

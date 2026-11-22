@@ -19,13 +19,13 @@ PostgreSQL + gunicorn + nginx + systemd + Cloudflare 子域名）、ICP 备案�
 GitHub Pages  https://aerobeats.github.io/BioPharma_Hub/
   │  ② 登录后所有数据请求（JWT Bearer Token）
   ▼
-Cloudflare 子域名  https://hubapi.aerobeats.xyz   （代理 + 免费 SSL）
-  │  ③ 反代到本机
+DNS 解析  hubapi.aerobeats.xyz ──(Cloudflare 灰云/仅解析)──► 阿里云公网 IP
+  │  ③ 直连你的服务器（境内阿里云，需 ICP 备案）
   ▼
-nginx (443/80) ──► gunicorn (127.0.0.1:8000) ──► Flask app
-                                                    │
-                                                    ▼
-                                              PostgreSQL
+nginx (80；备案后 certbot 加 443/Let's Encrypt) ──► gunicorn (127.0.0.1:8000) ──► Flask app
+                                                                                  │
+                                                                                  ▼
+                                                                            PostgreSQL
 ```
 
 - **技术栈**：Python 3.11+ / Flask 3 / SQLAlchemy 2 / psycopg3 / PyJWT / bcrypt / gunicorn。
@@ -99,14 +99,31 @@ python smoke_test.py
 下面以 Ubuntu / Debian 为例。需要：一台能公网访问的服务器、一个域名
 （示例用 `aerobeats.xyz`）、root 或 sudo 权限。
 
+### 3.0 境内部署顺序（重要）
+
+服务器在中国大陆（阿里云）时，**备案通过前阿里云会拦截该域名的 80/443 公网访问**。
+所以分两步走，你现在就能把第一步全部做完：
+
+- **现在可做（备案前）**：3.1 装软件 → 3.2 建库 → 3.3 拉代码 → 3.4 配 `.env`
+  → 3.5 建表/超管 → 3.6 gunicorn+systemd → 3.7 nginx(HTTP) → 3.9 防火墙+**阿里云安全组**
+  → 3.8 的「DNS 解析」部分。全程在**服务器本机**用 `curl http://127.0.0.1/health` 验证。
+- **备案通过后**：3.8 的「Let's Encrypt HTTPS」部分（certbot 需要 80 端口可达，必须等备案放行），
+  然后从线上站点做端到端验证。
+
+> 备案要 1–3 周，建议**先按上面把服务部署好、本机测通**，再去提交备案，两不耽误。
+
 ### 3.1 安装基础软件
+
+Debian / Ubuntu 通用：
 
 ```bash
 sudo apt update
-sudo apt install -y python3 python3-venv python3-pip postgresql nginx
+sudo apt install -y python3 python3-venv python3-pip postgresql nginx certbot python3-certbot-nginx
 ```
 
-确认 Python ≥ 3.11：`python3 --version`。
+确认 Python ≥ 3.11：`python3 --version`（Debian 12 自带 3.11，Debian 11 是 3.9，
+需自行装 3.11，例如用 `apt install python3.11 python3.11-venv` 或 pyenv）。
+`certbot` 现在装好备用，备案后再用它签 HTTPS 证书。
 
 ### 3.2 创建 PostgreSQL 数据库和用户
 
@@ -199,31 +216,39 @@ sudo .venv/bin/gunicorn --bind 127.0.0.1:8000 --workers 2 wsgi:app
 sudo nano /etc/systemd/system/biopharma.service
 ```
 
-粘贴（注意 `User`/`Group` 改成你跑代码的用户；若代码在 `/opt` 且用 root 克隆，
-可保持 root，但更推荐建一个专用用户）：
+仓库里已备好服务文件 `server/deploy/biopharma.service`，直接复制过去即可
+（如果你没把代码放在 `/opt/BioPharma_Hub`，先改文件里的两处路径）：
+
+```bash
+sudo cp /opt/BioPharma_Hub/server/deploy/biopharma.service /etc/systemd/system/biopharma.service
+# 若代码不在 /opt/BioPharma_Hub，编辑里面的 WorkingDirectory 与 ExecStart 路径：
+# sudo nano /etc/systemd/system/biopharma.service
+```
+
+文件内容（供参考）：
 
 ```ini
 [Unit]
 Description=BioPharma Hub backend (gunicorn)
 After=network.target postgresql.service
+Wants=postgresql.service
 
 [Service]
-Type=notify
+Type=simple
 User=root
 Group=root
 WorkingDirectory=/opt/BioPharma_Hub/server
-EnvironmentFile=/opt/BioPharma_Hub/server/.env
-ExecStart=/opt/BioPharma_Hub/server/.venv/bin/gunicorn \
-    --bind 127.0.0.1:8000 \
-    --workers 2 \
-    --timeout 60 \
-    wsgi:app
+ExecStart=/opt/BioPharma_Hub/server/.venv/bin/gunicorn --bind 127.0.0.1:8000 --workers 2 --timeout 60 wsgi:app
 Restart=on-failure
 RestartSec=3
 
 [Install]
 WantedBy=multi-user.target
 ```
+
+> 说明：用 `Type=simple` 最稳（`Type=notify` 在部分 gunicorn 版本会因收不到就绪通知而启动超时）。
+> 应用通过 python-dotenv 按绝对路径自动读取 `server/.env`，所以**不需要** `EnvironmentFile`。
+> 以 root 运行最省事；若想更安全，可建专用用户并改 `User`/`Group`，同时确保该用户能读代码与 `.env`。
 
 启用并启动：
 
@@ -234,20 +259,32 @@ sudo systemctl start biopharma
 sudo systemctl status biopharma     # 应显示 active (running)
 ```
 
-> gunicorn 的 `Type=notify` 需要较新版本；若启动报错，把 `Type=notify`
-> 改成 `Type=simple` 再 `daemon-reload` + `restart`。
+本机自测（不经 nginx，直接打 gunicorn）：
+
+```bash
+curl http://127.0.0.1:8000/health
+# 期望：{"db":"postgresql","ok":true,"service":"biopharma-hub-backend"}
+```
 
 ### 3.7 nginx 反向代理
 
+仓库里已备好站点配置 `server/deploy/nginx-biopharma.conf`（先只跑 HTTP，备案后 certbot 会自动加 HTTPS）：
+
 ```bash
-sudo nano /etc/nginx/sites-available/biopharma
+sudo cp /opt/BioPharma_Hub/server/deploy/nginx-biopharma.conf /etc/nginx/sites-available/biopharma
+# 若子域名不是 hubapi.aerobeats.xyz，改里面的 server_name：
+# sudo nano /etc/nginx/sites-available/biopharma
+sudo ln -s /etc/nginx/sites-available/biopharma /etc/nginx/sites-enabled/
+sudo nginx -t          # 应显示 syntax ok / test successful
+sudo systemctl reload nginx
 ```
 
-粘贴（`server_name` 换成你的子域名）：
+配置内容（供参考）：
 
 ```nginx
 server {
     listen 80;
+    listen [::]:80;
     server_name hubapi.aerobeats.xyz;
 
     location / {
@@ -260,67 +297,126 @@ server {
 }
 ```
 
-启用站点：
+本机自测（经 nginx）：
 
 ```bash
-sudo ln -s /etc/nginx/sites-available/biopharma /etc/nginx/sites-enabled/
-sudo nginx -t          # 测试配置，应显示 syntax ok / test successful
-sudo systemctl reload nginx
+curl -H "Host: hubapi.aerobeats.xyz" http://127.0.0.1/health
+# 期望同上的 JSON。备案前从公网访问会被阿里云拦截，本机测通即可。
 ```
 
-### 3.8 Cloudflare 子域名 + HTTPS
+### 3.8 DNS 解析 + HTTPS（Let's Encrypt）
 
-1. 登录 Cloudflare → 选择 `aerobeats.xyz` → **DNS** → **Add record**：
-   - Type: `A`，Name: `hubapi`，Content: `你的服务器公网IP`，
-   - **Proxy status: Proxied（橙色云朵）**。这样流量走 Cloudflare，自动给免费 SSL，
-     并隐藏你的真实服务器 IP。
-2. **SSL/TLS** 模式设为 **Full** 或 **Full (strict)**。
-   - 用 Cloudflare 源证书（Origin Certificate）放在 nginx 上可用 **Full (strict)**；
-   - 若 nginx 只监听 80（HTTP），Cloudflare 到源站这段用 **Full** 即可
-     （浏览器到 Cloudflare 仍是 HTTPS）。最稳妥：给 nginx 也配上证书走 443。
-3. 等 DNS 生效（通常几分钟），浏览器访问 `https://hubapi.aerobeats.xyz/health`
-   应返回 `{"ok":true,"service":"biopharma-hub-backend","db":"postgresql"}`。
+境内服务器**不要用 Cloudflare 橙云代理**（会和备案冲突、且境内访问绕境外更慢）。
+正确做法：域名直接解析到阿里云 IP + 用 Let's Encrypt 免费证书。
+
+**第一步：DNS 解析（现在就能做，备案也需要它）**
+
+你的 `aerobeats.xyz` DNS 托管在 Cloudflare，去 Cloudflare 加一条记录：
+
+- 登录 Cloudflare → 选 `aerobeats.xyz` → **DNS** → **Add record**：
+  - Type: `A`，Name: `hubapi`，Content: `你的阿里云公网IP`
+  - **Proxy status: DNS only（灰色云朵）** ← 关键！灰云 = 只解析不代理，
+    域名直接指向阿里云 IP，备案核验才认；橙云会指向 Cloudflare，备案过不了。
+
+等几分钟，验证解析：
+
+```bash
+nslookup hubapi.aerobeats.xyz   # 期望返回你的阿里云公网 IP
+```
+
+**第二步：HTTPS 证书（备案通过后再做）**
+
+备案通过、阿里云放行 80/443 后，用 certbot 一条命令签证书并自动改好 nginx：
+
+```bash
+sudo certbot --nginx -d hubapi.aerobeats.xyz
+# 按提示填邮箱、同意条款；选「把 HTTP 重定向到 HTTPS」(通常按 2)。
+# certbot 会自动改 /etc/nginx/sites-available/biopharma 加上 443，并装好自动续期。
+```
+
+验证自动续期（证书 90 天有效，certbot 定时自动续）：
+
+```bash
+sudo certbot renew --dry-run
+```
+
+然后浏览器访问，应返回后端 JSON：
+
+```
+https://hubapi.aerobeats.xyz/health
+→ {"ok":true,"service":"biopharma-hub-backend","db":"postgresql"}
+```
 
 > 前端 `web/auth.js` 里的生产地址是 `https://hubapi.aerobeats.xyz`。
-> 如果你的子域名不是这个，改 `auth.js` 顶部的 `PROD_API` 常量即可。
+> 如果你的子域名不是这个，改 `auth.js` 顶部的 `PROD_API` 常量即可（改完前端要重新部署）。
 
-### 3.9 防火墙
+> 为什么备案前不能签证书：certbot 默认用 HTTP-01 验证，需要 Let's Encrypt 从公网访问
+> `http://hubapi.aerobeats.xyz/.well-known/...`，而备案前阿里云拦截 80，验证会失败。
+> 真想在备案前备好证书，可改用 DNS-01（`certbot-dns-cloudflare` 插件，走 Cloudflare API
+> 加 TXT 记录验证，不需要 80 端口）——但通常没必要，等备案后签最省事。
 
-只开放必要端口（SSH / HTTP / HTTPS）。PostgreSQL 只监听本机，不对外。
+### 3.9 防火墙（两层都要放行）
+
+阿里云有**两道**防火墙，新手最常栽在这里——只开了系统防火墙、忘了控制台安全组，
+结果本机 curl 通、公网就是访问不了。**两道都要放行 22 / 80 / 443。**
+
+**第一道：阿里云安全组（在控制台点，不是命令）**
+
+1. 阿里云控制台 → ECS → 你的实例 → **安全组** → 配置规则 → **入方向** → 手动添加：
+   - `22/TCP`（SSH，授权对象建议限制成你自己的 IP，更安全）
+   - `80/TCP`（HTTP，授权对象 `0.0.0.0/0`）
+   - `443/TCP`（HTTPS，授权对象 `0.0.0.0/0`）
+2. **不要**放行 `5432`（PostgreSQL）和 `8000`（gunicorn）——它们只在本机用。
+
+**第二道：服务器系统防火墙 ufw**
 
 ```bash
 sudo ufw allow OpenSSH
 sudo ufw allow 'Nginx Full'   # 同时放行 80 和 443
 sudo ufw enable
-sudo ufw status
+sudo ufw status               # 确认 22/80/443 为 ALLOW
 ```
 
-确认 PostgreSQL 只绑本机：`sudo nano /etc/postgresql/*/main/postgresql.conf`，
-`listen_addresses = 'localhost'`（默认即是）。**不要**把 5432 暴露到公网。
+> 务必先确认 SSH(22) 已放行再 `ufw enable`，否则可能把自己锁在门外。
+
+**PostgreSQL 只绑本机**：`sudo nano /etc/postgresql/*/main/postgresql.conf`，
+确认 `listen_addresses = 'localhost'`（Debian 默认即是）。**绝不**把 5432 暴露公网。
 
 ---
 
-## 4. 网站要备案吗？（境内 / 境外两种情况）
+## 4. ICP 备案（境内阿里云，必做）
 
-**取决于你的服务器物理位置，不是域名注册商。**
+你的服务器在**中国大陆（阿里云）**，绑定公网域名 `aerobeats.xyz` **必须做 ICP 备案**，
+否则阿里云会拦截该域名的 80/443，公网访问不了。**部署可以现在做完，备案随后提交。**
 
-### 情况 A：服务器在中国大陆（阿里云 / 腾讯云 / 华为云等）
+### 备案前准备
 
-- **必须做 ICP 备案**，否则运营商会拦截 80/443 端口，网站无法公网访问。
-- 对 `aerobeats.xyz` 做**非经营性 ICP 备案**：通过你的服务器厂商后台提交
-  （ they 代提交到管局），一般需要 **1–3 周**。
-- 备案通过后 **30 天内**还要做**公安联网备案**（全国互联网安全管理服务平台）。
-- 备案期间网站不能解析到大陆服务器对外服务。建议：先用境外服务器上线，
-  备案下来后再迁回大陆。
+- 域名 `aerobeats.xyz` 已实名（在域名注册商处完成实名认证）。
+- 已按 3.8 把 `hubapi` 用 **Cloudflare 灰云（DNS only）** 解析到阿里云公网 IP
+  （管局/阿里云会核验域名确实指向你这台阿里云服务器）。
+- 阿里云 ECS 为**包年包月**且剩余时长 ≥ 3 个月（按量付费实例通常不能备案）。
+- 备好：身份证、手机号、邮箱；个人备案需本人核验（阿里云 App 拍照 / 人脸识别）。
 
-### 情况 B：服务器在境外（含中国香港 / 新加坡 / 美国等）
+### 提交备案（走阿里云）
 
-- **不需要 ICP 备案**。域名解析到境外服务器即可直接公网访问。
-- 注意：境内访问境外服务器速度可能较慢；若主要用户在境内，长期看仍建议
-  迁到大陆服务器并完成备案。
+1. 阿里云控制台搜「**ICP 备案**」→ 进入备案系统（beian.aliyun.com）→ 开始备案。
+2. 主体信息选「**个人**」（你是个人开发者；以后若用公司主体再改企业备案）。
+3. 网站信息：填 `aerobeats.xyz`，服务内容选「非经营性」。
+4. 阿里云会给你一个**备案服务号**（每台符合条件的 ECS 可申请），按提示填入。
+5. 上传证件、完成本人核验 → 提交阿里云初审（1–2 个工作日）→ 阿里云代提交管局。
+6. 管局审核一般 **1–3 周**（各省不同），期间保持手机畅通，可能接到核验电话。
+7. 通过后拿到**备案号**（如「某ICP备XXXXXXXX号」）。
 
-> 你目前用的是哪种服务器？告诉我位置，我可以把上面不适用的分支删掉，
-> 只保留你要走的那条，并给出对应厂商的备案 / 解析具体步骤。
+### 备案通过后
+
+- **30 天内**做**公安联网备案**：登录「全国互联网安全管理服务平台」
+  （beian.mps.gov.cn）按指引提交，拿到公安备案号。
+- 按 3.8 第二步用 certbot 开 HTTPS。
+- 备案号建议放在前端站点页脚（管局要求网站底部展示备案号并链接到工信部系统）。
+
+> 备案期间这台服务器的域名公网访问被拦属正常。可先在**服务器本机**用
+> `curl http://127.0.0.1/health` 确认服务正常，备案通过后立即对外可用。
+> 现有 GitHub Pages 站点与 Cloudflare Worker（`api.aerobeats.xyz`）都在境外，不受影响、无需备案。
 
 ---
 
@@ -410,13 +506,14 @@ sudo -u postgres pg_dump biopharma_hub > /backup/biopharma_hub_$(date +%F).sql
 
 | 现象 | 排查 |
 |------|------|
-| 前端提示「无法连接服务器」 | 后端没起 / 端口不对 / Cloudflare 没代理。`curl https://hubapi.aerobeats.xyz/health` 看是否通。 |
+| 前端提示「无法连接服务器」 | 后端没起 / DNS 没解析到阿里云 IP / 没备案被拦。先 `curl https://hubapi.aerobeats.xyz/health`，再在服务器本机 `curl http://127.0.0.1/health` 逐层定位。 |
 | 浏览器控制台 CORS 报错 | `.env` 的 `ALLOWED_ORIGINS` 没包含前端来源。加上 `https://aerobeats.github.io` 后重启。 |
 | 登录返回 401 / 令牌失效 | `JWT_SECRET` 改过（旧令牌作废，重新登录即可）；或账号被禁用 / 删除。 |
 | 500 数据库错误 | 看 `journalctl -u biopharma -f`。常见：`.env` 里 `DATABASE_URL` 密码错、PostgreSQL 没起、库没建。 |
 | `init_admin` 报连接失败 | PostgreSQL 服务没起（`sudo systemctl start postgresql`）或 `.env` 数据库配置错。 |
 | nginx 502 Bad Gateway | gunicorn 没在 8000 端口跑。`sudo systemctl status biopharma`，看 `journalctl`。 |
-| 公网访问不了但本机能访问 | 防火墙没放行（`sudo ufw status`）；或大陆服务器没备案被拦截（见第 4 节）。 |
+| 公网访问不了但本机能访问 | ① 阿里云**安全组**没放行 80/443（最常见，见 3.9）② ufw 没放行（`sudo ufw status`）③ 域名没用**灰云**解析到阿里云 IP（见 3.8）④ 没备案被阿里云拦截（见第 4 节）。 |
+| certbot 签证书失败 | 多为备案前 80 被拦（HTTP-01 验证不通）→ 等备案后再签；或 DNS 没解析到本机、安全组没放行 80。 |
 
 ---
 
@@ -437,6 +534,9 @@ server/
 ├── smoke_test.py     # 后端自检（47 项断言）
 ├── requirements.txt  # Python 依赖
 ├── .env.example      # 配置模板（复制成 .env 填写，.env 不入库）
+├── deploy/
+│   ├── biopharma.service     # systemd 服务模板 → 复制到 /etc/systemd/system/
+│   └── nginx-biopharma.conf  # nginx 站点模板 → 复制到 /etc/nginx/sites-available/
 └── routes/
     ├── auth.py       # 注册 / 登录 / me
     ├── orgs.py       # 组织 CRUD / 加入 / 成员管理
