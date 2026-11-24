@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-24T00:45:34.748226+00:00",
+  "updatedAt": "2026-11-24T10:50:47.495584+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,13 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?": "STAT+：人工智能可以分析X光片和CT扫描结果，以起草放射影像报告。它是否能让医疗服务变得更好、更安全？",
+    "Opinion: Why medical students should keep going to class": "观点：为什么医学院学生应该坚持上课",
+    "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often": "观点：基因组检测过于分散。相反，我们应该只检测一次，但要经常评估",
+    "How artificial intelligence is offering new hope for stroke patients in the Last Frontier": "人工智能如何为阿拉斯加州中风患者带来新希望",
+    "Sanofi to buy Insmed for $41B in industry's largest acquisition in years": "赛诺菲将以410亿美元收购Insmed，这是该行业近年来最大的一笔收购交易",
+    "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines": "STAT+：赛诺菲将以410亿美元收购Insmed，并获得两种肺病药物",
+    "CMS reveals Medicare's negotiated drug prices for 2028": "CMS 公布了 Medicare 2028 年的药品议价价格",
     "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices": "STAT+：Medicare 预计第三轮药品价格谈判将节省 92 亿美元",
     "Poxvirus Machinery Mapped with Electron Microscopy Shows “Paired Engines”": "通过电子显微镜绘制的痘病毒机制显示出“成对引擎”",
     "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio": "STAT+：肢带型肌营养不良症迎来了首款获FDA批准的药物，该药物由BridgeBio开发",
@@ -98,20 +105,97 @@
     "Microplastics may be more dangerous than we thought. Scientists just discovered why": "微塑料可能比我们想象的更危险。科学家刚刚发现了原因",
     "Capricor's Duchenne therapy is rejected again, as FDA cites significant issues with trial": "Capricor的杜氏肌营养不良症疗法再次被拒，FDA指出试验存在重大问题",
     "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming": "STAT+：FDA拒绝批准Capricor Therapeutics的杜氏肌营养不良症治疗药物，这一决定早已在意料之中",
-    "ICE detention of Princeton scientist rattles academia": "移民和海关执法局（ICE）拘留普林斯顿科学家，令学术界感到震惊",
-    "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves": "STAT+：MAHA 的智库是否陷入困境？税务申报显示储备金较低",
     "Will the first approved psychedelic become a blockbuster?": "首款获批的迷幻药物会成为重磅药物吗？",
     "More lawmakers stake out stances on China biotech investment": "更多立法者就中国生物技术投资表明立场",
-    "PTSD Brain DNA Methylation Patterns Linked to Age of Trauma Exposure, Sex, and Ethnicity": "与创伤暴露年龄、性别和种族相关的PTSD大脑DNA甲基化模式",
-    "Immune Aging Study in Mice Reveals Clues to T Cell Dysfunction and Cancer Development": "小鼠免疫衰老研究揭示了T细胞功能障碍与癌症发展的线索",
-    "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases": "STAT+：Medicare将试点“食物即良药”和其他生活方式项目，以对抗慢性疾病",
-    "Erasca data add to pressure facing Revolution’s breakthrough cancer drug": "Erasca的数据加剧了Revolution突破性抗癌药物所面临的压力",
-    "Pharma layoffs continue in New Jersey; Bausch + Lomb drug misses endpoint": "新泽西州制药公司裁员仍在继续；博士伦的药物未达到终点指标",
-    "KRAS at Triple Meeting: Erasca wants to one-up RevMed, while Alterome tries a different approach": "KRAS在三方会晤中：Erasca希望超越RevMed，而Alterome则尝试不同的方法"
+    "PTSD Brain DNA Methylation Patterns Linked to Age of Trauma Exposure, Sex, and Ethnicity": "与创伤暴露年龄、性别和种族相关的PTSD大脑DNA甲基化模式"
   },
   "items": [
     {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
+      "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
+      "titleZh": "STAT+：人工智能可以分析X光片和CT扫描结果，以起草放射影像报告。它是否能让医疗服务变得更好、更安全？",
+      "link": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
+      "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
+      "publishedAt": "2026-11-24T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Opinion: Why medical students should keep going to class",
+      "titleZh": "观点：为什么医学院学生应该坚持上课",
+      "link": "https://www.statnews.com/2026/11/24/medical-school-class-attendance-why-i-keep-going/?utm_campaign=rss",
+      "summary": "“Attending lectures in person has become … the most powerful way I take care of my mental health,” medical student Brian Zhang writes.",
+      "publishedAt": "2026-11-24T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
+      "title": "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often",
+      "titleZh": "观点：基因组检测过于分散。相反，我们应该只检测一次，但要经常评估",
+      "link": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/?utm_campaign=rss",
+      "summary": "“It’s time to consolidate testing by sequencing genomes once and reevaluating them when needed,” a genetic counselor writes.",
+      "publishedAt": "2026-11-24T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
+      "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
+      "titleZh": "人工智能如何为阿拉斯加州中风患者带来新希望",
+      "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/?utm_campaign=rss",
+      "summary": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care, faster.",
+      "publishedAt": "2026-11-24T09:30:00+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Sanofi to buy Insmed for $41B in industry's largest acquisition in years",
+      "titleZh": "赛诺菲将以410亿美元收购Insmed，这是该行业近年来最大的一笔收购交易",
+      "link": "https://endpoints.news/sanofi-to-buy-insmed-for-41b-in-industrys-largest-acquisition-in-years/",
+      "summary": "Sanofi has made it official: The French pharma plans to acquire Insmed for $41 billion in cash, marking the first megadeal in the biopharma industry since Pfizer's $43 billion takeover of ...",
+      "publishedAt": "2026-11-24T08:20:00+00:00"
+    },
+    {
+      "id": "stat-news-4",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
+      "titleZh": "STAT+：赛诺菲将以410亿美元收购Insmed，并获得两种肺病药物",
+      "link": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
+      "summary": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
+      "publishedAt": "2026-11-24T07:54:44+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "研发",
+      "title": "CMS reveals Medicare's negotiated drug prices for 2028",
+      "titleZh": "CMS 公布了 Medicare 2028 年的药品议价价格",
+      "link": "https://endpoints.news/cms-reveals-medicares-negotiated-drug-prices-for-2028/",
+      "summary": "The US government announced final prices for 13 drugs selected for the third round of Medicare negotiations, including Eli Lilly’s GLP-1 Trulicity and Gilead’s HIV drug Biktarvy. The Centers for Medicare ...",
+      "publishedAt": "2026-11-24T00:48:57+00:00"
+    },
+    {
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +219,7 @@
       "publishedAt": "2026-11-23T23:50:24+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -171,7 +255,7 @@
       "publishedAt": "2026-11-23T20:55:58+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +267,7 @@
       "publishedAt": "2026-11-23T19:50:42+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +279,7 @@
       "publishedAt": "2026-11-23T19:13:17+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +291,7 @@
       "publishedAt": "2026-11-23T18:30:25+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +303,7 @@
       "publishedAt": "2026-11-23T18:05:58+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -243,7 +327,7 @@
       "publishedAt": "2026-11-23T16:17:09+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -255,7 +339,7 @@
       "publishedAt": "2026-11-23T16:00:13+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +351,7 @@
       "publishedAt": "2026-11-23T15:51:54+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -279,7 +363,7 @@
       "publishedAt": "2026-11-23T15:43:01+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +375,7 @@
       "publishedAt": "2026-11-23T14:43:21+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +387,7 @@
       "publishedAt": "2026-11-23T14:38:08+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +399,7 @@
       "publishedAt": "2026-11-23T13:04:19+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +411,7 @@
       "publishedAt": "2026-11-23T12:01:00+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +423,7 @@
       "publishedAt": "2026-11-23T12:00:56+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +435,7 @@
       "publishedAt": "2026-11-23T12:00:11+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +495,7 @@
       "publishedAt": "2026-11-23T10:00:00+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -423,7 +507,7 @@
       "publishedAt": "2026-11-23T09:37:17+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -435,7 +519,7 @@
       "publishedAt": "2026-11-23T09:30:00+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +531,7 @@
       "publishedAt": "2026-11-23T09:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +543,7 @@
       "publishedAt": "2026-11-23T09:30:00+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +555,7 @@
       "publishedAt": "2026-11-23T09:30:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -639,7 +723,7 @@
       "publishedAt": "2026-11-21T15:24:58+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +735,7 @@
       "publishedAt": "2026-11-21T12:00:00+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -663,7 +747,7 @@
       "publishedAt": "2026-11-21T11:00:41+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -687,7 +771,7 @@
       "publishedAt": "2026-11-21T02:35:26+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,7 +783,7 @@
       "publishedAt": "2026-11-21T01:11:10+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -709,30 +793,6 @@
       "link": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
       "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
       "publishedAt": "2026-11-20T23:43:53+00:00"
-    },
-    {
-      "id": "stat-news-15",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "ICE detention of Princeton scientist rattles academia",
-      "titleZh": "移民和海关执法局（ICE）拘留普林斯顿科学家，令学术界感到震惊",
-      "link": "https://www.statnews.com/2026/11/20/princeton-researcher-eva-yi-xie-ice-detention-rattles-interational-scholars/?utm_campaign=rss",
-      "summary": "A graduate student who is a scientific researcher at Princeton was detained by ICE while traveling home after presenting at a neuroscience conference.",
-      "publishedAt": "2026-11-20T21:19:27+00:00"
-    },
-    {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
-      "titleZh": "STAT+：MAHA 的智库是否陷入困境？税务申报显示储备金较低",
-      "link": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
-      "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
-      "publishedAt": "2026-11-20T20:26:10+00:00"
     },
     {
       "id": "biopharma-dive-3",
@@ -747,7 +807,7 @@
       "publishedAt": "2026-11-20T19:53:09+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -777,22 +837,10 @@
       "lang": "en",
       "category": "审批",
       "title": "Immune Aging Study in Mice Reveals Clues to T Cell Dysfunction and Cancer Development",
-      "titleZh": "小鼠免疫衰老研究揭示了T细胞功能障碍与癌症发展的线索",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/cancer/immune-aging-study-in-mice-reveals-clues-to-t-cell-dysfunction-and-cancer-development/",
       "summary": "Age-related changes in CD8+ T cells may hold important clues to understanding cancer immunity, with new findings revealing distinct chromatin signatures of dysfunction and the emergence of a unique regulatory population. The post Immune Aging Study in Mice Reveals Clues to T Cell Dysfunction and Can",
       "publishedAt": "2026-11-20T19:04:09+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
-      "titleZh": "STAT+：Medicare将试点“食物即良药”和其他生活方式项目，以对抗慢性疾病",
-      "link": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/?utm_campaign=rss",
-      "summary": "Medicare does not cover many of the lifestyle interventions that could keep people from getting sick in the first place.",
-      "publishedAt": "2026-11-20T19:04:04+00:00"
     },
     {
       "id": "biopharma-dive-4",
@@ -801,49 +849,37 @@
       "lang": "en",
       "category": "研发",
       "title": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug",
-      "titleZh": "Erasca的数据加剧了Revolution突破性抗癌药物所面临的压力",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/erasca-kras-pancreatic-cancer-drug-results-revolution-rasonque/875314/",
       "summary": "Rasonque is already off to one of the best oncology launches in history. But certain limitations leave an opportunity that companies like Erasca&nbsp;&mdash; which is nearing the start of a Phase 3 trial&nbsp;&mdash;&nbsp;may be able to exploit.&nbsp;",
       "publishedAt": "2026-11-20T17:18:00+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "研发",
       "title": "Pharma layoffs continue in New Jersey; Bausch + Lomb drug misses endpoint",
-      "titleZh": "新泽西州制药公司裁员仍在继续；博士伦的药物未达到终点指标",
+      "titleZh": "",
       "link": "https://endpoints.news/pharma-layoffs-continue-in-new-jersey-bausch-lomb-drug-misses-endpoint/",
       "summary": "Plus news about GSK, BioVersys, United Therapeutics and Savara. New Jersey pharma layoffs continue: Novo will lay off 215 workers in Plainsboro, taking effect in February 2027, according to a November",
       "publishedAt": "2026-11-20T16:37:46+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "研发",
       "title": "KRAS at Triple Meeting: Erasca wants to one-up RevMed, while Alterome tries a different approach",
-      "titleZh": "KRAS在三方会晤中：Erasca希望超越RevMed，而Alterome则尝试不同的方法",
+      "titleZh": "",
       "link": "https://endpoints.news/kras-at-triple-meeting-erasca-wants-to-one-up-revmed-while-alterome-tries-a-different-approach/",
       "summary": "Revolution Medicines posted strong data on its targeted pancreatic cancer drug Thursday evening, but competition is building at every turn in the KRAS field. RevMed’s game-changing pan-RAS drug Rasonque (daraxonrasib) alongside ...",
       "publishedAt": "2026-11-20T16:22:25+00:00"
     },
     {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Up and down the ladder: The latest comings and goings",
-      "titleZh": "",
-      "link": "https://www.statnews.com/pharmalot/2026/11/20/up-and-down-the-ladder-latest-comings-and-goings-jobs-2/?utm_campaign=rss",
-      "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-      "publishedAt": "2026-11-20T15:52:19+00:00"
-    },
-    {
-      "id": "endpoints-16",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -853,18 +889,6 @@
       "link": "https://endpoints.news/merck-gets-another-phase-3-win-for-sac-tmt-this-time-in-gastric-cancer/",
       "summary": "An experimental antibody-drug conjugate from Merck has succeeded in another Phase 3 cancer study, potentially helping offset Keytruda's looming patent cliff. Merck said Friday morning that a pivotal trial testing sacituzumab ...",
       "publishedAt": "2026-11-20T15:31:58+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
-      "titleZh": "",
-      "link": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/?utm_campaign=rss",
-      "summary": "Sanofi weighs an Insmed takeover, the FDA slams J&#038;J over misleading bladder cancer drug claims, and more pharma news:",
-      "publishedAt": "2026-11-20T14:16:35+00:00"
     },
     {
       "id": "biopharma-dive-5",
@@ -891,7 +915,7 @@
       "publishedAt": "2026-11-20T12:44:39+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -901,18 +925,6 @@
       "link": "https://endpoints.news/celldex-culls-eczema-drug-after-phase-2-failure/",
       "summary": "Celldex Therapeutics is dropping its monoclonal antibody as a therapy for eczema after the drug flunked a mid-stage study. The drug, called barzolvolimab, failed to reduce itching in patients with eczema compared with placebo after ...",
       "publishedAt": "2026-11-20T12:36:09+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "CNS dispatches from Jefferies: Acadia’s search for deals, Alto’s psychiatry question and ProMIS’ Alzheimer’s ambitions",
-      "titleZh": "",
-      "link": "https://endpoints.news/cns-dispatches-from-jefferies-acadias-search-for-deals-altos-psychiatry-question-and-promis-alzheimers-ambitions/",
-      "summary": "The chaotic environs of this year’s Jefferies Healthcare conference, held earlier this week in London, attracted a number of drugmakers active in the central nervous system (CNS) and psychiatry space. Endpoints News ...",
-      "publishedAt": "2026-11-20T12:11:57+00:00"
     },
     {
       "id": "science-daily-health-19",
@@ -937,18 +949,6 @@
       "link": "https://www.genengnews.com/topics/genome-editing/genome-writing-inserts-human-x-linked-disease-dna-into-mice/",
       "summary": "By swapping 78 kilobases of human DNA into mice, researchers recreated key features of X-linked dystonia-parkinsonism and showed that boosting TAF1 expression may counter some cellular effects. The post Genome Writing Inserts Human X-Linked Disease DNA Into Mice appeared first on GEN - Genetic Engin",
       "publishedAt": "2026-11-20T12:03:02+00:00"
-    },
-    {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "Teva on the hunt for new R&D head; Summit's rejection came after commercial chief's exit",
-      "titleZh": "",
-      "link": "https://endpoints.news/teva-on-the-hunt-for-new-r-summits-rejection-came-after-commercial-chiefs-exit/",
-      "summary": "→ Teva’s global R&amp;D leader and CMO Eric Hughes has stepped down and David Gardiner is replacing him on an interim basis. Hughes came to Teva in 2022 from Vertex, where he was SVP of ...",
-      "publishedAt": "2026-11-20T12:00:46+00:00"
     },
     {
       "id": "biopharma-dive-6",
@@ -1076,6 +1076,18 @@
       "sourceId": "nature-biotech",
       "lang": "en",
       "category": "研发",
+      "title": "Modular mRNA-encoded helper proteins enhance DNA delivery",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41587-026-03351-6",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-biotech-1",
+      "source": "Nature Biotechnology",
+      "sourceId": "nature-biotech",
+      "lang": "en",
+      "category": "研发",
       "title": "A unified framework for scalable differential testing for spatial omics",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03284-0",
@@ -1083,7 +1095,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-1",
+      "id": "nature-biotech-2",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1095,7 +1107,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-2",
+      "id": "nature-biotech-3",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1107,7 +1119,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-3",
+      "id": "nature-biotech-4",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1119,7 +1131,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-4",
+      "id": "nature-biotech-5",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1131,7 +1143,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-5",
+      "id": "nature-biotech-6",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1143,7 +1155,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-biotech-6",
+      "id": "nature-biotech-7",
       "source": "Nature Biotechnology",
       "sourceId": "nature-biotech",
       "lang": "en",
@@ -1151,18 +1163,6 @@
       "title": "China plans ban on biotech exports",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41587-026-03397-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-biotech-7",
-      "source": "Nature Biotechnology",
-      "sourceId": "nature-biotech",
-      "lang": "en",
-      "category": "研发",
-      "title": "UK Biobank adds immune and brain health layers",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41587-026-03388-7",
       "summary": "",
       "publishedAt": ""
     },
