@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-24T10:50:47.495584+00:00",
+  "updatedAt": "2026-11-24T21:06:17.385467+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,13 +48,32 @@
   ],
   "failedSources": [],
   "translations": {
-    "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?": "STAT+：人工智能可以分析X光片和CT扫描结果，以起草放射影像报告。它是否能让医疗服务变得更好、更安全？",
+    "Alzheimer’s Study Shows Gal3 Shapes Aβ Remodeling and Microglial Responses": "阿尔茨海默病研究表明，Gal3塑造Aβ重塑和小胶质细胞反应",
+    "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination": "STAT+：罗伯特·肯尼迪·朱尼尔公开了他的日程安排，但仍有许多内容留待想象",
+    "Drug Developers Should Treat AI as an Operating Model, From Target to Trial": "药物开发者应将人工智能视为一种运营模式，从靶点到临床试验全程应用",
+    "With Planned $41B Insmed Acquisition, Sanofi Inks Year’s Biggest M&A Deal": "随着计划以410亿美元收购Insmed，赛诺菲达成了今年最大的一笔并购交易",
+    "Drug labels must flag accelerated approval to patients, FDA says": "FDA表示，药品标签必须向患者标明加速批准",
+    "Sanofi makes a huge bet on life after Dupixent": "赛诺菲在度普利尤单抗之后对未来下大赌注",
+    "FDA approves BridgeBio muscular dystrophy drug": "FDA批准BridgeBio的肌营养不良症药物",
+    "Pharming eyes deals, awaits leniolisib readout as it looks for new CEO": "Pharming 正在物色收购目标，等待 Leniolisib 的数据结果，同时也在寻找新任首席执行官",
+    "Consumers’ changing relationships with blood testing": "消费者与血液检测之间不断变化的关系",
+    "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data": "Kymera 创纪录的 17.5 亿美元募股；DiaMedica 的胎儿生长受限数据",
+    "#SABCS26: Novartis, J&J unveil breast cancer data from biotech buyouts": "#SABCS26：诺华和强生公布生物技术收购的乳腺癌数据",
+    "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more": "STAT+：Pharmalittle：我们正在阅读有关赛诺菲收购Insmed、罗氏推销其乳腺癌药物等内容",
+    "STAT+: Roche’s potential breast cancer blockbuster drug wins second FDA nod": "STAT+：罗氏的潜在乳腺癌重磅药物获得FDA的第二次批准",
+    "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026": "STAT+：阿拉斯加州医院使用人工智能改善中风护理，肽类药物成为主流，以及2026年北美放射学会年会",
+    "Menopause hormone therapy med popularity increases 141% compared to previous years": "与前几年相比，更年期激素治疗药物的受欢迎程度提高了141%",
+    "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database": "STAT+：美国食品药品监督管理局（FDA）罕见地指责两家制药公司未将临床试验结果上报至数据库",
+    "Cannabis users develop psychosis years earlier, and the gap grows with age": "大麻使用者比其他人早几年出现精神病症状，且随着年龄的增长，这种差距会越来越大",
+    "Scientists discover a new type of depression that common antidepressants struggle to treat": "科学家发现了一种新型抑郁症，常见的抗抑郁药难以对其进行治疗",
     "Opinion: Why medical students should keep going to class": "观点：为什么医学院学生应该坚持上课",
     "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often": "观点：基因组检测过于分散。相反，我们应该只检测一次，但要经常评估",
+    "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?": "STAT+：人工智能可以分析X光片和CT扫描结果，以起草放射影像报告。它是否能让医疗服务变得更好、更安全？",
     "How artificial intelligence is offering new hope for stroke patients in the Last Frontier": "人工智能如何为阿拉斯加州中风患者带来新希望",
     "Sanofi to buy Insmed for $41B in industry's largest acquisition in years": "赛诺菲将以410亿美元收购Insmed，这是该行业近年来最大的一笔收购交易",
     "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines": "STAT+：赛诺菲将以410亿美元收购Insmed，并获得两种肺病药物",
     "CMS reveals Medicare's negotiated drug prices for 2028": "CMS 公布了 Medicare 2028 年的药品议价价格",
+    "Depression may be an early warning sign of Alzheimer's disease": "抑郁症可能是阿尔茨海默病的早期预警信号",
     "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices": "STAT+：Medicare 预计第三轮药品价格谈判将节省 92 亿美元",
     "Poxvirus Machinery Mapped with Electron Microscopy Shows “Paired Engines”": "通过电子显微镜绘制的痘病毒机制显示出“成对引擎”",
     "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio": "STAT+：肢带型肌营养不良症迎来了首款获FDA批准的药物，该药物由BridgeBio开发",
@@ -69,6 +88,7 @@
     "House committee issues final report on US-China biotech race": "众议院委员会发布关于中美生物技术竞赛的最终报告",
     "Arcus stops Phase 3 study of CD73 inhibitor; Novartis' Leqvio eases heart event risk": "Arcus 终止 CD73 抑制剂的 3 期研究；诺华的 Leqvio 降低心脏事件风险",
     "Avenzo begins public life, seeks to rival Bristol Myers' EGFRxHER3 bispecific": "Avenzo 开始公开运营，力争与 Bristol Myers 的 EGFRxHER3 双特异性抗体竞争",
+    "Kymera eczema pill meets goals in mid-stage trial": "Kymera湿疹药物在中期试验中达到目标",
     "STAT+: A big win for a potential competitor for Dupixent eczema treatment": "STAT+：对于Dupixent湿疹治疗的潜在竞争对手来说，这是一场大胜利",
     "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more": "STAT+：Pharmalittle：我们正在阅读有关Capricor的杜氏肌营养不良症药物、礼来2026年的第15次收购等内容",
     "At first preventive services panel meeting in more than a year, votes are cast in private": "在一年多来首次举行的预防服务小组会议上，投票以不公开方式进行",
@@ -81,49 +101,233 @@
     "Scientists discover that leukemia can begin developing 50 years before diagnosis": "科学家发现，白血病可能在确诊前50年就开始发展",
     "Why today’s leading drug developers are fine-tuning open models on their own data": "为什么当今领先的药物开发商正在根据自己的数据对开放模型进行微调",
     "Lilly buys Huntington's startup LoQus23 for up to $725M": "礼来以最高7.25亿美元的价格收购亨廷顿初创公司LoQus23",
-    "STAT+: New biotech aims to develop next generation CAR-T for multiple myeloma": "STAT+：新生物技术公司致力于开发用于治疗多发性骨髓瘤的下一代CAR-T疗法",
     "Opinion: If the AI bubble bursts, it could create a serious problem for health care": "观点：如果人工智能泡沫破裂，可能会给医疗保健带来严重问题",
-    "STAT+: A string of wins with cancer drugs sets Genmab up for its next chapter": "STAT+：凭借一系列抗癌药物的成功，Genmab为下一篇章做好准备",
     "Opinion: A Chinese research entity FOIA’d my scientific work. I had to give it to them": "观点：一家中国研究机构根据《信息自由法》（FOIA）索取了我的科研成果。我不得不将它提供给他们",
-    "As diabetes association’s turmoil continues, what does it mean for patients?": "随着糖尿病协会的动荡持续，这对患者意味着什么？",
     "Mice slept 70% less after scientists switched off these brain cells": "科学家关闭这些脑细胞后，小鼠的睡眠时间减少了70%",
     "U.S. loses measles elimination status after 25 years as vaccine myths persist": "由于疫苗谣言持续存在，美国在25年后失去了麻疹消除国的地位",
     "Scientists discover a surprising link between weak bones and faster brain aging": "科学家发现骨骼脆弱与大脑加速衰老之间存在令人惊讶的关联",
     "Common medications may secretly rewire your gut, with effects lasting for years": "常见药物可能会悄然改变您的肠道，其影响可能持续数年",
-    "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds": "一项重大综述发现，2型糖尿病与阿尔茨海默病风险高53%相关",
-    "StockWatch: Insmed Jumps on Report of Takeover Interest by Sanofi, as Analysts Conclude a Deal Would Make Sense": "StockWatch：有报道称赛诺菲有意收购Insmed，该公司股价应声大涨，分析师认为收购交易合情合理",
-    "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA": "一只194岁的乌龟在其DNA中隐藏着一个非凡的抗衰老秘密",
-    "Scientists discover a hidden eye disease that slowly steals night vision": "科学家发现一种隐性眼疾，它会缓慢地夺走夜视能力",
-    "AI uncovers hidden bladder cancer warning signs years before diagnosis": "人工智能在诊断前数年发现膀胱癌的隐性预警信号",
-    "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system": "阿尔茨海默病研究的突破揭示了大脑清理系统中的一个隐性缺陷",
-    "A common blood pressure drug has a surprising effect on calorie-burning brown fat": "一种常见的降压药物对燃烧卡路里的棕色脂肪有惊人的作用",
-    "FDA again turns back Capricor Duchenne cell therapy": "FDA再次驳回Capricor的杜氏肌营养不良症细胞疗法",
-    "AI may not work like the human brain after all, scientists discover": "科学家发现，人工智能可能毕竟不像人脑那样工作",
-    "Opinion: When should medical school start?": "观点：医学院的学习应该何时开始？",
-    "It’s Over-ton; Thoughts on Isomorphic’s latest haul; and more": "Over-ton；对Isomorphic最新成果的思考；以及更多内容",
-    "Opinion: How Kennedy and MAHA could help stop measles": "观点：肯尼迪和MAHA如何有助于遏制麻疹",
-    "Microplastics may be more dangerous than we thought. Scientists just discovered why": "微塑料可能比我们想象的更危险。科学家刚刚发现了原因",
-    "Capricor's Duchenne therapy is rejected again, as FDA cites significant issues with trial": "Capricor的杜氏肌营养不良症疗法再次被拒，FDA指出试验存在重大问题",
-    "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming": "STAT+：FDA拒绝批准Capricor Therapeutics的杜氏肌营养不良症治疗药物，这一决定早已在意料之中",
-    "Will the first approved psychedelic become a blockbuster?": "首款获批的迷幻药物会成为重磅药物吗？",
-    "More lawmakers stake out stances on China biotech investment": "更多立法者就中国生物技术投资表明立场",
-    "PTSD Brain DNA Methylation Patterns Linked to Age of Trauma Exposure, Sex, and Ethnicity": "与创伤暴露年龄、性别和种族相关的PTSD大脑DNA甲基化模式"
+    "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds": "一项重大综述发现，2型糖尿病与阿尔茨海默病风险高53%相关"
   },
   "items": [
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Alzheimer’s Study Shows Gal3 Shapes Aβ Remodeling and Microglial Responses",
+      "titleZh": "阿尔茨海默病研究表明，Gal3塑造Aβ重塑和小胶质细胞反应",
+      "link": "https://www.genengnews.com/topics/translational-medicine/alzheimers-study-shows-gal3-shapes-a%ce%b2-remodeling-and-microglial-responses/",
+      "summary": "Researchers identified a role for the protein galectin-3 in Alzheimer's disease, with the result of brain tissue analyses and experiments in mice indicating that galectin-3 acts as a modulator of Aβ remodeling, lysosomal homeostasis, and microglial responses. The post Alzheimer&#8217;s Study Shows G",
+      "publishedAt": "2026-11-24T20:46:41+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
+      "category": "审批",
+      "title": "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination",
+      "titleZh": "STAT+：罗伯特·肯尼迪·朱尼尔公开了他的日程安排，但仍有许多内容留待想象",
+      "link": "https://www.statnews.com/2026/11/24/rfk-jr-calendar-hhs-records-rollout/?utm_campaign=rss",
+      "summary": "A partially redacted calendar showing health secretary Robert F. Kennedy Jr.’s activities was made public on Tuesday.",
+      "publishedAt": "2026-11-24T19:30:29+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
       "category": "技术",
-      "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
-      "titleZh": "STAT+：人工智能可以分析X光片和CT扫描结果，以起草放射影像报告。它是否能让医疗服务变得更好、更安全？",
-      "link": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
-      "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
-      "publishedAt": "2026-11-24T09:30:00+00:00"
+      "title": "Drug Developers Should Treat AI as an Operating Model, From Target to Trial",
+      "titleZh": "药物开发者应将人工智能视为一种运营模式，从靶点到临床试验全程应用",
+      "link": "https://www.genengnews.com/topics/artificial-intelligence/drug-developers-should-treat-ai-as-an-operating-model-from-target-to-trial/",
+      "summary": "When the evidence is ambiguous, programs often advance anyway and stop once human data confirms what earlier results suggested. AI that evaluates preclinical results as a whole, and compares them with outcomes for similar compounds, can flag weak candidates sooner. The post Drug Developers Should Tr",
+      "publishedAt": "2026-11-24T19:28:57+00:00"
+    },
+    {
+      "id": "gen-2",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "With Planned $41B Insmed Acquisition, Sanofi Inks Year’s Biggest M&A Deal",
+      "titleZh": "随着计划以410亿美元收购Insmed，赛诺菲达成了今年最大的一笔并购交易",
+      "link": "https://www.genengnews.com/topics/translational-medicine/with-planned-41b-insmed-acquisition-sanofi-inks-years-biggest-ma-deal/",
+      "summary": "In announcing the deal overnight, Sanofi declared that the transaction was intended to broaden its presence in respiratory diseases—a key therapeutic area of Insmed along with immunology and inflammation, neuro, and rare disease drugs. The post With Planned $41B Insmed Acquisition, Sanofi Inks Year&",
+      "publishedAt": "2026-11-24T18:58:29+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Drug labels must flag accelerated approval to patients, FDA says",
+      "titleZh": "FDA表示，药品标签必须向患者标明加速批准",
+      "link": "https://endpoints.news/drug-labels-must-flag-accelerated-approval-to-patients-fda-says/",
+      "summary": "Drugs and biologics authorized through an accelerated approval will now have to note that nontraditional pathway on their patient labels, the Food and Drug Administration announced Monday. The change follows a ...",
+      "publishedAt": "2026-11-24T18:58:04+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Sanofi makes a huge bet on life after Dupixent",
+      "titleZh": "赛诺菲在度普利尤单抗之后对未来下大赌注",
+      "link": "https://endpoints.news/sanofi-makes-a-huge-bet-on-life-after-dupixent/",
+      "summary": "Sanofi may be getting its mojo back. Shares in the French drugmaker jumped more than 10% on Tuesday as investors and analysts cheered the audacity of CEO Belén Garijo’s $41 billion",
+      "publishedAt": "2026-11-24T18:31:26+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA approves BridgeBio muscular dystrophy drug",
+      "titleZh": "FDA批准BridgeBio的肌营养不良症药物",
+      "link": "https://www.biopharmadive.com/news/fda-bridgebio-welgemda-limb-girdle-muscle-disorder-approval/875610/",
+      "summary": "Wall Street analysts say a price of nearly $1 million a year should drive blockbuster sales for a medicine that helped patients walk and breathe better.",
+      "publishedAt": "2026-11-24T16:36:00+00:00"
+    },
+    {
+      "id": "endpoints-2",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Pharming eyes deals, awaits leniolisib readout as it looks for new CEO",
+      "titleZh": "Pharming 正在物色收购目标，等待 Leniolisib 的数据结果，同时也在寻找新任首席执行官",
+      "link": "https://endpoints.news/pharming-eyes-deals-awaits-leniolisib-readout-as-it-looks-for-new-ceo/",
+      "summary": "LONDON — Pharming is looking to stay on course to hit its milestones as the drugmaker hunts for its next leader. On the sidelines of last week's Jefferies Healthcare conference, interim co-CEOs Leverne Marsh and Kenneth ...",
+      "publishedAt": "2026-11-24T16:20:55+00:00"
+    },
+    {
+      "id": "endpoints-3",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Consumers’ changing relationships with blood testing",
+      "titleZh": "消费者与血液检测之间不断变化的关系",
+      "link": "https://endpoints.news/consumers-changing-relationships-with-blood-testing/",
+      "summary": "In the past few years, lab giant Quest Diagnostics has been growing its consumer business. So far, Patrick Plewman, SVP of Diagnostic Services told me at HLTH last week, the business is still fairly small: ...",
+      "publishedAt": "2026-11-24T16:11:38+00:00"
+    },
+    {
+      "id": "endpoints-4",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data",
+      "titleZh": "Kymera 创纪录的 17.5 亿美元募股；DiaMedica 的胎儿生长受限数据",
+      "link": "https://endpoints.news/kymeras-historica-1-75b-offering-diamedicas-fetal-growth-restriction-data/",
+      "summary": "Kymera Therapeutics notches a record at $1.75B: After standout data on Monday, the Boston-area drug developer priced an upsized stock offering at $1.75 billion, marking the largest-ever follow-on offering for a biotech company. Revolution Medicines ...",
+      "publishedAt": "2026-11-24T16:11:32+00:00"
+    },
+    {
+      "id": "endpoints-5",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "#SABCS26: Novartis, J&J unveil breast cancer data from biotech buyouts",
+      "titleZh": "#SABCS26：诺华和强生公布生物技术收购的乳腺癌数据",
+      "link": "https://endpoints.news/sabcs26-novartis-jj-unveil-breast-cancer-data-from-biotech-buyouts/",
+      "summary": "The San Antonio Breast Cancer Symposium kicks off early next month, and abstracts went live Monday. Endpoints News looked at two of them, featuring assets from Novartis' $2 billion upfront deal with ...",
+      "publishedAt": "2026-11-24T15:41:58+00:00"
     },
     {
       "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
+      "titleZh": "STAT+：Pharmalittle：我们正在阅读有关赛诺菲收购Insmed、罗氏推销其乳腺癌药物等内容",
+      "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
+      "summary": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
+      "publishedAt": "2026-11-24T14:27:36+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: Roche’s potential breast cancer blockbuster drug wins second FDA nod",
+      "titleZh": "STAT+：罗氏的潜在乳腺癌重磅药物获得FDA的第二次批准",
+      "link": "https://www.statnews.com/2026/11/24/biotech-news-roche-potential-breast-cancer-blockbluster-drug-wins-second-fda-nod/?utm_campaign=rss",
+      "summary": "Roche's breast cancer pill has picked up its second FDA clearance in a week, this time in early-stage breast cancer for use after surgery.",
+      "publishedAt": "2026-11-24T14:26:07+00:00"
+    },
+    {
+      "id": "stat-news-3",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
+      "title": "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026",
+      "titleZh": "STAT+：阿拉斯加州医院使用人工智能改善中风护理，肽类药物成为主流，以及2026年北美放射学会年会",
+      "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-using-ai-rsna-2026-peptides-health-tech/?utm_campaign=rss",
+      "summary": "In this edition of STAT Health Tech: Alaskan hospitals using AI to improve stroke care, a look ahead at RSNA 2026, and peptides go mainstream.",
+      "publishedAt": "2026-11-24T14:19:30+00:00"
+    },
+    {
+      "id": "stat-news-4",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Menopause hormone therapy med popularity increases 141% compared to previous years",
+      "titleZh": "与前几年相比，更年期激素治疗药物的受欢迎程度提高了141%",
+      "link": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/?utm_campaign=rss",
+      "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
+      "publishedAt": "2026-11-24T14:15:03+00:00"
+    },
+    {
+      "id": "stat-news-5",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
+      "titleZh": "STAT+：美国食品药品监督管理局（FDA）罕见地指责两家制药公司未将临床试验结果上报至数据库",
+      "link": "https://www.statnews.com/pharmalot/2026/11/24/fda-cites-two-drugmakers-for-failing-to-report-clinical-trial-results/?utm_campaign=rss",
+      "summary": "For the first time in more than a year, the FDA sent notices to companies for failing to report required clinical trial information.",
+      "publishedAt": "2026-11-24T13:39:31+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
+      "titleZh": "大麻使用者比其他人早几年出现精神病症状，且随着年龄的增长，这种差距会越来越大",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
+      "summary": "A major analysis of 149 studies found that cannabis users develop psychosis an average of 2.5 years earlier than non-users, with the difference growing to more than six years among adults 30 and older. Researchers warn that cannabis-related psychiatric risks may accumulate over time, challenging the",
+      "publishedAt": "2026-11-24T10:57:44+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
+      "titleZh": "科学家发现了一种新型抑郁症，常见的抗抑郁药难以对其进行治疗",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
+      "summary": "Researchers have discovered a new subtype of depression that may affect nearly one in four people with severe, recurrent, or persistent depression. Known as \"circadian depression,\" it is linked to the body's internal clock and is associated with night owl tendencies, excessive sleep, persistent exha",
+      "publishedAt": "2026-11-24T10:47:51+00:00"
+    },
+    {
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +339,7 @@
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +351,19 @@
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-8",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
+      "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
+      "titleZh": "STAT+：人工智能可以分析X光片和CT扫描结果，以起草放射影像报告。它是否能让医疗服务变得更好、更安全？",
+      "link": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
+      "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
+      "publishedAt": "2026-11-24T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +375,7 @@
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +387,7 @@
       "publishedAt": "2026-11-24T08:20:00+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -183,7 +399,7 @@
       "publishedAt": "2026-11-24T07:54:44+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +411,19 @@
       "publishedAt": "2026-11-24T00:48:57+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "science-daily-health-6",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Depression may be an early warning sign of Alzheimer's disease",
+      "titleZh": "抑郁症可能是阿尔茨海默病的早期预警信号",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
+      "summary": "Depression in older adults may be more than a mental health concern. Scientists discovered that accumulating tau protein, a hallmark of Alzheimer's disease, was linked to worsening depressive symptoms in people who still had normal memory and thinking abilities. The faster tau built up in the brain,",
+      "publishedAt": "2026-11-24T00:31:03+00:00"
+    },
+    {
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -207,7 +435,7 @@
       "publishedAt": "2026-11-24T00:19:48+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -219,7 +447,7 @@
       "publishedAt": "2026-11-23T23:50:24+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -231,7 +459,7 @@
       "publishedAt": "2026-11-23T21:23:42+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -243,7 +471,7 @@
       "publishedAt": "2026-11-23T21:12:59+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -251,11 +479,11 @@
       "title": "Metabolic Pathway Identified as Potential Target for Liver Diseases",
       "titleZh": "一种代谢途径被确定为肝脏疾病的潜在靶点",
       "link": "https://www.genengnews.com/topics/drug-discovery/metabolic-pathway-identified-as-potential-target-for-liver-diseases/",
-      "summary": "A study identified increased levels of the enzyme EPHX1 in the livers of mice and patients with advanced fibrosis and showed that EPHXI promotes liver fibrosis by decreasing EET levels. The post Metabolic Pathway Identified as Potential Target for Liver Diseases appeared first on GEN - Genetic Engin",
+      "summary": "A study identified increased levels of the enzyme EPHX1 in the livers of mice and patients with advanced fibrosis and showed that EPHX1 promotes liver fibrosis by decreasing EET levels. The post Metabolic Pathway Identified as Potential Target for Liver Diseases appeared first on GEN - Genetic Engin",
       "publishedAt": "2026-11-23T20:55:58+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -267,7 +495,7 @@
       "publishedAt": "2026-11-23T19:50:42+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -279,7 +507,7 @@
       "publishedAt": "2026-11-23T19:13:17+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -291,7 +519,7 @@
       "publishedAt": "2026-11-23T18:30:25+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -303,7 +531,7 @@
       "publishedAt": "2026-11-23T18:05:58+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -315,7 +543,7 @@
       "publishedAt": "2026-11-23T17:44:26+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-1",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -327,7 +555,7 @@
       "publishedAt": "2026-11-23T16:17:09+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -339,7 +567,7 @@
       "publishedAt": "2026-11-23T16:00:13+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -351,7 +579,7 @@
       "publishedAt": "2026-11-23T15:51:54+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -363,7 +591,19 @@
       "publishedAt": "2026-11-23T15:43:01+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "biopharma-dive-2",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "Kymera eczema pill meets goals in mid-stage trial",
+      "titleZh": "Kymera湿疹药物在中期试验中达到目标",
+      "link": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
+      "summary": "The protein degrader drug showed &quot;biologic-like efficacy,&quot; according to Wall Street analysts who argued it could challenge Sanofi and Regeneron&rsquo;s market leader Dupixent.",
+      "publishedAt": "2026-11-23T14:53:55+00:00"
+    },
+    {
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +615,7 @@
       "publishedAt": "2026-11-23T14:43:21+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +627,7 @@
       "publishedAt": "2026-11-23T14:38:08+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +639,7 @@
       "publishedAt": "2026-11-23T13:04:19+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -411,7 +651,7 @@
       "publishedAt": "2026-11-23T12:01:00+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -423,7 +663,7 @@
       "publishedAt": "2026-11-23T12:00:56+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +675,7 @@
       "publishedAt": "2026-11-23T12:00:11+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +699,7 @@
       "publishedAt": "2026-11-23T11:55:17+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -471,7 +711,7 @@
       "publishedAt": "2026-11-23T10:45:53+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -483,7 +723,7 @@
       "publishedAt": "2026-11-23T10:26:07+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -495,7 +735,7 @@
       "publishedAt": "2026-11-23T10:00:00+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -507,19 +747,7 @@
       "publishedAt": "2026-11-23T09:37:17+00:00"
     },
     {
-      "id": "stat-news-12",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: New biotech aims to develop next generation CAR-T for multiple myeloma",
-      "titleZh": "STAT+：新生物技术公司致力于开发用于治疗多发性骨髓瘤的下一代CAR-T疗法",
-      "link": "https://www.statnews.com/2026/11/23/caronilex-dual-targeting-car-t-overcomes-myeloma-resistance/?utm_campaign=rss",
-      "summary": "Relapse in multiple myeloma is common. A new type of CAR-T aims to avoid that by adding a target to evade the tumor.",
-      "publishedAt": "2026-11-23T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-13",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -531,19 +759,7 @@
       "publishedAt": "2026-11-23T09:30:00+00:00"
     },
     {
-      "id": "stat-news-14",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: A string of wins with cancer drugs sets Genmab up for its next chapter",
-      "titleZh": "STAT+：凭借一系列抗癌药物的成功，Genmab为下一篇章做好准备",
-      "link": "https://www.statnews.com/2026/11/23/genmab-cancer-drugs-oncology-clinical-trials/?utm_campaign=rss",
-      "summary": "The Danish biotech Genmab in on a roll with cancer drugs, with success in three late-stage clinical trials over the course of a month.",
-      "publishedAt": "2026-11-23T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-15",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,19 +771,7 @@
       "publishedAt": "2026-11-23T09:30:00+00:00"
     },
     {
-      "id": "stat-news-16",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "As diabetes association’s turmoil continues, what does it mean for patients?",
-      "titleZh": "随着糖尿病协会的动荡持续，这对患者意味着什么？",
-      "link": "https://www.statnews.com/2026/11/23/ada-convention-fallout-will-turmoil-impact-patients-research/?utm_campaign=rss",
-      "summary": "The American Diabetes Association has made concrete differences in patient care in the past. Its disarray has experts worried about the future.",
-      "publishedAt": "2026-11-23T09:30:00+00:00"
-    },
-    {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -579,7 +783,7 @@
       "publishedAt": "2026-11-23T02:02:10+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -591,7 +795,7 @@
       "publishedAt": "2026-11-23T01:16:17+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -603,7 +807,7 @@
       "publishedAt": "2026-11-23T00:45:42+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -615,7 +819,7 @@
       "publishedAt": "2026-11-22T21:35:19+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -627,211 +831,151 @@
       "publishedAt": "2026-11-22T20:57:35+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "市场",
       "title": "StockWatch: Insmed Jumps on Report of Takeover Interest by Sanofi, as Analysts Conclude a Deal Would Make Sense",
-      "titleZh": "StockWatch：有报道称赛诺菲有意收购Insmed，该公司股价应声大涨，分析师认为收购交易合情合理",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/translational-medicine/stockwatch-insmed-jumps-on-report-of-takeover-interest-by-sanofi-as-analysts-conclude-a-deal-would-make-sense/",
       "summary": "Bloomberg News cited unnamed sources in reporting that Sanofi (Euronext Paris: SAN and Nasdaq: SNY) was weighing whether to acquire Insmed, in a potential blockbuster deal that the news outlet and others speculated could be biopharma's largest merger-and-acquisition (M&#038;A) deal since 2023. The p",
       "publishedAt": "2026-11-22T18:52:58+00:00"
-    },
-    {
-      "id": "science-daily-health-5",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
-      "titleZh": "一只194岁的乌龟在其DNA中隐藏着一个非凡的抗衰老秘密",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
-      "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control",
-      "publishedAt": "2026-11-22T11:04:06+00:00"
-    },
-    {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover a hidden eye disease that slowly steals night vision",
-      "titleZh": "科学家发现一种隐性眼疾，它会缓慢地夺走夜视能力",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194547.htm",
-      "summary": "Scientists have discovered a new genetic eye disease that can silently damage peripheral and night vision while leaving central sight largely unaffected for years. The condition may be detectable through an unusual difficulty adjusting to darkness, offering a potential early warning sign before irre",
-      "publishedAt": "2026-11-22T10:48:36+00:00"
-    },
-    {
-      "id": "science-daily-health-9",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
-      "titleZh": "人工智能在诊断前数年发现膀胱癌的隐性预警信号",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
-      "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing subtle patterns that conventional screening misses, the technology could help docto",
-      "publishedAt": "2026-11-22T03:43:18+00:00"
-    },
-    {
-      "id": "science-daily-health-10",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
-      "titleZh": "阿尔茨海默病研究的突破揭示了大脑清理系统中的一个隐性缺陷",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
-      "summary": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease. When the gene malfunctioned in mice, toxic buildup accelerated and cognitive abilities declined, raising hopes that restoring its",
-      "publishedAt": "2026-11-22T03:00:27+00:00"
-    },
-    {
-      "id": "science-daily-health-15",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "A common blood pressure drug has a surprising effect on calorie-burning brown fat",
-      "titleZh": "一种常见的降压药物对燃烧卡路里的棕色脂肪有惊人的作用",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194558.htm",
-      "summary": "Scientists have discovered that a common blood pressure drug can activate calorie-burning brown fat in mice, potentially opening a new path toward improving metabolic health. An analysis of more than 100,000 patients also revealed surprising links between brown fat and lower rates of heart disease, ",
-      "publishedAt": "2026-11-22T01:54:11+00:00"
-    },
-    {
-      "id": "biopharma-dive-2",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "FDA again turns back Capricor Duchenne cell therapy",
-      "titleZh": "FDA再次驳回Capricor的杜氏肌营养不良症细胞疗法",
-      "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
-      "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
-      "publishedAt": "2026-11-21T20:46:00+00:00"
     },
     {
       "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
-      "category": "技术",
-      "title": "AI may not work like the human brain after all, scientists discover",
-      "titleZh": "科学家发现，人工智能可能毕竟不像人脑那样工作",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-      "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important ",
-      "publishedAt": "2026-11-21T15:24:58+00:00"
+      "category": "审批",
+      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+      "titleZh": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+      "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control",
+      "publishedAt": "2026-11-22T11:04:06+00:00"
     },
     {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
+      "id": "science-daily-health-19",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
-      "title": "Opinion: When should medical school start?",
-      "titleZh": "观点：医学院的学习应该何时开始？",
-      "link": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
-      "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
-      "publishedAt": "2026-11-21T12:00:00+00:00"
+      "title": "Scientists discover a hidden eye disease that slowly steals night vision",
+      "titleZh": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194547.htm",
+      "summary": "Scientists have discovered a new genetic eye disease that can silently damage peripheral and night vision while leaving central sight largely unaffected for years. The condition may be detectable through an unusual difficulty adjusting to darkness, offering a potential early warning sign before irre",
+      "publishedAt": "2026-11-22T10:48:36+00:00"
     },
     {
-      "id": "endpoints-13",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "It’s Over-ton; Thoughts on Isomorphic’s latest haul; and more",
-      "titleZh": "Over-ton；对Isomorphic最新成果的思考；以及更多内容",
-      "link": "https://endpoints.news/its-over-ton-thoughts-on-isomorphics-latest-haul-and-more/",
-      "summary": "Welcome back to another edition of Endpoints Weekly! All the tech outages this week can’t stop us from bringing you the latest in biopharma news. The biggest news this week came from Washington, where President ...",
-      "publishedAt": "2026-11-21T11:00:41+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
+      "id": "science-daily-health-12",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
       "lang": "en",
       "category": "审批",
-      "title": "Opinion: How Kennedy and MAHA could help stop measles",
-      "titleZh": "观点：肯尼迪和MAHA如何有助于遏制麻疹",
-      "link": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
-      "summary": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari.",
-      "publishedAt": "2026-11-21T09:30:00+00:00"
+      "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+      "titleZh": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+      "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing subtle patterns that conventional screening misses, the technology could help docto",
+      "publishedAt": "2026-11-22T03:43:18+00:00"
+    },
+    {
+      "id": "science-daily-health-13",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
+      "titleZh": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
+      "summary": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease. When the gene malfunctioned in mice, toxic buildup accelerated and cognitive abilities declined, raising hopes that restoring its",
+      "publishedAt": "2026-11-22T03:00:27+00:00"
+    },
+    {
+      "id": "science-daily-health-18",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A common blood pressure drug has a surprising effect on calorie-burning brown fat",
+      "titleZh": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194558.htm",
+      "summary": "Scientists have discovered that a common blood pressure drug can activate calorie-burning brown fat in mice, potentially opening a new path toward improving metabolic health. An analysis of more than 100,000 patients also revealed surprising links between brown fat and lower rates of heart disease, ",
+      "publishedAt": "2026-11-22T01:54:11+00:00"
+    },
+    {
+      "id": "biopharma-dive-4",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "FDA again turns back Capricor Duchenne cell therapy",
+      "titleZh": "",
+      "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
+      "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
+      "publishedAt": "2026-11-21T20:46:00+00:00"
     },
     {
       "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
+      "category": "技术",
+      "title": "AI may not work like the human brain after all, scientists discover",
+      "titleZh": "",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+      "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important ",
+      "publishedAt": "2026-11-21T15:24:58+00:00"
+    },
+    {
+      "id": "endpoints-19",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "It’s Over-ton; Thoughts on Isomorphic’s latest haul; and more",
+      "titleZh": "",
+      "link": "https://endpoints.news/its-over-ton-thoughts-on-isomorphics-latest-haul-and-more/",
+      "summary": "Welcome back to another edition of Endpoints Weekly! All the tech outages this week can’t stop us from bringing you the latest in biopharma news. The biggest news this week came from Washington, where President ...",
+      "publishedAt": "2026-11-21T11:00:41+00:00"
+    },
+    {
+      "id": "science-daily-health-14",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
       "category": "研发",
       "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
-      "titleZh": "微塑料可能比我们想象的更危险。科学家刚刚发现了原因",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
       "summary": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules capable of damaging cells and tissues. This unexpected chemical activity could help exp",
       "publishedAt": "2026-11-21T02:35:26+00:00"
     },
     {
-      "id": "endpoints-14",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Capricor's Duchenne therapy is rejected again, as FDA cites significant issues with trial",
-      "titleZh": "Capricor的杜氏肌营养不良症疗法再次被拒，FDA指出试验存在重大问题",
-      "link": "https://endpoints.news/capricors-duchenne-therapy-is-rejected-again-as-fda-cites-significant-issues-with-trial/",
-      "summary": "Capricor Therapeutics’ deramiocel cell therapy was rejected for a second time by the FDA on Friday, despite the company's pivot to a narrower indication within Duchenne muscular dystrophy. In a",
-      "publishedAt": "2026-11-21T01:11:10+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
-      "titleZh": "STAT+：FDA拒绝批准Capricor Therapeutics的杜氏肌营养不良症治疗药物，这一决定早已在意料之中",
-      "link": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
-      "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
-      "publishedAt": "2026-11-20T23:43:53+00:00"
-    },
-    {
-      "id": "biopharma-dive-3",
+      "id": "biopharma-dive-5",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "审批",
       "title": "Will the first approved psychedelic become a blockbuster?",
-      "titleZh": "首款获批的迷幻药物会成为重磅药物吗？",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
       "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
       "publishedAt": "2026-11-20T19:53:09+00:00"
     },
     {
-      "id": "endpoints-15",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "More lawmakers stake out stances on China biotech investment",
-      "titleZh": "更多立法者就中国生物技术投资表明立场",
-      "link": "https://endpoints.news/more-lawmakers-stake-out-stances-on-china-biotech-investment/",
-      "summary": "Ahead of a Democrat-led Congress next year, more lawmakers in both parties and chambers are taking fresh positions on whether the US should restrict investments in China’s booming biotech sector. As shown in multiple draft ...",
-      "publishedAt": "2026-11-20T19:52:42+00:00"
-    },
-    {
-      "id": "gen-4",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
       "category": "研发",
       "title": "PTSD Brain DNA Methylation Patterns Linked to Age of Trauma Exposure, Sex, and Ethnicity",
-      "titleZh": "与创伤暴露年龄、性别和种族相关的PTSD大脑DNA甲基化模式",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/omics/ptsd-brain-dna-methylation-patterns-linked-to-age-of-trauma-exposure-sex-and-ethnicity/",
       "summary": "Studying postmortem brain tissue, researchers found variations in DNA methylation in different brain areas that may help explain the development of post-traumatic stress disorder. The post PTSD Brain DNA Methylation Patterns Linked to Age of Trauma Exposure, Sex, and Ethnicity appeared first on GEN ",
       "publishedAt": "2026-11-20T19:36:46+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -843,7 +987,7 @@
       "publishedAt": "2026-11-20T19:04:09+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -855,43 +999,7 @@
       "publishedAt": "2026-11-20T17:18:00+00:00"
     },
     {
-      "id": "endpoints-16",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Pharma layoffs continue in New Jersey; Bausch + Lomb drug misses endpoint",
-      "titleZh": "",
-      "link": "https://endpoints.news/pharma-layoffs-continue-in-new-jersey-bausch-lomb-drug-misses-endpoint/",
-      "summary": "Plus news about GSK, BioVersys, United Therapeutics and Savara. New Jersey pharma layoffs continue: Novo will lay off 215 workers in Plainsboro, taking effect in February 2027, according to a November",
-      "publishedAt": "2026-11-20T16:37:46+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "KRAS at Triple Meeting: Erasca wants to one-up RevMed, while Alterome tries a different approach",
-      "titleZh": "",
-      "link": "https://endpoints.news/kras-at-triple-meeting-erasca-wants-to-one-up-revmed-while-alterome-tries-a-different-approach/",
-      "summary": "Revolution Medicines posted strong data on its targeted pancreatic cancer drug Thursday evening, but competition is building at every turn in the KRAS field. RevMed’s game-changing pan-RAS drug Rasonque (daraxonrasib) alongside ...",
-      "publishedAt": "2026-11-20T16:22:25+00:00"
-    },
-    {
-      "id": "endpoints-18",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "研发",
-      "title": "Merck gets another Phase 3 win for sac-TMT, this time in gastric cancer",
-      "titleZh": "",
-      "link": "https://endpoints.news/merck-gets-another-phase-3-win-for-sac-tmt-this-time-in-gastric-cancer/",
-      "summary": "An experimental antibody-drug conjugate from Merck has succeeded in another Phase 3 cancer study, potentially helping offset Keytruda's looming patent cliff. Merck said Friday morning that a pivotal trial testing sacituzumab ...",
-      "publishedAt": "2026-11-20T15:31:58+00:00"
-    },
-    {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -903,7 +1011,7 @@
       "publishedAt": "2026-11-20T13:03:00+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,31 +1023,7 @@
       "publishedAt": "2026-11-20T12:44:39+00:00"
     },
     {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "审批",
-      "title": "Celldex culls eczema study after Phase 2 failure",
-      "titleZh": "",
-      "link": "https://endpoints.news/celldex-culls-eczema-drug-after-phase-2-failure/",
-      "summary": "Celldex Therapeutics is dropping its monoclonal antibody as a therapy for eczema after the drug flunked a mid-stage study. The drug, called barzolvolimab, failed to reduce itching in patients with eczema compared with placebo after ...",
-      "publishedAt": "2026-11-20T12:36:09+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "This simple habit is linked to a 33% lower risk of Alzheimer's",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
-      "summary": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings that just five minutes of fiction can reduce stress by up to 20%, while reading h",
-      "publishedAt": "2026-11-20T12:06:07+00:00"
-    },
-    {
-      "id": "gen-6",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -951,7 +1035,7 @@
       "publishedAt": "2026-11-20T12:03:02+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -963,7 +1047,7 @@
       "publishedAt": "2026-11-20T12:00:00+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,43 +1059,7 @@
       "publishedAt": "2026-11-20T09:09:17+00:00"
     },
     {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Experimental compound burns fat without sacrificing muscle",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
-      "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fa",
-      "publishedAt": "2026-11-20T00:19:49+00:00"
-    },
-    {
-      "id": "gen-7",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "技术",
-      "title": "Former Verily Leaders Build AI Platform to Get More from Proteomics Data",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/artificial-intelligence/former-verily-leaders-build-ai-platform-to-get-more-from-proteomics-data/",
-      "summary": "Tesorai’s AI platform reanalyzes massive proteomics repositories, letting researchers mine raw mass spectrometry data instead of condensed forms. In an Alzheimer’s project, it found phosphorylated tau 217 in four datasets where the original authors did not report it. The post Former Verily Leaders B",
-      "publishedAt": "2026-11-19T21:45:24+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "市场",
-      "title": "Type 1 Diabetes Delayed in Mice by Stem Cell-Derived Vesicles That Calm Immune Response",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/drug-discovery/type-1-diabetes-delayed-in-mice-by-stem-cell-derived-vesicles-that-calm-immune-response/",
-      "summary": "Extracellular vesicles produced by certain types of pluripotent stem cells (PSC) were found to help reduce immune attacks on insulin-producing cells in the pancreas and delay the onset of diabetes in a mouse model. The post Type 1 Diabetes Delayed in Mice by Stem Cell-Derived Vesicles That Calm Immu",
-      "publishedAt": "2026-11-19T19:58:18+00:00"
-    },
-    {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -1021,54 +1069,6 @@
       "link": "https://www.biopharmadive.com/news/sanofi-fda-infilbray-venglustat-approve-gaucher/875167/",
       "summary": "The approval culminates a winding development journey for Infilbray, and provides Sanofi with a new source of income ahead of Dupixent&rsquo;s looming patent expiration.",
       "publishedAt": "2026-11-19T17:17:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-8",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
-      "summary": "A commission called on U.S. lawmakers to act quickly to prevent an &ldquo;overdependence&rdquo; on China that could leave American patients &ldquo;vulnerable to supply chain weaponization.&rdquo;",
-      "publishedAt": "2026-11-19T16:42:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/regeneron-fda-approve-cemdisiran-livsayis-myasthenia-gravis-alnylam/875160/",
-      "summary": "The product of a collaboration with Alnylam, Livsayis is now Regeneron&rsquo;s first marketed RNAi drug and will compete against established medicines from AstraZeneca and Argenx.&nbsp;",
-      "publishedAt": "2026-11-19T15:10:00+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
-      "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially har",
-      "publishedAt": "2026-11-19T11:13:29+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/translational-medicine/alzheimers-disease-and-aging-linked-to-changes-in-the-hypothalamus/",
-      "summary": "Researchers combined measurements from brain images and single cell transcriptome maps to build a resource, HypoAD, as an atlas of the human hypothalamus in aging and AD, which they have made available to the research community. The post Alzheimer’s Disease and Aging Linked to Changes in the Hypotha",
-      "publishedAt": "2026-11-18T22:50:25+00:00"
     },
     {
       "id": "nature-biotech-0",
@@ -1172,6 +1172,18 @@
       "sourceId": "nature-medicine",
       "lang": "en",
       "category": "研发",
+      "title": "Publisher Correction: Generational gains in cognitive capacity and dementia incidence rates in Western countries",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04824-6",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
       "title": "Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04781-0",
@@ -1179,7 +1191,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "Generational gains in cognitive capacity and dementia incidence rates in Western countries",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04759-y",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04798-5",
       "summary": "",
       "publishedAt": ""
     }
