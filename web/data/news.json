@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-24T21:06:17.385467+00:00",
+  "updatedAt": "2026-11-25T04:51:44.578566+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,9 @@
   ],
   "failedSources": [],
   "translations": {
+    "New nose drops restore youthful memory and fight Alzheimer’s in aging mice": "新型鼻滴剂可恢复老年小鼠的年轻记忆并对抗阿尔茨海默病",
+    "Cogent prepares for first commercial launch with GI tumor treatment": "Cogent 准备首次商业上市 GI 肿瘤治疗药物",
+    "Why Genomics Won’t Converge on One Technology": "为什么基因组学不会在一种技术上趋同",
     "Alzheimer’s Study Shows Gal3 Shapes Aβ Remodeling and Microglial Responses": "阿尔茨海默病研究表明，Gal3塑造Aβ重塑和小胶质细胞反应",
     "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination": "STAT+：罗伯特·肯尼迪·朱尼尔公开了他的日程安排，但仍有许多内容留待想象",
     "Drug Developers Should Treat AI as an Operating Model, From Target to Trial": "药物开发者应将人工智能视为一种运营模式，从靶点到临床试验全程应用",
@@ -104,14 +107,47 @@
     "Opinion: If the AI bubble bursts, it could create a serious problem for health care": "观点：如果人工智能泡沫破裂，可能会给医疗保健带来严重问题",
     "Opinion: A Chinese research entity FOIA’d my scientific work. I had to give it to them": "观点：一家中国研究机构根据《信息自由法》（FOIA）索取了我的科研成果。我不得不将它提供给他们",
     "Mice slept 70% less after scientists switched off these brain cells": "科学家关闭这些脑细胞后，小鼠的睡眠时间减少了70%",
-    "U.S. loses measles elimination status after 25 years as vaccine myths persist": "由于疫苗谣言持续存在，美国在25年后失去了麻疹消除国的地位",
-    "Scientists discover a surprising link between weak bones and faster brain aging": "科学家发现骨骼脆弱与大脑加速衰老之间存在令人惊讶的关联",
-    "Common medications may secretly rewire your gut, with effects lasting for years": "常见药物可能会悄然改变您的肠道，其影响可能持续数年",
-    "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds": "一项重大综述发现，2型糖尿病与阿尔茨海默病风险高53%相关"
+    "U.S. loses measles elimination status after 25 years as vaccine myths persist": "由于疫苗谣言持续存在，美国在25年后失去了麻疹消除国的地位"
   },
   "items": [
     {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+      "titleZh": "新型鼻滴剂可恢复老年小鼠的年轻记忆并对抗阿尔茨海默病",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+      "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protec",
+      "publishedAt": "2026-11-24T23:31:52+00:00"
+    },
+    {
+      "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "审批",
+      "title": "Cogent prepares for first commercial launch with GI tumor treatment",
+      "titleZh": "Cogent 准备首次商业上市 GI 肿瘤治疗药物",
+      "link": "https://endpoints.news/cogent-prepares-for-first-commercial-launch-with-gi-tumor-treatment/",
+      "summary": "The FDA has approved Cogent Biosciences’ second-line treatment for gastrointestinal stromal tumors. Ekitna, also known as bezuclastinib, will be administered in combination with Pfizer’s oral kinase inhibitor Sutent. The approval is ...",
+      "publishedAt": "2026-11-24T21:54:24+00:00"
+    },
+    {
       "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "技术",
+      "title": "Why Genomics Won’t Converge on One Technology",
+      "titleZh": "为什么基因组学不会在一种技术上趋同",
+      "link": "https://www.genengnews.com/topics/bioprocessing/why-genomics-wont-converge-on-one-technology/",
+      "summary": "Genomics relies on both short-read and long-read sequencing, and keeping both is essential. The post Why Genomics Won’t Converge on One Technology appeared first on GEN - Genetic Engineering and Biotechnology News.",
+      "publishedAt": "2026-11-24T21:36:40+00:00"
+    },
+    {
+      "id": "gen-1",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -135,7 +171,7 @@
       "publishedAt": "2026-11-24T19:30:29+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-2",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -147,7 +183,7 @@
       "publishedAt": "2026-11-24T19:28:57+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -159,7 +195,7 @@
       "publishedAt": "2026-11-24T18:58:29+00:00"
     },
     {
-      "id": "endpoints-0",
+      "id": "endpoints-1",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -171,7 +207,7 @@
       "publishedAt": "2026-11-24T18:58:04+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -195,7 +231,7 @@
       "publishedAt": "2026-11-24T16:36:00+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -207,7 +243,7 @@
       "publishedAt": "2026-11-24T16:20:55+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -219,7 +255,7 @@
       "publishedAt": "2026-11-24T16:11:38+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -231,7 +267,7 @@
       "publishedAt": "2026-11-24T16:11:32+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -375,7 +411,7 @@
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -399,7 +435,7 @@
       "publishedAt": "2026-11-24T07:54:44+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +447,7 @@
       "publishedAt": "2026-11-24T00:48:57+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -435,7 +471,7 @@
       "publishedAt": "2026-11-24T00:19:48+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -459,7 +495,7 @@
       "publishedAt": "2026-11-23T21:23:42+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -471,7 +507,7 @@
       "publishedAt": "2026-11-23T21:12:59+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -483,7 +519,7 @@
       "publishedAt": "2026-11-23T20:55:58+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -495,7 +531,7 @@
       "publishedAt": "2026-11-23T19:50:42+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -507,7 +543,7 @@
       "publishedAt": "2026-11-23T19:13:17+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -519,7 +555,7 @@
       "publishedAt": "2026-11-23T18:30:25+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -531,7 +567,7 @@
       "publishedAt": "2026-11-23T18:05:58+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -555,7 +591,7 @@
       "publishedAt": "2026-11-23T16:17:09+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -567,7 +603,7 @@
       "publishedAt": "2026-11-23T16:00:13+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -579,7 +615,7 @@
       "publishedAt": "2026-11-23T15:51:54+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +687,7 @@
       "publishedAt": "2026-11-23T12:01:00+00:00"
     },
     {
-      "id": "endpoints-16",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -663,7 +699,7 @@
       "publishedAt": "2026-11-23T12:00:56+00:00"
     },
     {
-      "id": "endpoints-17",
+      "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -699,7 +735,7 @@
       "publishedAt": "2026-11-23T11:55:17+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -711,7 +747,7 @@
       "publishedAt": "2026-11-23T10:45:53+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -735,7 +771,7 @@
       "publishedAt": "2026-11-23T10:00:00+00:00"
     },
     {
-      "id": "endpoints-18",
+      "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -771,7 +807,7 @@
       "publishedAt": "2026-11-23T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -783,7 +819,7 @@
       "publishedAt": "2026-11-23T02:02:10+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -795,43 +831,43 @@
       "publishedAt": "2026-11-23T01:16:17+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Scientists discover a surprising link between weak bones and faster brain aging",
-      "titleZh": "科学家发现骨骼脆弱与大脑加速衰老之间存在令人惊讶的关联",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261121221132.htm",
       "summary": "Weakening bones may reveal more about brain health than scientists previously realized, with new research linking lower spinal bone density to faster cognitive decline and accelerated changes in the brain's white matter. The surprising connection suggests that routine medical scans could help uncove",
       "publishedAt": "2026-11-23T00:45:42+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Common medications may secretly rewire your gut, with effects lasting for years",
-      "titleZh": "常见药物可能会悄然改变您的肠道，其影响可能持续数年",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
       "summary": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbial “fingerprints” long ",
       "publishedAt": "2026-11-22T21:35:19+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
-      "titleZh": "一项重大综述发现，2型糖尿病与阿尔茨海默病风险高53%相关",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
       "summary": "People with type 2 diabetes face a 53% higher risk of developing Alzheimer’s disease, according to a major new review of 40 studies. Researchers estimate that nearly five out of every 1,000 people with type 2 diabetes develop Alzheimer’s each year. By focusing specifically on these two conditions, t",
       "publishedAt": "2026-11-22T20:57:35+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -843,7 +879,7 @@
       "publishedAt": "2026-11-22T18:52:58+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -855,19 +891,7 @@
       "publishedAt": "2026-11-22T11:04:06+00:00"
     },
     {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover a hidden eye disease that slowly steals night vision",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194547.htm",
-      "summary": "Scientists have discovered a new genetic eye disease that can silently damage peripheral and night vision while leaving central sight largely unaffected for years. The condition may be detectable through an unusual difficulty adjusting to darkness, offering a potential early warning sign before irre",
-      "publishedAt": "2026-11-22T10:48:36+00:00"
-    },
-    {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -879,7 +903,7 @@
       "publishedAt": "2026-11-22T03:43:18+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -891,7 +915,7 @@
       "publishedAt": "2026-11-22T03:00:27+00:00"
     },
     {
-      "id": "science-daily-health-18",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,7 +939,7 @@
       "publishedAt": "2026-11-21T20:46:00+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,19 +951,7 @@
       "publishedAt": "2026-11-21T15:24:58+00:00"
     },
     {
-      "id": "endpoints-19",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "市场",
-      "title": "It’s Over-ton; Thoughts on Isomorphic’s latest haul; and more",
-      "titleZh": "",
-      "link": "https://endpoints.news/its-over-ton-thoughts-on-isomorphics-latest-haul-and-more/",
-      "summary": "Welcome back to another edition of Endpoints Weekly! All the tech outages this week can’t stop us from bringing you the latest in biopharma news. The biggest news this week came from Washington, where President ...",
-      "publishedAt": "2026-11-21T11:00:41+00:00"
-    },
-    {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -963,7 +975,7 @@
       "publishedAt": "2026-11-20T19:53:09+00:00"
     },
     {
-      "id": "gen-7",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -975,7 +987,7 @@
       "publishedAt": "2026-11-20T19:36:46+00:00"
     },
     {
-      "id": "gen-8",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -1011,7 +1023,7 @@
       "publishedAt": "2026-11-20T13:03:00+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1021,18 +1033,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
       "summary": "A new clinical trial found that the ketogenic diet dramatically outperformed Mediterranean and low-fat diets in reducing liver fat and improving metabolic health, even when participants lost similar amounts of weight. After just four to five months, about half of those following keto no longer met t",
       "publishedAt": "2026-11-20T12:44:39+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "Genome Writing Inserts Human X-Linked Disease DNA Into Mice",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/genome-editing/genome-writing-inserts-human-x-linked-disease-dna-into-mice/",
-      "summary": "By swapping 78 kilobases of human DNA into mice, researchers recreated key features of X-linked dystonia-parkinsonism and showed that boosting TAF1 expression may counter some cellular effects. The post Genome Writing Inserts Human X-Linked Disease DNA Into Mice appeared first on GEN - Genetic Engin",
-      "publishedAt": "2026-11-20T12:03:02+00:00"
     },
     {
       "id": "biopharma-dive-8",
@@ -1047,7 +1047,7 @@
       "publishedAt": "2026-11-20T12:00:00+00:00"
     },
     {
-      "id": "science-daily-health-17",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
