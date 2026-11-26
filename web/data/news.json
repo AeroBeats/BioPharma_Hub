@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-26T00:14:29.174242+00:00",
+  "updatedAt": "2026-11-26T09:25:57.376154+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,8 @@
   ],
   "failedSources": [],
   "translations": {
+    "World’s largest trial of robotic knee replacement reveals surprising results": "全球最大规模的机器人膝关节置换术试验显示出令人惊喜的结果",
+    "Scientists discover a surprising twist in how the body burns calories": "科学家们发现了人体燃烧卡路里方式的一个令人惊讶的转变",
     "Why Medicare’s 2027 physician pay changes worry some specialists": "为什么Medicare的2027年医生薪酬变动让一些专科医生感到担忧",
     "STAT+: FDA approves Cogent’s drug for rare stomach cancer": "STAT+：FDA批准Cogent的罕见胃癌药物",
     "Engineered Medical Gloves Cut Bacterial Transmission by Up to 99%": "经过特殊设计的医用手套可将细菌传播减少多达99%",
@@ -105,11 +107,33 @@
     "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices": "STAT+：Medicare 预计第三轮药品价格谈判将节省 92 亿美元",
     "Poxvirus Machinery Mapped with Electron Microscopy Shows “Paired Engines”": "通过电子显微镜绘制的痘病毒机制显示出“成对引擎”",
     "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio": "STAT+：肢带型肌营养不良症迎来了首款获FDA批准的药物，该药物由BridgeBio开发",
-    "BCR-MERFISH Reveals Diversity and Spatial Organization of Antibody-Producing Cells": "BCR-MERFISH揭示了抗体产生细胞的多样性和空间组织",
-    "Metabolic Pathway Identified as Potential Target for Liver Diseases": "一种代谢途径被确定为肝脏疾病的潜在靶点",
-    "Capricor says it will challenge FDA's rejection of Duchenne therapy": "Capricor表示将对FDA拒绝杜氏肌营养不良症疗法提出异议"
+    "BCR-MERFISH Reveals Diversity and Spatial Organization of Antibody-Producing Cells": "BCR-MERFISH揭示了抗体产生细胞的多样性和空间组织"
   },
   "items": [
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "World’s largest trial of robotic knee replacement reveals surprising results",
+      "titleZh": "全球最大规模的机器人膝关节置换术试验显示出令人惊喜的结果",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm",
+      "summary": "Robot-assisted knee replacement surgery offers greater surgical precision, but a landmark clinical trial has revealed a surprising limitation. Despite the advanced technology, patients experienced no meaningful improvements in pain, mobility, or recovery compared with conventional surgery after one ",
+      "publishedAt": "2026-11-26T01:04:22+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Scientists discover a surprising twist in how the body burns calories",
+      "titleZh": "科学家们发现了人体燃烧卡路里方式的一个令人惊讶的转变",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055856.htm",
+      "summary": "Researchers have discovered that a drug can significantly increase the body's energy expenditure without clearly activating calorie-burning brown fat. The unexpected finding reveals a new challenge in developing obesity treatments that harness the body's natural fat-burning machinery.",
+      "publishedAt": "2026-11-25T23:37:49+00:00"
+    },
     {
       "id": "stat-news-0",
       "source": "STAT News",
@@ -303,7 +327,7 @@
       "publishedAt": "2026-11-25T12:02:17+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -315,7 +339,7 @@
       "publishedAt": "2026-11-25T11:13:47+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -327,7 +351,7 @@
       "publishedAt": "2026-11-25T10:53:00+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -363,7 +387,7 @@
       "publishedAt": "2026-11-25T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -375,7 +399,7 @@
       "publishedAt": "2026-11-25T04:11:59+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -387,7 +411,7 @@
       "publishedAt": "2026-11-25T01:09:43+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -639,7 +663,7 @@
       "publishedAt": "2026-11-24T13:39:31+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -651,7 +675,7 @@
       "publishedAt": "2026-11-24T10:57:44+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -747,7 +771,7 @@
       "publishedAt": "2026-11-24T00:48:57+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -813,7 +837,7 @@
       "lang": "en",
       "category": "研发",
       "title": "Metabolic Pathway Identified as Potential Target for Liver Diseases",
-      "titleZh": "一种代谢途径被确定为肝脏疾病的潜在靶点",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/drug-discovery/metabolic-pathway-identified-as-potential-target-for-liver-diseases/",
       "summary": "A study identified increased levels of the enzyme EPHX1 in the livers of mice and patients with advanced fibrosis and showed that EPHX1 promotes liver fibrosis by decreasing EET levels. The post Metabolic Pathway Identified as Potential Target for Liver Diseases appeared first on GEN - Genetic Engin",
       "publishedAt": "2026-11-23T20:55:58+00:00"
@@ -825,7 +849,7 @@
       "lang": "en",
       "category": "审批",
       "title": "Capricor says it will challenge FDA's rejection of Duchenne therapy",
-      "titleZh": "Capricor表示将对FDA拒绝杜氏肌营养不良症疗法提出异议",
+      "titleZh": "",
       "link": "https://endpoints.news/capricor-says-it-will-challenge-fdas-rejection-of-duchenne-therapy/",
       "summary": "Capricor Therapeutics will appeal the FDA’s Friday rejection of its cell therapy for Duchenne muscular dystrophy, CEO Linda Marbán said Monday. During an interview with Endpoints News, Marbán disputed data integrity concerns raised by the ...",
       "publishedAt": "2026-11-23T19:50:42+00:00"
@@ -903,7 +927,7 @@
       "publishedAt": "2026-11-23T14:43:21+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-6",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -915,7 +939,7 @@
       "publishedAt": "2026-11-23T11:55:17+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -927,7 +951,7 @@
       "publishedAt": "2026-11-23T10:45:53+00:00"
     },
     {
-      "id": "science-daily-health-16",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -951,7 +975,7 @@
       "publishedAt": "2026-11-23T10:00:00+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -963,7 +987,7 @@
       "publishedAt": "2026-11-23T02:02:10+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -975,7 +999,7 @@
       "publishedAt": "2026-11-23T01:16:17+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,7 +1011,7 @@
       "publishedAt": "2026-11-23T00:45:42+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -999,7 +1023,7 @@
       "publishedAt": "2026-11-22T20:57:35+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1009,30 +1033,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
       "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control",
       "publishedAt": "2026-11-22T11:04:06+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
-      "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing subtle patterns that conventional screening misses, the technology could help docto",
-      "publishedAt": "2026-11-22T03:43:18+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
-      "summary": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease. When the gene malfunctioned in mice, toxic buildup accelerated and cognitive abilities declined, raising hopes that restoring its",
-      "publishedAt": "2026-11-22T03:00:27+00:00"
     },
     {
       "id": "biopharma-dive-8",
@@ -1047,7 +1047,7 @@
       "publishedAt": "2026-11-21T20:46:00+00:00"
     },
     {
-      "id": "science-daily-health-17",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
