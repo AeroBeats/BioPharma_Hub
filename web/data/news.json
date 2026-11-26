@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-26T09:25:57.376154+00:00",
+  "updatedAt": "2026-11-26T19:32:32.388674+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,12 @@
   ],
   "failedSources": [],
   "translations": {
+    "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs": "在生育领域的进步中，经过基因工程改造的分子胶稳定了衰老卵子的染色体",
+    "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America": "STAT+：在美国“医疗之都”寻找初级保健医生的艰苦历程",
+    "Common supplements rival antibiotics in treating severe gum disease": "常见补充剂在治疗重度牙龈疾病方面与抗生素不相上下",
+    "Loneliness is making us sick, but we may be treating it all wrong": "孤独正在让我们生病，但我们可能一直在用错误的方式应对它",
+    "The surprising reason women seem better at multitasking than men": "女性似乎比男性更擅长多任务处理的惊人原因",
+    "Too much of this common nutrient could be accelerating blood vessel aging": "过量摄入这种常见营养素可能会加速血管老化",
     "World’s largest trial of robotic knee replacement reveals surprising results": "全球最大规模的机器人膝关节置换术试验显示出令人惊喜的结果",
     "Scientists discover a surprising twist in how the body burns calories": "科学家们发现了人体燃烧卡路里方式的一个令人惊讶的转变",
     "Why Medicare’s 2027 physician pay changes worry some specialists": "为什么Medicare的2027年医生薪酬变动让一些专科医生感到担忧",
@@ -101,17 +107,83 @@
     "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?": "STAT+：人工智能可以分析X光片和CT扫描结果，以起草放射影像报告。它是否能让医疗服务变得更好、更安全？",
     "How artificial intelligence is offering new hope for stroke patients in the Last Frontier": "人工智能如何为阿拉斯加州中风患者带来新希望",
     "Sanofi to buy Insmed for $41B in industry's largest acquisition in years": "赛诺菲将以410亿美元收购Insmed，这是该行业近年来最大的一笔收购交易",
-    "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines": "STAT+：赛诺菲将以410亿美元收购Insmed，并获得两种肺病药物",
-    "CMS reveals Medicare's negotiated drug prices for 2028": "CMS 公布了 Medicare 2028 年的药品议价价格",
-    "Depression may be an early warning sign of Alzheimer's disease": "抑郁症可能是阿尔茨海默病的早期预警信号",
-    "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices": "STAT+：Medicare 预计第三轮药品价格谈判将节省 92 亿美元",
-    "Poxvirus Machinery Mapped with Electron Microscopy Shows “Paired Engines”": "通过电子显微镜绘制的痘病毒机制显示出“成对引擎”",
-    "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio": "STAT+：肢带型肌营养不良症迎来了首款获FDA批准的药物，该药物由BridgeBio开发",
-    "BCR-MERFISH Reveals Diversity and Spatial Organization of Antibody-Producing Cells": "BCR-MERFISH揭示了抗体产生细胞的多样性和空间组织"
+    "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines": "STAT+：赛诺菲将以410亿美元收购Insmed，并获得两种肺病药物"
   },
   "items": [
     {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
+      "titleZh": "在生育领域的进步中，经过基因工程改造的分子胶稳定了衰老卵子的染色体",
+      "link": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss",
+      "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
+      "publishedAt": "2026-11-26T19:00:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America",
+      "titleZh": "STAT+：在美国“医疗之都”寻找初级保健医生的艰苦历程",
+      "link": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/?utm_campaign=rss",
+      "summary": "Boston is supposed to be the medical capital of America. Yet many don’t have primary care access, hurting their ability to get treatments, screenings, and medical advice.",
+      "publishedAt": "2026-11-26T12:00:00+00:00"
+    },
+    {
       "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Common supplements rival antibiotics in treating severe gum disease",
+      "titleZh": "常见补充剂在治疗重度牙龈疾病方面与抗生素不相上下",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126033031.htm",
+      "summary": "A combination of omega-3 and low-dose aspirin produced results comparable to antibiotics when used alongside standard treatment for severe gum disease, with benefits persisting long after supplementation ended. The surprising discovery could offer an alternative for some patients while reducing reli",
+      "publishedAt": "2026-11-26T11:43:30+00:00"
+    },
+    {
+      "id": "science-daily-health-2",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "Loneliness is making us sick, but we may be treating it all wrong",
+      "titleZh": "孤独正在让我们生病，但我们可能一直在用错误的方式应对它",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055906.htm",
+      "summary": "Loneliness can be surprisingly deadly, with previous research linking it to a roughly 30% increase in the risk of premature death. However, a new study warns that treating loneliness as a medical condition could distract from its deeper social causes. While healthcare professionals can offer support",
+      "publishedAt": "2026-11-26T11:32:30+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "The surprising reason women seem better at multitasking than men",
+      "titleZh": "女性似乎比男性更擅长多任务处理的惊人原因",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm",
+      "summary": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities. Researchers believe this unexpected difference may help explain why women are widely perceived as better multitaskers.",
+      "publishedAt": "2026-11-26T11:21:47+00:00"
+    },
+    {
+      "id": "science-daily-health-6",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Too much of this common nutrient could be accelerating blood vessel aging",
+      "titleZh": "过量摄入这种常见营养素可能会加速血管老化",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055847.htm",
+      "summary": "Researchers have uncovered a kidney protein that may hold an important key to vascular aging and longevity. The protein helps prevent excess phosphate from accumulating in the blood and gradually turning flexible blood vessels rigid. In animal models, a deficiency accelerated blood vessel aging and ",
+      "publishedAt": "2026-11-26T03:53:48+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -123,7 +195,7 @@
       "publishedAt": "2026-11-26T01:04:22+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -135,7 +207,7 @@
       "publishedAt": "2026-11-25T23:37:49+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -147,7 +219,7 @@
       "publishedAt": "2026-11-25T21:28:53+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -279,7 +351,7 @@
       "publishedAt": "2026-11-25T14:27:50+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +363,7 @@
       "publishedAt": "2026-11-25T13:55:58+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -327,7 +399,7 @@
       "publishedAt": "2026-11-25T12:02:17+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -339,7 +411,7 @@
       "publishedAt": "2026-11-25T11:13:47+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -351,7 +423,7 @@
       "publishedAt": "2026-11-25T10:53:00+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-8",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -363,7 +435,7 @@
       "publishedAt": "2026-11-25T09:30:54+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -375,7 +447,7 @@
       "publishedAt": "2026-11-25T09:30:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -387,7 +459,7 @@
       "publishedAt": "2026-11-25T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-7",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -399,7 +471,7 @@
       "publishedAt": "2026-11-25T04:11:59+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -411,7 +483,7 @@
       "publishedAt": "2026-11-25T01:09:43+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -459,7 +531,7 @@
       "publishedAt": "2026-11-24T20:46:41+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +663,7 @@
       "publishedAt": "2026-11-24T15:36:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +675,7 @@
       "publishedAt": "2026-11-24T14:27:36+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -615,7 +687,7 @@
       "publishedAt": "2026-11-24T14:26:07+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +699,7 @@
       "publishedAt": "2026-11-24T14:19:30+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -651,7 +723,7 @@
       "publishedAt": "2026-11-24T13:50:59+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -663,7 +735,7 @@
       "publishedAt": "2026-11-24T13:39:31+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -675,7 +747,7 @@
       "publishedAt": "2026-11-24T10:57:44+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -687,7 +759,7 @@
       "publishedAt": "2026-11-24T10:47:51+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -699,7 +771,7 @@
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -711,7 +783,7 @@
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -723,7 +795,7 @@
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -747,7 +819,7 @@
       "publishedAt": "2026-11-24T08:20:00+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -765,31 +837,31 @@
       "lang": "en",
       "category": "研发",
       "title": "CMS reveals Medicare's negotiated drug prices for 2028",
-      "titleZh": "CMS 公布了 Medicare 2028 年的药品议价价格",
+      "titleZh": "",
       "link": "https://endpoints.news/cms-reveals-medicares-negotiated-drug-prices-for-2028/",
       "summary": "The US government announced final prices for 13 drugs selected for the third round of Medicare negotiations, including Eli Lilly’s GLP-1 Trulicity and Gilead’s HIV drug Biktarvy. The Centers for Medicare ...",
       "publishedAt": "2026-11-24T00:48:57+00:00"
     },
     {
-      "id": "science-daily-health-14",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Depression may be an early warning sign of Alzheimer's disease",
-      "titleZh": "抑郁症可能是阿尔茨海默病的早期预警信号",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
       "summary": "Depression in older adults may be more than a mental health concern. Scientists discovered that accumulating tau protein, a hallmark of Alzheimer's disease, was linked to worsening depressive symptoms in people who still had normal memory and thinking abilities. The faster tau built up in the brain,",
       "publishedAt": "2026-11-24T00:31:03+00:00"
     },
     {
-      "id": "stat-news-17",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
       "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
-      "titleZh": "STAT+：Medicare 预计第三轮药品价格谈判将节省 92 亿美元",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
       "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
       "publishedAt": "2026-11-24T00:19:48+00:00"
@@ -801,22 +873,10 @@
       "lang": "en",
       "category": "技术",
       "title": "Poxvirus Machinery Mapped with Electron Microscopy Shows “Paired Engines”",
-      "titleZh": "通过电子显微镜绘制的痘病毒机制显示出“成对引擎”",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/infectious-diseases/poxvirus-machinery-mapped-with-electron-microscopy-shows-paired-engines/",
       "summary": "Cryo-electron tomography captured key molecular machinery directly inside the poxvirus core, revealing paired RNA polymerases poised for activation and a putative portal for exporting viral messages. The post Poxvirus Machinery Mapped with Electron Microscopy Shows &#8220;Paired Engines&#8221; appea",
       "publishedAt": "2026-11-23T23:50:24+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
-      "titleZh": "STAT+：肢带型肌营养不良症迎来了首款获FDA批准的药物，该药物由BridgeBio开发",
-      "link": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
-      "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
-      "publishedAt": "2026-11-23T21:23:42+00:00"
     },
     {
       "id": "gen-8",
@@ -825,7 +885,7 @@
       "lang": "en",
       "category": "研发",
       "title": "BCR-MERFISH Reveals Diversity and Spatial Organization of Antibody-Producing Cells",
-      "titleZh": "BCR-MERFISH揭示了抗体产生细胞的多样性和空间组织",
+      "titleZh": "",
       "link": "https://www.genengnews.com/topics/omics/bcr-merfish-reveals-diversity-and-spatial-organization-of-antibody-producing-cells/",
       "summary": "BCR-MERFISH is a new imaging technology that maps antibody-producing immune cells and their diversity within tissues, offering new insights into immune responses, inflammation, and diseases such as Crohn’s disease. The post BCR-MERFISH Reveals Diversity and Spatial Organization of Antibody-Producing",
       "publishedAt": "2026-11-23T21:12:59+00:00"
@@ -915,19 +975,7 @@
       "publishedAt": "2026-11-23T14:53:55+00:00"
     },
     {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
-      "summary": "Kymera Therapeutics has a shot at giving eczema patients Dupixent-like relief in a pill, a new 244-patient Phase 2 trial finds:",
-      "publishedAt": "2026-11-23T14:43:21+00:00"
-    },
-    {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -939,7 +987,7 @@
       "publishedAt": "2026-11-23T11:55:17+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -949,18 +997,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
       "summary": "Scientists have discovered previously unknown viruses that could help explain how some of life’s earliest biological structures evolved. The surprising findings challenge a longstanding evolutionary theory and suggest that viruses may have hidden capabilities far beyond simply infecting cells.",
       "publishedAt": "2026-11-23T10:45:53+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover that leukemia can begin developing 50 years before diagnosis",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261121221122.htm",
-      "summary": "A groundbreaking study reveals that acute myeloid leukemia (AML), an aggressive blood cancer, can begin developing more than 50 years before diagnosis, with the first cancer-driving mutation appearing before age 20 in two-thirds of cases. Scientists discovered that these mutated cells grow in surpri",
-      "publishedAt": "2026-11-23T10:26:07+00:00"
     },
     {
       "id": "biopharma-dive-7",
@@ -975,7 +1011,7 @@
       "publishedAt": "2026-11-23T10:00:00+00:00"
     },
     {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -987,7 +1023,7 @@
       "publishedAt": "2026-11-23T02:02:10+00:00"
     },
     {
-      "id": "science-daily-health-13",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -999,7 +1035,7 @@
       "publishedAt": "2026-11-23T01:16:17+00:00"
     },
     {
-      "id": "science-daily-health-15",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -1009,30 +1045,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261121221132.htm",
       "summary": "Weakening bones may reveal more about brain health than scientists previously realized, with new research linking lower spinal bone density to faster cognitive decline and accelerated changes in the brain's white matter. The surprising connection suggests that routine medical scans could help uncove",
       "publishedAt": "2026-11-23T00:45:42+00:00"
-    },
-    {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
-      "summary": "People with type 2 diabetes face a 53% higher risk of developing Alzheimer’s disease, according to a major new review of 40 studies. Researchers estimate that nearly five out of every 1,000 people with type 2 diabetes develop Alzheimer’s each year. By focusing specifically on these two conditions, t",
-      "publishedAt": "2026-11-22T20:57:35+00:00"
-    },
-    {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
-      "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control",
-      "publishedAt": "2026-11-22T11:04:06+00:00"
     },
     {
       "id": "biopharma-dive-8",
@@ -1045,18 +1057,6 @@
       "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
       "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
       "publishedAt": "2026-11-21T20:46:00+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "技术",
-      "title": "AI may not work like the human brain after all, scientists discover",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-      "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important ",
-      "publishedAt": "2026-11-21T15:24:58+00:00"
     },
     {
       "id": "biopharma-dive-9",
@@ -1171,6 +1171,30 @@
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
+      "category": "研发",
+      "title": "Integrated wastewater and clinical genomic surveillance for high-resolution tracking of measles virus evolution and transmission",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04754-3",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
+      "category": "研发",
+      "title": "Performance of intracortical microelectrode arrays in people with implanted brain–computer interfaces over a 20-year period",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04530-3",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
       "category": "审批",
       "title": "STEP Young trial shows semaglutide benefits in children",
       "titleZh": "",
@@ -1179,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1235,30 +1259,6 @@
       "title": "Reply to: Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04782-z",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-6",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Harnessing smartwatches to spot undiagnosed hypertension",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/d41591-026-00058-8",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Author Correction: Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04803-x",
       "summary": "",
       "publishedAt": ""
     }
