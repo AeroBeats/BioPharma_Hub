@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-25T15:29:45.308605+00:00",
+  "updatedAt": "2026-11-26T00:14:29.174242+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,15 @@
   ],
   "failedSources": [],
   "translations": {
+    "Why Medicare’s 2027 physician pay changes worry some specialists": "为什么Medicare的2027年医生薪酬变动让一些专科医生感到担忧",
+    "STAT+: FDA approves Cogent’s drug for rare stomach cancer": "STAT+：FDA批准Cogent的罕见胃癌药物",
+    "Engineered Medical Gloves Cut Bacterial Transmission by Up to 99%": "经过特殊设计的医用手套可将细菌传播减少多达99%",
+    "CGT Manufacturing Success in Asia Requires Standardization and Flexibility": "亚洲CGT制造的成功需要标准化和灵活性",
+    "Medicare sets 2028 prices for 13 new drugs under Biden-era law": "根据拜登时代的法律，Medicare为13种新药设定了2028年的价格",
+    "Amgen takes next step toward biosimilar Opdivo; Bristol Myers taps a new finance head": "安进迈向Opdivo生物类似物的新一步；百时美施贵宝任命新任财务主管",
+    "Coronary Artery Disease Genetics Map Links Risk Variants to Genes and Cell Types": "冠状动脉疾病遗传图谱将风险变异与基因和细胞类型联系起来",
+    "Bayer goes to Hansoh for ADC deal worth $150M up front": "拜耳与翰森制药达成价值1.5亿美元的ADC预付款交易",
+    "Bayer pulls blockbuster drug from Germany over pricing dispute": "拜耳因定价争议将重磅药物从德国撤下",
     "GSK's autoimmune success; AbbVie drug gets expanded label for vitiligo": "葛兰素史克的自身免疫性疾病药物取得成功；艾伯维的药物获得白癜风适应症的扩展性批准",
     "'Prof Oak' is now lending his expertise to Anthropic": "“大木博士”现正将他的专业知识贡献给Anthropic",
     "Bristol Myers reports one Phase 3 success, one failure in Sotyktu lupus trials": "百时美施贵宝报告Sotyktu狼疮试验中一项III期试验成功，一项失败",
@@ -98,20 +107,119 @@
     "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio": "STAT+：肢带型肌营养不良症迎来了首款获FDA批准的药物，该药物由BridgeBio开发",
     "BCR-MERFISH Reveals Diversity and Spatial Organization of Antibody-Producing Cells": "BCR-MERFISH揭示了抗体产生细胞的多样性和空间组织",
     "Metabolic Pathway Identified as Potential Target for Liver Diseases": "一种代谢途径被确定为肝脏疾病的潜在靶点",
-    "Capricor says it will challenge FDA's rejection of Duchenne therapy": "Capricor表示将对FDA拒绝杜氏肌营养不良症疗法提出异议",
-    "FDA approves BridgeBio rare disease drug for muscular dystrophy": "FDA批准BridgeBio用于治疗肌营养不良的罕见病药物",
-    "Optum Rx CEO bets people are ready to shop for their prescriptions": "Optum Rx首席执行官笃定人们已准备好购买处方药",
-    "Healthcare spending on AI surpasses other sectors, report says": "报告称，医疗保健领域的人工智能支出超过其他行业",
-    "Roche wins second FDA approval for breast cancer pill, opening up bigger market": "罗氏的乳腺癌药物获得FDA的第二次批准，从而开拓了更大的市场",
-    "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal": "礼来以可能高达7.25亿美元的交易收购亨廷顿病药物开发商LoQus23",
-    "House committee issues final report on US-China biotech race": "众议院委员会发布关于中美生物技术竞赛的最终报告",
-    "Kymera eczema pill meets goals in mid-stage trial": "Kymera湿疹药物在中期试验中达到目标",
-    "STAT+: A big win for a potential competitor for Dupixent eczema treatment": "STAT+：对于Dupixent湿疹治疗的潜在竞争对手来说，这是一场大胜利",
-    "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more": "STAT+：Pharmalittle：我们正在阅读有关Capricor的杜氏肌营养不良症药物、礼来2026年的第15次收购等内容"
+    "Capricor says it will challenge FDA's rejection of Duchenne therapy": "Capricor表示将对FDA拒绝杜氏肌营养不良症疗法提出异议"
   },
   "items": [
     {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
+      "titleZh": "为什么Medicare的2027年医生薪酬变动让一些专科医生感到担忧",
+      "link": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss",
+      "summary": "Cuts to Medicare physician payment rates for certain same-day services could impact some specialists more than others.",
+      "publishedAt": "2026-11-25T21:28:53+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: FDA approves Cogent’s drug for rare stomach cancer",
+      "titleZh": "STAT+：FDA批准Cogent的罕见胃癌药物",
+      "link": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss",
+      "summary": "Cogent Biosciences won FDA clearance for its stomach cancer treatment, in combination with a much older drug from Pfizer called Sutent.",
+      "publishedAt": "2026-11-25T20:44:15+00:00"
+    },
+    {
+      "id": "gen-0",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "市场",
+      "title": "Engineered Medical Gloves Cut Bacterial Transmission by Up to 99%",
+      "titleZh": "经过特殊设计的医用手套可将细菌传播减少多达99%",
+      "link": "https://www.genengnews.com/topics/infectious-diseases/engineered-medical-gloves-cut-bacterial-transmission-by-up-to-99/",
+      "summary": "Researchers developed innovative medical gloves with microscopic fluid-repelling surfaces that reduce bacterial attachment and transmission by up to 99%, potentially helping prevent hospital-acquired infections. The post Engineered Medical Gloves Cut Bacterial Transmission by Up to 99% appeared firs",
+      "publishedAt": "2026-11-25T19:00:47+00:00"
+    },
+    {
+      "id": "gen-1",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "审批",
+      "title": "CGT Manufacturing Success in Asia Requires Standardization and Flexibility",
+      "titleZh": "亚洲CGT制造的成功需要标准化和灵活性",
+      "link": "https://www.genengnews.com/topics/bioprocessing/cgt-manufacturing-success-in-asia-requires-standardization-and-flexibility/",
+      "summary": "Asia's CGT therapy pipeline is expanding rapidly, but the region's fragmented regulatory, manufacturing, and supply-chain landscape creates a distinctive challenge: how to build processes that are standardized enough to be reproducible. The post CGT Manufacturing Success in Asia Requires Standardiza",
+      "publishedAt": "2026-11-25T16:59:23+00:00"
+    },
+    {
+      "id": "biopharma-dive-0",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "研发",
+      "title": "Medicare sets 2028 prices for 13 new drugs under Biden-era law",
+      "titleZh": "根据拜登时代的法律，Medicare为13种新药设定了2028年的价格",
+      "link": "https://www.biopharmadive.com/news/inflation-reduction-act-2028-final-medicare-drug-price/875717/",
+      "summary": "Drugs nearing or past patent expiration are facing steep cuts as the Inflation Reduction Act expands the number of medicines subject to cost controls.",
+      "publishedAt": "2026-11-25T16:26:00+00:00"
+    },
+    {
+      "id": "biopharma-dive-1",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "审批",
+      "title": "Amgen takes next step toward biosimilar Opdivo; Bristol Myers taps a new finance head",
+      "titleZh": "安进迈向Opdivo生物类似物的新一步；百时美施贵宝任命新任财务主管",
+      "link": "https://www.biopharmadive.com/news/arcus-quemliclustat-belite-amgen-opdivo-biosimilar/875512/",
+      "summary": "It&rsquo;s the second big change to Bristol Myers&rsquo; executive ranks this month. Elsewhere, Cogent secured a cancer drug approval while Arcus Biosciences and Belite Bio hit setbacks.",
+      "publishedAt": "2026-11-25T16:24:00+00:00"
+    },
+    {
+      "id": "gen-2",
+      "source": "GEN",
+      "sourceId": "gen",
+      "lang": "en",
+      "category": "研发",
+      "title": "Coronary Artery Disease Genetics Map Links Risk Variants to Genes and Cell Types",
+      "titleZh": "冠状动脉疾病遗传图谱将风险变异与基因和细胞类型联系起来",
+      "link": "https://www.genengnews.com/topics/omics/coronary-artery-disease-genetics-map-links-risk-variants-to-genes-and-cell-types/",
+      "summary": "Researchers create a multiomic map of human coronary artery disease that links disease-associated genetic variants with candidate disease-relevant cell types and target genes. The post Coronary Artery Disease Genetics Map Links Risk Variants to Genes and Cell Types appeared first on GEN - Genetic En",
+      "publishedAt": "2026-11-25T16:22:26+00:00"
+    },
+    {
       "id": "endpoints-0",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Bayer goes to Hansoh for ADC deal worth $150M up front",
+      "titleZh": "拜耳与翰森制药达成价值1.5亿美元的ADC预付款交易",
+      "link": "https://endpoints.news/bayer-goes-to-hansoh-for-adc-deal-worth-150m-up-front/",
+      "summary": "Hansoh Pharma continues to line up partners as dealmaking with China’s biotech industry shows no signs of abating. Bayer is the latest to sign up for a piece of Hansoh’s pipeline. The German giant on ...",
+      "publishedAt": "2026-11-25T15:55:19+00:00"
+    },
+    {
+      "id": "endpoints-1",
+      "source": "Endpoints News",
+      "sourceId": "endpoints",
+      "lang": "en",
+      "category": "市场",
+      "title": "Bayer pulls blockbuster drug from Germany over pricing dispute",
+      "titleZh": "拜耳因定价争议将重磅药物从德国撤下",
+      "link": "https://endpoints.news/bayer-pulls-blockbuster-drug-from-germany-over-pricing-dispute/",
+      "summary": "Bayer is pulling its blockbuster heart and kidney disease drug Kerendia from Germany, its home market, in a reimbursement dispute that highlights growing tensions between drugmakers and European governments over the price of innovative medicines. ...",
+      "publishedAt": "2026-11-25T15:51:44+00:00"
+    },
+    {
+      "id": "endpoints-2",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -123,7 +231,7 @@
       "publishedAt": "2026-11-25T15:22:38+00:00"
     },
     {
-      "id": "endpoints-1",
+      "id": "endpoints-3",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -135,7 +243,7 @@
       "publishedAt": "2026-11-25T15:00:14+00:00"
     },
     {
-      "id": "endpoints-2",
+      "id": "endpoints-4",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -147,7 +255,7 @@
       "publishedAt": "2026-11-25T14:27:50+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -159,7 +267,7 @@
       "publishedAt": "2026-11-25T13:55:58+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -171,7 +279,7 @@
       "publishedAt": "2026-11-25T13:03:56+00:00"
     },
     {
-      "id": "endpoints-3",
+      "id": "endpoints-5",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -183,7 +291,7 @@
       "publishedAt": "2026-11-25T12:13:28+00:00"
     },
     {
-      "id": "endpoints-4",
+      "id": "endpoints-6",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -231,7 +339,7 @@
       "publishedAt": "2026-11-25T09:30:54+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -243,7 +351,7 @@
       "publishedAt": "2026-11-25T09:30:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -291,7 +399,7 @@
       "publishedAt": "2026-11-24T23:31:52+00:00"
     },
     {
-      "id": "endpoints-5",
+      "id": "endpoints-7",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -303,7 +411,7 @@
       "publishedAt": "2026-11-24T21:54:24+00:00"
     },
     {
-      "id": "gen-0",
+      "id": "gen-3",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -315,7 +423,7 @@
       "publishedAt": "2026-11-24T21:36:40+00:00"
     },
     {
-      "id": "gen-1",
+      "id": "gen-4",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -327,7 +435,7 @@
       "publishedAt": "2026-11-24T20:46:41+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -339,7 +447,7 @@
       "publishedAt": "2026-11-24T19:30:29+00:00"
     },
     {
-      "id": "gen-2",
+      "id": "gen-5",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -351,7 +459,7 @@
       "publishedAt": "2026-11-24T19:28:57+00:00"
     },
     {
-      "id": "gen-3",
+      "id": "gen-6",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -363,7 +471,7 @@
       "publishedAt": "2026-11-24T18:58:29+00:00"
     },
     {
-      "id": "endpoints-6",
+      "id": "endpoints-8",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -375,7 +483,7 @@
       "publishedAt": "2026-11-24T18:58:04+00:00"
     },
     {
-      "id": "endpoints-7",
+      "id": "endpoints-9",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -387,7 +495,7 @@
       "publishedAt": "2026-11-24T18:31:26+00:00"
     },
     {
-      "id": "biopharma-dive-0",
+      "id": "biopharma-dive-2",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -399,7 +507,7 @@
       "publishedAt": "2026-11-24T16:36:00+00:00"
     },
     {
-      "id": "endpoints-8",
+      "id": "endpoints-10",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -411,7 +519,7 @@
       "publishedAt": "2026-11-24T16:20:55+00:00"
     },
     {
-      "id": "endpoints-9",
+      "id": "endpoints-11",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -423,7 +531,7 @@
       "publishedAt": "2026-11-24T16:11:38+00:00"
     },
     {
-      "id": "endpoints-10",
+      "id": "endpoints-12",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -435,7 +543,7 @@
       "publishedAt": "2026-11-24T16:11:32+00:00"
     },
     {
-      "id": "endpoints-11",
+      "id": "endpoints-13",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -447,7 +555,7 @@
       "publishedAt": "2026-11-24T15:41:58+00:00"
     },
     {
-      "id": "biopharma-dive-1",
+      "id": "biopharma-dive-3",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -459,7 +567,7 @@
       "publishedAt": "2026-11-24T15:36:00+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -471,7 +579,7 @@
       "publishedAt": "2026-11-24T14:27:36+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -483,7 +591,7 @@
       "publishedAt": "2026-11-24T14:26:07+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -495,7 +603,7 @@
       "publishedAt": "2026-11-24T14:19:30+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -507,7 +615,7 @@
       "publishedAt": "2026-11-24T14:15:03+00:00"
     },
     {
-      "id": "biopharma-dive-2",
+      "id": "biopharma-dive-4",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -519,7 +627,7 @@
       "publishedAt": "2026-11-24T13:50:59+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +663,7 @@
       "publishedAt": "2026-11-24T10:47:51+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -567,7 +675,7 @@
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -579,7 +687,7 @@
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -591,7 +699,7 @@
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -603,7 +711,7 @@
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
-      "id": "endpoints-12",
+      "id": "endpoints-14",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -615,7 +723,7 @@
       "publishedAt": "2026-11-24T08:20:00+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +735,7 @@
       "publishedAt": "2026-11-24T07:54:44+00:00"
     },
     {
-      "id": "endpoints-13",
+      "id": "endpoints-15",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -651,7 +759,7 @@
       "publishedAt": "2026-11-24T00:31:03+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -663,7 +771,7 @@
       "publishedAt": "2026-11-24T00:19:48+00:00"
     },
     {
-      "id": "gen-4",
+      "id": "gen-7",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -675,7 +783,7 @@
       "publishedAt": "2026-11-23T23:50:24+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -687,7 +795,7 @@
       "publishedAt": "2026-11-23T21:23:42+00:00"
     },
     {
-      "id": "gen-5",
+      "id": "gen-8",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -699,7 +807,7 @@
       "publishedAt": "2026-11-23T21:12:59+00:00"
     },
     {
-      "id": "gen-6",
+      "id": "gen-9",
       "source": "GEN",
       "sourceId": "gen",
       "lang": "en",
@@ -711,7 +819,7 @@
       "publishedAt": "2026-11-23T20:55:58+00:00"
     },
     {
-      "id": "endpoints-14",
+      "id": "endpoints-16",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
@@ -723,124 +831,76 @@
       "publishedAt": "2026-11-23T19:50:42+00:00"
     },
     {
-      "id": "endpoints-15",
+      "id": "endpoints-17",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
       "category": "审批",
       "title": "FDA approves BridgeBio rare disease drug for muscular dystrophy",
-      "titleZh": "FDA批准BridgeBio用于治疗肌营养不良的罕见病药物",
+      "titleZh": "",
       "link": "https://endpoints.news/fda-approves-bridgebio-rare-disease-drug-for-muscular-dystrophy/",
       "summary": "The FDA approved a new rare disease drug from BridgeBio Pharma, the first of an expected three on tap for the company. Regulators on Monday waved through BBP-418 to treat patients with limb-girdle muscular dystrophy ...",
       "publishedAt": "2026-11-23T19:13:17+00:00"
-    },
-    {
-      "id": "endpoints-16",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "技术",
-      "title": "Optum Rx CEO bets people are ready to shop for their prescriptions",
-      "titleZh": "Optum Rx首席执行官笃定人们已准备好购买处方药",
-      "link": "https://endpoints.news/optum-rx-ceo-bets-people-are-ready-to-shop-for-their-prescriptions/",
-      "summary": "UnitedHealth Group’s Optum Rx is getting ready for a world in which more consumers shop around for their healthcare. That might include using personal AI agents to help them find the best prices. “I believe ...",
-      "publishedAt": "2026-11-23T18:30:25+00:00"
-    },
-    {
-      "id": "endpoints-17",
-      "source": "Endpoints News",
-      "sourceId": "endpoints",
-      "lang": "en",
-      "category": "技术",
-      "title": "Healthcare spending on AI surpasses other sectors, report says",
-      "titleZh": "报告称，医疗保健领域的人工智能支出超过其他行业",
-      "link": "https://endpoints.news/healthcare-spending-on-ai-surpasses-other-sectors-report-says/",
-      "summary": "Spending on AI in healthcare hit $3.7 billion in 2026, up from $1.5 billion in 2025. According to a report from Menlo Ventures, healthcare is spending more than other industries on ...",
-      "publishedAt": "2026-11-23T18:05:58+00:00"
     },
     {
       "id": "endpoints-18",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
-      "category": "审批",
-      "title": "Roche wins second FDA approval for breast cancer pill, opening up bigger market",
-      "titleZh": "罗氏的乳腺癌药物获得FDA的第二次批准，从而开拓了更大的市场",
-      "link": "https://endpoints.news/roche-wins-second-fda-approval-for-breast-cancer-pill-opening-up-bigger-market/",
-      "summary": "Roche's breast cancer pill giredestrant won its second FDA approval on Monday, opening up a much larger potential market for the Swiss drugmaker in early-stage disease. The FDA approved the drug ...",
-      "publishedAt": "2026-11-23T17:44:26+00:00"
-    },
-    {
-      "id": "biopharma-dive-3",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "市场",
-      "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
-      "titleZh": "礼来以可能高达7.25亿美元的交易收购亨廷顿病药物开发商LoQus23",
-      "link": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
-      "summary": "The acquisition hands Lilly what could become a first-of-its-kind treatment designed to inhibit a protein, &ldquo;MSH3,&rdquo; that can exacerbate the genetic abnormalities underlying diseases like Huntington&#39;s.",
-      "publishedAt": "2026-11-23T16:17:09+00:00"
+      "category": "技术",
+      "title": "Optum Rx CEO bets people are ready to shop for their prescriptions",
+      "titleZh": "",
+      "link": "https://endpoints.news/optum-rx-ceo-bets-people-are-ready-to-shop-for-their-prescriptions/",
+      "summary": "UnitedHealth Group’s Optum Rx is getting ready for a world in which more consumers shop around for their healthcare. That might include using personal AI agents to help them find the best prices. “I believe ...",
+      "publishedAt": "2026-11-23T18:30:25+00:00"
     },
     {
       "id": "endpoints-19",
       "source": "Endpoints News",
       "sourceId": "endpoints",
       "lang": "en",
-      "category": "市场",
-      "title": "House committee issues final report on US-China biotech race",
-      "titleZh": "众议院委员会发布关于中美生物技术竞赛的最终报告",
-      "link": "https://endpoints.news/house-committee-issues-final-report-on-us-china-biotech-race/",
-      "summary": "A House panel focused on economic competition with China warns that the country's growing prowess in the biotech sector, paired with multiple inefficiencies in the US, is shifting global medicine development overseas. The Select Committee ...",
-      "publishedAt": "2026-11-23T16:00:13+00:00"
+      "category": "技术",
+      "title": "Healthcare spending on AI surpasses other sectors, report says",
+      "titleZh": "",
+      "link": "https://endpoints.news/healthcare-spending-on-ai-surpasses-other-sectors-report-says/",
+      "summary": "Spending on AI in healthcare hit $3.7 billion in 2026, up from $1.5 billion in 2025. According to a report from Menlo Ventures, healthcare is spending more than other industries on ...",
+      "publishedAt": "2026-11-23T18:05:58+00:00"
     },
     {
-      "id": "biopharma-dive-4",
+      "id": "biopharma-dive-5",
+      "source": "BioPharma Dive",
+      "sourceId": "biopharma-dive",
+      "lang": "en",
+      "category": "市场",
+      "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
+      "titleZh": "",
+      "link": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
+      "summary": "The acquisition hands Lilly what could become a first-of-its-kind treatment designed to inhibit a protein, &ldquo;MSH3,&rdquo; that can exacerbate the genetic abnormalities underlying diseases like Huntington&#39;s.",
+      "publishedAt": "2026-11-23T16:17:09+00:00"
+    },
+    {
+      "id": "biopharma-dive-6",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
       "category": "审批",
       "title": "Kymera eczema pill meets goals in mid-stage trial",
-      "titleZh": "Kymera湿疹药物在中期试验中达到目标",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
       "summary": "The protein degrader drug showed &quot;biologic-like efficacy,&quot; according to Wall Street analysts who argued it could challenge Sanofi and Regeneron&rsquo;s market leader Dupixent.",
       "publishedAt": "2026-11-23T14:53:55+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
-      "titleZh": "STAT+：对于Dupixent湿疹治疗的潜在竞争对手来说，这是一场大胜利",
-      "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
-      "summary": "Kymera Therapeutics has a shot at giving eczema patients Dupixent-like relief in a pill, a new 244-patient Phase 2 trial finds:",
-      "publishedAt": "2026-11-23T14:43:21+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
-      "titleZh": "STAT+：Pharmalittle：我们正在阅读有关Capricor的杜氏肌营养不良症药物、礼来2026年的第15次收购等内容",
-      "link": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss",
-      "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics",
-      "publishedAt": "2026-11-23T14:38:08+00:00"
     },
     {
       "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
-      "category": "研发",
-      "title": "At first preventive services panel meeting in more than a year, votes are cast in private",
+      "category": "审批",
+      "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
       "titleZh": "",
-      "link": "https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss",
-      "summary": "In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:",
-      "publishedAt": "2026-11-23T13:04:19+00:00"
+      "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
+      "summary": "Kymera Therapeutics has a shot at giving eczema patients Dupixent-like relief in a pill, a new 244-patient Phase 2 trial finds:",
+      "publishedAt": "2026-11-23T14:43:21+00:00"
     },
     {
       "id": "science-daily-health-4",
@@ -879,7 +939,7 @@
       "publishedAt": "2026-11-23T10:26:07+00:00"
     },
     {
-      "id": "biopharma-dive-5",
+      "id": "biopharma-dive-7",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -939,18 +999,6 @@
       "publishedAt": "2026-11-22T20:57:35+00:00"
     },
     {
-      "id": "gen-7",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "市场",
-      "title": "StockWatch: Insmed Jumps on Report of Takeover Interest by Sanofi, as Analysts Conclude a Deal Would Make Sense",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/translational-medicine/stockwatch-insmed-jumps-on-report-of-takeover-interest-by-sanofi-as-analysts-conclude-a-deal-would-make-sense/",
-      "summary": "Bloomberg News cited unnamed sources in reporting that Sanofi (Euronext Paris: SAN and Nasdaq: SNY) was weighing whether to acquire Insmed, in a potential blockbuster deal that the news outlet and others speculated could be biopharma's largest merger-and-acquisition (M&#038;A) deal since 2023. The p",
-      "publishedAt": "2026-11-22T18:52:58+00:00"
-    },
-    {
       "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
@@ -987,7 +1035,7 @@
       "publishedAt": "2026-11-22T03:00:27+00:00"
     },
     {
-      "id": "biopharma-dive-6",
+      "id": "biopharma-dive-8",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -1011,7 +1059,7 @@
       "publishedAt": "2026-11-21T15:24:58+00:00"
     },
     {
-      "id": "biopharma-dive-7",
+      "id": "biopharma-dive-9",
       "source": "BioPharma Dive",
       "sourceId": "biopharma-dive",
       "lang": "en",
@@ -1021,54 +1069,6 @@
       "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
       "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
       "publishedAt": "2026-11-20T19:53:09+00:00"
-    },
-    {
-      "id": "gen-8",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "研发",
-      "title": "PTSD Brain DNA Methylation Patterns Linked to Age of Trauma Exposure, Sex, and Ethnicity",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/omics/ptsd-brain-dna-methylation-patterns-linked-to-age-of-trauma-exposure-sex-and-ethnicity/",
-      "summary": "Studying postmortem brain tissue, researchers found variations in DNA methylation in different brain areas that may help explain the development of post-traumatic stress disorder. The post PTSD Brain DNA Methylation Patterns Linked to Age of Trauma Exposure, Sex, and Ethnicity appeared first on GEN ",
-      "publishedAt": "2026-11-20T19:36:46+00:00"
-    },
-    {
-      "id": "gen-9",
-      "source": "GEN",
-      "sourceId": "gen",
-      "lang": "en",
-      "category": "审批",
-      "title": "Immune Aging Study in Mice Reveals Clues to T Cell Dysfunction and Cancer Development",
-      "titleZh": "",
-      "link": "https://www.genengnews.com/topics/cancer/immune-aging-study-in-mice-reveals-clues-to-t-cell-dysfunction-and-cancer-development/",
-      "summary": "Age-related changes in CD8+ T cells may hold important clues to understanding cancer immunity, with new findings revealing distinct chromatin signatures of dysfunction and the emergence of a unique regulatory population. The post Immune Aging Study in Mice Reveals Clues to T Cell Dysfunction and Can",
-      "publishedAt": "2026-11-20T19:04:09+00:00"
-    },
-    {
-      "id": "biopharma-dive-8",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "研发",
-      "title": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/erasca-kras-pancreatic-cancer-drug-results-revolution-rasonque/875314/",
-      "summary": "Rasonque is already off to one of the best oncology launches in history. But certain limitations leave an opportunity that companies like Erasca&nbsp;&mdash; which is nearing the start of a Phase 3 trial&nbsp;&mdash;&nbsp;may be able to exploit.&nbsp;",
-      "publishedAt": "2026-11-20T17:18:00+00:00"
-    },
-    {
-      "id": "biopharma-dive-9",
-      "source": "BioPharma Dive",
-      "sourceId": "biopharma-dive",
-      "lang": "en",
-      "category": "审批",
-      "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
-      "titleZh": "",
-      "link": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
-      "summary": "Wall Street analysts rushed to Celldex&rsquo;s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva&rsquo;s research chief accepted a new job.",
-      "publishedAt": "2026-11-20T13:03:00+00:00"
     },
     {
       "id": "nature-biotech-0",
@@ -1183,6 +1183,18 @@
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
+      "category": "技术",
+      "title": "Author Correction: On-premise medical AI agents for reliable clinical decision-making",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04822-8",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-2",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
       "category": "研发",
       "title": "Later-born generations have better memory and lose it more slowly",
       "titleZh": "",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "Author Correction: Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04803-x",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04731-w",
       "summary": "",
       "publishedAt": ""
     }
