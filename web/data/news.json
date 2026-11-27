@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-27T02:46:54.565942+00:00",
+  "updatedAt": "2026-11-27T12:02:24.936511+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,14 @@
   ],
   "failedSources": [],
   "translations": {
+    "Breathing less oxygen tripled lifespan in mice with a deadly brain disorder": "呼吸较少的氧气使患有致命脑部疾病的小鼠寿命延长三倍",
+    "Pregnancy is the ‘perfect storm’ for eating disorders, but doctors keep missing them": "怀孕是饮食失调的“完美风暴”，但医生却一直忽视这一点",
+    "Opinion: Montana’s ‘right to try’ law makes patients responsible for bearing costs — and risks": "观点：蒙大拿州的“尝试权”法律让患者承担费用和风险",
+    "One type of physical activity is linked to a 20% higher dementia risk": "一种类型的体育活动与痴呆症风险高出20%有关",
+    "A fat-burning molecule has an unexpected benefit for your muscles": "一种燃烧脂肪的分子对您的肌肉有意外的好处",
+    "Scientists identify two ages when children may be most vulnerable to screen time": "科学家们确定了儿童可能最容易受到屏幕时间影响的两个年龄段",
+    "This dietary supplement may have an unexpected benefit for the brain": "这种膳食补充剂可能对大脑有意外的益处",
+    "For decades, scientists may have misunderstood how brain cells work": "几十年来，科学家们可能一直误解了脑细胞的工作原理",
     "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs": "在生育领域的进步中，经过基因工程改造的分子胶稳定了衰老卵子的染色体",
     "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America": "STAT+：在美国“医疗之都”寻找初级保健医生的艰苦历程",
     "Common supplements rival antibiotics in treating severe gum disease": "常见补充剂在治疗重度牙龈疾病方面与抗生素不相上下",
@@ -74,12 +82,12 @@
     "The 38-year history behind Insmed, now Sanofi's strongest wager since 2004": "Insmed背后的38年历史，如今是赛诺菲自2004年以来的最大赌注",
     "Common sleep and anxiety drugs could be harming aging brains": "常见的安眠药和抗焦虑药物可能对衰老的大脑有害",
     "Peppermint oil significantly lowers blood pressure in just 20 days": "薄荷油仅需20天即可显著降低血压",
+    "A tiny injectable sensor could change how millions of people monitor blood sugar": "一种微型注射式传感器有望改变数百万人的血糖监测方式",
     "What is a thought made of? Why human consciousness may be beyond AI’s reach": "思想是由什么构成的？为什么人类意识可能超出了人工智能的范畴",
     "Opinion: Washington and Beijing are building walls around biotechnology. That’s the wrong approach": "观点：华盛顿和北京正在围绕生物技术筑起壁垒。这是错误的做法",
     "Despite stalling in court, Trump restrictions on foreign students have had a chilling effect on enrollment": "尽管在法庭上受阻，但特朗普对外国学生的限制仍对入学率产生了抑制作用",
     "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety": "斯坦福大学科学家发现多动症和焦虑症背后隐藏的3种大脑类型",
     "Scientists discover a hidden gut defense that could prevent colon cancer": "科学家发现一种隐藏的肠道防御机制，可能预防结肠癌",
-    "New nose drops restore youthful memory and fight Alzheimer’s in aging mice": "新型鼻滴剂可恢复老年小鼠的年轻记忆并对抗阿尔茨海默病",
     "Cogent prepares for first commercial launch with GI tumor treatment": "Cogent 准备首次商业上市 GI 肿瘤治疗药物",
     "Why Genomics Won’t Converge on One Technology": "为什么基因组学不会在一种技术上趋同",
     "Alzheimer’s Study Shows Gal3 Shapes Aβ Remodeling and Microglial Responses": "阿尔茨海默病研究表明，Gal3塑造Aβ重塑和小胶质细胞反应",
@@ -99,19 +107,107 @@
     "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026": "STAT+：阿拉斯加州医院使用人工智能改善中风护理，肽类药物成为主流，以及2026年北美放射学会年会",
     "Menopause hormone therapy med popularity increases 141% compared to previous years": "与前几年相比，更年期激素治疗药物的受欢迎程度提高了141%",
     "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition": "赛诺菲以410亿美元收购Insmed，创下今年生物制药行业最大收购案",
-    "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database": "STAT+：美国食品药品监督管理局（FDA）罕见地指责两家制药公司未将临床试验结果上报至数据库",
-    "Cannabis users develop psychosis years earlier, and the gap grows with age": "大麻使用者比其他人早几年出现精神病症状，且随着年龄的增长，这种差距会越来越大",
-    "Scientists discover a new type of depression that common antidepressants struggle to treat": "科学家发现了一种新型抑郁症，常见的抗抑郁药难以对其进行治疗",
-    "Opinion: Why medical students should keep going to class": "观点：为什么医学院学生应该坚持上课",
-    "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often": "观点：基因组检测过于分散。相反，我们应该只检测一次，但要经常评估",
-    "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?": "STAT+：人工智能可以分析X光片和CT扫描结果，以起草放射影像报告。它是否能让医疗服务变得更好、更安全？",
-    "How artificial intelligence is offering new hope for stroke patients in the Last Frontier": "人工智能如何为阿拉斯加州中风患者带来新希望",
-    "Sanofi to buy Insmed for $41B in industry's largest acquisition in years": "赛诺菲将以410亿美元收购Insmed，这是该行业近年来最大的一笔收购交易",
-    "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines": "STAT+：赛诺菲将以410亿美元收购Insmed，并获得两种肺病药物"
+    "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database": "STAT+：美国食品药品监督管理局（FDA）罕见地指责两家制药公司未将临床试验结果上报至数据库"
   },
   "items": [
     {
+      "id": "science-daily-health-5",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "Breathing less oxygen tripled lifespan in mice with a deadly brain disorder",
+      "titleZh": "呼吸较少的氧气使患有致命脑部疾病的小鼠寿命延长三倍",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045304.htm",
+      "summary": "Oxygen is essential for life, but too much of it can become dangerously toxic, particularly in people with certain neurological and mitochondrial disorders. Scientists at Gladstone Institutes have discovered that defective proteins can disrupt the ability of mitochondria to consume oxygen, allowing ",
+      "publishedAt": "2026-11-27T09:38:19+00:00"
+    },
+    {
       "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "Pregnancy is the ‘perfect storm’ for eating disorders, but doctors keep missing them",
+      "titleZh": "怀孕是饮食失调的“完美风暴”，但医生却一直忽视这一点",
+      "link": "https://www.statnews.com/2026/11/27/pregnancy-eating-disorders-expanded-doctor-screening-needed/?utm_campaign=rss",
+      "summary": "Many women struggle with eating disorders before and after childbirth, but they often slip through the cracks of the U.S. health care system.",
+      "publishedAt": "2026-11-27T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "Opinion: Montana’s ‘right to try’ law makes patients responsible for bearing costs — and risks",
+      "titleZh": "观点：蒙大拿州的“尝试权”法律让患者承担费用和风险",
+      "link": "https://www.statnews.com/2026/11/27/montana-sb-535-right-to-try-questions-risks-costs-insurance/?utm_campaign=rss",
+      "summary": "Montana has become the first state to have its own ‘right to try’ law, but important questions remain, researchers write.",
+      "publishedAt": "2026-11-27T09:30:00+00:00"
+    },
+    {
+      "id": "science-daily-health-8",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "审批",
+      "title": "One type of physical activity is linked to a 20% higher dementia risk",
+      "titleZh": "一种类型的体育活动与痴呆症风险高出20%有关",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
+      "summary": "A massive study has revealed that exercising for pleasure and performing physical labor at work may have surprisingly different implications for brain health. While recreational exercise was linked to a 24% lower dementia risk, physically demanding work was associated with a 20% higher risk, suggest",
+      "publishedAt": "2026-11-27T08:45:06+00:00"
+    },
+    {
+      "id": "science-daily-health-0",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A fat-burning molecule has an unexpected benefit for your muscles",
+      "titleZh": "一种燃烧脂肪的分子对您的肌肉有意外的好处",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
+      "summary": "Researchers have discovered that a naturally occurring molecule released during exercise helps muscles become stronger, resist fatigue, and withstand damage. The molecule, already available as a dietary supplement, could open new avenues for treating muscle deterioration associated with type 2 diabe",
+      "publishedAt": "2026-11-27T04:42:17+00:00"
+    },
+    {
+      "id": "science-daily-health-1",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "技术",
+      "title": "Scientists identify two ages when children may be most vulnerable to screen time",
+      "titleZh": "科学家们确定了儿童可能最容易受到屏幕时间影响的两个年龄段",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm",
+      "summary": "Scientists have identified two potentially critical periods when screen time may be especially detrimental to children's learning and memory: infancy and the start of formal schooling. Greater screen exposure during these developmental windows was linked to poorer academic performance and weaker wor",
+      "publishedAt": "2026-11-27T03:56:06+00:00"
+    },
+    {
+      "id": "science-daily-health-3",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "This dietary supplement may have an unexpected benefit for the brain",
+      "titleZh": "这种膳食补充剂可能对大脑有意外的益处",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045311.htm",
+      "summary": "A naturally derived dietary supplement called urolithin A may help the brain get more oxygen and nutrients when it needs them most. In a randomized clinical trial involving 50 middle-aged adults with obesity, researchers found that taking the supplement daily for four weeks increased blood flow to t",
+      "publishedAt": "2026-11-26T23:34:32+00:00"
+    },
+    {
+      "id": "science-daily-health-6",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "For decades, scientists may have misunderstood how brain cells work",
+      "titleZh": "几十年来，科学家们可能一直误解了脑细胞的工作原理",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+      "summary": "A major new study challenges a long-standing assumption about how the brain works, revealing that most neurons are versatile multitaskers rather than highly specialized workers. By analyzing recordings from 43 regions of the mouse brain, researchers discovered that although some neurons are dedicate",
+      "publishedAt": "2026-11-26T21:36:09+00:00"
+    },
+    {
+      "id": "stat-news-2",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -123,7 +219,7 @@
       "publishedAt": "2026-11-26T19:00:00+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +231,7 @@
       "publishedAt": "2026-11-26T12:00:00+00:00"
     },
     {
-      "id": "science-daily-health-0",
+      "id": "science-daily-health-2",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -147,7 +243,7 @@
       "publishedAt": "2026-11-26T11:43:30+00:00"
     },
     {
-      "id": "science-daily-health-2",
+      "id": "science-daily-health-9",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -159,7 +255,7 @@
       "publishedAt": "2026-11-26T11:32:30+00:00"
     },
     {
-      "id": "science-daily-health-1",
+      "id": "science-daily-health-4",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -171,7 +267,7 @@
       "publishedAt": "2026-11-26T11:21:47+00:00"
     },
     {
-      "id": "science-daily-health-6",
+      "id": "science-daily-health-13",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -183,7 +279,7 @@
       "publishedAt": "2026-11-26T03:53:48+00:00"
     },
     {
-      "id": "science-daily-health-3",
+      "id": "science-daily-health-10",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -195,7 +291,7 @@
       "publishedAt": "2026-11-26T01:04:22+00:00"
     },
     {
-      "id": "science-daily-health-4",
+      "id": "science-daily-health-11",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -207,7 +303,7 @@
       "publishedAt": "2026-11-25T23:37:49+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +315,7 @@
       "publishedAt": "2026-11-25T21:28:53+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -351,7 +447,7 @@
       "publishedAt": "2026-11-25T14:27:50+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -363,7 +459,7 @@
       "publishedAt": "2026-11-25T13:55:58+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -399,7 +495,7 @@
       "publishedAt": "2026-11-25T12:02:17+00:00"
     },
     {
-      "id": "science-daily-health-5",
+      "id": "science-daily-health-12",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -411,7 +507,7 @@
       "publishedAt": "2026-11-25T11:13:47+00:00"
     },
     {
-      "id": "science-daily-health-9",
+      "id": "science-daily-health-16",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -423,7 +519,19 @@
       "publishedAt": "2026-11-25T10:53:00+00:00"
     },
     {
-      "id": "science-daily-health-8",
+      "id": "science-daily-health-7",
+      "source": "ScienceDaily Health",
+      "sourceId": "science-daily-health",
+      "lang": "en",
+      "category": "研发",
+      "title": "A tiny injectable sensor could change how millions of people monitor blood sugar",
+      "titleZh": "一种微型注射式传感器有望改变数百万人的血糖监测方式",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045256.htm",
+      "summary": "Texas A&M researchers have discovered a way to dramatically reduce the cost of a key component in an experimental injectable glucose sensor without sacrificing performance. The technology uses fluorescent light to measure glucose levels from beneath the skin.",
+      "publishedAt": "2026-11-25T09:52:56+00:00"
+    },
+    {
+      "id": "science-daily-health-15",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -435,7 +543,7 @@
       "publishedAt": "2026-11-25T09:30:54+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +555,7 @@
       "publishedAt": "2026-11-25T09:30:00+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +567,7 @@
       "publishedAt": "2026-11-25T09:30:00+00:00"
     },
     {
-      "id": "science-daily-health-7",
+      "id": "science-daily-health-14",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -471,7 +579,7 @@
       "publishedAt": "2026-11-25T04:11:59+00:00"
     },
     {
-      "id": "science-daily-health-12",
+      "id": "science-daily-health-19",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -481,18 +589,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261123005348.htm",
       "summary": "A common antibody in the gut may be a powerful natural defense against colon cancer, with researchers finding that mice lacking it developed more than twice as many tumors. Restoring the antibody eliminated the increased risk, revealing a promising new avenue for preventing cancer before it starts.",
       "publishedAt": "2026-11-25T01:09:43+00:00"
-    },
-    {
-      "id": "science-daily-health-14",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
-      "titleZh": "新型鼻滴剂可恢复老年小鼠的年轻记忆并对抗阿尔茨海默病",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
-      "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protec",
-      "publishedAt": "2026-11-24T23:31:52+00:00"
     },
     {
       "id": "endpoints-7",
@@ -531,7 +627,7 @@
       "publishedAt": "2026-11-24T20:46:41+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -663,7 +759,7 @@
       "publishedAt": "2026-11-24T15:36:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -675,7 +771,7 @@
       "publishedAt": "2026-11-24T14:27:36+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -687,7 +783,7 @@
       "publishedAt": "2026-11-24T14:26:07+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -699,7 +795,7 @@
       "publishedAt": "2026-11-24T14:19:30+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -723,7 +819,7 @@
       "publishedAt": "2026-11-24T13:50:59+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -735,63 +831,27 @@
       "publishedAt": "2026-11-24T13:39:31+00:00"
     },
     {
-      "id": "science-daily-health-13",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
-      "titleZh": "大麻使用者比其他人早几年出现精神病症状，且随着年龄的增长，这种差距会越来越大",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
-      "summary": "A major analysis of 149 studies found that cannabis users develop psychosis an average of 2.5 years earlier than non-users, with the difference growing to more than six years among adults 30 and older. Researchers warn that cannabis-related psychiatric risks may accumulate over time, challenging the",
-      "publishedAt": "2026-11-24T10:57:44+00:00"
-    },
-    {
-      "id": "science-daily-health-11",
+      "id": "science-daily-health-18",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
       "category": "研发",
       "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
-      "titleZh": "科学家发现了一种新型抑郁症，常见的抗抑郁药难以对其进行治疗",
+      "titleZh": "",
       "link": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
       "summary": "Researchers have discovered a new subtype of depression that may affect nearly one in four people with severe, recurrent, or persistent depression. Known as \"circadian depression,\" it is linked to the body's internal clock and is associated with night owl tendencies, excessive sleep, persistent exha",
       "publishedAt": "2026-11-24T10:47:51+00:00"
-    },
-    {
-      "id": "stat-news-14",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "Opinion: Why medical students should keep going to class",
-      "titleZh": "观点：为什么医学院学生应该坚持上课",
-      "link": "https://www.statnews.com/2026/11/24/medical-school-class-attendance-why-i-keep-going/?utm_campaign=rss",
-      "summary": "“Attending lectures in person has become … the most powerful way I take care of my mental health,” medical student Brian Zhang writes.",
-      "publishedAt": "2026-11-24T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-15",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "技术",
-      "title": "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often",
-      "titleZh": "观点：基因组检测过于分散。相反，我们应该只检测一次，但要经常评估",
-      "link": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/?utm_campaign=rss",
-      "summary": "“It’s time to consolidate testing by sequencing genomes once and reevaluating them when needed,” a genetic counselor writes.",
-      "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
       "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
-      "category": "技术",
-      "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
-      "titleZh": "STAT+：人工智能可以分析X光片和CT扫描结果，以起草放射影像报告。它是否能让医疗服务变得更好、更安全？",
-      "link": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
-      "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
+      "category": "研发",
+      "title": "Opinion: Why medical students should keep going to class",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/11/24/medical-school-class-attendance-why-i-keep-going/?utm_campaign=rss",
+      "summary": "“Attending lectures in person has become … the most powerful way I take care of my mental health,” medical student Brian Zhang writes.",
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
@@ -800,8 +860,32 @@
       "sourceId": "stat-news",
       "lang": "en",
       "category": "技术",
+      "title": "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/?utm_campaign=rss",
+      "summary": "“It’s time to consolidate testing by sequencing genomes once and reevaluating them when needed,” a genetic counselor writes.",
+      "publishedAt": "2026-11-24T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-18",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
+      "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
+      "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
+      "publishedAt": "2026-11-24T09:30:00+00:00"
+    },
+    {
+      "id": "stat-news-19",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
       "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
-      "titleZh": "人工智能如何为阿拉斯加州中风患者带来新希望",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/?utm_campaign=rss",
       "summary": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care, faster.",
       "publishedAt": "2026-11-24T09:30:00+00:00"
@@ -813,22 +897,10 @@
       "lang": "en",
       "category": "市场",
       "title": "Sanofi to buy Insmed for $41B in industry's largest acquisition in years",
-      "titleZh": "赛诺菲将以410亿美元收购Insmed，这是该行业近年来最大的一笔收购交易",
+      "titleZh": "",
       "link": "https://endpoints.news/sanofi-to-buy-insmed-for-41b-in-industrys-largest-acquisition-in-years/",
       "summary": "Sanofi has made it official: The French pharma plans to acquire Insmed for $41 billion in cash, marking the first megadeal in the biopharma industry since Pfizer's $43 billion takeover of ...",
       "publishedAt": "2026-11-24T08:20:00+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "审批",
-      "title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
-      "titleZh": "STAT+：赛诺菲将以410亿美元收购Insmed，并获得两种肺病药物",
-      "link": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
-      "summary": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
-      "publishedAt": "2026-11-24T07:54:44+00:00"
     },
     {
       "id": "endpoints-15",
@@ -841,30 +913,6 @@
       "link": "https://endpoints.news/cms-reveals-medicares-negotiated-drug-prices-for-2028/",
       "summary": "The US government announced final prices for 13 drugs selected for the third round of Medicare negotiations, including Eli Lilly’s GLP-1 Trulicity and Gilead’s HIV drug Biktarvy. The Centers for Medicare ...",
       "publishedAt": "2026-11-24T00:48:57+00:00"
-    },
-    {
-      "id": "science-daily-health-18",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Depression may be an early warning sign of Alzheimer's disease",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
-      "summary": "Depression in older adults may be more than a mental health concern. Scientists discovered that accumulating tau protein, a hallmark of Alzheimer's disease, was linked to worsening depressive symptoms in people who still had normal memory and thinking abilities. The faster tau built up in the brain,",
-      "publishedAt": "2026-11-24T00:31:03+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "研发",
-      "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
-      "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
-      "publishedAt": "2026-11-24T00:19:48+00:00"
     },
     {
       "id": "gen-7",
@@ -975,7 +1023,7 @@
       "publishedAt": "2026-11-23T14:53:55+00:00"
     },
     {
-      "id": "science-daily-health-10",
+      "id": "science-daily-health-17",
       "source": "ScienceDaily Health",
       "sourceId": "science-daily-health",
       "lang": "en",
@@ -985,18 +1033,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
       "summary": "Researchers in Japan have developed an innovative gum disease treatment that uses egg yolk antibodies and near-infrared light to destroy harmful bacteria without harming beneficial microbes. Unlike conventional treatments, the approach preserves the mouth's natural bacterial balance and protects hea",
       "publishedAt": "2026-11-23T11:55:17+00:00"
-    },
-    {
-      "id": "science-daily-health-16",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Mysterious new viruses reveal a missing link in evolution",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
-      "summary": "Scientists have discovered previously unknown viruses that could help explain how some of life’s earliest biological structures evolved. The surprising findings challenge a longstanding evolutionary theory and suggest that viruses may have hidden capabilities far beyond simply infecting cells.",
-      "publishedAt": "2026-11-23T10:45:53+00:00"
     },
     {
       "id": "biopharma-dive-7",
@@ -1009,42 +1045,6 @@
       "link": "https://www.biopharmadive.com/spons/why-todays-leading-drug-developers-are-fine-tuning-open-models-on-their-ow/875153/",
       "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune.",
       "publishedAt": "2026-11-23T10:00:00+00:00"
-    },
-    {
-      "id": "science-daily-health-15",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "审批",
-      "title": "Mice slept 70% less after scientists switched off these brain cells",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261122060336.htm",
-      "summary": "Scientists have discovered brain cells that actively generate the irresistible urge to sleep, and shutting them down allowed mice to sleep 70% less than normal. Remarkably, many of the animals avoided the severe behavioral consequences of sleep deprivation, raising intriguing possibilities for futur",
-      "publishedAt": "2026-11-23T02:02:10+00:00"
-    },
-    {
-      "id": "science-daily-health-17",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "U.S. loses measles elimination status after 25 years as vaccine myths persist",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261122060323.htm",
-      "summary": "The United States has lost its measles elimination status after more than 25 years, and a new survey reveals widespread misconceptions about the deadly disease and its vaccine. With measles cases surging, more than one-third of Americans still believe or are uncertain about the debunked vaccine-auti",
-      "publishedAt": "2026-11-23T01:16:17+00:00"
-    },
-    {
-      "id": "science-daily-health-19",
-      "source": "ScienceDaily Health",
-      "sourceId": "science-daily-health",
-      "lang": "en",
-      "category": "研发",
-      "title": "Scientists discover a surprising link between weak bones and faster brain aging",
-      "titleZh": "",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261121221132.htm",
-      "summary": "Weakening bones may reveal more about brain health than scientists previously realized, with new research linking lower spinal bone density to faster cognitive decline and accelerated changes in the brain's white matter. The surprising connection suggests that routine medical scans could help uncove",
-      "publishedAt": "2026-11-23T00:45:42+00:00"
     },
     {
       "id": "biopharma-dive-8",
@@ -1171,6 +1171,18 @@
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
+      "category": "技术",
+      "title": "Wastewater sequencing enables scalable measles surveillance",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/s41591-026-04761-4",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
       "category": "研发",
       "title": "Integrated wastewater and clinical genomic surveillance for high-resolution tracking of measles virus evolution and transmission",
       "titleZh": "",
@@ -1179,7 +1191,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1203,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1215,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1227,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1239,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1251,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1259,6 @@
       "title": "Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04781-0",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Reply to: Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04782-z",
       "summary": "",
       "publishedAt": ""
     }
