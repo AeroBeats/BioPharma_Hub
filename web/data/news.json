@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-27T12:02:24.936511+00:00",
+  "updatedAt": "2026-11-27T21:08:42.235350+00:00",
   "count": 96,
   "sources": [
     {
@@ -104,12 +104,45 @@
     "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer": "FDA批准罗氏的口服SERD用于早期乳腺癌的治疗",
     "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more": "STAT+：Pharmalittle：我们正在阅读有关赛诺菲收购Insmed、罗氏推销其乳腺癌药物等内容",
     "STAT+: Roche’s potential breast cancer blockbuster drug wins second FDA nod": "STAT+：罗氏的潜在乳腺癌重磅药物获得FDA的第二次批准",
-    "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026": "STAT+：阿拉斯加州医院使用人工智能改善中风护理，肽类药物成为主流，以及2026年北美放射学会年会",
-    "Menopause hormone therapy med popularity increases 141% compared to previous years": "与前几年相比，更年期激素治疗药物的受欢迎程度提高了141%",
-    "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition": "赛诺菲以410亿美元收购Insmed，创下今年生物制药行业最大收购案",
-    "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database": "STAT+：美国食品药品监督管理局（FDA）罕见地指责两家制药公司未将临床试验结果上报至数据库"
+    "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026": "STAT+：阿拉斯加州医院使用人工智能改善中风护理，肽类药物成为主流，以及2026年北美放射学会年会"
   },
   "items": [
+    {
+      "id": "stat-news-0",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "审批",
+      "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss",
+      "summary": "The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns.",
+      "publishedAt": "2026-11-27T16:00:54+00:00"
+    },
+    {
+      "id": "stat-news-1",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "研发",
+      "title": "The stories we’re grateful for this year",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/?utm_campaign=rss",
+      "summary": "STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites.",
+      "publishedAt": "2026-11-27T15:49:05+00:00"
+    },
+    {
+      "id": "stat-news-2",
+      "source": "STAT News",
+      "sourceId": "stat-news",
+      "lang": "en",
+      "category": "技术",
+      "title": "STAT+: Here are some health AI conversation starters for the holidays",
+      "titleZh": "",
+      "link": "https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/?utm_campaign=rss",
+      "summary": "In this edition of STAT's AI Prognosis: Health stories that can be conversation starters at family gatherings during for the holidays.",
+      "publishedAt": "2026-11-27T14:54:22+00:00"
+    },
     {
       "id": "science-daily-health-5",
       "source": "ScienceDaily Health",
@@ -123,7 +156,7 @@
       "publishedAt": "2026-11-27T09:38:19+00:00"
     },
     {
-      "id": "stat-news-0",
+      "id": "stat-news-3",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -135,7 +168,7 @@
       "publishedAt": "2026-11-27T09:30:00+00:00"
     },
     {
-      "id": "stat-news-1",
+      "id": "stat-news-4",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -207,7 +240,7 @@
       "publishedAt": "2026-11-26T21:36:09+00:00"
     },
     {
-      "id": "stat-news-2",
+      "id": "stat-news-5",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -219,7 +252,7 @@
       "publishedAt": "2026-11-26T19:00:00+00:00"
     },
     {
-      "id": "stat-news-3",
+      "id": "stat-news-6",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -303,7 +336,7 @@
       "publishedAt": "2026-11-25T23:37:49+00:00"
     },
     {
-      "id": "stat-news-4",
+      "id": "stat-news-7",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -315,7 +348,7 @@
       "publishedAt": "2026-11-25T21:28:53+00:00"
     },
     {
-      "id": "stat-news-5",
+      "id": "stat-news-8",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -447,7 +480,7 @@
       "publishedAt": "2026-11-25T14:27:50+00:00"
     },
     {
-      "id": "stat-news-6",
+      "id": "stat-news-9",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -459,7 +492,7 @@
       "publishedAt": "2026-11-25T13:55:58+00:00"
     },
     {
-      "id": "stat-news-7",
+      "id": "stat-news-10",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -543,7 +576,7 @@
       "publishedAt": "2026-11-25T09:30:54+00:00"
     },
     {
-      "id": "stat-news-8",
+      "id": "stat-news-11",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -555,7 +588,7 @@
       "publishedAt": "2026-11-25T09:30:00+00:00"
     },
     {
-      "id": "stat-news-9",
+      "id": "stat-news-12",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -627,7 +660,7 @@
       "publishedAt": "2026-11-24T20:46:41+00:00"
     },
     {
-      "id": "stat-news-10",
+      "id": "stat-news-13",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -759,7 +792,7 @@
       "publishedAt": "2026-11-24T15:36:00+00:00"
     },
     {
-      "id": "stat-news-11",
+      "id": "stat-news-14",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -771,7 +804,7 @@
       "publishedAt": "2026-11-24T14:27:36+00:00"
     },
     {
-      "id": "stat-news-12",
+      "id": "stat-news-15",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -783,7 +816,7 @@
       "publishedAt": "2026-11-24T14:26:07+00:00"
     },
     {
-      "id": "stat-news-13",
+      "id": "stat-news-16",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -795,13 +828,13 @@
       "publishedAt": "2026-11-24T14:19:30+00:00"
     },
     {
-      "id": "stat-news-14",
+      "id": "stat-news-17",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "研发",
       "title": "Menopause hormone therapy med popularity increases 141% compared to previous years",
-      "titleZh": "与前几年相比，更年期激素治疗药物的受欢迎程度提高了141%",
+      "titleZh": "",
       "link": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/?utm_campaign=rss",
       "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
       "publishedAt": "2026-11-24T14:15:03+00:00"
@@ -813,19 +846,19 @@
       "lang": "en",
       "category": "市场",
       "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
-      "titleZh": "赛诺菲以410亿美元收购Insmed，创下今年生物制药行业最大收购案",
+      "titleZh": "",
       "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
       "summary": "Pointing to Insmed&rsquo;s pipeline and two commercial drugs, Sanofi said the deal will be &ldquo;transformative&rdquo; as well as complementary to its immunology and rare disease products.",
       "publishedAt": "2026-11-24T13:50:59+00:00"
     },
     {
-      "id": "stat-news-15",
+      "id": "stat-news-18",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
       "category": "审批",
       "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
-      "titleZh": "STAT+：美国食品药品监督管理局（FDA）罕见地指责两家制药公司未将临床试验结果上报至数据库",
+      "titleZh": "",
       "link": "https://www.statnews.com/pharmalot/2026/11/24/fda-cites-two-drugmakers-for-failing-to-report-clinical-trial-results/?utm_campaign=rss",
       "summary": "For the first time in more than a year, the FDA sent notices to companies for failing to report required clinical trial information.",
       "publishedAt": "2026-11-24T13:39:31+00:00"
@@ -843,7 +876,7 @@
       "publishedAt": "2026-11-24T10:47:51+00:00"
     },
     {
-      "id": "stat-news-16",
+      "id": "stat-news-19",
       "source": "STAT News",
       "sourceId": "stat-news",
       "lang": "en",
@@ -852,42 +885,6 @@
       "titleZh": "",
       "link": "https://www.statnews.com/2026/11/24/medical-school-class-attendance-why-i-keep-going/?utm_campaign=rss",
       "summary": "“Attending lectures in person has become … the most powerful way I take care of my mental health,” medical student Brian Zhang writes.",
-      "publishedAt": "2026-11-24T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-17",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "技术",
-      "title": "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/?utm_campaign=rss",
-      "summary": "“It’s time to consolidate testing by sequencing genomes once and reevaluating them when needed,” a genetic counselor writes.",
-      "publishedAt": "2026-11-24T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-18",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "技术",
-      "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
-      "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
-      "publishedAt": "2026-11-24T09:30:00+00:00"
-    },
-    {
-      "id": "stat-news-19",
-      "source": "STAT News",
-      "sourceId": "stat-news",
-      "lang": "en",
-      "category": "技术",
-      "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
-      "titleZh": "",
-      "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/?utm_campaign=rss",
-      "summary": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care, faster.",
       "publishedAt": "2026-11-24T09:30:00+00:00"
     },
     {
@@ -1171,6 +1168,18 @@
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
+      "category": "研发",
+      "title": "New drugs for tuberculosis are put to the test",
+      "titleZh": "",
+      "link": "https://www.nature.com/articles/d41591-026-00060-0",
+      "summary": "",
+      "publishedAt": ""
+    },
+    {
+      "id": "nature-medicine-1",
+      "source": "Nature Medicine",
+      "sourceId": "nature-medicine",
+      "lang": "en",
       "category": "技术",
       "title": "Wastewater sequencing enables scalable measles surveillance",
       "titleZh": "",
@@ -1179,7 +1188,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-1",
+      "id": "nature-medicine-2",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1191,7 +1200,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-2",
+      "id": "nature-medicine-3",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1203,7 +1212,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-3",
+      "id": "nature-medicine-4",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1215,7 +1224,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-4",
+      "id": "nature-medicine-5",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1227,7 +1236,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-5",
+      "id": "nature-medicine-6",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1239,7 +1248,7 @@
       "publishedAt": ""
     },
     {
-      "id": "nature-medicine-6",
+      "id": "nature-medicine-7",
       "source": "Nature Medicine",
       "sourceId": "nature-medicine",
       "lang": "en",
@@ -1247,18 +1256,6 @@
       "title": "Publisher Correction: Generational gains in cognitive capacity and dementia incidence rates in Western countries",
       "titleZh": "",
       "link": "https://www.nature.com/articles/s41591-026-04824-6",
-      "summary": "",
-      "publishedAt": ""
-    },
-    {
-      "id": "nature-medicine-7",
-      "source": "Nature Medicine",
-      "sourceId": "nature-medicine",
-      "lang": "en",
-      "category": "研发",
-      "title": "Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
-      "titleZh": "",
-      "link": "https://www.nature.com/articles/s41591-026-04781-0",
       "summary": "",
       "publishedAt": ""
     }
