@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-27T21:08:42.235350+00:00",
+  "updatedAt": "2026-11-28T03:50:47.422592+00:00",
   "count": 96,
   "sources": [
     {
@@ -48,6 +48,9 @@
   ],
   "failedSources": [],
   "translations": {
+    "STAT+: FDA extends assessment of experimental Vertex kidney drug": "STAT+：FDA延长对Vertex实验性肾脏药物的评估时间",
+    "The stories we’re grateful for this year": "今年让我们心怀感激的故事",
+    "STAT+: Here are some health AI conversation starters for the holidays": "STAT+：以下是一些有关健康的人工智能话题，适合在假期时聊聊",
     "Breathing less oxygen tripled lifespan in mice with a deadly brain disorder": "呼吸较少的氧气使患有致命脑部疾病的小鼠寿命延长三倍",
     "Pregnancy is the ‘perfect storm’ for eating disorders, but doctors keep missing them": "怀孕是饮食失调的“完美风暴”，但医生却一直忽视这一点",
     "Opinion: Montana’s ‘right to try’ law makes patients responsible for bearing costs — and risks": "观点：蒙大拿州的“尝试权”法律让患者承担费用和风险",
@@ -114,7 +117,7 @@
       "lang": "en",
       "category": "审批",
       "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
-      "titleZh": "",
+      "titleZh": "STAT+：FDA延长对Vertex实验性肾脏药物的评估时间",
       "link": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss",
       "summary": "The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns.",
       "publishedAt": "2026-11-27T16:00:54+00:00"
@@ -126,7 +129,7 @@
       "lang": "en",
       "category": "研发",
       "title": "The stories we’re grateful for this year",
-      "titleZh": "",
+      "titleZh": "今年让我们心怀感激的故事",
       "link": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/?utm_campaign=rss",
       "summary": "STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites.",
       "publishedAt": "2026-11-27T15:49:05+00:00"
@@ -138,7 +141,7 @@
       "lang": "en",
       "category": "技术",
       "title": "STAT+: Here are some health AI conversation starters for the holidays",
-      "titleZh": "",
+      "titleZh": "STAT+：以下是一些有关健康的人工智能话题，适合在假期时聊聊",
       "link": "https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/?utm_campaign=rss",
       "summary": "In this edition of STAT's AI Prognosis: Health stories that can be conversation starters at family gatherings during for the holidays.",
       "publishedAt": "2026-11-27T14:54:22+00:00"
